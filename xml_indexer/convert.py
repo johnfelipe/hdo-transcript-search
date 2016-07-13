@@ -31,6 +31,7 @@ import json
 from lxml import etree
 from elasticsearch import Elasticsearch
 from datetime import datetime
+from time import mktime
 import os
 
 xml_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'xml')
@@ -71,7 +72,8 @@ def parse_xml(file_name):
             'external_id': speaker_id,
             'name': speaker_name,
             'party': None,
-            'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
+            #'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
+            'time': mktime(dt.timetuple()),
             'text': text,
             'title': "Representante"
         }

@@ -53,6 +53,7 @@ export default class App extends Component {
         return (
             <div>
                 <Header title={this.state.title} description={this.state.desc}>
+                  <SharingLinks facebookAppId={this.state.fbId} />
                 </Header>
 
                 {this.props.children}

@@ -21,7 +21,6 @@ module.exports = {
             { test: /\.less$/,  loader: "style-loader!css-loader!postcss-loader!less-loader" },
             { test: /\.(ttf|eot|otf|svg|woff|woff2)(\?.+)?$/, loader: "url-loader?limit=10000" },
             { test: /\.scss$/,  loader: "style!css!sass?includePaths[]=" + (path.resolve(__dirname, "./node_modules")) },
-            { test: /\.json$/, loader: 'json-loader' }
         ]
     },
 

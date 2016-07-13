@@ -87,7 +87,7 @@ export default class Search extends Component {
     }
 
     handleUnitChange(event) {
-        let newUnit = event.target.value === 'Percentage' ? 'pct' : 'count';
+        let newUnit = event.target.value === 'Porcentaje' ? 'pct' : 'count';
         let { queries, focused } = this.props.params;
 
         this.context.router.transitionTo(`/search/${newUnit}/${queries}/${focused}`);

@@ -85,13 +85,13 @@ app.get('/', (req, res) => {
 
 app.get('/speeches/:transcript/:order', (req, res) => {
     res.render('index', {
-        title: `'Posts' ${req.params.transcript} / ${req.params.order}`
+        title: `Puestos ${req.params.transcript} / ${req.params.order}`
     });
 });
 
 app.get('/search', (req, res) => {
     res.render('index', {
-        title: 'Big Data Search'
+        title: 'Búsqueda de datos grandes'
     });
 });
 
