@@ -25,7 +25,6 @@ export default class Search extends Component {
     state = {
         title: document.body.getAttribute('data-title'),
         desc: document.body.getAttribute('data-description'),
-        fbId: document.body.getAttribute('data-facebook-app-id'),
         showDevPanel: false,
         orientation: 'vertical',
         interval: Intervals.YEAR
@@ -88,7 +87,7 @@ export default class Search extends Component {
     }
 
     handleUnitChange(event) {
-        let newUnit = event.target.value === 'Prosent' ? 'pct' : 'count';
+        let newUnit = event.target.value === 'Percentage' ? 'pct' : 'count';
         let { queries, focused } = this.props.params;
 
         this.context.router.transitionTo(`/search/${newUnit}/${queries}/${focused}`);

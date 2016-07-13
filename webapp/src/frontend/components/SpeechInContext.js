@@ -23,7 +23,7 @@ class SpeechBrowser extends Component {
                 <Link to={`/speeches/${first.transcript}/${first.order}`}>
                     <i className="fa fa-chevron-left"/>
 
-                    <strong>Forrige innlegg:</strong>
+                    <strong>Entradas anteriores:</strong>
 
                     <span>
                         {first.name} {first.party ? `(${first.party})` : ''}
@@ -35,7 +35,7 @@ class SpeechBrowser extends Component {
         if (last) {
             nextLink = (
                 <Link to={`/speeches/${last.transcript}/${last.order}`} >
-                    <strong>Neste innlegg:</strong>
+                    <strong>Mensajes próximos:</strong>
 
                     <span>
                         {last.name} {last.party ? `(${last.party})` : ''}

@@ -43,9 +43,9 @@ export default class SharingLinks extends Component {
         let text;
 
         if (this.props.joinedQuery && this.props.joinedQuery.length) {
-            text = `Hvem snakker mest om «${this.props.joinedQuery}» på Stortinget?`;
+            text = `Que habla sobre los más «${this.props.joinedQuery}» en el Parlamento?`;
         } else {
-            text = 'Hva snakker politikerne om på Stortinget?';
+            text = 'De qué estás hablando acerca de los políticos en el Parlamento?';
         }
 
         let shareUrl = `https://twitter.com/intent/tweet

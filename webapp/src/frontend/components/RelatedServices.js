@@ -21,7 +21,7 @@ export default class RelatedServices extends Component {
                 <div className="related-services card">
                     <div className="row result-box result-box-header text-center">
                         <div className="col-md-12">
-                            <h4>Andre tjenester fra Holder de ord</h4>
+                            <h4>Otros servicios proporcionados por el Titular de esas palabras</h4>
                         </div>
                     </div>
 

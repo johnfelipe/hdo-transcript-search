@@ -20,7 +20,8 @@ module.exports = {
             { test: /\.jsx?$/,  loader: "babel-loader", exclude: /node_modules/ },
             { test: /\.less$/,  loader: "style-loader!css-loader!postcss-loader!less-loader" },
             { test: /\.(ttf|eot|otf|svg|woff|woff2)(\?.+)?$/, loader: "url-loader?limit=10000" },
-            { test: /\.scss$/,  loader: "style!css!sass?includePaths[]=" + (path.resolve(__dirname, "./node_modules")) }
+            { test: /\.scss$/,  loader: "style!css!sass?includePaths[]=" + (path.resolve(__dirname, "./node_modules")) },
+            { test: /\.json$/, loader: 'json-loader' }
         ]
     },
 
@@ -38,6 +39,11 @@ module.exports = {
         return [autoprefixer, precss];
     },
 
-    devtool: 'source-map'
-};
+    devtool: 'source-map',
 
+    node: {
+        fs: 'empty',
+        net: 'empty',
+        tls: 'empty'
+  }
+};

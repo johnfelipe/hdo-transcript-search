@@ -58,7 +58,7 @@ export default class ResultStats extends Component {
                     <div className="row result-box result-box-header">
                         <div className="col-md-12">
                             <h4 className="text-center">
-                                Hvem nevner «{this.state.query}» oftest?
+                                Quien menciona «{this.state.query}» más a menudo?
                             </h4>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ export default class ResultStats extends Component {
 
                         <div className="lead selectable">
                             <div>
-                                har nevnt <strong>{this.state.query}</strong> i
+                                mencionado <strong>{this.state.query}</strong>
                             </div>
 
                             <span style={this.bigNumberStyle}>
@@ -118,7 +118,7 @@ export default class ResultStats extends Component {
                 <div className={"col-md-7"}>
                     <TopListChart
                         className={this.state.labelClassName}
-                        subtitle="Partier"
+                        subtitle='partido'
                         orientation={this.props.orientation}
                         unit={this.props.unit}
                         counts={this.state.parties}
@@ -137,7 +137,7 @@ export default class ResultStats extends Component {
         if (people.length) {
             let topPerson      = people[0];
             let num            = isPct ? `${topPerson.pct.toFixed(2).replace('.', ',')}%` : topPerson.count;
-            let unitText       = isPct ? 'av sine innlegg' : 'innlegg';
+            let unitText       = isPct ? `puestos` : `puesto`;
             // let partyClassName = topPerson.meta.party ? `hdo-party-${topPerson.meta.party.toLowerCase()}` : '';
             let partyText      = topPerson.meta.party ? `(${topPerson.meta.party})` : '';
 
@@ -148,7 +148,7 @@ export default class ResultStats extends Component {
                             <div className="text-center">
                                 <ImageWithFallback
                                     src={ImageUtils.personImageFor(topPerson.meta.external_id)}
-                                    alt={`Bilde av ${topPerson.key}`}
+                                    alt={`Foto de ${topPerson.key}`}
                                     height={200}
                                     fallbackSrc={ImageUtils.fallbackImage()}
                                 />
@@ -159,7 +159,7 @@ export default class ResultStats extends Component {
 
                                 <div className="lead selectable">
                                     <div>
-                                        har nevnt <strong>{this.state.query}</strong> i
+                                        mencionado <strong>{this.state.query}</strong>
                                     </div>
 
                                     <span style={this.bigNumberStyle}>
@@ -174,7 +174,7 @@ export default class ResultStats extends Component {
                         <div className="col-md-7">
                             <TopListChart
                                 className={this.state.labelClassName}
-                                subtitle="Personer"
+                                subtitle="Persona"
                                 star={isPct}
                                 unit={this.props.unit}
                                 orientation={this.props.orientation}
@@ -198,7 +198,7 @@ export default class ResultStats extends Component {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="text-muted text-center pull-right" style={{padding: '1rem 2rem'}}>
-                            <small>* Ekskludert personer med færre enn {MIN_SPEECH_COUNT} innlegg totalt.</small>
+                            <small>* Las personas excluidas con menos de mi discurso {COUNT} mensajes en total.</small>
                         </div>
                     </div>
                 </div>

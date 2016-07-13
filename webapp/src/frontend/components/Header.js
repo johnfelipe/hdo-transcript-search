@@ -18,7 +18,7 @@ export default class Header extends React.Component {
                 </h1>
 
                 <div className="description">
-                    {desc}<a href="https://www.holderdeord.no/">Holder de ord</a>
+                    {desc}
                 </div>
 
                 {this.props.children}

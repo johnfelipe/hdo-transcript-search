@@ -111,13 +111,13 @@ export default class Timeline extends Component {
                              onClick={this.props.onUnitChange}>
                             <input
                                 type="button"
-                                value="Prosent"
+                                value="Porcentaje"
                                 className={`btn ${this.props.unit === 'pct' ? 'btn-primary' : 'btn-default'}`}
                             />
 
                             <input
                                 type="button"
-                                value="Absolutt"
+                                value="Absolutamente"
                                 className={`btn ${this.props.unit === 'count' ? 'btn-primary' : 'btn-default'}`}
                             />
                         </div>
@@ -127,7 +127,7 @@ export default class Timeline extends Component {
                         <div className="row result-box result-box-header">
                             <div className="col-md-12">
                                 <h4 className="text-center">
-                                    Forekomsten av «{this.state.queries.join(', ')}» over tid
+                                    La aparición de «{this.state.queries.join(', ')}» con el tiempo
                                 </h4>
                             </div>
                         </div>

@@ -23,7 +23,7 @@ export default class TimeUtils {
         let ts = moment(hit.time);
         let str = ts.format('HH.mm');
 
-        if (hit.name === 'Presidenten' && str === '00.00') {
+        if (hit.name === 'Presidente' && str === '00.00') {
             return '??.??';
         } else {
             return str;

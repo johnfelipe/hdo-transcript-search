@@ -10,7 +10,6 @@ import fs          from 'fs';
 import compression from 'compression';
 import createFeed  from './createFeed';
 import UrlUtils    from '../shared/UrlUtils';
-import i18n        from 'i18n';
 
 let app = express();
 
@@ -24,15 +23,9 @@ app.set('view engine', 'hbs');
 app.set('views', path.resolve(__dirname, '../../views'));
 app.set('analytics', app.get('env') === 'production');
 app.set('etag', false);
-app.use(i18n.init);
 
-i18n.configure({
-    directory: __dirname + '/locales',
-    queryParameter: 'lang',
-});
-
-app.locals.appTitle       = i18n.__('appTitle');
-app.locals.appDescription = i18n.__('appDescription');
+app.locals.appTitle       = "Dijo en el tribunal";
+app.locals.appDescription = "Una visualización de la lengua en el Parlamento";
 app.locals.facebookAppId  = 504447209668308;
 app.locals.imageUrl       = 'http://files.holderdeord.no/images/tale.png';
 
@@ -92,19 +85,19 @@ app.get('/', (req, res) => {
 
 app.get('/speeches/:transcript/:order', (req, res) => {
     res.render('index', {
-        title: `${i18n.__('Posts')} ${req.params.transcript} / ${req.params.order}`
+        title: `'Posts' ${req.params.transcript} / ${req.params.order}`
     });
 });
 
 app.get('/search', (req, res) => {
     res.render('index', {
-        title: i18n.__('Big Data Search')
+        title: 'Big Data Search'
     });
 });
 
 app.get('/backstage/*', (req, res) => {
     res.render('index', {
-        title: i18n.__('Backstage')
+        title: 'Backstage'
     });
 });
 

@@ -37,7 +37,7 @@ export default class SearchResults extends Component {
                 <div className="row result-box result-box-header">
                     <div className="col-md-12">
                         <h4 className="text-center">
-                            Innlegg der «{result.query}» er nevnt
+                            Mensajes donde se menciona «{result.query}»
                         </h4>
                     </div>
                 </div>
@@ -55,7 +55,7 @@ export default class SearchResults extends Component {
 
                         <div className="text-center">
                             <small className="text-muted" style={{marginLeft: '1rem'}}>
-                                Viser {result.hits.length} av totalt {result.counts.total} treff på <strong>{result.query}</strong>
+                                Mostrando {result.hits.length} del total de accesos {result.counts.total} <strong>{result.query}</strong>
                             </small>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ export default class SearchResults extends Component {
                         <div className="export-links">
                             <div>
                                 <a href={UrlUtils.csvPathForQuery(result.query)}>
-                                    Last ned <strong>{result.counts.total}</strong> innlegg som CSV
+                                    Descarga <strong>{result.counts.total}</strong> los mensajes como CSV
                                     <span style={{paddingLeft: '.5rem'}}>
                                         <i className="fa fa-download" />
                                     </span>
@@ -73,7 +73,7 @@ export default class SearchResults extends Component {
 
                             <div>
                                 <a href={UrlUtils.rssPathForQuery(result.query)}>
-                                    RSS for dette søket
+                                    RSS para esta búsqueda
                                     <span style={{paddingLeft: '.5rem'}}>
                                         <i className="fa fa-rss" />
                                     </span>
@@ -93,7 +93,7 @@ export default class SearchResults extends Component {
             el = (
                 <button className="btn btn-primary"
                         onClick={::this.handleLoadMore}>
-                    Vis flere innlegg
+                    Ver más artículos
                 </button>
             );
         } else {

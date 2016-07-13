@@ -1,2 +1,1 @@
-module.exports = 'Sagt i salen · Holder de ord';
-
+module.exports = 'Dijo el hall · Mantiene la palabra';

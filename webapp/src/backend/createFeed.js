@@ -29,13 +29,13 @@ export default function createFeed(opts) {
 
     /* eslint-disable */
     let feed = new RSS({
-        title: `Innlegg om «${results.query}» - Sagt i salen - Holder de ord`,
-        description: `Innlegg fra Stortinget som inneholder «${results.query}».`,
+        title: `Post sobre «${results.query}» - declaró en la audiencia - Mantiene la palabra`,
+        description: `Las entradas de Parlamento que contienen «${results.query}».`,
         feed_url: absoluteUrl,
         site_url: baseUrl,
         image_url: imageUrl,
         copyright: 'Holder de ord',
-        language: 'no',
+        language: 'es',
         categories: ['politics', 'parliament'],
         generator: 'tale.holderdeord.no',
         ttl: 60,
@@ -58,7 +58,7 @@ export default function createFeed(opts) {
             name += ` (${speech.party})`;
         }
 
-        let title = `Innlegg fra ${name}`;
+        let title = `Puestos de ${name}`;
 
         feed.item({
             title: title,

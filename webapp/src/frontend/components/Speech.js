@@ -27,7 +27,7 @@ export default class Speech extends Component {
             timestamp = `${timestamp} ${TimeUtils.formatHitTime(speech)}`;
         }
 
-        if (speech.name === 'Presidenten' && speech.presidents.length === 1) {
+        if (speech.name === 'Presidente' && speech.presidents.length === 1) {
             var president      = speech.presidents[0];
 
             speech.name        = president.name;
@@ -122,4 +122,3 @@ export default class Speech extends Component {
         });
     }
 }
-

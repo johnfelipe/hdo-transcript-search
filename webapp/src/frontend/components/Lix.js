@@ -54,7 +54,7 @@ export default class Lix extends Component {
                                 type="checkbox"
                                 checked={this.state.adjustYAxis}
                                 onChange={() => this.setState({adjustYAxis: !this.state.adjustYAxis})}/>
-                            Tilpass Y-akser
+                            Personalizar ejes Y
                         </label>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ export default class Lix extends Component {
                 <div className="card" style={cardStyle}>
                     <div className="row">
                         <div className="col-md-4">
-                            <h2>Alle innlegg</h2>
+                            <h2>Todos los mensajes</h2>
                             {scoreStats ? this.renderStat(scoreStats) : null}
                         </div>
 
@@ -76,7 +76,7 @@ export default class Lix extends Component {
                     <div className="row">
                         <div className="col-md-12">
                             <div>
-                                <h2>Partier</h2>
+                                <h2>Lotes</h2>
                             </div>
                         </div>
                     </div>
@@ -99,33 +99,33 @@ export default class Lix extends Component {
                     <div className="row">
                         <div className="col-md-12">
                             <div>
-                                <h2>Representanter</h2>
+                                <h2>Representantes</h2>
 
-                                <p>Representanter med færre enn {minSpeechCount} innlegg er ekskludert.</p>
+                                <p>Se excluyen los representantes con menos de {minSpeechCount} entradas.</p>
                             </div>
                         </div>
                     </div>
 
                     <div className="row">
                         <div className="col-md-6">
-                            <h5>Topp 20, snitt LIX-score og antall innlegg</h5>
+                            <h5>Top 20, puntajes de corte y LIX Mensajes</h5>
 
                             <ol>
                                 {(topRepresentatives ? topRepresentatives.buckets : []).map(tr => (
                                     <li key={tr.key}>
-                                        <strong>{tr.key} ({tr.person.hits.hits[0]._source.party}):</strong> {tr.avgLixScore.value.toFixed()} ({this.getDescription(tr.avgLixScore.value)}), {tr.doc_count} innlegg
+                                        <strong>{tr.key} ({tr.person.hits.hits[0]._source.party}):</strong> {tr.avgLixScore.value.toFixed()} ({this.getDescription(tr.avgLixScore.value)}), {tr.doc_count} mensajes
                                     </li>
                                 ))}
                             </ol>
                         </div>
 
                         <div className="col-md-6">
-                            <h5>Bunn 20, snitt LIX-score og antall innlegg</h5>
+                            <h5>El fondo 20, Sección LIX puntuaciones y Mensajes</h5>
 
                             <ol>
                                 {(bottomRepresentatives ? bottomRepresentatives.buckets : []).map(tr => (
                                     <li key={tr.key}>
-                                        <strong>{tr.key} ({tr.person.hits.hits[0]._source.party}):</strong> {tr.avgLixScore.value.toFixed()} ({this.getDescription(tr.avgLixScore.value)}), {tr.doc_count} innlegg
+                                        <strong>{tr.key} ({tr.person.hits.hits[0]._source.party}):</strong> {tr.avgLixScore.value.toFixed()} ({this.getDescription(tr.avgLixScore.value)}), {tr.doc_count} mensajes
                                     </li>
                                 ))}
                             </ol>
@@ -141,8 +141,8 @@ export default class Lix extends Component {
     renderStat(stat) {
         return (
             <div>
-                <p>Snitt LIX-score: <strong>{stat.avg.toFixed()}</strong> ({this.getDescription(stat.avg)})</p>
-                <p>Antall innlegg: {stat.count}</p>
+                <p>Resultados promedio LIX: <strong>{stat.avg.toFixed()}</strong> ({this.getDescription(stat.avg)})</p>
+                <p>Mensajes: {stat.count}</p>
             </div>
         );
     }
@@ -151,18 +151,17 @@ export default class Lix extends Component {
         lixScore = +lixScore.toFixed();
 
         if (lixScore < 30) {
-            return 'Veldig lettlest / barnebøker';
+            return 'Muy fácil de leer / libros para niños';
         } else if (lixScore < 40) {
-            return 'Lettlest, skjønnlitteratur';
+            return 'Lettlest, ficción';
         } else if (lixScore < 50) {
-            return 'Middels vanskelig, avistekst';
+            return 'Texto periódico Intermedio';
         } else if (lixScore < 60) {
-            return 'Vanskelig, offisielle tekster';
+            return 'Textos oficiales difíciles';
         } else if (lixScore > 60) {
-            return 'Meget vanskelig, byråkratnorsk';
+            return 'Muy difícil, burócrata de Noruega';
         } else {
-            return 'Ukjent';
+            return 'Desconocido';
         }
     }
 }
-

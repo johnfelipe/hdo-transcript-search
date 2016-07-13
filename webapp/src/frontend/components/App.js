@@ -31,7 +31,6 @@ export default class App extends Component {
         this.state = {
             title: document.body.getAttribute('data-title'),
             desc: document.body.getAttribute('data-description'),
-            fbId: document.body.getAttribute('data-facebook-app-id')
         };
     }
 
@@ -54,12 +53,10 @@ export default class App extends Component {
         return (
             <div>
                 <Header title={this.state.title} description={this.state.desc}>
-                    <SharingLinks facebookAppId={this.state.fbId} />
                 </Header>
 
                 {this.props.children}
 
-                <RelatedServices />
                 <Footer/>
             </div>
         );
@@ -101,9 +98,8 @@ export default class App extends Component {
     executeSpeechContext(transcript, order) {
         this.actions.speechContext(transcript, order)
             .then(() => {
-                document.title = `Innlegg ${transcript} / ${order} · ${titleSuffix}`;
+                document.title = `Puestos ${transcript} / ${order} · ${titleSuffix}`;
             });
     }
 
 }
-

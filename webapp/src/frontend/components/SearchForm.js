@@ -54,7 +54,7 @@ export default class SearchForm extends Component {
                             autoFocus="true"
                             onFocus={::this.handleFocus}
                             onBlur={::this.handleBlur}
-                            placeholder="Søk etter noe politikere har sagt"
+                            placeholder='Buscar algo que los políticos han dicho.'
                             tabIndex="0"
                             value={this.state.query}
                             onChange={::this.handleQueryChange}
@@ -64,7 +64,7 @@ export default class SearchForm extends Component {
                             <input
                                 type="submit"
                                 className="btn btn-primary"
-                                value="Søk"
+                                value='Buscar'
                             />
                         </span>
                     </div>
