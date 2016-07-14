@@ -1,0 +1,3099 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-diego-molano-vega" id="dr-diego-molano-vega" showAs="Dr. Diego Molano Vega"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-sandra-urrutia-pérez" id="dra-sandra-urrutia-pérez" showAs="Dra. Sandra Urrutia Pérez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-selene-botero-giraldo" id="dra-selene-botero-giraldo" showAs="Dra. Selene Botero Giraldo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-rodríguez-pinzón" id="hr-ciro-rodríguez-pinzón" showAs="H.R. Ciro Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andrés-amaya-rodríguez" id="hr-carlos-andrés-amaya-rodríguez" showAs="H.R. Carlos Andrés Amaya Rodríguez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodriguez-pinzon" id="hr-ciro-antonio-rodriguez-pinzon" showAs="H.R. Ciro Antonio Rodriguez Pinzon"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-sandra-urrutia" id="dra-sandra-urrutia" showAs="Dra. Sandra Urrutia"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vasquez-villanueva" id="hr-silvio-vasquez-villanueva" showAs="H.R. Silvio Vasquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-alexandra-falla" id="dra-alexandra-falla" showAs="Dra. Alexandra Falla"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="4141-acta-68-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>Septiembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 68 / 2012-09-26</heading>
+						<speech by="" startTime="2012-09-26T08:54:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 68
+(Bogotá, D.C., 26 de septiembre de 2012)
+A las ocho y cincuenta y cuatro minutos de la mañana (8:54 a.m.)
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante SILVIO
+VASQUEZ VILLANUEVA, ordena llamar a lista y contestan los
+siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Giraldo Arboleda Atilano Alonso
+Londoño Jaramillo Juana Carolina
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Gómez Velásquez Wilson Hernando
+Ortega Samboni Jairo
+Pinto Hernández Miguel Angel
+Con excusa se encuentra los Honorables Representantes:
+Caicedo Sastoque José Edilberto
+Naranjo Escobar Diego Alberto</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:54:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente la Secretaría se permite informar que tenemos
+quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:54:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Como hay quórum decisorio, sírvase señor Secretario leer el orden del
+día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:54:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Orden del día.
+RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2012 al 20 de junio de 2013
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<narrative>I. PROPOSICION No. 029
+(Bogotá, D.C., 15 de agosto de 2012)</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								1. Cítese al ministro de Tecnologías de la Información y las Comunicaciones,
+doctor DIEGO MOLANO VEGA. “Para que socialicen en esta Comisión el
+Proyecto del Presupuesto General de la Nación 2013, “Hacia un
+desempeño eficaz del Estado”, radicado por el Gobierno Nacional. El
+incremento porcentual del mismo y las estrategias de ejecución”,
+correspondiente al ministerio.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								1. ¿Porqué durante el proceso de construcción del marco legal y regulatorio
+convergente, que culminó con la expedición de la Ley 1507 de 2012, el
+ministro de Tecnologías de la Información y las Comunicaciones afirmó que
+dentro de los principios orientadores estaba &quot;Asegurar la continuidad y
+fortalecimiento de pública nacional y regional&quot;?
+2. ¿Cuál es la política del Gobierno Nacional - ministerio de Tecnologías de la
+Información y las Comunicaciones, en materia de fortalecimiento de la TV
+pública nacional y regional?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								3. ¿Cuáles son las cifras comparativas de la proyección del fortalecimiento
+financiero de la TV pública nacional y regional, en el escenario de la
+Comisión Nacional de Televisión - CNTV - (como si estuviera vigente) y en
+el de la Autoridad Nacional de Televisión - ANTV -, en un horizonte de cinco
+años?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								4. ¿Si se van a destinar para el fortalecimiento de la Televisión pública y
+promover la industria de contenidos audiovisuales, los 45.000 millones de
+pesos aproximados que se consumen en el pasivo pensional de Inravisión?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								5. ¿Cuándo va a reintegrar el Gobierno Nacional a la TV pública, los dineros
+pagados injustamente por la CNTV para cubrir el pasivo pensional de
+INRAVISIÓN en menoscabo de
+los recursos destinados al fortalecimiento de la TV pública, como quedó
+demostrado con la Sentencia del Consejo de Estado 11001-03-24-0002004-
+00411-01 del 16 de marzo de 2012 ?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								6. ¿Cuándo y cómo define la ANTV la distribución de los recursos a la TV
+pública?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								7. ¿La Autoridad Nacional de Televisión si dará cumplimiento al mandato de la
+Ley 1507 de 2012, en los artículos 16 y 18 para garantizar el fortalecimiento
+de la TV pública colombiana disminuyendo la formula o porcentaje de
+compensación, de acuerdo a la propuesta realizada en el Proyecto de
+Resolución: “Por la cual se modifica la tarifa de compensación que deben
+cancelar los operadores del servicio de televisión por suscripción y se
+dictan otras disposiciones”?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								1. ¿Cuál es el Plan de implementación de la Televisión Digital Terrestre en
+nuestro país? ¿Explicar el cronograma y las inversiones establecidas?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								2. ¿Qué inversiones se han realizado hasta el momento para la
+implementación de la Televisión Digital Terrestre?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								3. La ley 1507 de 2012 busca promover una red única nacional para la
+televisión pública, que integre las redes regionales y nacionales públicas de
+televisión, con el objeto de maximizar los recursos físicos para la difusión
+de señales, asegurar la calidad del servicio y generar condiciones para el
+desarrollo de negocios adicionales que promuevan la expansión del servicio
+de televisión en un entorno digital. ¿Qué gestiones se han realizado?
+4. Al adoptar el sistema de Televisión Digital Terrestre DVB-T para Colombia,
+se celebro un acuerdo de cooperación con la Unión Europea, ¿cuáles son
+los avances de este acuerdo de cooperación?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								5. Con el objetivo de lograr la universalización del servicio público de
+televisión, se ha propuesto la implementación de un sistema de Satélite
+Directo al Hogar ¿Explicar el cronograma y las inversiones establecidas?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								6. La Ley 1507 de 2012 estableció que el Fondo para el Desarrollo de la
+Televisión y los Contenidos destinará anualmente, como mínimo, el
+servicio de televisión ¿Cómo se ha reglamentado esta distribución y cuál ha
+sido la participación de los canales regionales?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2012-09-26T08:54:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 26 de septiembre de 2012
+Hora: 8:00 a.m.
+Llamado a lista y verificación del quórum
+Citación a Ministros y Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en
+concordancia con los artículos 249, 233 y 236 de la ley 5ª. de 1992.</p>
+						</speech>
+						<speech by="" startTime="2012-09-26T08:54:50">
+							<from>OTROS</from>
+							<p>
+RODRIGUEZ PINZON.
+II. PROPOSICION No. 028 y ADITIVA
+(Bogotá, D.C., 15 de agosto de 2012)
+“Cítese a Debate de Control Político sobre: “El futuro de los Canales Regionales en
+Colombia” al señor ministro de Tecnologías de la Información, Dr. DIEGO MOLANO
+VEGA; a la, Directora (E) de la Autoridad Nacional de Televisión ANTV, doctora SANDRA
+MILENA URRUTIA; a la Gerente de TELEANTIOQUIA y Delegada de los Canales
+Regionales, doctora SELENE BOTERO GIRALDO; al Coordinador Administrativo y
+Financiero de TELECAFE, doctor JORGE CALDERON, para que absuelvan el siguiente
+cuestionario:
+MINISTRO DE TECNOLOGÍAS DE LA INFORMACIÓN, DOCTOR DIEGO MOLANO
+VEGA; DIRECTORA DE ANTV, DOCTORA TATIANA RUBIO</p>
+						</speech>
+						<speech by="" startTime="2012-09-26T08:55:00">
+							<from>OTROS</from>
+							<p>
+CIRO ANTONIO RODRIGUEZ PINZON
+CUESTIONARIO ADITIVO
+COMISIONADOS DE LA AUTORIDAD NACIONAL DE TELEVISION - ANTV
+Cítese a los Comisionados de la Autoridad Nacional de Televisión Dra. Alexandra
+Falla y Dr. Alfredo Sabbagh, para que informen sobre: “los avances en los procesos
+de implementación de la Televisión Digital Terrestre y la Televisión Satelital Social”.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:55:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+SILVIO VASQUEZ VILLANUEVA JOHN JAIRO ROLDAN AVENDAÑO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:55:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Someta a consideración el orden del día leído señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:55:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>En consideración el orden del día acabado de leer por la Secretaría,
+va a cerrarse, queda cerrado, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:55:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:55:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Quiero resaltar y agradecer la presencia del señor Ministro Diego
+Molano Vega, ministro de las TIC,s, Tecnología de la Información y las
+Comunicaciones, quién ha acudido a la citación que le ha hecho la
+Comisión a través de los Representantes, mediante proposición
+presentada, le damos un saludo, continué señor Secretario por favor.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T08:56:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente para que quede en el acta un informe de traslado de
+comisión al exterior por el Superintendente de Industria y Comercio,
+que fue enviado por intermedio del Secretario General de la Honorable
+Cámara de Representantes, señor Presidente en estos momentos el
+segundo punto es citación a ministros y servidores públicos, los
+citantes son Juana Carolina Londoño Jaramillo y Ciro Antonio
+Rodríguez Pinzón, tenemos que informarle que los invitados y citados
+están aquí desde temprano.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:56:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Me comenta aquí el señor Vicepresidente que ya han definido el
+proceso, yo le había pedido el favor a él que si se iniciaba a las 8 en
+punto me reemplazara dado que tenía bancada sur- colombiana en la
+casa fiscal del Huila, vamos a respetar ese orden que se ha
+preestablecido con el señor Vicepresidente doctor Jhon Jairo Roldan,
+pero quiero antes de comenzar el debate expresarle señor Ministro
+Diego Molano Vega en nombre de todo el pueblo Huilense, en nombre
+del señor Alcalde de Neiva Pedro Hernán Suárez y su equipo de
+colaboradores, en nombre del señor Alcalde de Garzón Delio
+González Carvajal y su equipo de gobierno y en nombre del señor
+Alcalde de Pitalito Pedro Martín Silva y todos sus colaboradores,
+como también a los señores Alcaldes de: Suaza, Huila, Timana,
+Salado Blanco, Isnos, San Agustín, Palestina y de Acevedo que
+estuvieron presentes en la ciudad de Pitalito en la gira que hizo usted
+señor Ministro el pasado viernes con motivo de su intervención e
+insertación en el encuentro del contencioso administrativo en la ciudad
+de Neiva, en ese foro de la justicia colombiana.
+Agradecerle en nombre de todos los gremios y las personalidades que
+nos acompañaron en esas reuniones, porque el Huila y Colombia sabe
+perfectamente que la visita de un Ministro de Estado significa mucho
+para la región, por eso Señor Ministro resalto su amabilidad, su
+condición humana, su calidad y sobretodo su profesionalismo y su
+ética para manejar esta cartera que le ha confiado el Gobierno
+Nacional.
+Desde luego como huilense y como Congresista, debo resaltar lo
+positivo de su visita al Huila y es el momento oportuno como se lo dije
+allá de agradecerle y reiterarle nuestra gratitud nuestra, amistad, ojala
+señor Ministro que todo esto sirva para seguir desarrollando al Huila y
+a Colombia en todo lo que tiene que ver con tecnología, con
+comunicaciones, con ser competitivos a nivel nacional y mundial.
+Vamos a entrar al debate dándole la palabra a los señores citantes, la
+doctora Juana Carolina Londoño en primer lugar y seguidamente el
+doctor Ciro Rodríguez.
+Abrimos el debate de control político uniendo las dos proposiciones
+doctor Ciro Rodríguez y doctora Juana Carolina Londoño, para una
+moción doctor Wilson Arias en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2012-09-26T08:56:20">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Presidente, seguramente ensayaremos otras metodologías y todo es
+susceptible de perfeccionar; yo particularmente quiero decirle que
+tengo especial interés en que las autoridades de Gobierno escuchen
+mi intervención para puedan responder al hacer uso de la palabra, casi
+siempre es difícil disponer del tiempo para que interviniendo una
+primera vez escuchen otras intervenciones y repliquen, casi siempre
+tenemos esa dificultad y creo que el tema amerita y los asuntos son de
+tanta magnitud que quisiera Presidente insistir en que nos permita que
+los Parlamentarios en la brevedad del tiempo podamos intervenir para
+que el Ministro responda a las otras inquietudes de los Parlamentarios,
+si fuera posible Presidente le agradecería.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:56:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Yo pienso que vamos a tener tiempo Presidente, lo único es que me
+comprometí con los de la ANTV, ellos están también citados a la
+Comisión Sexta de Senado a las 10, tiene la palabra el doctor Ciro
+Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2012-09-26T08:56:40">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, saludar muy especialmente al señor
+ministro de las Tecnologías de la Información y las Comunicaciones, a
+los señores comisionados de la Autoridad Nacional de Televisión, los
+representantes de los canales regionales y a todos los Honorables
+Congresistas de la Comisión Sexta.
+Yo quiero empezara con que usted nos comente sobre el presupuesto
+principalmente del fondo de tecnologías de la información y la
+comunicación, ya que hay una preocupación por dos aspectos; uno
+por los sistemáticos o sistemática disminución de este presupuesto y
+de la misma forma por el traslado de estos recursos a otros sectores,
+principalmente el 31 de diciembre de 2010 a través del CONPES
+3696, los rendimientos que produce este fondo fueron trasladados a
+este CONPES y ha sido una política de Gobierno liderada por usted,
+donde hemos venido diciéndole a todos los colombianos que la
+conectividad, que las tecnologías de la información y las
+comunicaciones son la herramienta más eficaz para combatir la
+pobreza, para generar empleo y para convertirnos en más productivos
+y competitivos, pero si esto no se hace con recursos se vuelve un
+simple eslogan y no produce realmente los efectos que nosotros
+necesitamos en nuestra sociedad.
+Por lo tanto, quisiéramos que usted nos dijera ¿cómo defendemos
+este Presupuesto? Si es que no se está ejecutando este presupuesto
+o Cuáles son las fallas que se han venido cometiendo.
+Y el otro tema que nos convoca señor Ministro, tiene que ver con un
+objetivo de esta Comisión cuando tramito primero el acto legislativo de
+desconstitucionalización de la autoridad en materia de televisión, que
+siempre nos trazamos dos objetivos: Uno mantener la autonomía de
+esta autoridad nacional de televisión y el otro gran objetivo era el
+fortalecimiento de los canales públicos, entendidos estos tanto los
+canales públicos del orden nacional y del orden regional, hoy vemos
+que ni una ni otra cosa va en esa dirección, primero nos sorprende a
+nosotros como el ministerio de Hacienda quiere quitarle la autonomía
+presupuestal a la Autoridad Nacional de Televisión donde está muy
+claro en el artículo 2 de la Ley 1507 que la Autoridad Nacional de
+Televisión es una agencia nacional estatal, de naturaleza especial, del
+orden nacional con personería jurídica y autonomía administrativa,
+patrimonial, presupuestal y técnica.
+Por lo tanto, creo que debe ser de la misma forma un propósito de
+esta Comisión dar el debate en Plenaria para poder mantener esta
+autonomía y que los recursos que se perciban por concepto de la
+producción de televisión vayan todos al sector como está establecido
+en la Ley 1507.
+El otro tema, tiene que ver con los recursos que se tienen
+presupuestados para la Autoridad Nacional de Televisión que según
+respuesta nos dan que para RTVC se presupuestan 65 mil millones,
+964 mil para los canales regionales, 40 mil 92 millones para la red de
+televisión digital terrestre, 41 mil 252, vemos nosotros y espero que los
+comisionados de televisión nos informen un proyecto que también
+nosotros hemos venido acá exigiéndole al Gobierno Nacional, que
+además de la televisión digital lo que tiene que ver con la televisión
+satelital social, que debe ser un propósito para lograr nosotros la
+cobertura universal en materia de televisión, no veo ese proyecto
+dentro del presupuesto, que nos responden.
+Y el otro tema, tiene que ver con las pensiones de Inravisión ¿donde
+están presupuestados 46 mil 605 millones de pesos? Por lo tanto
+nosotros queremos saber si se está cumpliendo con la ley
+especialmente el artículo 18 nos dice que del Fondo de Desarrollo de
+Televisión el 60% de estos recursos deben ir para el fortalecimiento de
+los operadores públicos del servicio de televisión, ¿Si realmente
+estamos cumpliendo con ese propósito?.
+Y el otro tema, tiene que ver con otro inciso donde dice que el FONTIC
+destinara este Fondo de Televisión para el fortalecimiento de la
+televisión pública y los contenidos digitales y audiovisuales como
+mínimo el 10% de los ingresos derivados de la asignación de los
+permisos para uso de las frecuencias liberadas con ocasión de la
+transición de la televisión análoga a digital; diría uno debe ser un
+propósito también a corto tiempo, liberar estas frecuencias, uno por
+avanzar en esta transformación tecnológica y el otro por dejar este
+espacio de frecuencia para utilizarlos en otro servicios especialmente
+de la telefonía móvil dedicada a banda ancha.
+De la misma forma queremos nosotros conocer si en el diseño de esta
+red de televisión digital se está es diseñando como lo establece la ley
+una red única donde estén incluidos los canales regionales y los
+canales nacionales, esto por economía, esto por prestarle un mejor
+servicio a los canales públicos del orden nacional y también conocer
+con respecto al artículo 19 que tiene que ver con el pasivo pensional
+de Inravisión donde hay un mandato de la misma forma en la ley y en
+la medida en que nosotros lo logremos liberar estos recursos los
+podemos destinar a la televisión y al fortalecimiento de la televisión
+pública y dice muy claro de los ingresos derivados de la asignación de
+los permisos para uso de las frecuencias liberadas con ocasión de la
+transición de la televisión análoga a digital.
+O sea, que también estamos nosotros dejando en manos de esta
+transición y esto lo que quiere decir señor Ministro es que hay un
+especial interés de liberar este dividendo digital, de que este espacio
+de frecuencia sea utilizado y esto lo que nos quiere a nosotros decir
+señor Ministro, es que la asignación de frecuencia especialmente para
+banda ancha el gran debate de 4G es una necesidad urgente para
+poder fortalecer la televisión pública en nuestro país.
+Sabemos que se ha generado un gran debate y yo quisiera mostrarles
+a todos quienes nos acompañan hoy acá, que además de este
+fortalecimiento de la televisión, hay otros aspectos que deben
+preocuparnos a nosotros para acelerar este proceso, por eso quisiera
+que viéramos esta primera donde vemos claramente que a nivel
+mundial desde el 2008 la banda ancha móvil empieza superar la
+banda ancha fija, en Colombia Ministro tengo entendido que ya en el
+2012 podremos estar llegando a ese punto también donde se iguala, o
+sea que el crecimiento de la banda ancha móvil por muchas
+circunstancias, especialmente circunstancias tecnológicas como es
+mejor la calidad de este servicio de banda ancha móvil, la movilidad
+que produce este servicio, pues hace que todos empecemos a utilizar
+aún más.
+Y quisiera mostrarles también la segunda presentación para que
+conozcamos que es lo que está impulsando esta utilización de la
+banda ancha móvil y tiene que ser precisamente con la utilización del
+video en todos los servicios, con la inserción diría uno de la misma
+televisión dentro del internet y vemos nosotros que es la televisión, en
+estos próximos años quien irá a sufrir los mayores cambios en la
+forma como nosotros venimos prestando este servicio y estudios nos
+muestran que al 2015 la utilización de estos datos los vamos a
+multiplicar por 25 veces, de tal forma que si no hacemos un aumento
+de esta capacidad de estas redes de banda ancha móvil,
+seguramente nos van a ocupar toda la capacidad y nos estaremos
+nosotros viendo sometidos a una situación bastante delicada.
+Quiero que miremos la tercera presentación, donde nos indica que si
+mantenemos la circunstancias actuales, podríamos nosotros entre
+mediados del 2013 y 2014 se estaría igualando la demanda a la
+capacidad que hoy tienen estas redes de banda ancha, por lo tanto el
+buscarle una solución para ampliar a esta capacidad de estas redes
+de banda ancha es urgente, no solo en nuestro país, sino esto es una
+tendencia a nivel mundial y por eso las exigencias que se han venido
+realizando para que los gobiernos encaminen políticas a un
+mejoramiento de estas redes de banda ancha.
+Sabemos nosotros que en nuestro país se ha generado un gran
+debate principalmente hemos venido diciendo que en Colombia existe
+un monopolio en materia de telefonía móvil.
+Yo quisiera mostrarle también las siguiente presentación para que
+analicemos muy bien el monopolio del cual se está hablando, si bien
+es cierto podría decirse que hay un monopolio en materia de voz, diría
+uno que en materia de datos no existe tal monopolio, ni siquiera en
+materia de asignación de ancho de bandas, viene la asignación actual
+que tenemos en materia de ancho de banda, Claro tiene asignado 60
+megaherz, Movistar tiene asignado 55 megaherz , Tigo tiene asignado
+55 megaherz y UNE tiene asignados 50 megaherz, por lo tanto vemos
+nosotros que en materia de asignación de espectro no existe tal
+monopolio, si de pronto uno podría decir tanto Tigo como une tienen
+una debilidad en el sector donde tienen asignada esta frecuencia por
+no tener espacios en la frecuencia, que son una frecuencia como la
+del dividendo digital y por eso es la importancia del dividendo digital,
+donde su transmisión es mucho más económica, es una frecuencia
+que tiene una especial aplicación en zonas apartadas, zonas alejadas
+que porque ahí está la importancia en nuestro país.
+Por lo tanto, creo que el debate tenemos que darlo más sobre la
+necesidad que realmente existe sobre la ampliación de esta capacidad
+en las redes, de todas formas quiero mostrarles en la siguiente
+presentación como está distribuido hoy en día el mercado, en esta
+presentación es a nivel mundial, ¿cuáles son las asignaciones y
+cuáles son las recomendaciones de la OIT? Y en la siguiente
+presentación es mostrarles como están asignados los diferentes
+sectores con los diferentes operadores, vemos claramente que en
+materia de voz, existe una posición dominante de Claro, pero en
+materia de internet en móvil, vemos que esta posición, o este mercado
+mayoritario no lo tiene Claro sino Movistar y hay una participación
+mucho más equilibrada.
+Por lo tanto Ministro, creo que este proceso hay que avanzarlo
+teniendo en cuenta que nuestro país iría a cumplir dos propósitos muy
+claros, uno fortalecería nuestra televisión pública liberar estos recursos
+principalmente de las pensiones y lo otro que podríamos utilizar una
+buena porción de estos recursos para el fortalecimiento de la televisión
+pública, además que este crecimiento, diría uno que casi como lo han
+venido llamando este milagro móvil, nos está exigiendo a nosotros una
+ampliación, una respuesta a estas nuevas tendencias mundiales.
+Y con respecto a los monopolios, hay que decir Ministro que nuestra
+regulación especialmente la ley 1341 de las Tecnologías de la
+Información y las Comunicaciones nos dan a nosotros todas las
+herramientas para promover la competencia, para dinamizar el sector,
+para proteger los usuarios, para tener política de precios razonables,
+para buscar la universalización de estos servicios, por lo tanto no
+debemos tener, si tenemos nosotros en el sector unas instituciones
+fortalecimientos y ahí es donde yo quiero detenerme un poco Ministro,
+porque veo gran preocupación con respecto a las instituciones de
+regulación en materia de tecnología de la información y las
+comunicaciones, veo una preocupación que de pronto puede haber
+una captura por parte de los operadores de estos reguladores, puede
+haber unos mecanismos, casi que con estas decisiones legales que
+han venido emprendiendo los operadores contra los integrantes de
+estas autoridades de regulación, ve uno que puedan empezar a
+disminuir esa capacidad institucional.
+Veo aquí en un informe Ministro como todas las diferentes
+instituciones, la forma de responder quien se afecta con cualquier
+decisión de estas instituciones de regulación es acudir a través de
+demandas, por lo tanto Ministro creo que aquí hay que buscar una
+política en conjunto tanto del Gobierno como del Congreso de la
+República para generar un marco donde podamos nosotros proteger
+estas instituciones y sus decisiones puedan estar blindadas, porque es
+claro que esto son decisiones de intervención económica donde
+siempre habrá un sector que se perjudica y otro sector que habrá que
+impulsarlo o que se beneficie y eso siempre tiene que ser el beneficio
+de una mejor prestación del servicio en beneficio del interés general y
+de esta forma debemos actuar.
+Y la mayor preocupación que hoy nos asiste, tiene que ver con la
+Comisión de Regulación de Comunicaciones donde los expertos
+comisionados prácticamente hay hoy en día uno solo y no le ve uno un
+interés al Gobierno Nacional de nombrar e integrar todos los
+integrantes de esta Comisión de Regulación y lo mismo pasa con la
+Autoridad Nacional de Televisión, el Comisionado representante del
+Gobierno renuncio y no vemos nosotros la agilidad en el
+nombramiento del reemplazo de este comisionado.
+Por lo tanto Ministro creo yo que el Gobierno también tiene que
+empezar a ayudar a fortalecer estas instituciones, que si bien es cierto
+son independientes todos debemos protegerlas y buscar las que
+cumplan esa misión de lograr una mejor prestación del servicio, yo
+pues quiero dejar y agradecerle a usted señor Presidente por la
+promoción de este debate y esperar que hoy saquemos unas
+conclusiones importantes, que logremos fortalecer este importante
+sector y que logremos nosotros también especialmente en materia de
+televisión tener esa televisión pública que todos anhelamos. Muchas
+gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:56:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto Honorable Representante Ciro Rodríguez, tiene la
+palabra la doctora Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2012-09-26T08:57:00">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Muchas gracias señor Presidente, un saludo muy especial para el
+señor Ministro Diego Molano, para la, directora de la ANTV la doctora
+Sandra Milena Urrutia, para los miembros de Junta, para la gerente de
+Teleantioquia que nos acompaña, la doctora Celen Botero, para la
+Secretaria General María Helena Giraldo, para las demás
+acompañantes y a mis compañeros de la Comisión Sexta.
+El doctor Ciro Rodríguez, ha hecho una descripción inicial de la
+proposición que nosotros realizamos en días anteriores, eran dos
+proposiciones señor Ministro, donde queríamos tocar dos temas
+puntuales.
+Uno, tiene que ver con la problemática actual de la televisión pública
+haciendo un recuento del acto legislativo donde se busco
+desconstitucionalizar la Comisión Nacional de Televisión, nosotros
+tuvimos la fortuna o la posibilidad de ser ponentes de este proyecto y
+en los diferentes foros regionales que se trabajaban el común
+denominador siempre señor Ministro era el fortalecimiento de la
+televisión pública, nosotros fuimos muy enfáticos en ese tema y creo
+que hoy tenemos que recordar todos esos foros y todas esas giras
+nacionales que se hicieron con el fin de fortalecerla.
+Queremos y hemos invitado a la gerente de TeleaAntioquia la doctora
+Celen Botero, porque sería importante que los compañeros de la
+Comisión Sexta conocieran hoy la situación real de los canales
+regional, ¿Que ha pasado después de que entro en funcionamiento la
+Agencia Nacional de Televisión? Es un problema que nosotros hemos
+venido recogiendo y hemos venido escuchando y de la presentación
+de Teleantioquia yo quiero leer solo una diapositiva compañeros que
+me preocupa y es el tema que queremos hoy, ustedes, señor Ministro
+y señora, Directora pues que nos aclaren realmente que es lo que está
+pasando y dice que con el cambio regulatorio Teleantioquia disminuyo
+los recursos en una suma aproximada de 5.300 millones de pesos, lo
+que genero proyectar pérdidas para la vigencia 2012 por más de 2.900
+millones de pesos, ese es el primer punto y si eso le pasa a
+Teleantioquia, le tiene que estar pasando a todos los canales
+regionales de Colombia.
+Y el segundo punto habla de que las transferencias asignadas por la
+ley a los canales regionales no llegan en el momento oportuno,
+Teleantioquia debe sacrificar liquidez y no puede avanzar en otros
+proyectos estratégicos, estoy segura que como le está pasando a
+Teleantioquia, le está pasando a los demás canales regionales de
+nuestro país.
+La pregunta que yo también quería hacerles a la, directora de la ANTV
+es ¿Cuántos recursos se han girado este año para proyectos
+especiales? Porque tengo conocimiento que no se ha girado ningún
+recurso y están con los brazos, con las manos amarradas los canales
+regionales, donde nosotros en su momento lo que buscábamos era el
+fortalecimiento de los contenidos culturales y de los contenidos
+educativos, aquí la idea y el interés y el señor Ministro conoce que
+nuestros ánimo no es generar polémicas contrarias, sino de trabajar
+todos de común acuerdo, entonces que demos claridad en estos
+temas.
+Nosotros presentamos un cuestionario, Directora donde hacíamos
+unas preguntas muy puntuales, son 7 preguntas que me gustaría que
+ahora en su intervención usted se refiriera a una por una de estas
+preguntas y le diéramos como mayor amplitud a estas respuestas que
+ustedes nos pasaron de forma muy breve, tanto en el ministerio de las
+TIC,s como en la Agencia Nacional de Televisión. Ese era el primer
+punto del debate.
+Señor Ministro viene un segundo punto que me preocupa demasiado y
+era la segunda proposición, que nos cuente usted acá de forma
+detallada cuál fue el crecimiento del presupuesto para la vigencia fiscal
+del año 2013 para el ministerio de las Tecnologías de la Información y
+de las Comunicaciones. ¿Cuál fue el porcentaje de crecimiento o de
+decrecimiento?.
+Yo diría que uno de los grandes sacrificados con el presupuesto de la
+próxima vigencia es el ministerio de las Tecnologías, de las TIC,s,
+nosotros lo vemos a usted voltear por todo lado con ese proyecto de
+Vive Digital, que es el tercer punto que tocare ahora, que es mucho
+más preocupante y no me parece que cuando se habla de las
+locomotoras, aquí estamos hablando de una gran locomotora que es
+la de la ciencia, la tecnología y la innovación, veamos un presupuesto
+tan deficiente para Colciencias como para el ministerio de las TIC,s,
+entonces que nos cuente ese segundo punto y tengo entendido que se
+está trabajando una propuesta por las comisiones conjuntas en donde
+se busca que los recursos que provienen de los intereses del fondo de
+las TIC,s que son alrededor de 360 millones de pesos puedan no
+girarse hacia el ministerio de Hacienda, sino que puedan ser proyectos
+aplicables en materia de tecnologías a las regiones, que nos amplié de
+pronto Ministro esa propuesta que se tiene.
+Y un último, punto tiene que ver con el proyecto Vive Digital Ministro,
+no nos podemos ir de este debate sin que usted nos cuente ese gran
+problema que hay entre el ministerio de las TIC,s y Colciencias, ahí
+no hay sinergia, ahí no hay un trabajo, porque usted se puede
+desgastar presentando proyectos regionales, usted puede ir de gira a
+las regiones, usted puede sentarse a convencer a los alcaldes y a los
+gobernadores de que las Tecnologías generan desarrollo en la
+regiones, pero al momento de ejecutar esos proyectos estamos
+fallando.
+Entonces, realmente Ministro con el mayor respeto que usted se
+merece, que nos diga ¿cuál es el problema? ¿Cuál es el cuello de
+botella? Porque no se justifica y no se compadece que se hayan
+presentado 78 proyectos regionales y sólo se aprobaron 13, porque
+Ministro si son proyectos juiciosos que se socializaron y aquí los
+únicos grandes perjudicados van a ser los colombianos en un proyecto
+de tecnologías a lo que nosotros le hemos apostado. ¿Qué está
+pasando al interior del Gobierno Nacional? ¿Qué está pasando que no
+hay trasversalidad y no hay comunicación directa entre el ministerio
+de las Tecnologías y no hay comunicación directa con Colciencias? ¿A
+quién realmente hay que echarle la culpa, a quién realmente hay que
+jalarle las orejas? Porque es el segundo año Ministro que pasa,
+porque es que esto no es de este año, el año pasado fue catastrófico y
+este año fue muchísimo peor, se nos llega el mes de diciembre y no
+vamos a poder ejecutar el proyecto de Vive Digital este año.
+Entonces esas eran las inquietudes que nosotros planteamos.
+Por último una pregunta a la señora, directora de la Agencia Nacional
+de Televisión, hablemos del artículo 18 de la Ley, me preocupa
+muchísimo el giro de esos recursos del pasivo pensional de Inravisión,
+yo no sé si es que ese artículo quedo mal redactado, que fue lo que
+paso, pero la pregunta puntual es como se va a hacer para cumplir y
+que para que esos 47 mil millones de pesos que se hablaban iban a
+fortalecer a la televisión pública de los canales regionales les llegue la
+platica realmente a ellos, no necesitamos disculpas; creo que la
+respuesta que usted nos da en este cuestionario el ministerio de las
+TIC,s, no es la respuesta correcta, aquí el hecho no es de lavarnos las
+manos y decir es que tengo que cumplir la ley, es buscar también cuál
+fue el espíritu de la norma y era el fortalecimiento de la Televisión
+pública.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:57:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Vamos a hacer una excepción, yo se que los demás Representantes
+me van a entender para que intervenga, acá me dice el doctor Jhon
+Jairo Roldán doctora que los canales regionales están en la vocería de
+Teleantioquia, sin embargo pregunto, pero en la proposición habla
+únicamente los canales regionales de Teleantioquia y Telecafé, señor
+Ministro con mucho gusto.</p>
+						</speech>
+						<speech by="#dr-diego-molano-vega" startTime="2012-09-26T08:57:20">
+							<from>Dr. Diego Molano Vega</from>
+							<p>Yo con él animo de que esto sea un debate amplio y democrático yo
+creo que, o los canales regionales hablan con un representante
+legítimo de todos o hablan todos los canales, o la visión de
+Teleantioquia no representa la visión de todos los canales regionales,
+entonces eso es importante señalarlo, porque, y su situación es
+totalmente distinta, entonces eso es importante porque no quiero en
+este debate que tengan ustedes visiones parcializadas de lo que está
+pasando con la televisión regional.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:57:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Señor Ministro yo también debo regirme y debo decir por lo de la
+proposición, los proponentes dicen: “Cítese al debate de control
+político sobre el futuro de los canales regionales en Colombia al
+señor ministro de las Tecnologías de la Información, doctor Diego
+Molano Vega, a la, directora (E) de la Autoridad Nacional de Televisión
+ANTV, doctora Sandra Milena Urrutia; a la gerente de Teleantioquia,
+delegada de los canales regionales doctora Selene Botero Giraldo, al
+coordinador administrativo y financiero de Telecafé, doctor Jorge
+Calderón, para que resuelvan el siguiente cuestionario”.
+Sin embargo señor Ministro, sí están los demás canales regionales
+representados acá que nos lo hagan saber, yo le pido el favor a los
+señores Secretarios o al subsecretario que hagan esa investigación y
+si van a intervenir con el mayor gusto, esto se trata de darle
+oportunidad a quienes estén, desde luego en la moderación que haga
+la Mesa Directiva, por eso hable únicamente de esa parte señor
+Ministro y desde luego también en la parte de presupuesto no está
+citado sino el señor Ministro Diego Molano Vega.
+Entonces, también es bueno entender que para el tema que se toca de
+banda ancha, cuarta generación pues habría que hacer un
+cuestionario especial en eso, para que el señor Ministro venga no
+preparado, porque creo que toca el tema en cualquier parte con
+suficiente conocimiento y autoridad en ese campo, si no para que
+ordenemos el debate, porque estamos hablando de presupuesto y nos
+vamos para banda ancha y también estamos hablando de canales
+regionales y desembocamos en 4G, entonces en ese sentido.
+Hay una proposición que está adelantando el señor Vicepresidente,
+doctor Jhon Jairo Roldán sobre ese aspecto para ver si es posible
+hacer en unos 15 días un debate con comisiones conjuntas, de
+Senado y Cámara sobre este punto señor Ministro, que me parece
+fundamental para que tengamos conocimiento y como es de suma
+importancia el tema tanto en Senado como nosotros a través del
+doctor Jhon Jairo Roldán ya estamos haciendo para entrar en un
+cuestionario conjunto, para ver si podemos trabajar en alguno de los
+salones del Congreso de la República, con participación mucho más
+amplia y obviamente con unos cuestionarios donde usted también
+pueda tener unos puntos sobre qué referirse señor Ministro.
+Tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2012-09-26T08:57:40">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Muchas gracias Presidente, simplemente era para aclarar que cuando
+hice referencia al tema de 4G, era para ponernos en contesto y ver la
+importancia, porque así lo establece la ley de la asignación de esta
+frecuencia y de la misma forma, de hacer esa transición análoga digital
+de una forma rápida, porque eso nos va a generar a nosotros los
+recursos para el fortalecimiento de la televisión, así lo establecimos
+nosotros ese fue el espíritu nuestro aquí en la Comisión. Entonces, era
+simplemente para que pudiéramos nosotros conocer y de la misma
+forma dar una versión diferente a la que se ha venido manejando en el
+Congreso; porque es que a mí me parece señor Ministro que otro tema
+donde nosotros hemos venido fallando en los temas regulatorios es el
+manejo del tema regulatorio que tiene un alto contenido técnico, son
+temas de intervención económica y lo estamos metiendo nosotros en
+un campo político que puede realmente afectar a este sector.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:57:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2012-09-26T08:58:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Voy a intentar abstenerme en todo caso de responder en la última
+parte, yo soy de los que piensa exactamente contrario al doctor Ciro
+Rodríguez con todo el respeto, saludo al Ministro y a mis colegas,
+felicito al doctor Ciro Rodríguez y al doctora Juana Carolina Londoño
+por la convocatoria al debate y trato de aplicar en algunos temas que
+me parece que son útiles para la reflexión, no sin antes decir que
+contra lo que piensa el doctor Ciro Rodríguez en mi opinión algunos
+asuntos tecnocráticos dirimen temas económicos supremamente
+importantes y imposibilitan oligopolio, porque lo que ha dicho el doctor
+Ciro Rodríguez es demostrar que sea oligopolio, aquí hay un debate
+que es mucho más profundo, que no puede pretender que se surta en
+las dependencias de Planeación Nacional y de Telefónica y de Claro,
+desde luego que el Congreso de la República debe avocar el debate
+para que entre otras cosas, porque la ley es antimonopolio en todo el
+mundo, por eso los Congresos de las Repúblicas pretender abstraerse
+de los detalles técnicos de una discusión que tiene consecuencia
+económicas y de soberanías nacionales es despolitizar un asunto que
+de suyo lo es, pero ya habrá ocasión de discutir las bondades del 4G,
+de su licitación, con la opinión ampliamente documentada de
+numerosos actores escucho por primera vez que no se presenta un
+fenómeno de monopolización y que es un asunto que debería estar
+algo así como reservado para la estratosfera del pensamiento
+tecnocrático, yo opino exactamente lo contrario y esperare los
+debates, desde luego muy amablemente pero, con igual energía, con
+la que aquí se sostiene un punto de vista distinto.
+Del mismo modo, seguramente no podré referirme en extenso a otros
+asuntos, no dejare de hacerlo para dejar anunciado al Ministro y a la
+autoridad algunos debates complementarios, pero comprendo doctor
+Ciro Rodríguez el objetivo del debate, el tema económico y empiezo
+por allí, en las respuestas que se han planteado a la pregunta número
+tres, el Ministro responde cuáles son los flujos de gastos esperados y
+los proyectados por la Comisión Nacional de Televisión vs la de la
+Autoridad Nacional de Televisión y aparece allí el tema de la televisión
+pública como primerísimo asunto, entiendo que el debate también
+pretende dar alcance a una situación apremiante de la telefonía
+pública de los operadores regionales.
+Pero lo primero que tendría que decir es lo siguiente Ministro, en lo
+que les contestan a los amables citantes se plantea la proyección en
+materia de los conceptos a los que se aplicaran estos recursos, por
+una suma de 244 mil 211 en el año 2013 a un monto de 254 mil 193
+en el 2017 y dentro de los cuales esta televisión pública manejaría
+entre 147 mil 308 a 157 mil 216 para el mismo periodo considerado,
+en contraste con lo que sería la proyección de la Comisión Nacional de
+Televisión, para demostrar que en este otro caso de la Comisión
+Nacional se proyectan 144 mil 940 millones de pesos,
+permanentemente sin variación alguna hasta el 2017, lo que nos está
+informando entonces el Ministro, es que se presentaría una especie de
+menores ingresos reales porque habría que deflactar, lo tendríamos
+que aplicar de la inflación para establecer que los ingresos reales de
+los operadores públicos serían menores en la proyección de la
+Comisión.
+A mí no me queda claro de donde salen estas cifras, pero me aplico a
+otra cosa Ministro, sería muy importante conocer ¿Cómo tiene prevista
+la autoridad nacional obtener los recursos para cubrir este flujo de
+egresos proyectados? En primer lugar, creo que la respuesta hubiera
+sido mucho más completa, si se proyectaran los ingresos, porque
+tenemos varias dudas, en las estimaciones más optimistas que yo he
+escuchado de personas absolutamente informadas sobre el tema no
+aparece Ministro 244 mil para el año siguiente, sino aproximadamente
+200 mil millones de pesos como una de las proyecciones más
+optimistas, pero además me aclaran que probablemente a partir del
+año 2014 empezaran a declinar esos recursos a consecuencia del
+término de los contratos de concesión de algunos espacios en el
+Canal Uno que aportan unos 14 mil millones de pesos y como
+consecuencia de la reducción gradual del porcentaje de compensación
+de los operadores de televisión por suscripción, de modo que son
+factores que deberíamos tener en cuenta en primer lugar señor
+Ministro, el tema de los ingresos esperados, su proyección para poder
+cubrir el flujo de ingresos que aquí se proyecta.
+En segundo lugar, tema importantísimo, el 60% de que trata la ley que
+se refiere como destino a la televisión pública está distribuido en el
+cuadro que usted nos presenta entre el despliegue de la red TVT
+canales regionales y RTVC, entiendo y quiero que usted me lo
+confirme o nos explique señor Ministro que en el proyecto de fondo de
+reglamentación del fondo para el desarrollo de los contenidos se
+plantea un orden de asignación de esos recursos y aparece en primer
+lugar RTVC y en segundo lugar el despliegue de la red de Tecnología
+Digital de Televisión y en tercer lugar los canales regionales, una
+observación adicional a propósito de esa reglamentación, si ese es el
+orden de asignación de los recursos es probable que cualquier castigo
+que tenga este presupuesto.
+Señor Ministro estoy tratando de explicar que si ese es el orden de
+asignación cualquier castigo y ya mencione al menos dos fuentes de
+declinación de los ingresos correspondientes van a resultar
+recibiéndolo los canales regionales.
+Tercera observación, el despliegue de red de tecnología digital de
+televisión tiene como destino real la liberación de frecuencias que
+reclama el Ministerio de la industria de las telecomunicaciones y que a
+la postre no beneficia propiamente a los canales, los canales
+regionales lo que hacen es migrar la finalidad de esa migración, la
+finalidad de la inversión en el despliegue de la red realmente es abrir
+frecuencias para la telefonía móvil. ¿Cuál es la razón entonces por la
+cual se pueda predicar que deben recibir una parte de los recursos del
+60% que como destino original la norma decía con meridiana claridad
+era para los canales regionales? Y tal vez, sea bueno dar alcance a
+esta altura algo que dejo en punta la doctora Juana Carolina Londoño
+con mucha precisión y que yo comparto.
+La doctora Juana Carolina Londoño ha dicho más o menos esta célula
+no puede estar a espaldas a esa realidad, finalmente tenemos que
+recordar que fue esta célula legislativa la que aprobó la legislación, la
+que le creyó al gobierno, la que aplaudió la exposición de motivos del
+acto legislativo, la que convalido en general el proceso y que hoy
+tendrá que políticamente también responder con el gobierno o
+sencillamente reclamar del Gobierno explicaciones de todos estos
+temas. De modo que este es el otro aspecto que nos causa
+grandísima preocupación señor Ministro.
+El siguiente para intentar ir haciéndolo como por capsulas, que yo
+espero que sean respondidas todas, es el tema del pasivo pensional,
+perdón señor Ministro antes de pasar al pasivo pensional estaba
+hablando de la eventual declinación de los recursos, entre esto un
+elemento bastante polémico, le participo a mis compañeros de la
+Comisión, en el proyecto de presupuesto que estamos aprobando para
+el año 2013 se planteaba originalmente por presupuesto de recursos
+propios para la Autoridad Nacional de Televisión la suma de 80 mil
+millones de pesos, me explica señor Ministro si es así esa cifra y la
+que va a ser presentada a la Plenaria ya está castigada en 10 mil
+millones de pesos, aparece con 70 mil millones de pesos, una de las
+varias consecuencias probablemente de que el carácter constitucional
+autonómico de la Comisión ya no vaya en ese rango constitucional,
+sino que se predique ahora a escala legal en la ley que aprobó el
+Congreso de la República.
+En todo caso, bastante problemático señor Ministro y señores de la
+Autoridad Nacional de Televisión que ya se tenga previsto castigar de
+ese modo el presupuesto para el próximo año, mi pregunta es a la
+autoridad: ¿Si esto se consuma cuánto significa de incremento o de
+pérdida de presupuesto para la autoridad nacional de televisión? y
+vamos sumando ya varios factores, algunos yo digo una especie de
+destinaciones especificas vienen siendo desviados en el caso
+particular para el despliegue de la red y algunos de carácter
+presupuestal general que está siendo aprobado en las Comisiones de
+presupuesto conjuntas de Senado y Cámara.
+Lo otro, es que en la propia proyección financiera de la Autoridad
+Nacional de Televisión nos mencionan el pago de las pensiones de
+Inravisión y se plantean por un monto de 46 mil 605 millones de pesos,
+mi preocupación es obvia y es que cuando empezamos a discutir acá
+los asuntos relativos a la pérdida del carácter autonómico de la
+Comisión, siempre se nos dijo que los recursos estarían a cargo de la
+Nación, que no de la autoridad misma.
+Naturalmente, cualquier giro que se haga por bondadoso, por altruista,
+por legal que sea con esos destinos, pues afecta el conjunto de los
+recursos que tenemos previstos para la autoridad, yo quiero declarar
+mi insatisfacción porque esa era la prédica gubernamental y del
+Ministro cuando aquí fue citado cuando empezamos a hablar el tema
+de la autoridad.
+El compromiso con los trabajadores, además se refería a dos temas y
+comprendo el propósito de esta citación, de modo que no voy a
+distraerlo, pero el compromiso tenía dos sentidos, uno primerísimo nos
+habían hablado en materia de protección de los trabajadores en dos
+sentidos, uno el tema pensional a cargo de la Nación, el dos el tema
+de la estabilidad de los trabajadores.
+Pues bien, doctor Ciro Rodríguez yo quiero que nos ocupemos algún
+día también de asuntos tan importantes como este por los que
+normalmente no se habla, muy a pesar de que en la ley se consigno la
+protección de los trabajadores, en este momento están siendo
+despedidos de manera inmisericorde los trabajadores y quiero hacer
+una denuncia, el reporte que tengo es que recientemente despidieron
+35 trabajadores a quienes les pagan 121 millones de pesos por mes y
+el liquidador contrato una firma intermediaria que acaba de enganchar
+a 36 personas a quienes les paga 180 millones de pesos por mes,
+comprendo que no se hace el debate el día de hoy y no voy a asaltar a
+la Autoridad pero me considero en el derecho de hacer esta denuncia
+que me produce grandísima preocupación, el modo en que se está
+procediendo, para birlar derechos claramente establecidos en la ley en
+beneficio de los trabajadores.
+Sigo con el tema pensional, porque doctor Ciro Rodríguez yo no sé si
+usted no leyeron o no pudieron llegar a tiempo estas respuestas que a
+mí me produce grandísimo escozor.
+A la pregunta quinta ¿Cuándo va a reintegrar el Gobierno Nacional a
+la televisión pública los dineros pagados injustamente por la Comisión
+Nacional de Televisión para cubrir el pasivo pensional de Inravisión el
+menoscabo de los recursos destinados al fortalecimiento de la
+televisión pública como quedó demostrado con la sentencia del
+Consejo de Estado 1101 del 16 de marzo de 2011.
+Yo quiero decir señor Ministro, que su respuesta me aterra, la Ley
+1507 en su artículo 21 si de algo se ocupo señor Ministro fue de dejar,
+permítame que el Ministro me escuche funcionaria, he dicho señor
+Ministro que me aterra su respuesta, cuando se le pregunta a usted
+cuando al Gobierno Nacional le va a transferir los recursos
+correspondientes al fallo que dicto el Consejo de Estado el 16 de
+marzo en materia pensional, el señor Ministro en mi opinión da una
+respuesta contraria a lo que dice la ley señor Ministro y usted ralla en
+la legalidad con esta respuesta ¿Que dice la ley? Artículo 21, si de
+algo se ocupo esta ley fue del problema de la liquidación, si de algo se
+ocupo con meridiana claridad es la sesión de la posición contractual
+judicial y administrativa, más aún le dedico un artículo adicional el
+número 22 que habla de la transferencia supletiva y que dijo en
+materia y que dijo en materia de esas funciones, leo textualmente para
+que quede constancia en la sesión como si fuera poco por esta
+Comisión pasa este proyecto de ley: “Por ministerio de la presente ley
+las entidades públicas a las que se transfiere las funciones de la
+Comisión Nacional de Televisión las sustituirán en la posición
+contractual de los demás contratos, de acuerdo con la distribución de
+funciones que la presente ley ordena.
+De la misma manera las mencionadas entidades sustituirán a la
+Comisión Nacional de Televisión en la posición que este ocupe en los
+procesos judiciales en curso, incluyendo arbitramientos en que esta
+participe en cualquier entidad.
+Y artículo 22 transferencia supletiva, las funciones de la Comisión
+Nacional de Televisión que no sean objeto, mención expresa en la
+presente ley se entenderán transferidas a la Autoridad Nacional de
+Televisión, no se puede alegar que no hay entidad que pueda recibir
+una sola de las funciones que antes tenía la Comisión Nacional de
+Televisión, leo textualmente la respuesta del señor Ministro que insisto
+en mi opinión rallan lo legal, textualmente: “ la facultad para iniciar las
+acciones legales pertinentes señor Ministro”, yo voy a dejar que los
+asesores del Ministro le permitan escuchar, porque quiero hacerle
+notar al Ministro, porque opino que el Ministro ralla en la ley con esta
+respuesta: “ La facultad para iniciar las acciones legales pertinentes
+están en cabeza de la Comisión Nacional de Televisión hoy en
+liquidación, toda vez que la Autoridad Nacional de Televisión no fue
+sujeto procesal en la demanda en referencia, pues como iba a ser
+objeto, como iba a ser sujeto procesal, como iba a participar la
+autoridad si todavía no había nacido a la vida pública, esto es
+elemental, la respuesta no es solamente ilógica en sí misma, si no
+sostengo yo ofende la inteligencia de esta célula legislativa a
+responderse de esa manera, desde luego Ministro que no puede ser
+objeto, es que los sucesos judiciales de lo que aquí estamos hablando
+debieron empezar por lo menos hace 3 o 4 años, es que posiblemente
+se desataron desde el momento en el cual o sus causales empezaron
+a desatarse en el momento en el cual fue liquidada INRAVISION, no
+aquí lo que hay que decir es que el Ministro omite decir con meridiana
+claridad que la Autoridad Nacional de Televisión ya tenía que haber
+tomado las precisiones necesarios y emprendido las acciones
+judiciales para lograr que el Gobierno Nacional reintegrara a esta
+bolsa común que tiene como principalísimo destino la televisión
+pública regional aquellos recursos injustamente dice la pregunta,
+injustamente cargados a la antigua Comisión Nacional de Televisión.
+Yo creo señor Ministro que la respuesta no solo es insuficiente, la
+Autoridad Nacional de Televisión tiene el deber de velar por los
+ingresos y su patrimonio y lo dice la ley además, pues bien, sostengo y
+esto le hablo al oído a mis compañeros de la Comisión, sostengo que
+la ley que aprobó esta Comisión en la Plenaria es regresiva en esta
+materia frente al fallo del Consejo de Estado y el Consejo de Estado
+dice que está a cargo de la Nación pero la previsión legal que aprobó
+esta Célula Legislativa y que traslado a la Plenaria de la Cámara le
+encomienda la responsabilidad a la Autoridad Nacional de Televisión,
+a la antigua Comisión Nacional de Televisión.
+Yo opino que debería corregirse este problema legislativo so pena de
+contribuir nosotros a un detrimento patrimonial de la recientemente
+creada Autoridad Nacional de Televisión, más aún pienso que cuando
+la autoridad correspondiente y el ministerio no se ocupan de ello
+también están produciendo un detrimento patrimonial, pues cuando se
+niegan a recibir en su bolsa común los recursos que la Nación con
+toda seguridad debería haberle girado desde hace bastante tiempo.
+Yo señor Presidente habrá notado usted tengo especial interés en
+ahorrar todo el tiempo posible y aplicarme a asuntos que son
+principales del debate, pero no puedo dejar de mencionar en relación
+con otra de las respuestas mi insatisfacción, cuando se le pregunta al
+Ministro sobre el cumplimiento de la Ley 1507 para garantizar el
+fortalecimiento de la televisión, de acuerdo con el proyecto de
+resolución, por el cual se modifica la tarifa de compensación que
+deben cancelar los operadores del servicio de televisión por
+suscripción y se dictan otras disposiciones, el Ministro da una
+respuesta que a mí me deja insatisfecho: “Para dar respuesta a esta
+pregunta es importante precisar que la Autoridad Nacional de
+Televisión adelanto una reunión con los operadores públicos del
+servicio de televisión para la presentación de la propuesta de
+resolución y solicitó que se pronunciara sobre la estimación de los
+recursos destinados a la Televisión Pública”, sin embargo sigue
+diciendo el Ministro: “Los operadores no presentaron información que
+permitiera cuantificar los recursos por ellos esperados, por lo cual se
+asumió que la proyección del modelo de compensación se ajustaba a
+las necesidades de financiación para el fortalecimiento de estos
+operadores”.
+La versión que yo tengo Ministro es bastante distinta de la suya y por
+eso tengo especial interés de que hable Teleantioquia, desde luego la
+totalidad de los operadores, la versión que yo tengo es que usted cito
+a una reunión, la autoridad cito para el 12 de septiembre, informó el
+lunes anterior para hablar el tema de la reglamentación, excepto
+TeleiIslas, todos los demás entiendo hicieron presencia y en esa
+reunión con cierta vehemencia algunos gerentes, representantes de
+las televisiones regionales públicas hicieron varias objeciones y
+presentaron propuestas, hicieron discusión de fondo sobre el tema
+entre otras cosas de las preocupaciones porque el fondo tenia a cargo
+las pensiones, en fin el régimen de los ex -trabajadores y la autoridad
+tomo nota atenta de esas preocupaciones al punto que se modificaron
+parcialmente las proyecciones de la autoridad en esa materia,
+entiendo que se elevo de 40 a 48 mil millones de pesos los recursos
+destinados a los canales, lo que da un promedio de 6 mil millones por
+canal, que se determino que no se haría por indicadores financieros,
+sino por evaluación de los contenidos, lo cual me suena
+absolutamente razonables, que en esa reunión estuvo el doctor
+Alfredo Sale y la doctora Alexandra Falla en representación de la
+Autoridad Nacional de Televisión y que se discutió en general estos
+asuntos a los que yo estoy haciendo alusión.
+No creo que sea de buen recibo, que de una parte se niegue las
+observaciones de los operadores en la reunión y que de otra parte se
+pretenda algo así como birlar la posibilidad de que Teleantioquia
+invitada por los citantes debiera algo así como no representar la voz
+de los operadores, desde luego que comparto la decisión que ha
+tomado la Mesa de permitir que intervengan otros operadores para
+que seguramente secunden o niegue lo que yo estoy planteando aquí
+y las reclamaciones que en su oportunidad hizo Teleantioquia y los
+operadores que respaldaron indudablemente sus opiniones.
+Termino con lo siguiente señor Ministro, señores de la Autoridad
+Nacional y apreciados compañeros, quiero comprometerme en no
+desviar el tema de la discusión, pero yo creo que tiene razón el doctor
+Ciro Rodríguez cuando trata de presentar otros elementos de la
+discusión, casi como un anticipo de lo que debe seguirse de aquí,
+porque el país tiene derecho también a conocer cuál es el curso
+general de estas discusiones.
+Yo quiero aprovechar la oportunidad para referirme finalmente a mi
+preocupación por el intento que hizo el Gobierno Nacional de
+embolsillarse la Autoridad Nacional de Televisión, cuando aquí se
+empezó a discutir la pérdida del canon constitucional de la autonomía
+en nombre de los hechos de corrupción que se habían venido
+presentando efectivamente en la Comisión Nacional de Televisión, yo
+hice señor Ministro dos reflexiones, una primera, si se trata de eliminar
+las instancias que han revelado hechos de corrupción, pues tendría
+que cerrarse el propio Congreso de la República porque en épocas
+idas, pero de pronto no tan idas a presentado espectáculos grotescos
+en materia de corrupción y desde luego que el Congreso no aspira
+eso, aspira corregir esos hechos de cara al país y a ganar la autoridad
+y la confianza pública que le merece un Congreso de la República en
+una de cuyas células esta me consta, trabaja febrilmente por el país.
+Yo tengo que dar un reconocimiento a mis compañeros, pero lo otro
+que señale es que me preocupaba que la pérdida del carácter
+autonómico de la Comisión fuera objeto de un incremento del régimen
+presidencialista, esto es que el ejecutivo terminara embolsillándose
+unas funciones de una Comisión que se predicaba autónoma, al final
+fue exactamente lo que ocurrió, se decía que Alvaro Uribe se parecía
+a Bonaparte, el bonapartismo es un fenómeno político que se ha
+presentado en varias latitudes en la Francia del 48, ha sido objeto de
+varios estudios, pues yo sostengo que se le quedó chiquito Bonaparte
+Uribe a Bonaparte Santos, yo creo que vamos camino al Cesarismo
+presidencial, así el doctor Santos tenga otra formas, porque se elimino
+efectivamente la Comisión y el Ministro de las telecomunicaciones y el
+Presidente de la República fungen como personas muy importantes,
+como instancias muy importantes para postular y decidir sobre la
+Autoridad Nacional de Televisión cosa que antes estaba relativamente
+fuera de su alcance.
+Quiero dejar dicho mi preocupación por ese desarrollo y mi
+desencanto señor Ministro, porque usted aquí dijo que esa no era la
+intención del Gobierno Nacional, soy consciente señor Ministro que
+este será objeto de otro debate pero no podría señor Ministro dejar de
+decirle mi reclamo por ese comportamiento del Gobierno en esa
+materia, ya habrá ocasión doctor Ciro Rodríguez y apreciados colegas
+de seguir discutiendo el tema de la licitación de 4G. Muchas gracias
+señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:58:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Vea me han dicho aquí que esta el señor Juan Ricardo Gelves,
+Gerente del Canal Regional de Oriente, entonces pues obviamente
+que la Comisión le abre los micrófonos en su momento oportuno.
+Bueno le damos la palabra a la doctora Selene Botero Giraldo,
+Gerente de Teleantioquia y delegada de los Canales Regionales,
+según la proposición que existe aprobada y que está en desarrollo en
+el presente debate. Tiene la palabra doctora Selene Botero.</p>
+						</speech>
+						<speech by="#dra-selene-botero-giraldo" startTime="2012-09-26T08:58:20">
+							<from>Dra. Selene Botero Giraldo</from>
+							<p>Muy buenos días para todos los presentes y agradecemos la invitación
+y la oportunidad de participar en este escenario público donde se
+debate en estos momentos el futuro de la televisión pública y se
+aborda también el tema de los canales regionales.
+En primer lugar estamos aquí y cuando digo estamos aquí, estamos
+aquí a nombre de Teleantioquia, no vengo en representación de
+ninguno de los canales regionales, ningún gerente me delego, o sea
+que sería muy irrespetuoso y muy irresponsable de mi parte hablar en
+nombre de los otros gerentes, las palabras que yo exprese a
+continuación representan exclusivamente el concepto y la mirada que
+tiene Teleantioquia sobre la actual situación.
+En segundo lugar, el ánimo nuestro es ilustrar cuán es la situación que
+estamos viviendo los canales regionales y en ningún momento
+obviamente soy ni la contradictora del Ministro, ni del Ministerio, ni de
+la Autoridad Nacional de Televisión.
+También tendría que decir que la Autoridad Nacional de Televisión ha
+tenido mucha comunicación con Teleantioquia, con los canales
+regionales, hemos tenido la oportunidad de estar en trabajos y en
+jornadas conjuntas, nos han escuchado y en este momento que está
+en la construcción de ese borrador que para nosotros era tan
+importante y que tiene que ver con los recursos del fondo para el
+desarrollo de la televisión y de los contenidos, pues obviamente
+Teleantioquia ha sido muy activo, porque nos interesa mucho esta
+legislación que quede bien sólida, que quede firme, que quede
+beneficiosa para la televisión pública y por ello entonces hemos
+participado, nos han escuchado, cuando han visto cosas que nosotros
+aportamos y que consideran que desde la legalidad la pueden
+incorporar hemos sido escuchados, o sea que también sea este el
+escenario en compartir esta información.
+Y también Teleantioquia entiende que la Autoridad Nacional de
+Televisión esta en un periodo de conformación y que en este sentido
+pues no era tan fácil hacer el switche de off de la NTV y de encender
+inmediatamente la NTV.
+Entonces, bajo estas premisas tendría que decir pues como y aportar
+a este debate o a esta conversación 6 puntos que para nosotros son
+muy importantes: Uno, yo quisiera que de la presentación que era
+exclusivamente de Teleantioquia solamente de detenerme en una
+diapositiva y es para ustedes ilustrarles que Teleantioquia y de allí la
+importancia de nuestra participación en llave con la Autoridad Nacional
+de Televisión y de la determinación que se está haciendo con estos
+recursos del fondo, miren ustedes que somos muy dependientes de
+las transferencias de estos recursos, en el año 2000 cuando las
+transferencias disminuyeron para Teleantioquia inmediatamente
+Teleantioquia tuvo un saldo negativo, este año cuando también nos
+vemos afectadas por una determinación que no fue de la Autoridad
+Nacional de Televisión, sino que fue de la Comisión Nacional de
+Televisión y que tuvo que ver con los recursos y las transferencias de
+la Televisión por suscripción y que recibiremos un saldo negativo de
+5.300 millones, pues entonces vemos nuevamente que baja esta
+flechita y estamos nuevamente en saldo negativo, este saldo negativo
+para nosotros es muy grave, puesto que no solo dentro del
+funcionamiento diario de Teleantioquia y desde la parte financiera nos
+vemos afectados, si no que nuestros proyectos se ven afectados. Y
+adicional pues, les comparto que existe un memorando de advertencia
+por parte de la, Contraloría por una decisión exógena que no tenía que
+ver con mi administración, pero por la cual nos vemos afectados y que
+reitero hace parte de la Comisión Nacional de Televisión.
+El segundo punto, es que las condiciones para funcionar en el año
+2013 dijimos y en nuestra presentación expresamos que era de
+incertidumbre, puesto que de ese 60% que todos sabemos esta
+determinado para que de los recursos del fondo vayan para RTVC, la
+TDT y los canales regionales consideramos y llamamos la atención y
+hacemos una invitación para que se revise, si de este fondo deben
+salir los recursos de la TDT que realmente sería una tajada muy
+importante y el ánimo siempre es fortalecer la televisión pública,
+hacernos competitivos y hacernos visibles.
+Un tercer punto, tendría que ver con las transferencias directas que
+antes recibían los canales regionales y que se hacían por la televisión
+por suscripción, en este momento al parecer pues al pasar al nuevo
+fondo estos recursos parece ya no serán exclusividad de los canales
+regionales, sino que harían parte general del fondo, con lo que
+significaría que existirían nuevos beneficiarios, es decir se volvería a
+partir la tajada y recuerden que ya los beneficiarios de todo el fondo
+son canales locales sin ánimo de lucro y productores de contenidos.
+En cuarto punto llamaríamos la atención, para que revisáramos si los
+giros de los dineros se hicieron a partir de un solo instalamento,
+porque obviamente esto podría fácilmente demorar 2,3, 4 y hasta 5
+meses y la televisión pública pues obviamente si uno está hablando de
+un solo instalamento y se realizara por dar un ejemplo en el mes de
+abril ya habrían corrido 4 meses del año y los proyectos de televisión,
+los nuevos programas, los contenidos, los desarrollos tecnológicos
+pues obviamente tendrían un retraso en este sentido.
+También ya se ha hablado pues en esta mañana sobre el tema del
+pasivo pensional de Inravisión, hacemos la invitación para que no esté
+a cargo o se revise en la medida de lo posible y no esté a cargo de los
+recursos del fondo. Y lo último, es que antes los recursos de la CNTV
+estaban exentos de impuesto y al parecer ya serán constitutivos de
+renta, esto significaría un 32% de impuesto lo que nuevamente nos
+afecta.
+La Invitación es que como televisión pública queremos ser visibles,
+queremos ser competitivos, sabemos que nunca contamos con los
+recursos que tiene la televisión privada, cuando vamos a estrenar
+nuevos proyectos, no tenemos la capacidad de publicidad, de
+mercadear, de estar en el corazón y en la mente de tantos televidentes
+y sabemos también que la televisión privada y la televisión
+internacional se está llevando gran parte de la tajada, entonces esta
+defensa que hacemos de los recursos del fondo para el desarrollo de
+la televisión en beneficio de los canales regionales es en beneficio de
+unas audiencias que queremos conquistar para temas educativos,
+para temas culturales, para motivar como todo ese trabajo que debe
+realizar desde el escenario de la televisión pública, pero hacerlo con
+formatos competitivos, con formatos atractivos, porque si tenemos
+pocos recursos pues cada vez seremos menos visible y tendremos a
+desaparecer y hoy por hoy enfrentamos el internet, los nuevos medios
+y sabemos que la televisión ya no es solo esta pantalla donde el
+televidente, donde los canales programamos, sino que es el
+televidente que no escoge a qué horas ve los contenidos a través de
+qué medio y para ello es que nos queremos preparar.
+Básicamente esa es como la postura de Teleantioquia y nuestra
+invitación a partir de este debate y de esta reflexión sobre la
+legislación y el futuro de estos fondos tan importantes para la
+televisión pública. Muchas gracias a todos.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:58:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Juan Ricardo Helves, representante del
+Canal Regional de Oriente.
+Dr. Juan Ricardo Helves, Representante del Canal regional de
+Oriente:
+Muy buenos días señor Presidente, muy buenos días señor Ministro,
+doctora Presidenta de la ANTV, Honorables Representantes, un
+saludo especial para mi paisano y amigo doctor Ciro Rodríguez que
+también nos ha ayudado permanentemente desde el canal regional, a
+la doctora Selene Botero, al doctor Walter, a los compañeros de este
+viaje de la televisión pública cada día mirando cómo se puede
+trascender mucho más, al doctor Didier Tavera también Representante
+por nuestro departamento de Santander en esta Comisión.
+La verdad es que la doctora Selene Botero ha hecho una radiografía
+muy sucinta y muy real de lo que aspiramos los canales regionales en
+cuanto a lo que tiene que ver con los dineros que aspiramos puedan
+seguir creciendo desde la bolsa televisión para todas los regionales.
+Pero vale la pena decir, hoy también acá en aras de este debate que
+yo lo considero altamente sano para el desarrollo de la televisión
+pública y es que con la NTV nosotros los canales regionales por
+primera vez en la historia estamos haciendo un ejercicio señor Ministro
+de construcción de canales regionales, partiendo de la mano de la
+NTV y del ministerio de las TIC,s, hace algún tiempo la Comisión
+Nacional de televisión designaba los recursos y los entregaban a los
+canales regionales, hoy si no me equivoco hace aproximadamente 15
+días estuvimos en una reunión todos los canales regionales donde la
+NTV nos permitió por primera vez dialogar sobre la necesidad de
+nuestros recursos cruzar la intención de las necesidades, mirar, saber,
+conocer doctora que se quiere de la comisión pública regional, a que
+presupuesto aspiramos, como pensamos gastarlos y como pensamos
+implementarlos; la doctora Selene decía hace algunos minutos algo
+muy interesante, nuevos formatos, nuevas apuestas, nueva televisión,
+la doctora María Carolina Hoyos nuestra Viceministra ha hecho una
+propuesta muy importante a los canales regionales y es que
+desarrollemos nuevos proyectos con productores internacionales para
+que desde las regiones aprendamos a hacer televisión calificada
+internacionalmente y poder ser mucho más competitivos.
+Ese es un proyecto doctora que ya se nos expuso y hoy de la mano
+del ministerio de las TIC,s estamos adelantando proyectos
+interesantes como Vive Digital, estamos en el Canal Regional
+adelantando y somos los primeros en el proyecto Weltro, nos acaban
+de aprobar en el ministerio de las TIC,s y le quiero dar aquí en esta
+Comisión las gracias al doctor Diego Molano Vega la aprobación de
+una implementación para teléfonos móviles, porque ya estamos
+entrando también los regionales en el mundo de las TIC,s de un
+proyecto que vamos a desarrollar para los juegos nacionales que se
+acercan próximamente y los desarrollaremos de manos con Telecafé.
+Con Teleantioquia estamos desarrollando un proyecto muy bonito
+doctora Selene que es Soy Digital, un proyecto que ya empezamos
+precisamente a rodarlo ayer en la ciudad de Bucaramanga y yo creo
+que las expectativas son muy buenas, la inquietud real de los
+regionales doctora es que de esos presupuestos de los cuales nos ha
+hablado el Ministro y de esa apuesta que también ha hecho el Ministro
+por cuidar de buena manera que los dineros que paga la televisión o
+que entrega la televisión paga para el desarrollo de la televisión
+pública, pues los canales regionales no nos vayamos a ver afectados
+con la apertura de otros procesos como la televisión comunitaria,
+como productores externos o como la misma televisión digital terrestre
+que apuesta llevarse una gran partida de esos dineros que podrían
+afectar a la televisión regional.
+La doctora Selene dijo hace algunos meses en el Consejo de Medellín
+unas palabras que nos quedaron sonando a casi todos los gerentes de
+los regionales y es: “Que los regionales son televisión no para
+consumidores sino para formadores”, dijo la doctora Selene en esa
+oportunidad, yo creo es muy importante tener en cuenta eso, los
+canales regionales no estamos hechos para hacer canales que a final
+de cada año demos grandes cantidades de dinero o seamos
+económicamente una bolsa de apostar y ganar.
+Yo creo que con una televisión bien hecha, con los formatos que le
+está apostando la ANTV a los aportes que está haciendo el Ministerio
+a través del doctor Diego Molano; por ejemplo en el Canal Tres son
+tres proyectos que hemos podido desarrollar, vamos a ir adelante, yo
+considero que es importante esto, pero así como considero que es
+importante también, me uno a la voz de Selene cuando dice que hay
+que cuidar los recursos para la televisión pública y no abrir tanto ese
+abanico porque realmente eso nos puede afectar.
+A la Presidenta de la ANTV le quiero dar públicamente las gracias por
+habernos invitado hace aproximadamente 15 días a debatir los
+presupuestos de la televisión pública doctora, por primera vez en la
+historia de nuestra televisión se habló públicamente de cómo se debe
+gastar esta plata y como la debemos proyectar, esperamos antes del
+mes de enero tenerle los presupuestos la ANTV y esperamos que
+antes de febrero esos dineros se le entreguen a las regionales en un
+solo giro como se ha venido hablando doctor Walter para que
+acabemos con el goteo de los dineros de la televisión pública en
+nuestro país.
+Muchas gracias señor Presidente, muchas gracias Honorable
+Representantes y Ministro muchas gracias por el aporte que le hace
+usted a la televisión pública.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:58:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el señor ministro Diego Molano Vega, bienvenido a
+esta Comisión y este debate.</p>
+						</speech>
+						<speech by="#dr-diego-molano-vega" startTime="2012-09-26T08:58:50">
+							<from>Dr. Diego Molano Vega</from>
+							<p>Muchas gracias señor Presidente, un feliz día a todos los
+Representantes de la Comisión Sexta y agradecerles nuevamente por
+este debate, me parece muy importante que la Comisión Sexta haga
+seguimiento a todos los temas del mundo de las tecnologías de la
+información y las comunicaciones, me parece muy importante que se
+haga seguimiento a ese proyecto que fue discutido ampliamente en
+esta sala y me parece muy importante que se esté haciendo
+seguimiento a todas las políticas que tiene que ver con televisión.
+Lo primero recalcar las políticas del ministerio de las TIC,s y las
+prácticas, yo vi que ustedes lo están viendo con las declaraciones de
+los canales regionales y especialmente con las declaraciones del
+gerente, el ministerio TIC,s siempre en esta administración ha tenido
+unas políticas de apertura, de diálogo, de buscar entre todos las
+mejores soluciones y eso lo hicimos en el debate de la ley de
+televisión y ahora lo estamos haciendo en esa ejecución de la ley de
+televisión.
+La preocupación sobre el futuro de la televisión pública ha sido
+clarísima desde el primer día de gobierno del Presidente Santos
+¿cómo fortalecemos la televisión pública? En un momento en que la
+televisión en general está sometida a una gran transformación por la
+venida de las nuevas tecnologías y eso lo debatimos ampliamente
+aquí en la construcción de esta Ley de Televisión y como ustedes ven
+esa política de apertura se está dando de diálogo, de buscar
+soluciones conjuntas, de buscar más recursos, de buscar más
+sinergias.
+Y si ustedes recuerdan en el debate de la ley de televisión nosotros
+decimos estamos preocupados por la televisión pública, por los
+recursos para la televisión pública, miren este ejemplo tan sencillo
+como los recursos que se han destinado por ejemplo del presupuesto
+de este año para hacer contenidos en RTVC, para hacer contenidos
+¿Qué significa hacer contenidos para canal institucional? Para señal
+Colombia que son los mayores gastos y para muchas otras
+transmisiones especiales RTVC solo conto con 12 mil millones de
+pesos para hacer todos los contenidos, ¿Saben cuánto cuesta hacer
+una producción de 26 capítulos de una novela promedio que hace la
+televisión privada?. Vale más de 30 mil millones de pesos, solo una
+novela.
+Entonces, yo dije tengamos en cuenta esas magnitudes totalmente
+diferentes, todo RTVC para hacer todas las producciones de televisión
+pública, incluyendo Canal Institucional 12 mil millones al año y hacer
+una novela cuesta promedio 30 mil millones.
+Entendamos esas restricciones que tenemos y venimos trabajando
+fuertemente para que haya más recursos y se ejecuten más
+eficientemente, entonces estamos frente a un reto muy grande en el
+país y ese debate lo hicimos aquí al hacer la Ley de Televisión y lo
+hicimos ampliamente y dijimos ¿cómo buscamos más recursos?
+Primero con unas instituciones más eficientes y luego la doctora
+Alexandra Falla va a mostrar en su presentación todo lo que nos
+hemos ahorrado del cambio de la estructura institucional anterior a la
+actual, que son recursos que van para ser más contenidos de la
+televisión.
+Segundo, el tema de las pensiones, ese es un gran debate y que
+tuvimos aquí incluyendo al ministro de Hacienda ¿Y en que se
+comprometió el Gobierno? Aa que con la plata del dividendo digital se
+pagaban las pensiones y eso quedo estipulado en la ley tal cual y
+aceleramos totalmente el proceso del dividendo digital o la cuarta
+generación o las frecuencias bajas para poder asignarlos y esperamos
+en el primer semestre del próximo año tener ya esos recursos para
+fondear ese pasivo de Inravisión y tener pues cerca de 50 mil millones
+de pesos adicionales para la televisión pública y seguir buscando más
+recursos.
+En esa búsqueda de recursos que son muy importantes, cuando
+empezamos a sesionar en la ANTV la primera preocupación fue que el
+Fondo de la Televisión que nutre a los canales regionales estaba
+cayendo y cayendo radicalmente, o sea no solo necesitamos más
+dinero, sino que el dinero que estaba entrando estaba cayendo y de
+las primeras decisiones contundentes de la ANTV fue solucionar el
+problema para estabilizar los ingresos del Fondo de la Televisión una
+gran pelea con el sector privado, muy fuerte pelea con el sector
+privado y digamos que se cerró ese sangrado que había del Fondo de
+la Televisión y además tuvimos como siempre amenazas de
+denuncias, de los jugadores privados, de la televisión y eso garantiza
+hoy en día que no está desafortunadamente eso en las tablas que
+presentamos, pero los vamos a actualizar, 25 mil millones de pesos
+adicionales al año para la televisión pública vs el esquema anterior,
+más 50 mil millones más o menos de los pasivos de Inravisión que
+vienen del dividendo digital estamos tratando de generar cerca de 75
+mil millones de pesos adicionales a esa televisión pública, que es un
+poco más del 50% adicional de recursos que tiene hoy en día.
+Entonces, estamos muy preocupados por esos recursos para la
+televisión y estaremos trabajando en hacer más óptimo ese ingreso y
+la gente ya está trabajando fuertemente con el ministerio TIC,s en ver
+también que la regla se cumpla, porque la verdad, lo que hemos visto
+por las investigaciones que se están llevando tenemos indicios,
+sospechas de que hay mucha gente evadiendo las normas de
+televisión en lo que se refiere a los pagos que hay que hacer al Fondo
+de Televisión con el que se financia la televisión público.
+Entonces, estamos trabajando siempre para que esos ingresos
+aumenten, otro elemento importantísimo en ese caso, vimos que había
+por ejemplo una restricción desde los 90 no había posibilidad de que
+entraran nuevos jugadores a la industria que generaran ingresos
+adicionales para la televisión pública, eso estaba totalmente cerrada
+esa puerta desde los 90 ¿y que hicimos? Abrir esa puerta, abrir esa
+puerta para que venga nuevos jugadores y ayuden a fortalecer ese
+Fondo de la Televisión y estamos en un proceso y ya hay un muy
+buen número de compañías que están entrando, 21 compañías
+adicionales, más apertura, que fue lo que planteamos justamente en
+esta sala que era lo que íbamos a hacer y eso es lo que estamos
+haciendo y que haya más apertura, más competencia que nos va a
+generar más recursos para la televisión pública.
+Entonces, es muy importante señalar eso, pero adicionalmente una
+cosa muy importante, como lo mencionan los canales regionales, el
+ministerio TIC,s está muy preocupados por el tema, no solo de los
+ingresos sino de cómo nos gastamos la plata, porque es poquita plata
+pues busquemos sinergias y ellos como lo han demostrado, nosotros
+en el ministerio de las TIC,s nos hemos dedicado a ver cómo hacemos
+para que haya más sinergias entre los operadores públicos que haya
+producciones conjuntas de contenidos, que haya contenidos de mejor
+calidad; que una cosa que nos está pasando y es que nos están
+midiendo mal, porque la forma de medir el rating con base en el cual
+se paga la pauta, pues realmente no refleja la realidad del mercado,
+entonces también estamos haciendo, viendo cómo hacemos para
+medir bien y que la gente que paute pague. porque realmente los
+canales regionales tienen una muy buena audiencia, pero no donde
+están las ciudades, sino en las zonas rurales, en las zonas remotas y
+de esta forma pues vamos a ver cómo hacemos para que los que
+pauten paguen más porque tienen realmente más audiencia que se
+demuestre.
+Estamos también uniendo esfuerzos entre todos para hacer
+producciones conjuntas, para que haya una mayor eficiencia en la
+ejecución de esos fondos y también que se dé un salto a las nuevas
+tecnologías; además de esos recursos el Fondo TIC,s ha invertido
+cerca de 10 mil millones de pesos en ayudar a los canales a dar ese
+salto tecnológico, a pasar de la televisión a este nuevo mundo
+convergente, al nuevo mundo de Internet, estos recursos se han
+destinado para que se monten las páginas web, para que se monten
+como dice el gerente del canal Tro, para que se monten aplicaciones
+móviles, para que los canales públicos también salten al mundo de
+internet, igual que está haciendo la BBC de Inglaterra, o la Televisión
+española, o todos los canales en el mundo y estamos en un proceso
+de acelerar todo este tema del salto al mundo convergente.
+También para ser eficientes acordamos con todos que no tiene sentido
+que cada operador tenga su red de televisión digital, aquí hay
+sinergias, no tiene sentido que entonces en un cerro haya un
+transmisor de uno, más el otro, mas el otro, más RTVC, no,
+acordamos entre todos hacer solo un proyecto, una red de la televisión
+digital que hoy ya está en licitación y va a tener todas las sinergias y
+así los canales regionales se van a dedicar a lo que saben y ese es el
+contenido y RTVC va a operar la red en todo el país y de esa forma
+vamos a tener oportunidad de que haya más sinergias.
+También nos preocupa como Gobierno Nacional que muchos de los
+operadores o algunos de los operadores de cable o satelitales no
+llevan a las casas de los colombianos los canales públicos entre ellos
+Directv, Directv no está llevando todos los canales públicos y es una
+preocupación y el Presidente Santos se reunió con el, Presidente de
+Directv y le dijo usted tiene que invertir en este país, tiene que hacer
+eso y Directv se comprometió a lanzar un nuevo satélite para que
+todos los canales regionales estén también en Directv y es además
+obligación de todos los operadores de cable llevar a los canales
+regionales en su zona.
+Adicionalmente nos preocupa, que mucha gente en el país no tiene
+televisión y no llega ninguna señal incluida los canales regionales, la
+ATV ya aprobó el proyecto de la televisión directa al hogar, la
+televisión social directa al hogar, la televisión satelital, la
+infraestructura satelital la ejecutamos a través de RTVC y ahí van a
+estar todos los canales públicos prioritariamente, todos los canales
+públicos regionales y nacionales para que un usuario con una
+pequeña antenita reciba todos los canales sin tener que pagar una
+mensualidad, totalmente gratis, tendrá que comprar la antenita y
+estamos viendo que esa antenita pues sea lo más barata posible para
+el usuario.
+Pasamos al tema de coberturas, que es una preocupación muy grande
+y de todas las regiones, aquí no más en el sur de Boyacá está
+prácticamente sin cobertura de televisión pública por varios temas, uno
+porque los repetidores se los roban mucho, porque no hay energía y
+también por el tema de cobertura geográfica, esta solución resuelve
+totalmente ese problema.
+Respecto a los temas de la independencia de la Autoridad Nacional de
+Televisión sobre los temas presupuestales, pues yo coincido en que
+este es un tema que hemos debatido muchísimo en el ministerio de
+Hacienda y hemos estado con los miembros de la Junta de Televisión
+en el ministerio de Hacienda explicándole a ellos las simplicaciones
+que tienen, justamente en la discusión del presupuesto que hoy se
+está debatiendo en este Congreso de la República y ahí donde les
+pido a ustedes que van a estar en los debates en Plenaria, que nos
+ayuden a aclarar el tema de la ley, porque hay una interpretación en el
+ministerio de Hacienda al respecto, una interpretación que hacen los
+abogados del ministerio de Hacienda y que al final del día esto pues
+va a terminar en la Procuraduría General de la Nación este debate, lo
+que les rogaría a ustedes es que revisen este tema justamente para
+que en este proyecto de ley se aclare esa zona gris que quedo para
+una interpretación jurídica y yo creo que el momento es justamente en
+esta ley de presupuesto, además porque es muy importante para
+nosotros, si no se aclara Hacienda nos va a obligar por ejemplo para
+el proyecto de DTH social hacer CONFIS y CONPES y pedir vigencias
+futuras que se nos va a demorar 6 meses más el proyecto en
+ejecución por todo el tema de vigencias futuras.
+Entonces, es muy importante que se aclare en este proyecto de ley de
+presupuesto este alcance total de la independencia presupuestal de la
+Comisión Nacional de Televisión.
+Así mismo, estamos trabajando para que haya más recursos y
+además más producciones, que más gente vea, y por ejemplo
+estamos haciendo alianzas con los grandes productores de televisión
+internacional para aprender como ellos y hemos hecho alianzas muy
+importantes como Plaza Sésamo, para hacer operaciones conjuntas
+en Colombia para plaza sésamo, también la estamos haciendo para
+discovery, esta gran casa internacional de producciones, en un
+acuerdo en el que se producen las cosas en Colombia en alianza con
+la televisión pública para no solo proyectarlas en los canales
+colombianos, sino que ellos utilizan esos materiales para proyectarlos
+en todos sus canales internacionales en español.
+Entonces, estamos trabajando incansablemente para que esa
+televisión pública se fortalezca y este acorde a las nuevas tendencias
+tecnológicas.
+Por otro lado compartimos la preocupación que tienen los ponentes
+sobre los presupuestos del ministerio TIC,s en esta ley de
+presupuestos, aunque crecemos de una manera importante, en el
+presupuesto está planteado, si uno compara el crecimiento
+presupuestal de la: Industria TIC,s o del sector de las TIC,s con otras
+industrias de crecimiento el nuestro es muy cortico y eso es un debate
+grande que hemos tenido con el ministro de Hacienda y en Consejo de
+ministros y tuvimos un gran debate en consejo de ministros sobre los
+excedentes financieros que van de los recursos del Fondo TIC,s para
+otras industrias y ahí seguimos teniendo el debate que con el
+ministerio de Hacienda sobre esos excedentes financieros, la teoría
+nuestra que esos excedentes financieros son del Fondo TIC,s, pues
+no ha tenido un aval jurídico de Hacienda, porque si así fuera pues
+entonces todos los recursos los excedentes financieros de otros
+fondos, de otras industrias también se quedarían otras industrias y se
+afectaría los presupuestos de muchas otras áreas del Estado que son
+necesarias.
+Entonces, me parece muy bien que este debate de presupuesto se
+esté dando, nosotros respecto a lo que propusimos inicialmente nos
+parece que nos hace falta en recursos, digamos quedamos cortos
+dentro del presupuesto que esta propuesto, que está discutiendo para
+los proyectos regionales, nos hace falta dinero, ahí tenemos
+proyectados cerca de 100 mil millones de pesos, pero cuando ustedes
+ven los proyectos que se presentan, que se están haciendo en las
+regiones y la verdad es que hay que reconocer ese esfuerzo que están
+haciendo las gobernaciones, que están haciendo los municipios por
+desarrollar más proyectos de TIC,s y proyectos de TIC,s hechos
+técnicamente con un impacto social muy importante, con impacto en
+desarrollo muy importante, sería bueno contar con más recursos
+justamente para financiar esos proyectos regionales de tecnologías de
+la información y las comunicaciones.
+Vamos a estar muy pendientes del debate presupuestal en las
+próximas semanas para que veamos si se pueden asegurar recursos
+para estos proyectos regionales de TIC,s, así mismo quiero aclararle a
+todos y muchos de ustedes han estado muy al tanto de esos proyectos
+regionales que se presentaron hace unas semanas dentro de la
+convocatoria que hizo Colciencias, desafortunadamente el mecanismo
+que teníamos previsto de evaluación de esos proyectos con
+Colciencias y que lo teníamos conversado con ellos no se hizo tal y
+como lo teníamos acordado, el mecanismo de evaluación era que
+venía cada región a un jurado en donde estaba el ministerio TIC,s y
+presentaba sus proyectos y que nos parecía más apropiado porque el
+año pasado por ejemplo un proyecto que tuvo ya unos problemas
+como lo señalo la doctora Juana Carolina Londoño, pero logramos
+sacarlos adelante, nos demoramos pero lo sacamos adelante.
+El año pasado por ejemplo, encontramos algunos proyectos de las
+regiones en el que justamente gracias a esa metodología de sentarnos
+conjuntamente con expertos y ver los proyectos encontramos que
+había proyectos muy válidos y que podemos fortalecer inclusive por
+otros programas del Ministerio, inclusive todavía más allá de lo
+propuesto y también encontramos proyectos con problemas, un poco
+amañados, por ejemplo en unos proyectos propuestos encontramos
+que el ejecutor era una compañía que hacia feria de zapatos y ahora
+era un experto en TIC,s que ejecuta los proyectos de TIC,s, gracias
+justamente a ese mecanismo que utilizaba y acordamos con
+Colciencias que para esta convocatoria íbamos a hacer el mismo
+proceso, pero Colciencias no respeto eso, en la transición en la que
+estaba se hizo un proceso de evaluación de esos proyectos iguales
+que los que hace para otro tipo de proyectos que no tienen nada que
+ver con las tecnologías de la información en las comunicaciones, una
+valoración que le hemos dicho a Colciencias que no estamos de
+acuerdo e inclusive proyectos que acompañó desde el comienzo el
+ministerio de las TIC,s a formular, es más todos los proyectos que el
+ministerio TIC,s acompaño en la formulación también los rechazo y no
+entendemos porque, entonces estamos dialogando ahora y tenemos la
+fortuna de tener un nuevo, director de Colciencias que se posesiono el
+viernes pasado, que entiende el tema y que nos está abriendo las
+puertas para que solucionemos el problema en los próximos días y le
+demos viabilidad a estos proyectos, que los analicemos bien, porque
+no tiene sentido que estos proyectos que han hecho una forma técnica
+de 63 proyectos solo se aprueben 3.
+Hoy los equipos del ministerio TIC,s y Colciencias se reúnen para ver
+los detalles, yo me reúno mañana en la mañana con el, director de
+Colciencias para ver como destrabamos este tema, pero es urgente
+que así se haga, porque además se está afectando de una manera
+importante la implementación del plan Vive Digital.
+Entonces, esperamos que esto se destrabe y que demos paso a todos
+estos proyectos regionales que son muy importantes para el desarrollo
+del país y sobre todo para el desarrollo de las regiones y solo como
+para ponerles un ejemplo en uno de los casos que es uno de los
+emblemáticos en donde una región propone generar un nuevo modelo
+educativo utilizando las TIC,s, utilizando tabletas para el sector
+educativo, el jurado de Colciencias dice que eso no es ciencia y
+tecnología e innovación, que eso no es innovar con un nuevo modelo,
+dicen que no, que inventarse la tableta o inventar el computador sí,
+pero no llevarle las tabletas con un nuevo modelo educativo a los
+niños, eso no es innovación y eso realmente me preocupa y no solo
+por ese proyecto, me preocupa es por las interpretaciones de
+Colciencias de los proyectos de regalías de ciencia y tecnología,
+porque ahí hay un billón de pesos y por eso esperamos que el nuevo
+director de Colciencias le cambia el Chip a la institución, que entienda
+la realidad del país, que entienda la realidad de las regiones, porque la
+Secretaría Técnica de los proyectos de ciencia y tecnología e
+innovación de las regalías las hace Colciencias y yo creo que tenemos
+ese reto, el nuevo, director entiende muy bien el problema y estamos
+seguros que vamos a trabajar conjuntamente para cambiarle esa
+mentalidad a Colciencias y hacerlo mucho más práctico, entendiendo
+la realidad del país y entendiendo ese otro elemento y esa Innovación,
+esto no es pura investigación y desarrollo, es investigación, desarrollo
+e innovación, hay que entender el tema también de innovación,
+entonces señores Representantes esperamos en los próximos días
+tener una respuesta para todas las regiones y una respuesta positiva
+para todos.
+Entonces, yo les quiero agradecer por este debate, agradecer a todos
+ustedes, a los canales regionales, muchos de los temas de las
+preguntas que están, sobre todo los detalles de los números los
+presentara la doctora Alexandra Falla, quién tiene una presentación y
+quién les va a contar a ustedes muchos de los detalles y muchos de
+los avances que tenemos en materia de televisión y además les quiero
+y respecto justamente a este tema que levanta el doctor Ciro
+Rodríguez sobre las instituciones y estamos y compartimos totalmente
+la opinión, tenemos que fortalecer nuestras instituciones.
+Les informamos que la UIS, la Universidad Industrial de Santander
+eligió al miembro de la Junta de Televisión que representa la sociedad
+civil y estará posesionándose la próxima semana y así mismo estará
+haciendo el Presidente.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-09-26T08:59:00">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Para una réplica Presidente, es que no se si la agencia y el Ministro
+conoce los problemas tan graves que está surgiendo la UIS, ayer salió
+un fallo, acaban de destituir al rector que se acaba de elegir, van a
+poner otro encargado, es un proceso de ingobernabilidad, no sé si
+pueda terminar demandado ese proceso de elección, porque ha sido
+muy inestable el gobierno de la UIS en estos días, yo creo que eso
+puede generar problemas, solo era para esa claridad Presidente.</p>
+						</speech>
+						<speech by="#dr-diego-molano-vega" startTime="2012-09-26T08:59:10">
+							<from>Dr. Diego Molano Vega</from>
+							<p>Bueno nosotros lo vamos a verificar y obviamente pues esto es un
+proceso que se ha hecho bajo todas las normas.
+Entonces, así mismo, el doctor Ciro Rodríguez lo mencionaba sobre el
+proceso de cuarta generación y la posición de dominio del proceso de
+la Comisión de Regulación, no habíamos podido avanzar en los temas
+de decisiones del tema, porque había un proceso en la Procuraduría
+General de la Nación sobre uno de los miembros de la Comisión de
+Regulación de las Comunicaciones, esto se resolvió la semana
+pasada por la procuraduría, ya se está ajustando el equipo de la
+Comisión de Regulación de Comunicaciones para que se tomen todas
+las decisiones que están pendientes en los próximos días y me parece
+además señor Presidente y señor Vicepresidente muy apropiado que
+se haga el debate y aceptamos obviamente como es nuestro deber
+legal pero con alegría y de venir aquí a debatir los temas de la cuarta
+generación, que es un debate que tiene que darse en esta Comisión,
+esta es la Comisión que ve los temas de telecomunicaciones, que me
+parece muy apropiado que ese debate se de aquí sobre la cuarta
+generación. Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:59:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto señor Ministro, doctor Diego Molano Vega, debo
+decir a los Honorables Representantes que hay inscritos hasta ahora 4
+Representantes para intervenir, Miguel Angel Pinto Hernández, Carlos
+Andrés Amaya, Wilson Gómez, Diego Patiño y Wilson Arias.
+Es que le quiero dar la palabra a la doctora Falla para que intervenga y
+después hacemos la ronda de Congresistas.
+Yo quiero también saludar al doctor Darío Montenegro, él es el
+Gerente de RTVC que nos acompaña y también Lenar Rodríguez, él
+es el gerente del Canal 13 Teveandina, que tiene que ver con la
+producción que hace para poder hacer al Congreso de la República
+para poder transmitir estas sesiones en el Canal Institucional.
+Entonces doctora Alexandra Falla tiene la palabra, ella como ya lo
+sabemos es la representante de los señores Gobernadores y por
+consiguiente miembro de la Junta de la Autoridad Nacional de
+Televisión.</p>
+						</speech>
+						<speech by="#dra-alexandra-falla" startTime="2012-09-26T08:59:30">
+							<from>Dra. Alexandra Falla</from>
+							<p>Muy buen días Honorables Representantes, en verdad creo que
+quienes sentimos la televisión regional y nos preocupamos por ella
+porque venimos de la televisión regional, nos complace muchísimo
+poder tener esta oportunidad y más en un momento tan coyuntural en
+el que estamos en un proceso de construcción de la nueva Autoridad
+Nacional, tratando de no cometer los errores del pasado, tratando
+además de hacer unas regulaciones que den respuesta a las
+necesidades que tiene la televisión pública hoy y que por supuesto de
+la manera más general tiene el sector de la televisión que como bien a
+mencionado el Ministro, es un sector que esta hoy avocado a grandes
+cambios y modificaciones, dado todo el advenimiento tecnológico y
+dado un texto de convergencia que sin duda alguna nos impune a los
+legisladores y reguladores retos muy importantes en lo que tiene que
+ver con la consecución de unas fuentes de financiación que nos
+aseguren efectivamente el futuro de la televisión pública.
+Arrancaría entonces con la presentación, pues lo primero que se ha
+mencionado es que evidentemente ustedes tuvieron a bien de manera
+bastante positiva dejar un 60% de los recursos del Fondo de la
+Televisión destinado al fortalecimiento de los operadores públicos, con
+el propósito obviamente de fortalecer a si mismo los contenidos
+educativos y culturales de la televisión colombiana para que realmente
+la televisión pública que es lo que esperamos todos se convierta en
+una alternativa atractiva para el televidente colombiano y en este
+sentido además de atractiva pueda ser realmente una propuesta
+alternativa y diferente a la televisión comercial.
+De acuerdo a lo que está previsto en la Ley este 60% corresponde
+entonces al fortalecimiento de la televisión pública, incluyendo por
+supuesto RTVC y los canales regionales y está clarísimo que de
+acuerdo a lo que hemos previsto también en nuestra agenda
+estratégica está además todo lo que tiene que ver con la digitalización
+de la televisión.
+Al respecto yo quisiera señalar que es muy importante no disgregar
+estos dos debates, es decir yo creo que la televisión regional sin duda
+alguna no puede quedarse por fuera del proceso de digitalización y
+eso es precisamente lo que hemos entendido desde la ANT y es por
+ello que ya hemos arrancado un proceso que tiene que ver con 13
+cabeceras de televisión regional para todo el proceso de digitalización,
+no podríamos imaginarnos un contexto donde tengamos la televisión
+privada digitalizada y unos canales regionales por fuera de esa
+digitalización y todavía emitiendo de manera análoga, creo que eso
+sería muy grave en el futuro más inmediato y en ese sentido hemos
+tratado de empezar a desarrollar unas acciones para poner a la
+televisión regional a tono con esa nueva realidad de digitalización.
+En este sentido los grandes retos que tenemos pues obviamente
+tienen que ver con la digitalización de la red y con la preparación para
+lo que será el apagón analógico previsto para el 19 o antes si es
+posible ojala lo logremos antes, el apoyo a todo el tema de producción
+de contenidos televisivos y educativos en donde el Ministro y en la
+reunión que tuvimos con las regionales tuvimos oportunidad de decirlo,
+hemos pensado que es muy importante la optimización de estos
+recursos a través de convenios entre los canales regionales, uniones
+entre los canales regionales, así mismo de los canales regionales con
+RTVC como operador público en la medida en que los recursos del
+fondo no son los que quisiéramos; hay además de acuerdo a lo
+planteado en la ley nuevos beneficiarios de ese fondo, como son la
+televisión sin ánimo de lucro comunitarios y canales regionales y en
+ese sentido tenemos que ser bastante creativos en materia de
+optimización de esos recursos que vienen para fortalecer la televisión
+pública en Colombia.
+Nos han preguntado la Representante Juana Carolina Londoño sobre
+el tema del panorama de ingresos por parte de la extinta CNTV en lo
+que comprende el periodo más o menos del 95 al 2011 frente al tema
+del panorama de ingresos o a los ingresos que en su momento la
+televisión pública tuvo por parte de la CNTV, es importante mencionar
+que hemos hecho una distinción entre la televisión pública nacional en
+cabeza por supuesto del RTVC y de la televisión pública regional y
+tenemos entre 2005 y 2011 una financiación, 672 mil 153 millones de
+pesos, que más o menos nos da un promedio de 96 mil millones
+anuales en donde obviamente pues RTVC tiene por ejemplo para el
+caso del 2005, 58 mil millones, mientras los canales regionales tienen
+un estimado de 20 mil millones de pesos.
+Voy avanzando en las distintas inquietudes que se han planteando por
+parte de los intervinientes en este debate, aquí es muy importante
+mencionar en relación con lo que hablaba Selene frente al tema de la
+priorización que está promoviéndose con los recursos del Fondo para
+el Desarrollo de la Televisión en donde se habla de una priorización de
+RTVC, luego TT y luego canales regionales y es muy importante
+mencionar que la Ley 182 de 1995 sigue vigente y es una ley que le
+ordeno a la CNT y por supuesto a la ONTV a hacer los giros
+suficientes y necesarios para el mantenimiento del operador público
+nacional, es decir de RTVC, en este sentido lo que quiero mencionar
+es que esta priorización no es una priorización que hagamos al libre
+albedrio o que hagamos porque nos parece o no nos parece, sino
+porque es un mandato legal, es un mandato que está consagrado en
+la Ley 182, pues casi que la mayoría del texto de la Ley 182 sigue
+vigente y eso es muy importante no perderlo de vista en el contexto
+del debate.
+Miremos ahora el tema de los ingresos de la televisión pública desde
+la perspectiva ya de la ANT, los recursos para el 2012 estos fueron
+previstos realmente por la CNTV, la CNTV en su momento si mi
+memoria no me falla, más o menos a finales del mes de septiembre
+tuvo a bien informar a los canales regionales los recursos con los que
+iba a contar durante este año. En ese proceso se le dio la opción a los
+canales regionales de que presentaran proyectos por unos montos
+establecidos, son unos montos que ustedes tienen allí en la pantalla y
+es importante mencionar sobre el trámite administrativo que tuvieron
+estos proyectos y este presupuesto que la Comisión Nacional de
+Televisión en su momento destino esos recursos pero no en todos los
+casos alcanzo hacer las reservas presupuestales que daban
+realmente sustento a esas aprobaciones que se hicieron en primera
+instancia y que se informaron a los canales regionales.
+En este sentido lo que ha hecho la ANT es: uno, seguir con los giros
+que había previsto la CNTV sobre proyectos aprobados; y dos, expedir
+una resolución en donde asumimos esos montos que fueron
+asignados en su momento por la CNTV, los mantenemos, los
+garantizamos para este año y quienes no habían presentado
+proyectos lo que estamos haciendo es darles un plazo hasta finales
+del mes de octubre para que puedan presentar esos proyectos y
+puedan acceder a los recursos que en su momento la Comisión
+Nacional de Televisión les había prometido, pero cuyo proceso
+administrativo no se había llevado a cabo una vez asumió las
+funciones la ANT, no sobra decir además que como ustedes saben y
+creo que lo sabemos todos los procesos de transición no son procesos
+fáciles, pero hemos tratado y lo digo con todo el conocimiento de
+causa, de generar el menor traumatismo posible en este proceso de
+transición y entendemos claramente que ese menor traumatismo
+posible esta dado precisamente para el caso de los canales regionales
+que son quienes más dependen de los recursos del Fondo para el
+Desarrollo de la Televisión.
+Es por eso además que en términos de la reglamentación del Fondo
+para el Desarrollo de la Televisión como tuvieron oportunidad de
+mencionarlo Selene y Ricardo el gerente del TRO, hemos convocado
+a los operadores públicos, lo que nos menciono el Representante
+sobre la priorización y sobre algunas cosas que están previstas en esa
+reglamentación, son un proyecto, aún no se ha publicado el proyecto,
+estamos esperando hacerlo en próximos días, para que
+evidentemente ya tengamos una mayor certeza de que como se van a
+manejar los recursos del año entrante, nuestro primer reto fue
+solucionar la problemática del 2012; toda vez que insisto la Comisión
+Nacional de Televisión no había dejado solucionado todo el tema de
+los recursos que en un momento determinado se habían prometido
+para la televisión regional y para RTVC con quien también tuvimos que
+hacer un ejercicio de asumir las decisiones administrativas de la CNTV
+para poderlas hacer efectivas en términos de las asignaciones y de los
+giros y desembolsos correspondientes por parte de la ANTV.
+Creo que el tema del pasivo pensional de Inravisión ha sido ya un
+tema pues que ha tratado el Ministro, evidentemente como lo
+menciono la Representante Juana Carolina Londoño, hubo un
+problema de la redacción del articulado y está clarísimo que hasta
+tanto no se den los recursos del dividendo digital, será la ANTV la que
+tenga que seguir asumiendo ese pasivo pensional, la buena noticia es
+que este tema del dividendo digital va a empezar a darse ya a
+comienzos del año entrante y que precisamente a través de ese
+proceso de liberalización de las frecuencias vamos a empezar a tener
+unos recursos para la televisión pública que tiene que ver
+específicamente con el pago del pasivo pensional tal y como lo
+establece la Ley 1507 promulgada por este Congreso.
+Frente al tema de nuestros retos, uno de ellos por supuesto tiene que
+ver con el fortalecimiento de la televisión pública y con poder sostener
+los recursos de la televisión pública, toda vez que como mencionaba el
+Ministro, pues los recursos se hacen insuficientes ante el número de
+beneficiarios del Fondo que tenemos hoy, en ese sentido una primera
+medida tomada por la ANTV y que creo que es absolutamente vital
+para la televisión pública es el cambio del pago de la compensación
+para la televisión por suscripción, quiero mencionarles que la televisión
+pública se nutre en un 47% de los ingresos de la compensación de
+servicios de televisión por suscripción, sin embargo para hacer un
+comparativo con la extinta CNTV lo que se vio en los 5 últimos años es
+decir del 2007 al 2005 es que los ingresos por materia de
+compensación en televisión por suscripción bajaron en un 20.8 %; esto
+es más o menos en cifras gruesas nos aproximamos a 20 mil millones
+de pesos de disminución de recursos del Fondo para el Desarrollo de
+la Televisión entre el 2007 y el 2011, obviamente esta disminución se
+daba a la par que teníamos una duplicación del número de usuarios de
+la Televisión por suscripción, lo cual resultaba evidentemente
+paradójico, en este sentido la regulación y la intervención de la ANTV
+que arranco con un proceso regulatorio basado además en un control
+de advertencia de la, Contraloría que nos dijo que debíamos velar por
+la financiación de la televisión pública en Colombia, pues obviamente
+se tomo una hoja de ruta que venía desde la extinta Comisión
+Nacional de Televisión, arranco el proceso en diciembre de 2011 y lo
+que tenemos hoy es un nuevo modelo de compensación en el que la
+televisión por suscripción en que la televisión por suscripción no tendrá
+que pagar ya sobre unos ingresos generales, sino que tendrá que
+pagar un monto fijo por usuario, obviamente eso nos obliga a hacer un
+trabajo importante de auditorías permanentes a la televisión por
+suscripción para que nos vayamos a encontrarnos con el tema del
+sub-reporte que sería bastante grave en este nuevo esquema de
+compensación.
+Este esquema, vamos a ver la grafica más adelante, este esquema lo
+que nos asegura es la sostenibilidad de 25 mil millones de pesos que
+vamos a aumentar, aquí lo que vemos es como venían decreciendo
+estos recursos y lo que vamos a lograr es aumentar y sostener en el
+tiempo esos recursos y es importante mencionar que vemos un pico
+en el 2012 y 2013, porque obviamente ahí tenemos una inversión
+importante de recursos de la TDT que es un tema que voy a tratar más
+adelante y que tiene que ver con el cuestionario enviado por el
+Representante Ciro Rodríguez.
+Lo que quiero concluir con esto, y con las cifras que les estoy
+mostrando, es que evidentemente la decisión tomada por la ANT a
+través de este nuevo esquema de compensación es mantener los
+recursos de la televisión pública y poder sostenerlos en el tiempo,
+cosa distinta a la que venía sucediendo en la extinta CNTV con el
+modelo de compensación anterior.
+A eso se suma y creo que es importante mencionarlo, que el pasado
+14 de septiembre se cerró una nueva licitación de televisión por
+suscripción, hacía 13 años no se hacían licitaciones de televisión por
+suscripción en Colombia y eso implicará tal y como lo he mencionado
+más recursos que vengan de la compensación para la televisión
+pública, se suma también que para el caso del parágrafo que ustedes
+establecieron en la ley también se le ha otorgado la licencia a EMCALI
+que es hoy un nuevo prestador del servicio de televisión por
+suscripción, cuyo recursos además también vienen para el
+fortalecimiento de la televisión pública, creemos que allí hay una
+nueva perspectiva de ingresos y aprovecho este momento para
+mencionar unas fuentes nuevas que obviamente no están
+absolutamente valoradas y que podrán tener unos ajustes, pero que
+van a venir para la ANTV y que tienen que ver con el nuevo canal de
+televisión abierta a lo que se ha llamado el tercer canal de televisión,
+allí también vienen ingresos para la televisión pública, recordemos
+además que el año entrante a finales del año, es decir en diciembre se
+termina la concesión también del canal uno y es importante tener en
+cuenta que también va a ver nueva concesión del uno y que eso
+implica recursos para la televisión pública, es decir que el panorama
+no es desalentador; si bien es cierto lo que mencionaba el Ministro no
+lo podemos olvidar en el sentido en que la televisión está cambiando,
+que la televisión vía internet está cogiendo cada vez más espacio para
+el año entrante pues ya tenemos previstas unas fuentes que son
+bastantes importantes, que tienen que ver con otro canal, u otros
+canales privados nacionales de televisión, los nuevos concesionarios
+del Canal del Uno y además nuevos operarios de televisión por
+subscripción. Entonces, digamos que son tres fuentes además de las
+que hemos mencionado que también vienen para la televisión pública,
+que por supuesto creo que es la prioridad y una de las más
+importantes razones de ser de la ANTV, de eso estamos
+absolutamente convencidos y esto es una junta comprometida con la
+televisión pública.
+Insisto, venimos de la televisión pública y entendemos claramente las
+necesidades que cada canal regional afronta, pero creo que sé es muy
+importante mencionar en este momento que la situación de los
+canales regionales, es bien distinta, por eso bien lo decía Selene no
+hablo en nombre de todos porque el desarrollo, la maduración, el
+estado financiero, las proyecciones de cada uno de los canales son
+completamente diferentes y obviamente cuando se va a regular lo que
+tratamos es de lograr un consenso y de lograr que la regulación que
+expidamos sea la más beneficiosa para todas; y en este sentido me
+refiero a la intervención de la Representante Juana Carolina Londoño
+en el sentido de los 5 mil millones menos a los cuales se ha hecho
+referencia para el caso especifico de Teleantioquia, es un caso
+particular de Teleantioquia, tiene que ver con la Ley de Televisión que
+establece que los recursos provenientes de la compensación de los
+operadores de televisión por subscripción que sean públicos, deben
+distribuirse en las zonas de influencia o en las zonas en las que tienen
+influencia los prestadores de dichos servicios.
+Al respecto, creo que es importante mencionar que el cambio
+efectuado en el tema de la distribución de los recursos de EPM es un
+cambio planteado desde la extinta Comisión Nacional de Televisión,
+fue un cambio que si más no recuerdo se dio en el mes de noviembre,
+pero que si bien es cierto en este caso, pues obviamente perjudica a
+Teleantioquia en la medida en que implica 5 mil millones menos para
+este año, beneficia a los otros canales que de otra manera no tendrían
+oportunidad de recibir esos beneficios, un poco lo que vemos de la
+reglamentación y regulación expedida por CNTV en su momento, es
+que guarda el espíritu que ha planteado el Gobierno Nacional para la
+distribución de las regalías, es decir una cosa equitativa para todos, no
+obstante entendemos que el mayor número de usuarios se encuentran
+en Teleantioquia.
+Pero obviamente con el esquema anterior canales regionales tan
+importantes como Tele Islas que constituyen un problema de
+soberanía nacional no hubiesen tenido nunca acceso a esos recursos
+de EPM; ahora valga mencionar también que los recursos que van a
+llegar de EMCALI pues van a ser también para todos los canales
+regionales, porque se les ha dado una licencia de carácter nacional,
+en ese sentido pues obviamente todos los canales regionales serán
+beneficiados de la compensación derivada de los recursos de EMCALI
+y creo que tenemos la buena noticia de que EMCALI empieza ya
+operaciones en el mes de octubre, o en el mes de noviembre de
+acuerdo a la información que hemos tenido de las empresas públicas
+de Cali.
+Vamos a empezar ahora a tratar el tema planteado por el
+Representante Ciro Rodríguez en lo que tiene que ver con los
+aspectos generales del proyectos TDT, que pues su cuestionario
+fundamentalmente se encaminaba más al tema de la TDT y a las
+cifras que estamos manejando hoy de TDT desde la Autoridad
+Nacional de Televisión, los ejes centrales que tiene el proyecto de TDT
+y quiero señalar que aquí estamos teniendo en cuenta de manera
+macro el proyecto, es decir hemos hecho un trabajo interinstitucional
+importante, porque la TDT de acuerdo o con base en la distribución de
+funciones que hizo la Ley 1507 no corresponde solamente a la
+Autoridad Nacional de Televisión sino que también participa en ella la
+CRS, RTVC como operador público y por supuesto el MINTIC; el
+primero de ellos pues obviamente implica un trabajo muy importante
+de apoyo a las entidades relacionadas con el sector en temas que
+tienen que ver con gestión y administración del espectro
+electromagnético y con un tema que resulta vital sin el cual no vamos
+a tener TDT y es todo lo que tiene que ver con la digitalización de las
+redes de televisión, ese es como el primer paso fundamental para que
+hablemos de TDT en Colombia y aspectos relacionados que tienen
+que ver con ese nuevo panorama que impone la TDT, luego viene un
+trabajo que les venía mencionando que se ha hecho muy
+juiciosamente de manera interinstitucional con la ANI, CRC, RTVC,
+MINTIC y por supuesto liderado por ANTV que obviamente tiene que
+ver con la definición de la regulación frente al tema de la televisión
+digital terrestre que esperamos sea una realidad muy pronto.
+Y un tercer gran reto, pues es la asistencia técnica para todos los
+diferentes agentes de la industria nacional, ya se hizo el año pasado
+un primer ejercicio de capacitación en términos de contenidos,
+entiendo que se hizo en tres ciudades del país, tuvieron oportunidad
+de participar algunos de los canales regionales y productores
+independientes de cara al uso de la TDT desde la perspectiva de la
+producción de televisión de televisión y ya no desde la transmisión que
+es el tema de las redes, es decir el tema de la TDT implica una
+socialización que no solamente pasa por términos puramente técnicos,
+sino que también tiene que ver con los productores de televisión y por
+último tiene que ver con el televidente en la medida en que pueda
+aprender el uso y pueda apropiar esta nueva tecnología.
+Ahí pues estamos trabajando fundamentalmente en la digitalización de
+la red pública de televisión, creemos, insisto que de aquí si bien es
+cierto RTVC está liderando el tema y obviamente la televisión pública
+nacional ocupa un renglón fundamental, no podemos excluir de este
+proceso a la televisión regional porque estaríamos dándole la muerte,
+sino incluimos en primera instancia la televisión regional en todo lo que
+tiene que ver con el proceso de digitalización de la red. El segundo
+punto que mencionaba la socialización y apropiación del uso de TDT
+en Colombia y el proceso de digitalización de contenido, tema en el
+que viene trabajando fuertemente el MINTIC a través de todo el
+programa de Vive Digital.
+Hablemos ahora del tema de los recursos, hay que mencionar que hay
+unos recursos apropiados desde la ANTV y de las entidades a las que
+compete el tema de TDT, pero también hay un recurso importante que
+fue aprobado a inicios de este año una vez presentado un proyecto al
+que le trabajamos bastante en conjunto con la Unión Europea y con
+las entidades que he mencionado y es un presupuesto general de 8
+millones de euros que vienen de un convenio con la Unión Europea,
+los beneficiarios de esos 8 millones de euros seremos MINTIC, ANTV,
+ANE, CRC, RTVC, ese proyecto en general tiene como tres grandes
+líneas: Una línea que es puramente técnica y de adquisición de
+equipos; una línea regulatoria que es todo el tema de asesoramiento
+para la regulación nueva que debe expedirse de cara a TDT donde
+obviamente la participación del Congreso será absolutamente vital; y
+una tercer línea que tiene que ver con socialización y comunicación
+alrededor del proyecto TDT para que los colombianos sepan cómo se
+usa y apropie dicho uso.
+En término de los recursos adjudicados para la implementación de la
+TDT, los recursos adjudicados entre 2011 y 2012 ascienden a 59
+millones de pesos y se distribuyen de acuerdo a los conceptos que
+estamos viendo en el cuadro proyectado en este momento, son el
+sistema de transmisión por 39 mil millones de pesos, el transporte
+satelital por 9 mil millones de pesos, el centro de emisión de RTVC
+que ya está listo por 1.800 millones de pesos, la gerencia del proyecto
+por 700 millones de pesos, digamos que ahí tenemos el gran total; y
+hemos hecho una adición de 7 mil millones de pesos que esa la hizo la
+ANTV para el tema de las 13 cabeceras de canales regionales, que
+como les decía consideramos fundamental en el proceso, tenemos allí
+la suma mencionada de los 59 mil millones de pesos en total, del valor
+aprobado se han autorizado ya desembolsos por valor de 3 mil 237
+millones de pesos y esos recursos están distribuidos también de la
+manera que allí se establece para el sistema de transmisión TDT para
+el transporte satelital, para el centro de emisión de RTVC y para la
+gerencia del proyecto, obviamente si ustedes quieren los cuadros los
+podemos dejar Representante Ciro Rodríguez.
+Y por último, está el mencionado proyecto de televisión satelital social,
+este es un proyecto que como lo mencionaba el Ministro pretende
+ampliar la cobertura de la televisión nacional en el país; hoy tenemos
+220 municipios, el Representante Amaya mencionaba 22 en Boyacá,
+con 220 municipios en todo el país, cosa que consideramos
+absolutamente pues absolutamente grave ya en el siglo en el que
+estamos y el proyecto de televisión satelital lo que pretende
+precisamente es lograr un cobertura total para que sobretodo en
+municipios más apartados o de difícil geografía pueda tenerse acceso
+a través de un deco.
+Valga la pena mencionar, que acabamos de llegar de un foro de
+televisión comunitaria en la zona cafetera, estuvimos en la ciudad de
+Pereira y en la zona se menciona reiteradamente la dificultad de
+recepción de la televisión abierta nacional en muchos de los
+municipios de los departamentos de Caldas, Risaralda y Quindío y
+precisamente pues la opción de la televisión social lo que trata es de
+resolver ese tema.
+RTVC presentó en su momento a la ANTV un proyecto de 16 canales
+estaríamos incluyendo toda la televisión pública, la nacional y por
+supuesto la regional para que estén en el satélite, para que estén en el
+segmento satelital banda CAU y que pueda llegar a toda la población
+colombiana, ahí está por supuesto Señal Colombia, educativa y
+cultural, el Canal Institucional, el Canal Uno, los 8 canales regionales,
+el Canal del Congreso entre otros.
+En términos de la inversión y la operación del DTH social el valor total
+de las inversiones proyectadas a 10 años es de 51 mil millones de
+pesos y lo que hemos hecho es una desagregación que nos da cuánto
+anualmente estaríamos gastando en el proyecto, el segmento satelital,
+el personal de operación, la administración, el mantenimiento, los
+costos indirectos, estamos hablando de un costo promedio anual de
+3.700 millones de pesos, el total de 4.800 millones año.
+Digamos, que el esquema fundamental planteado y que grafica la
+descripción del proyecto pues está en la inversión y operación anual
+de RTVC, digamos que es el encargado del tema del segmento
+satelital con 2.300 millones de pesos, la operación del satélite como tal
+que ya son 2.500 millones de pesos y un decodificador que estamos
+pensando oscile alrededor de 100 dólares que tenían que ser pagados
+por el usuarios por una sola vez para recibir estos 16 canales.
+No sé si tengan alguna otra pregunta Honorables Representantes.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T08:59:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Muchas gracias doctora Alexandra Falla, le agradecemos su
+intervención desde luego que el debate continúa y miramos a ver qué
+sucede.
+Tiene la palabra el doctor Carlos Andrés Amaya.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-09-26T08:59:50">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Presidente muchas gracias, bueno primero me disculpo por llegar
+tarde en la primera ronda de intervenciones, pero estaba cumpliendo
+una misión suya y era conversar con el, director de Colciencias de lo
+que sucedió con Vive Digital, le informo a la Comisión que el tema
+parece que ya está por buen camino el día de mañana se va a reunir
+el señor, director de Colciencias, con el ministro de TIC,s para
+solucionar esos recursos de Vice Digital que sean ejecutados con
+rapidez y se pueda avanza en la ampliación de cobertura e internet y
+la masificación del uso de la tecnología en cada uno de los municipios
+y departamentos.
+Dra. Alexandra Falla, miembro de la Autoridad Nacional de
+Televisión.
+Tuvimos que postergar por las dificultades del tiempo la citación que
+era para el día de ayer y obviamente pues hacerla el día de hoy nos
+implico un cruce con la Sexta del Senado, está comenzando en este
+momento el debate, motivo por el cual el Ministro esta allá y ya tengo
+yo qué hacer también presencia.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-09-26T09:00:00">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Bueno se supone que es independiente la Autoridad Nacional de
+Televisión del Ministro pero bueno.
+Dra. Alexandra Falla, miembro de la Autoridad Nacional de
+Televisión:
+Perdóneme Representante, es que esta también convocada la ANTV a
+la Comisión Sexta del Senado.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:00:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Para evitarnos bloquear acá, entonces vamos en orden, a mi me dijo
+los otros delegados de la ANTV que ellos van a cubrir Senado para
+que usted se quede aquí en la Comisión Sexta de la Cámara,
+entonces ni más faltaba que yo no le hubiera aceptado eso al doctor
+Alfredo Sabat y a los demás integrantes que estaban acá doctora
+Alexandra Falla.
+Dra. Alexandra Falla, miembro de la Autoridad Nacional de
+Televisión.
+Pero me dicen que el llamado a lista es individual, pero yo escucho las
+intervenciones y bajo posteriormente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:00:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>De todas maneras, pues usted ha asumido la responsabilidad de la
+ANTV, porque la citada era la doctora Sandra Urrutia, le pido el favor
+que se quede para terminar feliz el debate.
+Yo tengo que dejar constancia y hacer claridad efectivamente que este
+debate tenía que llevarse en el día de ayer y que no se realizo y en
+comunicación con el señor ministro de las TIC,s y con usted que
+estuvieron muy puntuales ayer debo reconocer eso y hoy desde luego
+a partir de las 8 de la mañana tanto ayer como hoy se acordó que este
+debate fuera hasta las 10 de la mañana, de 8 a 10 y efectivamente el
+señor Ministro se fue a las 11 y 14 y usted permanece acá que le
+agradecemos.
+Dr. Amaya en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-09-26T09:00:30">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Gracias Presidente, bueno señora integrante de la junta directiva, pues
+primero decir que yo realmente si he estado muy desilusionado con el
+proceso de transición entre la Comisión y la Junta, hay cosas ahí que
+veo que no mejoran y otras que empeoran por el contrario.
+Le quiero contar, como usted mismo lo señalo que 22 municipios de mi
+departamento, el departamento del ministro de las TIC,s están sin
+televisión pública, incluso el municipio donde el Ministro nació no hay
+televisión, me parece la ironía más grande del mundo, es como la
+casa del abuelo del Presidente Santos en Tunja también se está
+cayendo; pero bueno aparte de esas cosas que suceden en Colombia
+hay una cosa muy grave y es que mientras se echan discursos en todo
+el país del acceso a internet, de la televisión digital terrestre, de la
+televisión satelital y de todas las mejoras tecnológicas, en Boyacá
+todavía hay muchos habitantes que no tienen la posibilidad de ver
+televisión, ni siquiera pueden ver el Canal Institucional, o Señal
+Colombia o el Canal del Congreso como supuestamente la ley obliga,
+eso pues es muy preocupante, ¿Que han hecho estos 22 municipios?
+Por vía de televisión comunitaria se han asociado y han intentado
+crear organizaciones de televisión comunitaria para brindar la
+televisión, pero cuando van a hacer el ejercicio del trámite para poder
+hacer este procedimiento se les demora dos y tres años, entonces uno
+dice que es la tapa.
+O sea la Agencia Nacional de Televisión debería brindar el servicio
+público de televisión, no lo hace, entonces como ellos van y se
+asocian por la televisión comunitaria, por su iniciativa propia y tampoco
+los autoriza ¿Entonces qué hacemos? Yo llevo detrás de una licencia
+que esta pedida de antes de que era Congresista dejo la claridad, es
+decir que no es un problema mío, allá en Ciénaga lo dijo claramente
+saque un voto, así que no es problema de votos, llevo dos años y
+medio en eso y no se ha dado e iba allá donde el doctor Jaime Andrés
+Estrada y le decía doctor por vía suyita, miren los jóvenes allá están
+fumando mucha marihuana, están tomando, porque no tienen nada
+que hacer, aunque sea la televisión pues distrae, así en Colombia no
+se hagan buenos ejercicios de televisión pública para que eduque la
+televisión, pero por lo menos distrae.
+Entonces, yo estoy en contra y algún día tendremos que hacer un
+debate doctora de ese tema de porque Colombia esta tan mal la
+juventud y es porque los indicadores de los programas más vistos son
+cosas como protagonistas de novelas, entonces uno entiende porque
+Colombia esta tan mal.
+Hace poco tuve el privilegio de estar en Italia dictando una conferencia
+en la Universidad de Torino y uno se subía a un tren y los estudiantes
+se acaban de subir y cogían un libro, acá uno se sube a un
+Transmilenio y todos los jóvenes hablan es de protagonistas de
+novela, pero eso además que uno entendería que es una
+responsabilidad de la Comisión de Televisión que se acabo y de la
+Agencia Nacional de Televisión de educar, de hacer televisión que
+forme, está demostrado en la Universidad de Harvard que uno de los
+elementos que más influyen en la formación y en la construcción de
+personalidad y de identidad es la televisión y yo creo que hay que
+hacer un gran avance.
+Pero volviendo al punto, es que yo si quiero ser muy insistente con
+esto doctora usted como representante de la Agencia y es ¿Qué
+hacemos con esa gente? Dos años y nada, dos años y medio y no se
+dan las licencias, yo no sé si tengan que aumentar el personal que
+firma ahí, porque a veces con el discurso de que es que hay que
+disminuir los gastos, entonces vuelven a las entidades ineficientes, yo
+creo que hay que avanzar en eso.
+Lo segundo frente al tema de televisión, ahí en mi pueblo en Paz del
+Río es que a veces a uno le da rabia y más que rabia decepción, en
+Paz de Río mi pueblo, resulta que había un operador ilegal, duro dos
+años el operador ilegal y nos dimos cuenta que era ilegal doctora
+porque yo fui un día a solicitar que pasaran el Canal Institucional,
+porque yo dije pues mi papá quiere por lo menos ver allá a ver si yo si
+voy a trabajar o no, si voy al Congreso o no y el Canal Institucional no
+lo pasaban y es obligación de ley, inclusive dejo la cuñito, no sé si
+ustedes saben que Directv no pasa el Canal del Congreso está
+incumpliendo una ley, pero bueno no lo pasaban y cuando fui a mirar
+esa vaina era ilegal y por supuesto que fueron y cortaron y levantaron
+los cables, levantaron la licencia y se quedo Paz del Río sin televisión
+y saca y dice el operador ilegal para completar que la culpa es del
+Representante Amaya, que fue él que hizo que cancelaran la
+televisión, pues claro me eche de enemigo un montón de gente.
+Entonces, había un proceso legal que yo averigüé, que estaba una
+licencia desde hacía 5 años doctora para televisión comunitaria y a
+ellos no los habían dejado operar, entonces yo fui y agilice el proceso
+y les dieron la licencia, pero hoy hay dos operadores de Paz del Río
+televisión y a uno le va mejor que a otro, a cuál le va mejor, al ilegal,
+entonces uno dice, no dejan operar procesos de televisión comunitaria
+en municipios como Ciénaga que queda bien lejos y que allá los
+habitantes no ven televisión y en otros municipios dejan operar de
+manera ilegal generando dificultades.
+Entonces, yo digo ¿cuál es la autoridad? ¿Dónde está el control?
+¿Qué están haciendo ustedes?.
+Por otro lado la televisión satelital, en diciembre doctora de 2010 la
+Comisión Nacional de Televisión en ese entonces hizo el anuncio de
+que en el primer semestre del 2011 se tendría televisión satelital lo
+cual por supuesto no se cumplió.
+Posteriormente, en julio de 2011 la Comisión Nacional de Televisión
+en ese entonces publicó una noticia en la que se hacia un llamado, a
+mi me dio mucha risa esa noticia, se hacia un llamado para que no se
+dejaran engañar por inescrupulosas que estaban vendiendo los
+decodificadores a nombre de este proceso.
+Por supuesto eso no era cierto que existiera televisión satelital,
+después vino aquí el, director en ese entonces de la Comisión Nacional
+de Televisión y nos dijo no, no se preocupen que ya sale en seis
+meses, fijo, y yo le dijo pero seguro y dijo si eso ya es un hecho ya
+estamos listos, ahí vamos a solucionar el problema de la televisión,
+vamos a llevar televisión a los campesinos de Colombia, porque es un
+decodificador, y bueno yo soy ingeniero electrónico entiendo las
+ventajas de la televisión satelital, pero hoy en día eso todavía nada
+que arranca y muy probablemente usted nos dice que ya esta cerquita,
+pero esperemos que eso se cumpla.
+Bueno para no utilizar más tiempo empieza un debate y le recuerdo a
+la Comisión que arranca un debate del tema presupuesto para las
+universidades en la Comisión Cuarta en la cual esperamos participar.
+Quiero terminar con esto de los trabajadores y manifestar mi
+inconformidad, resulta doctora que el 7 de diciembre, el día de las
+velitas nos hicieron venir acá a los Congresistas a aprobar la famosa
+Ley de Televisión, entonces el día de las velitas vinimos, las
+Comisiones Conjuntas Sextas que es la primera y la única vez que se
+han reunido en este periodo a discutir eso, ese día fue muy álgida la
+discusión entre tantos asuntos varios, se trato un asunto humanitario
+digo yo y es el tema de los trabajadores y digo humanitario porque
+ellos al igual que usted tienen hijos, tienen familia y tienen gente por la
+cual ver y en esa discusión yo presente una proposición respaldada
+por el senador Guevara, el Representante Wilson Arias, el Senador
+Prieto y muchos Representantes y Senadores para el problema de los
+trabajadores y quedo lo siguiente:
+“Artículo 20: Los servidores públicos de la Comisión Nacional de
+Televisión en liquidación deberán ser amparados bajo las normas
+legales laborales vigentes, los funcionarios de carrera administrativa y
+provisionales recibirán el tratamiento que se establece en el parágrafo
+tres del artículo 18 de la Ley 1444 de 2011 y Decreto reglamentarios.
+Entonces yo a veces pienso que no leyeron el parágrafo tres del
+artículo 18, pero lo leo y dice:
+“Esta ley garantiza la protección integral de los derechos laborales de
+las personas vinculadas a las distintas entidades del Estado
+reestructuradas, liquidadas, escindidas, fusionadas o suprimidas,
+estarían en liquidación, si fuere estrictamente necesario la supresión
+de estos cargos los afectados serán reubicados o reincorporados de
+conformidad con las leyes vigentes”.
+Insisto doctora reubicados o reincorporados con las leyes vigentes y
+entonces me encuentro con una carta de la doctora Diana Patricia
+Rojas donde nos cuenta que ni la reubicaron ni la reincorporaron, ni
+nada, entonces yo quiero ser muy enfático en esto y es decir habían
+unos compromisos y unos acuerdos en esta Comisión y era que a los
+trabajadores se le reubicara, trabajadores que por supuesto no
+conozco a ninguno o no ayude a ninguno de ellos a entrar, que quede
+absolutamente claro eso, si no eran trabajadores que creímos
+pertinente con otros Congresistas defender, porque creemos que en
+estos proceso hay que resguardar los derechos laborales y ahora lo
+que pasa es totalmente lo contrario.
+Por eso doctora le digo que yo tengo mucha tristeza de lo que está
+sucediendo, es decir para mi hoy día resulto peor la cura que la
+enfermedad y es que no veo que esto avance, el proceso de transición
+por supuesto es difícil, los procesos de elección de los integrantes de
+la junta yo tengo mi reparos por lo menos con el tema de la UIS
+representante de la sociedad civil, por lo que allá ha venido pasando,
+yo he estado muy atento al tema de la UIS y ha sido verdad un tema
+muy difícil y por la injerencia del Gobierno Wilson Arias por la decisión
+de estos delegados, supuestamente uno decía garanticemos que
+exista autonomía en la televisión y eso era digamos el principio
+constitucional que queríamos mantener y es que la televisión como es
+un poder tan importante debería ser autónomo del ejecutivo y hoy nos
+parece que no está siendo así.
+Hago estas intervención con el mayor respeto, pero con toda la
+contundencia posible para decir, no están cumpliendo con la
+obligación legal que tienen de llevar televisión a todos los
+colombianos, no están cumpliendo con el compromiso del tema de la
+televisión satelital, están siendo ineficientes en el ejercicio del control y
+por si fuera poco están atropellando los derechos laborales.
+Presidente muchas gracias y espero que esta intervención como
+tantas otras que se han hecho acá, no queden en el aire y sirvan para
+algo y esperemos que este Congreso de la República Presidente y
+esta Comisión particularmente pueda hacer ejercicio de control político
+y sirva para algo y no pase como normalmente sucede y es que hay
+que recurrir a la cortes y a los entes de control para que lo que aquí se
+escribe se cumpla. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:00:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tenemos una proposición, vamos a ponerla en consideración
+inmediatamente. Señor Secretario por favor.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T09:00:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Gracias Señor Presidente, hay dos proposiciones que dicen lo
+siguiente:
+Proposición:
+Conforme a lo establecido en la Ley 5ª. de 1992 y en los términos que
+allí se establece cítese a debate de control político que se realizará en
+la fecha, lugar y hora que fije la Mesa Directiva de la Comisión Sexta
+Constitucional Permanente, al señor ministro de Tecnologías de la
+Información y las Comunicaciones doctor Diego Molano Vega, al
+Superintendente de Industria y Comercio doctor José Miguel de la
+Calle Restrepo, al, director general de Agencia Nacional del Espectro
+doctor Oscar León, a la, Directora encargada de la Agencia Nacional
+de Televisión ANTV doctora Sandra Milena Urrutia, al, director de
+Planeación Nacional doctor Mauricio Santamaría Salamanca y la
+Asociación de Operadores de Telefonía Móvil, a la Asociación de
+Ingenieros ASIEN, a los operadores de telefonía y ANDESCO, para
+que respondan el cuestionario sobre la cuarta generación de
+Tecnologías, de telefonía móvil 4G.
+Firmado,
+JAIRO ROLDAN AVENDAÑO
+DIDIER A. TAVERA AMADO
+Proposición:
+Teniendo en cuenta que el turismo es fuente de desarrollo, crecimiento
+y bienestar social para nuestro departamento del Huila como se erige
+como el centro de articulación de los diferentes sectores económicos,
+sociales de comunicaciones educativos culturales y de interrelación
+regional con el Gobierno en el nivel central en el marco de la
+legislación vigente del sector de Turismo.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:01:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Perdón señor Secretario, dejemos esas dos proposiciones pendientes
+para acelerar, por favor doctor Wilson Arias en el uso de la palabra.
+Yo le pido a los Honorables Representantes y entiendo a la doctora
+que ha sido muy generosa y me está diciendo que esta angustiada
+porque allá la están llamando también, doctor Wilson Gómez y
+enseguida Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-09-26T09:01:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Muchas gracias señor Presidente, con el saludo afectuoso y
+respetuoso a la doctora Alexandra Falla, integrante de la Autoridad
+Nacional de Televisión, desafortunadamente el señor Ministro no se
+encuentra, pero por supuesto no por ello vamos a detener esta
+intervención, señor Presidente, colegas y quienes nos acompañan, yo
+quiero y entiendo por supuesto que esta Comisión está conformada
+por distintos sectores, lo que hace que haya posiciones distintas, pero
+quisiera iniciar haciendo un reconocimiento a lo que en materia de
+tecnología, información y comunicaciones viene sucediendo en el país,
+le dije a la, ministra de Educación hace unas semanas que
+seguramente a ella y al ministro de las Tecnologías la historia les
+reconocería la labor que vienen adelantando, porque razón y claro
+debe haber situaciones sujetas de crítica por supuesto como en todo
+proceso pero por fortuna a esta cartera de las comunicaciones a
+llegado un hombre como el doctor Diego Molano Vega quién
+realmente saco al Ministerio de una situación paquidérmica en la que
+se encontraba y está poniendo este país a tono con la realidad
+internacional.
+Situación difícilmente perceptible de manera inmediata, una situación
+que seguramente se percibirá en un par de décadas, en una década o
+en un par de décadas cuando esos niños y jóvenes a los que el
+Ministro se refería que Colciencias les ha impedido acceder a una
+tabla como se pretendía llegar a través de unos recursos puedan ser
+los generadores de la ciencia y tecnología a que él se refería, por esa
+razón aprovecho esta introducción para felicitar tanto a la autoridad
+que apenas inicia sus labores como al ministerio por lo que viene
+sucediendo en materia de tecnologías, información y comunicaciones
+en el país.
+En segundo lugar, señalar que por supuesto aquí se han hecho unos
+anuncios muy importantes como el hecho de haber en la década de
+los finales del 90 como lo decía el Ministro abierto una compuerta
+gigantesca para que el país tuviera una televisión distinta a la de
+blanco y negro como la tuvimos quienes crecimos en aquellas
+décadas en que estábamos en esa etapa de transición y el televisor le
+tocaba a nuestro padres ponerle una pantalla multicolores para ver
+que se viera un poco a color la figura de quienes actuaban en las
+telenovelas de la televisión colombiana, muchas estarán adivinando mi
+edad , me imagino yo y haciendo cuentas cuántos años tendrá ese
+Representante.
+Pero ese anuncio es trascendental e importante haber logrado dar
+semejante paso en aquel momento; en segundo lugar se anuncia que
+se va a cerrar esa brecha que hoy existe, que algunos hogares de
+Colombia en pleno año 2012 no haya televisión y se ha manifestado
+que se han hecho los adelantos y me imagino yo los convenios
+necesarios para garantizar que a todos los hogares de Colombia así
+sea a través de una antena, pero de manera gratuita la señal puedan
+percibir los colombianos percibir una señal de televisión como lo
+reclamaba aquí el doctor Carlos Amaya, que en muchos municipios,
+22 de su departamento no existe todavía acceso a la televisión y bien
+alguno de los padres de familia se quejan que la televisión colombiana
+por lo menos la pública no es la mejor influenza para los niños; por
+supuesto como lo decía el doctor Amaya solo el hecho de que haya
+una señal de televisión así sea en materia de telenovelas podría sacar
+a los niños de la inmersa situación de la que se encuentra hoy de
+drogadicción y de consumo de alcohol como sucede en la inmensa
+mayoría de nuestros pueblo de categoría 5 y 6 donde no existe ningún
+otro tipo de actividad distinta a los billares y distinta a las cafeterías
+para que ellos puedan tener una manera de divertirse, se lo digo por
+experiencia propia Presidente porque siendo de origen de un pueblo
+de categoría 6, me da dolor saber que mis coterráneos crecen
+inmersos en esa situación, aún cuando aún tengan la señal de
+televisión no me imagino cómo será la situación donde ni siquiera han
+llegado.
+Se anuncia para la televisión regional cerca de 25 mil millones de
+pesos, que quería preguntarle al señor Ministro, pero entiendo que
+está en la Comisión Sexta del Senado, si esos 25 mil millones de
+pesos son anuales o son simplemente por esta ocasión y si los 50 mil
+millones de pesos que se han anunciado producto de algunos pasivos
+de la antigua Inravisión que se recuperan también son simplemente
+ocasionales o se podría contar con ellos como él lo ha dicho 75 mil
+millones de pesos al año para la televisión regional que tanto bien le
+haría, porque también entiendo el esfuerzo inmenso que hacen los
+canales regionales para subsistir con tan pocos recursos y competir
+con semejantes pulpos a quienes solo producir una telenovela les
+cuesta 30 mil millones de pesos, pero tal vez les triplica ellos la utilidad
+mientras que los regionales con 12 mil millones de pesos en su
+conjunto pues y bien lo decía aquí uno de los integrantes de uno de
+los canales que me disculpan no sé el nombre pues no es que estén
+generando rentabilidad, sino que están prestando un servicio social.
+Y revisar Presidente y aquí digamos que con la presencia de la
+doctora Falla revisar, porque lo que ha dicho el Ministro y aquí
+empieza ya el reconocimiento sino una digamos una serie de reclamos
+que hay que tener en cuenta, lo que ha dicho el Ministro es que los
+canales regionales a diferencia de la televisión privada no están
+recibiendo en materia de pauta lo que realmente ellos necesitan y es
+necesario que nosotros desde esta Comisión y la Autoridad y el
+Ministerio nos pongamos las pilas en esa situación para que los
+canales regionales puedan cobrar lo que realmente es, porque en
+palabras del Ministro la medición está siendo errada hoy para el rating
+que genera los canales, más aún cuando el servicio social no debería
+ser medido en términos económicos, sino en sociales; al llegar a la
+finca del productor de leche, al llegar a la finca del productor de café
+que es donde realmente esta televisión está llegando en muchas
+ocasiones con programas que le generan esa ciencia y tecnología de
+la cual se reclama aquí y que difícilmente pueden ellos acceder.
+Presidente y el Ministro ha dicho una cosa a la que nosotros tenemos
+que prestarle atención doctor Ciro Rodríguez, dice el Ministro que hay
+serias sospechas de que mucha gente esta evadiendo el pago que se
+debe hacer por televisión pública en este país y él lo dejo ahí, pero yo
+quisiera ahondar y digo y nos tocara en otro escenario consultarlo
+personalmente tal vez él no lo pueda decir, pero yo estaría dispuesto a
+decirlo a la opinión pública ¿Quiénes son los evasores del pago de la
+televisión pública en Colombia? Si son los grandes canales privados,
+si son ciudadanos de a pie, que nos aclare quiénes son esos que hoy
+le están evadiendo el pago a la televisión pública, que terminaría en
+manos de la televisión regional, que reitero yo es la que realmente le
+viene prestando un servicio social a los Colombianos.
+Como así que Directv no incluye en sus paquetes ofertados la
+televisión pública nacional a los colombianos, bien vale la pena el
+reclamo que el señor Presidente ha hecho, pero no puede quedar eso
+ahí simplemente en una nebulosa en que los colombianos se enteren
+Presidente, tienen que los colombianos saber que estas grandes
+firmas que recaudan y recaudan recursos producto del bolsillo de los
+colombianos no son capaces de incluir canales regionales
+institucionales en su paquete ofertado a su propio país.
+Yo creo Presidente que la responsabilidad nuestra es gigantesca y
+tenemos nosotros que vía legislativa obligar a que esta situación no
+siga ocurriendo en nuestra Nación y el ingreso percápita que tiene la
+Autoridad, el Ministerio y quienes se encargan de generar la viabilidad
+de los canales regionales no se compadece nada con los ingresos de
+la industria en materia de TIC,s en Colombia, situación que también
+por supuesto es objeto de revisión.
+Sobre todo porque es que este mercado Presidente el de las
+tecnologías y la: Información de la mano de la educación que es el que
+generalmente me he acostumbrado a defender serán los pilares
+fundamentales para que en un par de décadas este país realmente se
+haya transformado.
+Y entiendo la discusión que pueda haber, ayer lo teníamos con el
+ministro de Hacienda sobre las limitantes que hay en materia de
+educación para poder acceder al conocimiento, como realmente los
+jóvenes lo deberían hacer, pero si nosotros no somos garantes y aquí
+el Ministro le ha pedido a esta Comisión que contribuya ahora en la
+discusión del presupuesto nacional a subsanar en por lo menos en
+alguna medida los bajos ingresos que tiene tanto el Ministerio, la
+Agencia y todos aquellos que se encargan de regular frente al pulpo
+gigante que representa la industria en materia de tecnologías y
+nosotros ahí tenemos una responsabilidad porque por supuesto,
+termino doctor Ciro Rodríguez, no se preocupe ya en un par de
+minutos yo termino.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:01:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Para una moción de orden tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2012-09-26T09:01:30">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Muchas gracias Presidente para pedirle a usted con mucho respeto,
+este debate está muy interesante y el doctor Wilson Gómez ha traído
+nuevos temas aquí que vale la pena analizarlos, pero me parece que
+es fundamental para esto la presencia del señor Ministro.
+Nosotros tenemos una preocupación en estos momentos, toda la
+Comisión Sexta de estar en el debate de educación, el quórum aquí en
+la Comisión ya no hay, porque no dejamos este debate usted lo
+programa para una próxima, para poderlo terminar y poder culminar
+unas conclusiones muy importantes que yo no las trataría sin la
+presencia del Ministro porque es fundamental darle ese impulso a la
+televisión.
+Quiero pedirle a usted que dejemos este debate para más adelante,
+usted lo puede programar o de lo contrario yo le pediría una
+verificación del quórum en estos momentos señor Presidente. Muchas
+gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:01:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Bueno doctor Ciro Rodríguez, por tercera vez no estoy de acuerdo con
+usted cuando se hace el debate, porque es que nosotros hemos sido
+muy generosos con usted cuando ha hablado, lo hemos escuchado, si
+usted me pidió y me presenta la proposición yo no tengo otro remedio
+sino ponerla en consideración y me parece doctor Ciro Rodríguez aquí
+si le falto un poquito de solidaridad, de amistad, porque interrumpir al
+doctor Wilson Gómez para hacer esa propuesta si me parece que fue
+un poquito no del talante.
+Dr. por favor continué para que termine su intervención.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-09-26T09:01:50">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Gracias Presidente, yo por supuesto redondeo máximo dos minutos en
+hacerlo.
+Estaba hablando de la diferencia en el crecimiento de la industria
+tecnológica en materia de TIC,s frente a lo que realmente el Estado le
+aporta a las entidades para que puedan ayudar a contribuir, no solo a
+verificar lo que viene sucediendo, sino a fortalecer las TIC,s en nuestro
+país.
+Y quería terminar diciendo, que lamento mucho el doctor Amaya ha
+dicho aquí que ya ha monitoreado la situación que en Colciencias se
+había presentado, que lamentablemente le impidió por ejemplo
+hacerse a los jóvenes a una tableta para poder acceder a su formación
+so pretexto que la misma no era generación de ciencia y tecnología,
+sino que simplemente era un aparato a través del cual ellos iban a
+estudiar que la ciencia y la tecnología era la creación de esa tableta
+por parte de los niños.
+Pues bien, yo quiero traer un simple ejemplo, el de Bill Gates que
+cuando quiso inmiscuirse y aprender de la computación lo hizo gracias
+a que el tuvo el privilegio en los años 70 de acceder a una
+computadora tal vez de grande como este salón pero que fue la que le
+permitió a él hacerse a esa intención y conocimiento que luego lo
+convirtió en el hombre más rico del mundo, y si nosotros no le
+permitimos ni siquiera esa tableta a los niños de Colombia del estrato
+uno y dos y tres, pues difícilmente ellos podrán luego ser competitivos
+en la realidad del mercado internacional que obliga a que los jóvenes a
+través del conocimiento puedan hacerlo.
+La, Ministra ha utilizado un ejemplo que es el más bello de todos, que
+un niño que tenga acceso a Internet en una finca rural llámese el
+Olimpo en el municipio de Palo Cabildo en el departamento del Tolima,
+que tenga acceso a Internet 24 horas tiene la misma oportunidad de
+aquel niño que está en el Gimnasio Moderno en las mismas
+circunstancias, por esa razón no es válido que se haya impedido a
+través de Colciencias la posibilidad de que unos niños accedan al
+conocimiento a través de una tableta que les permitirá en las mismas
+condiciones ser competitivos, ojala eso se pueda corregir ahora por
+Colciencias, ojala el Ministro asuma el liderazgo que estoy seguro lo
+hará como lo viene haciendo en materia de tecnologías para que se
+subsane esta situación.
+Ayer le decía al ministro de Hacienda, nada sacamos con pasar unos
+recursos, que el ministro decía que los quiere sacar esos 10 billones
+de pesos que se han hablado de ciencia y tecnología de las regalías,
+pasarlos a una gran bolsa nacional que le ponía yo el ejemplo será un
+gran techo maravilloso porque con ello se haría ciencia y tecnología,
+pero si impedimos que nuestros niños se queden en el piso de tierra
+sin tener la posibilidad de acceder a ese conocimiento que aquí tanto
+reclamamos.
+Entonces señor Presidente, termino diciendo que nuestro
+reconocimiento por la tarea que se viene haciendo, pero también
+nuestro llamado de atención para que todas estas tareas puedan ser
+concluidas y realmente redunden en beneficio de la población más
+necesitada de nuestro país.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:02:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Perdón, aquí hay un orden de intervención y yo no voy a permitir que
+esto se desorganice, va hablar el doctor Wilson Arias y después habla
+la doctora.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2012-09-26T09:02:10">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>No, doctora Falla me interesa mucho su presencia, yo comprendo las
+afujías de tiempo, pero desde luego la Comisión no puede siempre
+verse indemnizada por la ausencia de quienes inicien los debates, la
+otra integrante de la Comisión tal vez no me pueda responder como
+usted si, de modo que voy a intentarlo hacerlo en las condiciones
+previstas, agradezco al doctor Ciro Rodríguez que haya permitido que
+continué el debate.
+Lo primero que debo decir, es que yo deploro que normalmente no
+tengamos quien responda por los trabajadores, esta es una especie de
+obsesión compulsiva que tengamos algunos, es que cuando en el país
+se han venido vulnerando los derechos de los trabajadores y tenemos
+problemas de empleo tan graves, pues naturalmente tenemos que
+preguntarlo, yo quisiera que en esta sesión se respondiera lo
+preguntado por los trabajadores, lo que es elemental, no lo podría
+hacer quien acaba de llegar, porque yo lo que denuncie fue el hecho y
+cierto y constatable de que han sido vinculados 35 trabajadores que
+costaban 121 mil millones de pesos al mes para contratar mediante el
+liquidador y sus contratos mediante una empresa intermediadora a 36
+personas que cuestan 105 millones de pesos al mes y pregunté en
+concreto si será cierto y si habían inclusive cifras escandalosas de
+ingresos mensuales para esos nuevos vinculados de 9 millones de
+pesos o cosa parecida.
+Pero además del comparativo, lo que resulta odioso es que muy a
+pesar de haber dispuesto legalmente nosotros la protección de los
+trabajadores se estén desvinculando, eso es ilegal, no tiene
+presentación, eso fue discutido a fondo en la Comisión y este es uno
+de los conejos que nos están aplicando del mismo modo que a la
+MANE el movimiento estudiantil y aplican otros conejos, de modo que
+yo si no puedo permitir que de esta sesión nos vamos sin escuchar
+respuestas concretas, este es un problema que tiene alcance legal, yo
+podría invocar la presencia de los organismos de control, pero creo
+que no hay derecho a que la Comisión siempre deba remitir a la
+Contraloría lo que debe aclararse en las sesiones de la Comisión,
+porque hace parte de su función.
+Bueno aparte de que aquí nadie responde por los vulnerables, siempre
+tenemos externalidades, gente indefensa que resulta atropellada y
+normalmente no tiene quien vea por ella.
+En segundo lugar, he preguntado asuntos sobre el tema de las
+pensiones no me ha sido respondido, yo pregunté en concreto sobre la
+respuesta a la pregunta número cinco, en la cual el Ministro en su
+escrito señala que corresponde a la Comisión Nacional de Televisión
+en liquidación, asumir los procedimientos jurídicos relacionados con el
+reintegro de los recursos que pago la Comisión Nacional de Televisión
+injustamente y que por mandato de una sentencia de la Corte debería
+pagar el Gobierno Nacional, dije que no me parecía aceptable la
+respuesta del Ministro, hoy ya no tenemos al Ministro ya, pero en todo
+caso el Ministro es quién responde el cuestionario pero quien debe
+anticipar los procedimientos jurídicos es la Autoridad Nacional de
+Televisión, de modo que reitero la pregunta porque no me fue
+contestada en su oportunidad.
+En tercer, lugar he señalado el peso especifico que tienen las
+pensiones dentro del conjunto de los recursos y el modo en que afecta
+al final los recursos para la televisión regional, eso tampoco ha sido
+contestado, es decir aquí no es solamente es que nos reintegren lo
+anterior, aquí es como se procede en adelante de modo que el
+fortalecimiento de los operadores privados de televisión como rubro
+del presupuesto sea efectivamente incrementado en la proporción del
+crecimiento que se ha señalado de los recursos, yo me quedo con
+algunas dudas, pero comprendo la altura del tiempo, los recursos
+adicionales que planteaba el doctor Wilson Gómez creo que tiene
+razón en la pregunta, en un sentido, estaban contemplados por la
+antigua Comisión Nacional de Televisión si son recursos adicionales
+porque no se reflejan en el cuadro que nos presentaron y si
+eventualmente han de ingresar de que manera lo van a desembolsar a
+los operadores regionales como quiera que la norma dice que debe
+ser un desembolso anual y mi pregunta es: es posible restablecer los
+proyectos especiales con la finalidad de que se le agreguen esos
+recursos a los operadores una vez se cuantifiquen, espero haber no
+sido tan enredado pero el asunto es elemental, hay una plata prevista
+para ingresar cuando ingrese como se le reintegra a los operadores,
+¿Cuál es el mecanismo que ustedes tienen previsto?.
+Y finalmente el Ministro se nos va con una queja, dice oiga se nos van
+a llevar los recursos, el ministerio de Hacienda empezó a meterle
+mano, me acaban de modificar el presupuesto y desde luego que
+nosotros compartimos la preocupación, esas eran las consecuencias
+de haber quitado el carácter autonómico de la Constitución, nosotros
+propusimos con Carlos Amaya aquí en un debate público que hicieran
+todo lo que tuvieran que hacer, pero que no perdiera el carácter
+autonómico la Constitución, que la cambiaran, que los metieran a la
+cárcel, que le hicieran procesos disciplinarios, que restablecieran las
+funciones, para no perder el carácter constitucional, pues bien esto es
+llorar sobre la leche derramada, si podemos acompañar se lo digo
+doctora Falla el esfuerzo de la Comisión por restablecer las mayores
+autonomías posibles, porque es un problema de democracia, esto no
+es demagogia frente a ustedes, no es que queramos sobarle el saco a
+los integrantes de la Comisión, no, es que una comisión autónoma
+permite que no haya injerencia gubernamental y a veces bastante
+politiquera en la composición de la Comisión y en sus funciones y
+dijimos que los medios son el 4 poder.
+Termino con lo siguiente, no está el Ministro, pero quiero que
+discutamos después, porque el Ministro nos dijo señor Presidente que
+para quitarle el carácter autónomo a la Comisión se había hecho un
+estudio comparativo internacional, uno de los países que se estudio
+fue Malasia doctora Falla, recuerdo que le explique al Ministro que
+Malasia era una monarquía constitucional y que evidentemente lo que
+estaban haciendo aquí era convertir casi que un monarca al
+Presidente de la República cuando se le daban las funciones, pues
+bien, creo que está claro, desprovista la Comisión de la autonomía era
+evidente que quién recibía la determinación al, Presidente de la
+República que concentraba funciones y que lo hacen en este caso
+fungiendo a través del ministerio de Hacienda que creo es con quien
+vamos a tener que combatir estos pocos pesos adicionales para la
+Comisión.
+Lamento que el señor Ministro no pudiera escuchar estas palabras,
+porque como decía un humorista hace tiempo, se le dijo, se le
+recomendó, se le advirtió y pese a todo paso por debajo de la
+aplanadora.
+Hay un debate sobre el tema de ciencia y tecnología, yo recomendaría
+que la Comisión le diera un tratamiento muy serio al punto, no puede
+ser al calor de una superficialidad y lo digo en el siguiente sentido,
+desde luego que hay tecnología blanda, desde luego que también hay
+innovación en materia de tecnología blanda, pero también es verdad
+que a veces se quiere presentar como el gran avance científico,
+técnico lo que no está en la frontera del conocimiento, yo solamente
+digo que bueno sería poder discutir con el, director del Colciencias el
+tema, para desgracia nuestra por ejemplo, ocurrió que unos recursos
+de ciencia y tecnología del Sena en nombre de la ciencia y tecnología
+terminó en manos de Funpascor una fundación de un grupo paramilitar
+de Córdoba y otros recursos en Barranquilla le fueron entregados a
+Coolechera cuando estaban en manos de quienes tenían las motos
+sierras, utilizaban los recursos para asesinar dirigentes sindicales
+entre ellos los del SENA, fíjese usted la paradoja tan grande, por no
+tener claro que es ciencia y tecnología termina haciendo incubación
+empresarial los incubadores de los paramilitares, lo digo para decir
+que mucho cuidado en el momento de hablar de ciencia y tecnología,
+desde luego que no todo pertenece a la órbita de la innovación
+tecnológica y que cuando hablemos de estos temas, tal vez convenga
+que lo hagamos en presencia de ciencia y tecnología, porque yo si
+quisiera escuchar la opinión de ellos sobre este particular. Muchas
+gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:02:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra la doctora Alexandra Falla, miembro de la Autoridad
+Nacional de Televisión.
+Dra. Alexandra Falla, miembro de la Autoridad Nacional de
+Televisión:
+Bueno muchas gracias. Voy a responder en primera instancia las
+observaciones del Representante Amaya. La primera tiene relación
+con el tema de los canales comunitarios, evidentemente si quiero que
+partamos Representante de las transiciones no son fáciles y que
+llevamos hasta ahora 5 meses de funcionamiento por lo cual le pediría
+que no se decepcione todavía, o sea son 5 meses en los que estamos
+hasta ahora recibiendo el patrimonio de la CNTV, recibiendo los
+procesos que venían de la CNTV y tratando de hacer las cosas de la
+mejor manera posible.
+Frente al tema de los canales regionales vale mencionar que hemos
+recibido un retraso como usted menciona de 200 solicitudes de
+canales comunitarias acumuladas que bien dice usted llevan
+fácilmente tres años, dos años de solicitud y estaban allí en la CNTV,
+eso nos ha sido entregado por el liquidador y un poco en la vía de lo
+que usted menciona, lo que estamos planteando es un plan de choque
+que nos permita evacuar rápidamente esas 200 solicitudes que
+entendemos son muy importantes; creo que nuestra sensibilidad frente
+al tema de la televisión comunitaria está claro y la pueden mencionar
+varios representantes de la televisión comunitaria que tenemos en
+este recinto, estamos muy preocupados y estamos tratando también
+de hacer una regulación consensuada con los comunitarios.
+La idea es que podamos hacer a través por supuesto de un apoyo
+externo un proceso que nos permita evacuar rápidamente esas 200
+solicitudes, ponernos al día con los procesos que llevaba la CNTV y
+regular digamos frente al tema de televisión comunitaria para lo cual
+estamos haciendo foros a lo largo y ancho del país, llevamos ya el
+tercer foro, empezamos en la ciudad de Cartagena, luego seguimos en
+Medellín, el lunes estuvimos en Pereira, vamos el viernes para
+Bucaramanga, el lunes para Popayán y concluimos en la ciudad de
+Bogotá.
+Pero lo que usted menciona evidentemente es cierto, hay 200
+solicitudes en este momento que nos ha pasado el liquidador, que se
+encuentran atrasadas en atención por parte de la CNTV y que
+esperamos poner al día lo antes posible a través de un apoyo externo
+a la ANTV.
+Y quiero mencionarle un tema con el que usted concluyo, pero que de
+verdad quiero manifestarle, si de algo digamos es de resaltar en la ley
+que ustedes promulgaron es el tema de la elección de los
+comisionados, por supuesto no podría dar fe de todos los procesos,
+pero puedo dar fe del proceso a través del cual fui elegida, el proceso
+fue un proceso bastante arduo, de exámenes de conocimientos,
+pruebas sicométricas, entrevistas, en mi caso hechas por la
+Universidad la Sabana y concursando con 15 personas realmente de
+un buen nivel, porque ustedes se esforzaron bastante en diseñar un
+perfil de comisionado que fuera mucho mejor que el que estaba y creo
+que a eso le apuntaron y eso lo lograron a través de estos procesos de
+selección, desconozco como usted menciona el tema puntual de la
+UIS, pero pues si puedo decirle que la persona que ha sido
+seleccionada, tiene una hoja de vida absolutamente impecable en
+términos académicos y creo que va a hacer un buen papel, no la
+conozco, pero he visto su hoja de vida y me parece que cumple
+bastante con las expectativas que el Congreso tuvo cuando determino
+un perfil distinto de los miembros de la junta directiva de la nueva
+Autoridad Nacional de Televisión.
+Voy a dejar los puntos adicionales en cabeza de la, directora, en la
+medida en que es precisamente también una creación de la ley, la
+dirección encargada de los temas administrativos de la entidad, no sin
+antes referirme a un tema que ha planteado el Representante Arias y
+que tiene que ver con la autonomía, digamos que aquí a los
+Honorables Representantes les digo la pelea la estamos dando y la
+vamos a seguir dando y sabemos que contamos precisamente con el
+apoyo de todos ustedes, porque fue precisamente el espíritu que los
+motivo cuando promulgaron la Ley 1507, eso hemos tenido
+oportunidad de discutirlo con varios miembros, no solamente de las
+Comisiones Sextas sino con otros miembros del Congreso de la
+República que precisamente han aludido el tema de la autonomía
+como un tema absolutamente columna vertebral de la nueva Ley que
+creó la Autoridad Nacional de Televisión y estamos en esa lucha y
+creemos que vamos a salir victoriosos con el apoyo de ustedes.
+Frente al tema de los trabajadores de la CNTV, de la integración al
+presupuesto actual de lo que venía de la CNTV, le voy a dar la palabra
+a la, directora de la entidad que les reitero es la persona que se
+encarga de los asuntos de carácter administrativos y que además tuvo
+la oportunidad de representarnos Representante Arias en un debate
+que se llevo a cabo la semana pasada en la Comisión Séptima de la
+Cámara de Representantes y que como usted menciona verso sobre
+el tema de los trabajadores de la CNTV y de lo que está sucediendo
+con ellos en este momento.
+Les agradezco muchísimo el haberme escuchado y desde la ANTV
+cuenten con el apoyo a la televisión regional, el apoyo a la televisión
+pública y el compromiso por hacer de esta una entidad como la que
+ustedes pensaron en la ley. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:02:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Le pregunto a los señores firmantes de la proposición de citación si
+tienen algo que agregar, entonces tiene la palabra la doctora Sandra
+Urrutia que está encargada de la dirección por la licencia de la titular,
+doctora bienvenida a este debate y tiene la palabra por favor.</p>
+						</speech>
+						<speech by="#dra-sandra-urrutia" startTime="2012-09-26T09:02:40">
+							<from>Dra. Sandra Urrutia</from>
+							<p>Efectivamente la semana pasada sobre el tema de los trabajadores de
+Inravisión nos citaron en la Comisión Séptima después de que hablara
+la Función Pública, de la Comisión Nacional del Servicio Civil y pues
+expusimos el cuestionario que ellos nos formularon, que si ustedes
+quieren les dejo las respuestas que allí establecimos, pero a groso
+modo lo que quedo claro después de las intervenciones de las
+entidades que hable es que la autoridad en virtud de la autonomía, la
+Autoridad Nacional de Televisión estableció su planta de personal y al
+establecerse que es la junta la que determina cuál es esa planta de
+personal pues lo que hicimos fue pedir un permiso a la Comisión
+Nacional del Servicio Civil para que nos diera la posibilidad de
+empezar a ejercer nuestras funciones con una planta temporal ¿Y esto
+porque lo hicimos? Porque el artículo 21 de la Ley 1507 nos dice que
+después del 10 de abril del presente año que entro en funcionamiento
+la Autoridad Nacional de Televisión debíamos entrar a operar sin
+solución de continuidad, entonces lo que se hizo fue pedir en comisión
+unos funcionarios de la CNTV de la CRC y de otras entidades que nos
+empezaron a apoyar en el proceso de andamiaje, de arranque de la
+entidad.
+En ese sentido lo que se hizo fue pues pedir esa planta de temporal y
+lo que también se decidió en la Junta fue que el régimen que vamos a
+seguir en la autoridad es el régimen de los funcionarios de la Rama
+Ejecutiva y esto porque lo vamos hacer, porque en la Ley 1507 nos
+dejaron un tope legal en las gastos de funcionamiento y nos
+equipararon a la Comisión de Regulación de Comunicaciones,
+entonces para ser digamos como concordantes con esta limitación lo
+que hicimos fue acogernos al régimen salarial que tiene pues la Rama
+Ejecutiva del Gobierno Nacional.
+En ese sentido, digamos la desvinculación que viene haciendo el
+liquidador, pues es un tema que le corresponde a ellos, pero si
+estamos conscientes que hay unos derechos de unos trabajadores,
+que la ley les dejo unas garantías que era reincorporarlos en las
+nuevas entidades donde se distribuyeron las funciones que la Ley 182
+establecía en materia de televisión, nosotros los hemos acompañado
+en la Función Pública, de la Comisión de Servicio Civil porque
+estamos interesados en garantizar esos derechos que nos parecen
+muy importantes, pero tenemos una limitación de orden legal y es que
+los trabajadores de la CNTV tenían el rango o lo que les pagaban por
+concepto de salario es el tema de la Junta Directiva del régimen del
+Banco de la República, que sus salarios son diferentes a los de la
+Rama Ejecutiva, en esa medida que ha pasado, nosotros tenemos
+concepto de la Función Pública donde nos dice que para que tenga el
+derecho un trabajador a reincorporarlo en otra entidad del Estado tiene
+que garantizarle lo siguiente, que sea en un cargo igual o por lo menos
+en dos grados por encima. ¿Qué pasa que si nosotros hacemos esa
+comparación de los cargos que nosotros tenemos? Pues nosotros
+tenemos en este momento una planta de 57 personas de las cuales 36
+son de libre nombramiento y remoción y 21 serían profesionales de
+carrera.
+Pero por ejemplo, un profesional uno con el régimen que tenía la
+CNTV ganaba más o menos 4 millones de pesos en un profesional
+uno en nuestra entidad gana 2 millones de pesos, entonces se verían
+menoscabados sus derechos laborales y por ello es que la
+incorporación no se ha podido hacer, adicionalmente como les digo
+nosotros tenemos una planta temporal, porque teníamos que hacer un
+estudio técnico para definir cómo van a quedar definitivamente los
+caragos.
+La Comisión Nacional de Televisión eran 161 cargos que no se les
+puede en lo que corresponde a la autoridad garantizar esa
+reincorporación por lo que ya les comento.
+Nos explicaba también la Función Pública y la Comisión del Servicio
+Civil e incluso el liquidador, que los trabajadores pueden optar también
+por la indemnización si no los logran reubicar como es su entendido y
+estamos absolutamente conscientes de lo que uno quiere en una
+etapa productiva es poder desempeñar sus funciones y eso de verdad
+que nosotros hemos estado muy interesados en garantizar esas
+posibilidades, pero jurídicamente como les digo tenemos las limitación
+que nos dejaron en la propia ley y es que nuestro régimen tiene que
+acogerse al de la Comisión de Regulación de Comunicaciones,
+tenemos una limitación presupuestal en gastos de funcionamiento que
+es de donde sale el pago de los funcionarios.
+Las pensiones de Inravisión, efectivamente nosotros debemos seguir
+asumiendo el pago de las pensiones en virtud del artículo 19,
+seguimos pagando los emonolumentos que se deben girar
+mensualmente. Y en relación con el fallo que salió, el que decretó la
+nulidad del Decreto 3550, nosotros hemos hecho los estudios
+jurídicos, nos hemos reunido con el liquidador para ver quién tiene la
+titularidad jurídica de pedir que esos dineros se devuelvan al
+patrimonio en este momento de la Autoridad y poderlo redistribuir en la
+televisión pública, efectivamente esa titularidad le corresponde al
+liquidador, porque la demanda salió digamos avalando la norma que
+imponía esa sanción a la CRTV.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:02:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Para una moción tiene la palabra el Representante Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2012-09-26T09:03:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Presidente es que es parte de las dificultades de que los funcionarios
+que responden hoy en estado de la presentación inicial, a mi me
+cuesta mucho tener que reiterar lo que ya se ha dicho inicialmente, lo
+he dicho tres veces Presidente, sencillamente que tengo que
+desmentir lo que acaba de decir la, Directora con todo respeto, pero lo
+que dice la Ley es exactamente lo contrario y yo no acepto que se me
+siga repitiendo lo mismo que dijo el Ministro en su escrito, yo creo que
+hay no de parte suya, Directora, usted no escucho mi intervención,
+pero hay una falta de respeto en general cuando se insiste en la
+respuesta que se ha probado, esto en contraevidente lo que nos están
+diciendo, lo que dice el artículo 21 es que definitivamente hay una
+sesión de la posición contractual judicial administrativa y haya o no
+haya comisión alguien tiene que responder y en efecto lo que dice es
+que la Autoridad Nacional de Televisión continúa con esas funciones,
+el artículo 21 y el 22 dice transferencia supletiva: “La función de la
+Comisión de Televisión que no sean objeto de mención expresa en la
+presente ley se entenderán transferidas a la Autoridad Nacional de
+Televisión, es decir hoy hay un paralelismo entre una Comisión que
+tiene como función principal la liquidación, que tiene unas funciones
+marchitándose y una Autoridad que plenipotenciaria para asumir todo
+lo que no puede asumir la Comisión.
+La señora, Directora insiste en la respuesta que dio el Ministro, yo debo
+decir que desde luego no la comparto, no quiero ser irrespetuoso, pero
+de verdad que me siento bastante afectado por la falta de respuesta
+satisfactoria sobre el tema, usted no había escuchado señora
+Directora mi opinión inicial y debo adicionar para retirarme, espero que
+el Ministro venga en una oportunidad para que podamos hablar con el
+Ministro sobre el punto, me parece que es lo adecuado, yo creo que
+tiene razón el doctor Ciro Rodríguez cuando pide la presencia de la
+más alta dignidad para poder discutir estos asuntos, porque desde
+luego tampoco me satisface la respuesta sobre el tema de los
+trabajadores, pero espero discutirlo con el alto Gobierno.
+Es decir, hay algo que llaman disfuncionalidad de planta, cuando se
+acaba una entidad y cuando se protegen los derechos de los
+trabajadores cualquiera sea su destino tienen que resolverse, eso fue
+lo que dijo la Ley y así sea que no pase al mismo cargo la norma es
+suficientemente clara al respecto, pasara a otro cargo, otra
+denominación cualquiera que ella sea, donde cumpla requisitos y
+simultáneamente obtenga los derechos salariales, a eso le llaman
+disfunciones, además la Comisión Nacional de Servicio Civil, el
+Departamento de la Función Pública sabe bastante de eso porque
+varias entidades liquidadas tienen la misma suerte.
+Yo me retiro señor Presidente, espero que el Ministro nos pueda
+responder en una nueva oportunidad. Gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:03:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Carlos Andrés Amaya.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-09-26T09:03:20">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>También para anunciar mi retiro no quiero sonar irrespetuoso, pero si
+Presidente yo lo felicito sobre el ejercicio que está haciendo, pero uno
+viene acá y pone unos argumentos, lee, trae datos, cifras y pues no
+está la persona que le contesta a uno y son respuestas demasiado,
+demasiado y eso lo leí en la Comisión Séptima, no hubiera sido
+necesario venir hasta acá y creo que esto no va a solucionar nada el
+tema de los trabajadores, así que no veo importante mi presencia en
+este recinto, así que me retiro Presidente con la felicitación a usted por
+liderar este tipo de debates, que no es culpa suya que se presenten
+estas situaciones. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:03:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Siga doctora por favor.</p>
+						</speech>
+						<speech by="#dra-sandra-urrutia-pérez" startTime="2012-09-26T09:03:40">
+							<from>Dra. Sandra Urrutia Pérez</from>
+							<p>Finalmente, quería aclarar que la razón por la cual no está acá todo el
+equipo es porque tenemos una citación en la Comisión Sexta del
+Senado, para nosotros es de mayor interés poderles absolver a
+ustedes y que obviamente las personas que ocupan la más alta
+dignidad puedan atender sus solicitudes, pero la situación es que en
+este momento estamos también citados por el tema que estamos
+empezando, ellos quieren hacer un seguimiento de cómo estamos.
+Entonces no es que no sea importante este debate, sino las razones
+es que se nos está cruzando las agendas.
+Señor Presidente yo creo que ya con esto doy por terminada mi
+intervención. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:03:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2012-09-26T09:04:00">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Señor Presidente muchas gracias, simplemente también decir y
+mandar el mensaje, que es que el Congreso de la República se
+compone de Senado y Cámara y tanto los Senadores como los
+Representantes tenemos igual dignidad en este Congreso.
+Nosotros estábamos en un debate donde no debía haberse levantado
+la mesa hasta que nosotros no lo termináramos y aquí se fue parando
+el uno y se fue el otro y empezaron a delegar el uno en el otro, yo creo
+que nosotros también nos merecemos el suficiente respeto y si tenían
+también el debate en el otro lado, yo no sé cómo hacer, pero este es
+un Congreso que se compone de Cámara y Senado y con el mayor
+respeto suyo eso no es una respuesta para tanto los que citamos
+como para los compañeros que nos quedamos acá.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:04:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Yo debo decir lo siguiente, ayer se había citado y no estoy
+defendiendo a nadie, a ningún funcionario, ni estoy condenando a
+ningún Representante a la Cámara, ayer estuvieron muy cumplidos a
+las 8 de la mañana todos para el debate que no se pudo hacer ayer y
+se aplazo para hoy, la aplazada para hoy de este debate significo
+aplazar el de la Agencia Nacional de Infraestructura, a través de la
+voluntad del doctor Jhon Jairo Roldán y del otro proponente de este
+debate el doctor Luís Guillermo Barrera.
+En el día de hoy debo también decir que los funcionarios estuvieron
+muy puntuales a las 8, por falta de la presencia de algunos inclusive
+citantes se empezó a las 8 y 54 minutos, o sea se perdió una hora, de
+todas maneras yo si acojo la propuesta y la insinuación de los
+Honorables Representantes, que este debate no puede quedar aquí,
+debe colocarse nueva fecha para con el señor Ministro y con usted
+doctora y si ya está la titular pues con la titular o con todos los demás
+integrantes de la Autoridad Nacional, pues podamos realmente
+continuar este debate que es de suma importancia y yo creo que ya
+podría también anexarse los cuestionarios del doctor Wilson Arias y el
+doctor Carlos Andrés Amaya concretamente para que se pueda traer y
+darle satisfactoria respuesta a los Honorables Representantes.
+Pero obviamente son ustedes como proponentes y como citantes
+doctor Ciro Rodríguez y doctora Juana Carolina Londoño Jaramillo los
+que deben cerrar este debate y tiene la palabra doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2012-09-26T09:04:20">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, yo quiero pedirle disculpas
+Presidente si no entendió la moción de orden, precisamente el sentido
+era ese, el doctor Wilson Gómez estaba haciendo unos aportes
+importantes y merecía que este debate continuara con el inicio de su
+intervención.
+Entonces, es fundamental que este debate continué, aquí hay muchos
+temas, lo que sale hoy también hay que citar a la Comisión de
+Regulación de Comunicaciones, que es la encargada de todo el tema
+regulatorio y vemos que ellos deben acelerar más este paso para que
+no nos pase con muchos temas que han venido sucediendo, casi que
+lo que le pasa al Congreso con la Corte Constitucional, por no avanzar
+en unos temas fundamentales nos sale la Corte Constitucional
+adelante y lo mismo le puede estar pasando a las Comisiones de
+Regulaciones, aquí es e han tomado o se han hecho algunas leyes
+que deben ser regulatorias, por ejemplo la neutralidad de redes, la
+portabilidad numérica, hoy hay en tránsito dos nuevas leyes como las
+mediciones del espectro radioeléctrico y de la misma forma que la
+compartición de infraestructura y el despliegue que son temas
+regulatorios, pero como ellos no toman medidas le toca al Congreso
+de la República actuar.
+Y en lo que se ha dicho acá, la importancia de que los canales locales
+y sin ánimo de lucro puedan estar dentro de los diferentes operadores
+es un tema regulatorio, pero si no se actúa también nosotros nos
+tocara presentar los debidos proyectos de ley, por eso es fundamental
+también que ellos estén acá para que miremos un tema más como es
+el tercer canal, sabernos que en estos momentos hay un proceso de
+selección de banca de inversión que valdría la pena lo analizáramos,
+porque la Comisión Nacional de Televisión anterior adjudico dos
+contratos con el mismo objeto y ojala no estemos nosotros repitiendo
+una tarea que ya pudo haber hecho la Comisión Nacional de
+Televisión, que incluyan como se ha dicho aquí temas tan importantes
+como los de ciencia y tecnología.
+Yo quiero terminar con un artículo que sale hoy en el tiempo que esta
+titulado de esta forma Señor Presidente y dice: “El cerebro colombiano
+de la física que se fugó a París, Mauricio Hoyos aconseja trabajar en
+tecnologías propias que resuelvan problemas del país”, no nos sirve
+dedicarnos a resolver el bosón de Higgs porque eso a la larga no nos
+va a traer ningún beneficio y de esta forma podamos nosotros
+aportarle al desarrollo del país. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:04:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Le agradecemos doctora Sandra Urrutia, señor Secretario continué
+con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-09-26T09:04:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-09-26T09:04:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Se levanta la sesión de la Comisión Sexta Constitucional de la Cámara
+siendo las doce y treinta de la tarde (12:30 p.m.) y se cita para el
+próximo martes a las 10 de la mañana. Muchas gracias a todos.
+SILVIO VASQUEZ VILLANUEVA              JHON JAIRO ROLDAN AVENDAÑO
+Presidente                            Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO         JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                             Subsecretario
+Elaboro. SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

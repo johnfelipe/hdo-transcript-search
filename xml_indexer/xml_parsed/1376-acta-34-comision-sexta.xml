@@ -1,0 +1,2046 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo" id="hr-iván-darío-agudelo" showAs="H.R. Iván Darío Agudelo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andrés-amaya-rodríguez" id="hr-carlos-andrés-amaya-rodríguez" showAs="H.R. Carlos Andrés Amaya Rodríguez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-maría-fernanda-campo-saavedra" id="dra-maría-fernanda-campo-saavedra" showAs="Dra. María Fernanda Campo Saavedra"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez-villanueva" id="hr-silvio-vásquez-villanueva" showAs="H.R. Silvio Vásquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-martha-lucía-villegas-botero" id="dra-martha-lucía-villegas-botero" showAs="Dra. Martha Lucía Villegas Botero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-martha-lucía-villegas" id="dra-martha-lucía-villegas" showAs="Dra. Martha Lucía Villegas"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="1376-acta-34-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2011</heading>
+				<debateSection>
+					<heading>Septiembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 34 / 2011-09-14</heading>
+						<speech by="" startTime="2011-09-14T11:20:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 034
+(Bogotá, D.C., 14 de septiembre de 2011)
+A las once y veinte minutos de la mañana (11:20 a.m.) el Presidente
+de la Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, Honorable Representante JOSE EDILBERTO
+CAICEDO SASTOQUE, ordena llamar a lista y contestan los
+siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Bonilla Soto Carlos Andrés
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+En el transcurso de la sesión se hicieron presenten los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Londoño Jaramillo Juana Carolina
+Ortega Samboni Jairo
+Rodríguez Pinzón Ciro Antonio
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:20:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente la Secretaría se permite informar que tenemos
+quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:20:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Habiendo quórum decisorio se abre la sesión, proceda señor
+Secretario a darle lectura al orden del día para la presente sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:20:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2011 al 20 de junio de 2012
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-wilson-gómez-velásquez">
+								1. Sírvase informar el procedimiento para la puesta en marcha del artículo 150
+de la Ley 1450 de 2011 que trata de los subsidios de educación superior.
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								2. ¿A partir de qué fecha los estudiantes de estratos 1, 2 y 3 se beneficiaran
+del subsidio de educación superior de que trata el artículo 150 de la Ley
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								3. ¿Cuántos jóvenes del estrato 1, 2,3 tendrían la posibilidad de acceder a la
+educación superior y profesional, con la puesta en marcha del subsidio a
+cero pesos de la tasa real del interés del crédito ICETEX durante los 4 años
+para los que fue aprobado en el Plan Nacional de Desarrollo?
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								4. ¿Cuánto le cuesta al Estado en promedio el subsidio de la tasa de interés
+real, por alumno durante una carrera promedio en Colombia?
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								5. ¿Según sus cifras, cuánto cuesta al estado un estudiante en una
+universidad pública durante una carrera promedio en Colombia?
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								6. ¿Cuáles son los mecanismos y requisitos que deben cumplir los
+estudiantes para acceder a un crédito ICETEX con subsidio al 100% de la
+tasa real del interés?
+- ¿Es necesario tener codeudor?, En caso afirmativo indique: ¿En qué
+casos? ¿Qué características y/o requisitos debe tener el codeudor?
+¿Quiénes pueden ser codeudores? ¿Los pensionados en Colombia
+Pueden ser codeudores de un crédito del ICETEX y por qué?
+- ¿Se privilegia a los estudiantes según estrato socioeconómico?
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+							<question by="#hr-wilson-gómez-velásquez">
+								7. ¿Discriminar por estrato socioeconómico los créditos otorgados, haciendo
+claridad cuantos corresponden especialmente al estrato 1, 2,3?
+								<from>H.R. Wilson Gómez Velásquez</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2011-09-14T11:20:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 14 de septiembre de 2011
+Hora: 9:00 a.m.
+Llamado a lista y verificación del quórum
+Citación a Ministros y Servidores Públicos de conformidad con el artículo
+135-8 de la constitución Política en concordancia con el artículo 249, y 233
+de la Ley 5ª. De 1992.</p>
+						</speech>
+						<speech by="" startTime="2011-09-14T11:20:50">
+							<from>OTROS</from>
+							<p>PROPOSICIÒN No. 004
+(Bogotá, D.C., 24 de agosto de 2011)
+Cítese a la señora, Ministra de Educación nacional, doctora MARIA FERNANDA CAMPO
+SAAVEDRA, a la, directora del Instituto Colombiano de Crédito Educativo y Estudios
+Técnicos en el Exterior, ICETEX doctora MARTHA LUCIA VILLEGAS BOTERO, y atendiendo
+la proposición No. 004, presentada por el H.R. WILSON GOMEZ VELASQUEZ, discutida y
+aprobada por esta Célula Legislativa el 24 de agosto de 2011, para que en el Debate de
+Control Político que se llevará a cabo el próximo miércoles 14 de septiembre del año en
+curso, a partir de las 9:00 a.m., en las instalaciones de la Comisión Sexta Constitucional
+Permanente de la Honorable Cámara de Representantes resuelvan el siguiente
+cuestionario:
+“Teniendo en cuenta el trascendental debate que se avecina a propósito de la Reforma a
+la Ley 30 de Educación, y teniendo en cuenta que el Congreso de la República incluyó en
+el Plan Nacional de Desarrollo el artículo 150 que subsidia la educación superior en los
+créditos del Icetex para los estratos 1, 2 y 3, pongo a consideración de los Honorables
+Representantes de la Comisión Sexta el siguiente cuestionario para la señora, Ministra de
+Educación María Fernanda Campo y la señora, Directora del Icetex Marta Lucia Villegas”:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:21:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JOSE EDILBERTO CAICEDO SASTOQUE DIEGO ALBERTO NARANJO ESCOBAR
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:21:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente someta a consideración el orden del día leído por
+Secretaría.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:21:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Se somete a consideración el orden del día, se abre la discusión,
+continúa abierta, anuncio que se va a cerrar, queda cerrada, aprueba
+la Comisión el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:21:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:21:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continuemos entonces con el siguiente punto del orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:21:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente el siguiente punto del orden del día es darle
+cumplimiento a la proposición 004 que esta Corporación aprobó y que
+presentó el Honorable Representante Wilson Gómez Velásquez, la
+Secretaría se permite informar que la Presidenta del ICETEX la
+doctora Martha Lucía Villegas Botero nos está acompañando desde
+hace más de una hora, la señora, Ministra de Educación Nacional vía
+telefónica informe que salió hace media hora, entonces señor
+Presidente usted ordene esta invitación que se la han hecho a la
+Ministra de Educación y a la Presidenta del ICETEX.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:22:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Primero agradecerle a la señora Presidenta del ICETEX su tiempo, por
+circunstancias de cooperación con otra célula legislativa, se prestó a
+primera hora el recinto de la Comisión Sexta lo que nos dificulto haber
+iniciado oportunamente, inclusive hubo varios de los Representantes
+que estuvieron aquí sobre las 9 y 30 que ahora no los veo,
+seguramente pensaron que no iba a haber Comisión en la mañana de
+hoy, pero le agradecemos su presencia; debo decir como introducción
+que en cabeza del Representante Wilson Gómez se ha venido
+alimentado en esta Comisión un enorme debate sobre lo que significa
+la oportunidad que tiene el pueblo colombiano, que tiene los jóvenes
+para poder acceder a la educación superior, que esta Comisión le
+corresponde liderar, fomentar y fortalecer todos los procedimientos
+tendientes a garantizar que cada día más colombianos puedan
+acceder a la educación superior de una manera viable, pagable y que
+garantice por supuesto que su sueño de acceder al conocimiento se
+pueda realizar, esta es una meta de la Comisión Sexta, esa es una
+política que nosotros hemos alimentado durante este año de trabajo
+legislativo, de tal manera que se produjo por iniciativa de esta
+Comisión Sexta la aprobación de una ley que posibilita por supuesto
+que más colombianos tengan acceso en mejores condiciones de
+crédito a la educación superior, desde esa perspectiva el
+Representante Wilson Gómez remite a su despacho un cuestionario
+que pretende por supuesto darle información al país y a los
+Honorables Representantes sobre el procedimiento para la puesta en
+marcha del artículo 150 de la Ley 1450 del 2011 que trata de los
+subsidios de educación superior y por supuesto garantizar que las
+iniciativas que han tenido curso tanto en esta Comisión como en la de
+Senado y en las Plenarias puedan realmente verse reflejados en un
+resultado a nivel nacional.
+De manera pues que no se si quiere en primera instancia
+Representante Wilson Gómez tomar la palabra como Representante
+citante para que luego la Señora Presidenta del ICETEX proceda a
+responder el cuestionario que le ha sido enviado. Tiene el uso de la
+palabra el Representante Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-09-14T11:22:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Señor Presidente muchas gracias y un agradecimiento muy especial a
+todos los colegas que hacen presencia en esta mañana luego del
+percance sucedido por el uso de la Comisión por parte de otros
+colegas que pudo haber por supuesto generado una mala información
+en quienes no están en este momento.
+Saludo muy cordial a la señora Presidenta del ICETEX en Colombia a
+la doctora Martha Lucía Villegas, a los invitados que nos acompañan
+en esta mañana y quiero iniciar diciendo que esta Comisión tiene hoy
+la particularidad de volver a abocar y me lo decía el doctor Carlos
+Amaya que si íbamos a hablar otra vez del ICETEX, porque este en un
+tema que hemos discutido por lo menos una vez al mes en esta
+Comisión, que hemos avanzado significativamente en la tarea que nos
+han encomendado los ciudadanos respecto de la protección para que
+los estudiantes en Colombia tengan más oportunidades y no se trata
+hoy de un debate de control político querida Presidenta doctora Martha
+Lucía Villegas, sino más bien que hagamos un balance de lo que
+hasta hoy ha sucedido en materia de créditos de educación superior
+en el ICETEX en el país y que camino le espera a los jóvenes de
+menos recursos en nuestro país; así que no se trata incluso de una
+citación a la Presidenta, sino de una invitación que le hemos hecho
+para que nos acompañe en esta sesión con el ánimo de que ella le
+explique a este Congreso y por supuesto a través de él a los
+Colombianos en que estamos hoy en materia de créditos de educación
+superior.
+Luego de haber hecho una inclusión en el Plan Nacional de Desarrollo
+de un artículo que le garantiza a los colombianos la posibilidad de
+acceder a un crédito subsidiado en la tasa de interés real del crédito
+de educación superior y bajo el entendido que en esta Comisión hace
+escasos días aprobamos en primer debate aquí y en segundo debate
+en Plenaria de la Cámara un proyecto de ley de iniciativa
+Parlamentaria con el que por supuesto pretendemos que esta sea una
+política de Estado, no que sea una política transitoria como ha
+quedado incluido en el Plan Nacional de Desarrollo, sino que pueda
+perdurar en el tiempo y como lo hemos señalado en cada escenario
+donde nos paramos a hablar de este tema que no dependa de la
+voluntad del, Presidente de turno, sino que sea obligatoriedad de el
+gobernante de turno la puesta en marcha de esta política de Estado.
+Aquí vale la pena hacer una recopilación y al final del debate lo que
+queda es que haya claridad en el país sobre la participación de unos y
+otros, que haya claridad sobre la voluntad política de un Presidente
+como Juan Manuel Santos que fue el único Presidente que tuvo la
+capacidad de asumir la condonación de los intereses del crédito de
+educación en Colombia, muchos en Colombia no creíamos que esto
+fuera posible, pero hubo un Presidente como el doctor Juan Manuel
+Santos que decidió tomar el toro por los cuernos y por los menos dar
+un paso significativo en materia de acceso a la educación superior, por
+supuesto subsidiando la tasa de interés, reitero al final de esta
+intervención lo que pretendo es que haya claridad sobre la
+participación tanto del Gobierno Nacional como de este Congreso,
+para que haya claridad que el Congreso de la República a través de la
+Comisión Sexta ha liderado un proceso en Colombia con el ánimo de
+garantizarle a los jóvenes más pobres de este país el acceso a la
+educación.
+Yo he recibido muchos correos electrónicos de muchos lugares de
+Colombia, la inmensa mayoría por supuesto exaltando la labor que
+hemos cumplido en el Congreso de la República a través del proyecto
+de ley que pretende eliminar y convertir en política de Estado el
+subsidio de los intereses al ICETEX, por supuesto en medio de un
+centenar de correos electrónicos pues también tiene que aparecer uno
+o dos que pueden tener diferencias respecto de lo que aquí hemos
+hecho, porque consideran que tal vez estamos convirtiéndonos en un
+Estado que lo que pretende es subsidiar y regalar todo, pero también
+vale la pena aprovechar este escenario para hacer claridad en que es
+lo que estamos haciendo, no estamos regalándole nada a ningún
+colombiano, porque finalmente cada joven que acceda a un crédito de
+educación superior a través del ICETEX tendrá que pagar el total de la
+matricula, adicional tendrá que pagar el IPC causado el año anterior y
+ese solo hecho ya conlleva a que a ese ciudadano no le hayamos
+regalado un solo peso, lo único que estamos pidiendo con la iniciativa
+del subsidio de la tasa de interés es que así como hay un subsidio
+para aquellos que van a la universidad pública, que gracias a dios
+tienen el privilegio de hacerlo también a aquellos que deben ir a otro
+tipo de universidad por razones no personales, no porque no quieran
+sino porque no pueden, pues el Estado al menos les ayude por lo
+menos subsidiando la tasa de interés y por eso hago esta introducción
+para inicio especifico a mi intervención que espero sea máximo unos
+10 minutos para que mis compañeros tengan la posibilidad también de
+interlocutar con la señora Presidenta, respecto a los antecedentes de
+lo que hemos hecho hasta hoy y para que ella pueda explicarnos los
+logros de lo que hasta hoy hemos tenido con el acceso a la educación.
+Nosotros hace un año largo cuando tomamos posesión en el
+Congreso de Colombia, el 20 de julio del año 2010, nos dimos a la
+tarea querida Presidenta de radicar un proyecto de ley con el que
+propusimos la eliminación de los intereses del ICETEX, tengo yo
+dentro de los anales de las discusiones que aquí dimos,
+intervenciones suyas, intervenciones de la, Ministra, intervenciones de
+mis colegas, intervenciones mías, donde avanzábamos en la
+posibilidad de plantear una eliminación de los intereses al ICETEX en
+Colombia, posiciones encontradas, pero además entendibles, por
+supuesto en una de ellas señala usted: “así que la recuperación de la
+cartera significa casi el 60, 70% de los recursos del ICETEX y hay que
+cuidarlos de manera importante, es decir si la cartera se deteriora de
+manera dramática, si hay una cultura de no pago, pondríamos en
+riesgo la estabilidad del ICETEX”, entendible por supuesto y ajustado
+a una realidad, pero ello para significar que al comienzo de esta
+discusión por supuesto no teníamos el camino allanado para poder
+acceder al subsidio total de los intereses, intervenciones del señor
+Ministro de Hacienda, donde por supuesto en sus palabras también
+dejaba entrever que el camino no era fácil.
+Sin embargo, dentro de las intervenciones por supuesto también
+encontramos otras como una intervención mía, “quiero proponerle al
+Gobierno Nacional que en realidad revaluara la viabilidad del proyecto
+de ley que aquí hemos puesto a consideración, porque el Presidente
+Santos manifestó que tenía pensado reducir los costos financieros de
+la matricula del ICETEX”; con ello quiero significar que el año pasado
+a finales del 2010 cuando iniciamos este debate unos y otros
+empezamos a allanar el camino, el Presidente Juan Manuel Santos
+nos tiro llamémoslo un salvavidas, cuando dijo hay que reducir la tasa
+de interés y es cierto como usted también lo ha señalado Presidenta
+que es una decisión tomada en un comité directivo tal vez o la junta
+directiva del ICETEX que hace una reducción del 16 al 4%, situación
+que celebramos aquí todos de manera unánime porque con ello
+estábamos más que tirándole un salvavidas a este Congreso, un
+salvavidas a los jóvenes en Colombia, pero no nos quedamos ahí,
+después de la reducción del 4% seguimos insistiendo Presidente en la
+necesidad de eliminar a 0 pesos la tasa real y no nos llamemos a
+engaños para que los jóvenes en Colombia no crean que aquí
+estamos hablando demagógicamente, casi que es lo uno con lo otro,
+digamos que bajar la tasa del 16% al 4% y proponer la reducción a 0
+pesos como lo estamos proponiendo a través del proyecto de ley,
+decisión que quedó tomada en el Plan Nacional de Desarrollo,
+equivale a lo que está sucediendo; hoy como usted en reiteradas
+ocasiones lo ha señalado, pero vale la pena decir, que este país año
+tras año hace esfuerzos para que el IPC no suba sino que reduzca,
+por eso es necesario que no hablemos de una tasa del 4%, sino que
+hablemos de un subsidio del 100% de la tasa real y cobremos el IPC
+en Colombia, hoy está casi equiparado el 4% eso equivale a un 0,33%
+efectivo mensual, es decir que hemos bajado del 1,33 mensual al 0,33
+que es supremamente significativo y al final de mi intervención les voy
+a demostrar con cifras lo que hemos logrado hoy en Colombia en
+beneficio de los jóvenes nuestros.
+Entonces, por eso es que Presidenta yo he venido insistiendo en que
+tenemos que hablarle al país del subsidio del 100% de los intereses,
+pero también hay que hacer claridad en que por supuesto el joven
+debe pagar el IPC, porque no vamos a llamar a engaños a los jóvenes
+en Colombia para que luego nos digan que fuimos unos mentirosos
+diciendo que les íbamos a subsidiar el 100% cuando ellos tienen que
+pagar, pero van a pagar muy poco realmente y por eso es esta
+Comisión hoy para que los jóvenes entiendan que con lo prestado
+anteriormente, pero con lo prestado hoy la reducción es significativa
+para el bolsillo de cada joven de estrato uno, dos y tres en Colombia.
+Por esa razón esta Comisión de manera juiciosa aprobó hace unos
+meses atrás el proyecto de ley, del cual nunca dejaré de destacar que
+el pleno de la Comisión respaldo de manera absoluta, es más, este
+proyecto de tan noble causa, de él fuimos ponentes la inmensa
+mayoría de los Congresistas de esta Comisión y fuimos ponentes,
+porque así lo quiso la Presidencia y porque realmente así era el
+interés de la inmensa mayoría, de participar en esta decisión y hay
+que decirle a los colombianos, por supuesto hacen falta mucho más
+esfuerzos; por supuesto que el anhelo nuestro es que ojala todos
+pudieran ir a la universidad pública, ese sería el ideal de este país, que
+todos nuestros muchachos pudieran ir a una universidad pública para
+que tuvieran el privilegio de acceder a la educación a través del
+Estado, pero yo reitero las palabras que siempre he utilizado, en el
+entretanto que hacemos, mientras logramos conseguir recursos para
+que todos vayan a la universidad pública que nos inventamos, este es
+un mecanismo con el cual podemos garantizarle a muchos jóvenes
+que hoy están por fuera del sistema, la posibilidad de acceder a un
+título técnico, tecnológico o profesional si así lo quiere cada uno de
+ellos, por esa razón la plenaria de la Cámara nos dio el respaldo en
+esa iniciativa y hoy va al Senado de la República querida Presidenta,
+va al Senado de la República la iniciativa de este Congreso, reitero
+que nada choca con los intereses del Gobierno Nacional en cabeza
+del señor Presidente, en cabeza de la, Ministra y en cabeza suya como
+Presidenta de la Institución, en nada choca, estamos pensando lo
+mismo, creo que es de las pocas coincidencias en las que ni unos ni
+otros tendrían que decirse alguna cosa, porque tanto ustedes
+representando al Estado a través del Gobierno Nacional como
+nosotros al pueblo a través del Congreso de la República estamos
+coincidiendo la misma intención, queremos subsidiar la tasa de
+interés, queremos condonar el 25% a quienes se gradúen y nuestro
+mayor interés no es afectar las finanzas de la institución llamada
+ICETEX en Colombia, sino la posibilidad de que más jóvenes accedan
+a la educación a través de ese sistema.
+Porque reitero, es que el ICETEX no es un Banco, no puede operar
+como un banco tradicional en nuestro país, que infortunadamente era
+la interpretación que muchos colombianos le tenían a la institución
+antes del mes de diciembre del año pasado, porque había que pagar
+una tasa de interés que oscilaba entre el 16% y que por supuesto eso
+daba como el 1,033 creo mensual, pero que hoy por supuesto la
+realidad es otra, yo tengo los recortes de prensa de cada paso que
+hemos dado en esta materia, intervenciones suyas, intervenciones de
+la señora, Ministra, intervenciones del señor, Presidente de la República
+e intervenciones de lo que sucede al interior de la Comisión, no en
+cabeza de Wilson Gómez, sino del Congreso en pleno que ha decidido
+respaldar este proyecto.
+Por eso Presidenta, reitero que lo que intentan no este debate de
+control político sino esta invitación a que usted le explique a la
+Comisión en que vamos, lo que intenta es exaltar que el Congreso de
+la República también hace parte de esta decisión y eso es lo que yo le
+he pedido a la, Ministra de Educación, al Presidente cada vez que lo
+puedo saludar y que le pido hoy a usted como Presidenta de esta
+institución que entienda que este Congreso hace parte de esa
+decisión, que este Congreso esta para ayudarle a esa institución, que
+este Congreso en ningún momento pretende atentar contra las
+finanzas de su institución, sino contribuir para que la inmensa mayoría
+de los colombianos tengan la posibilidad a través de ella de acceder a
+una universidad.
+Mire esta hermosa foto de la señora Presidenta en un diario de
+circulación nacional haciendo un anuncio: “buenos alumnos podrán
+pagar menos al ICETEX en Colombia”; cada vez que sale un artículo
+de estos por supuesto yo hago fiestas, porque me encanta saber que
+una joven de estrato uno en Ciudad Bolívar a quién le elaboran este
+artículo gracias a lo que hemos hecho de manera conjunta, dice que
+mi sueño era ser universitaria, sueño que ha podido cumplir y lo
+cumple gracias a que pudo acceder a un crédito de educación superior
+en el ICETEX con una tasa subsidiada al 0%.
+Hace poco el ICETEX público el nuevo subsidio de sostenimiento para
+que los más pobres, los del Sisbén uno y dos tengan la posibilidad de
+recibir un subsidio de 630 mil pesos semestrales equivalentes durante
+4 meses a un promedio de 130 mil pesos que le servirán para que se
+transporten, para que puedan comprar un emparedado, para que
+puedan comprar una pony malta y no estoy haciendo publicidad a
+ninguna marca especifica, sino que puedan comprar cualquier bebida
+láctea digámoslo.
+Cada publicación de esta donde aparece la institucionalidad a través
+de la, Ministra, de la Presidenta, o del Señor, Presidente de la
+República por supuesto no hace sino en mi caso personal generar un
+regocijo por lo que de manera conjunta estamos haciendo. Pero
+queridos colegas para terminar quiero decirles, mire lo que hemos
+hecho, mire lo que hemos logrado de manera conjunta, gobierno y
+Congreso, en esta tabla en la que hemos simulado lo que era un
+crédito tradicional antes del pasado mes de diciembre cuando se bajo
+la tasa al 4% y lo que será a partir del año entrante cuando la tasa sea
+subsidiada en un 100% y solo se cobre el IPC vamos a demostrar con
+ello lo que deja de pagar un estudiante con lo que hasta hoy hemos
+conseguido.
+Para el primer caso, en una respuesta del ICETEX en las preguntas
+que hicimos, que la señora Presidenta va a responder aparece que en
+los estudios que hasta hoy tienen más o menos le cuesta al Estado
+Colombiano 3 millones y medio el sostener a un joven en una
+universidad pública en cada semestre, que es el valor que realmente
+también en una universidad privada en promedio puede estar
+costando una matrícula, hay unas de 2 millones y medio y hay otras de
+8 y 16 millones, pero digamos que el joven de estrato 1,2 y 3 busca
+una universidad donde en promedio le pueda costar 3 millones y
+medio, entonces para dar un ejemplo, si un joven en Colombia pagara
+3 millones y medio por semestre en una universidad donde tuviera que
+acceder a un crédito de educación superior en el ICETEX de 3
+millones y medio, ese joven con el mecanismo anterior acumulaba una
+deuda de 35 millones durante los 10 semestres, 35 millones cada
+semestres a 3 millones y medio, que 10 semestres equivaldrían a 35
+millones de pesos, reitero por supuesto cada semestre la matrícula va
+aumentando, pero estas son cifras cerradas para por lo menos hacer
+el cálculo y demostrar lo que hasta hoy hemos conseguido, si a los 5
+años ese joven debe 35 millones de pesos, con el cobro de la tasa del
+16% que hacía el ICETEX, los intereses causados durante los 5 años
+equivaldrían a 19 millones 759 mil pesos, es decir redondeémoslos en
+20 millones de pesos, lo que quiere decir que ese joven ya no debe 35
+millones sino que debe 55 millones de pesos, pero es ahí cuando el
+ICETEX capitalizaba intereses y capital, lo volvía una sola cifra y lo
+extendía a 10 años y durante los 10 años para el mismo ejemplo ese
+joven terminaba pagando 113 millones de pesos por un capital de 35
+millones, porque los solo intereses causados durante los 10 años de
+los 55 millones de pesos ascendían a 58 millones de pesos, reitero el
+mecanismo que estaba utilizando la institución para evitar el des-
+financiamiento del mismo; pero mire lo que hemos logrado hoy
+queridos colegas, con la disminución de 0 pesos de la tasa real de
+interés del ICETEX, ahora el joven accede para seguir con el mismo
+ejemplo, durante 10 semestres cada semestre de 3 millones y medio a
+un crédito de 35 millones de pesos, si multiplicamos cada semestre
+hasta completar los 5 años, terminado su carrera y debiendo los 35,
+los intereses que le causan esos 35 millones de pesos durante los 5
+años se acumulan en 4 millones 90 mil pesos, es decir que él termina
+hoy al 4% ojala como lo soñamos todos el IPC se reduzca, pero hoy el
+4% ese joven tan solo durante 5 años va a pagar 4 millones 90 mil
+pesos, es decir que la deuda ya pasara de 35 millones a 39 millones,
+pero para el ejemplo anterior a los 5 años ese joven ya debía 54
+millones con lo que hemos hecho hasta hoy en la reducción de la tasa
+de interés el joven tan solo pagara 39 millones.
+Si este mismo ejemplo que seguimos con lo que viene sucediendo hoy
+lo extendemos a 10 años, ese joven durante los 10 años pagara unos
+intereses de 9 millones de pesos, lo que quiere decir que la deuda en
+total, después de que el ICETEX le haya prestado 35 millones, ese
+joven tan solo terminara pagando 48 millones de pesos durante el
+lapso del día que inicia hasta el día que finaliza el crédito que habrán
+transcurrido 15 años tan solo 16 años tan solo 48 millones de pesos,
+claro 16 porque hay un año de gracia de por medio.
+Para explicarle a los colombianos un joven antes con un crédito de 35
+millones de pesos, acumulado a una deuda de 113 millones, hoy con
+un crédito de 35 pagara 48 millones de pesos, es decir que le
+estamos ahorrando a ese joven en promedio un total 65 millones de
+pesos y este es el ejemplo que yo quiero que celebremos, porque es
+la clara evidencia de lo que hemos hecho hoy es realmente tenderle la
+mano a los más pobres en el país para que accedan a un crédito de
+educación superior.
+Reitero, iniciativa gubernamental acompañada de iniciativa
+parlamentaria, aquí hemos trabajado de la mano en la decisión que
+hoy tiene a los jóvenes en Colombia accediendo a un título de
+educación superior, con el acompañamiento del Estado a través del
+subsidio de la tasa de interés, que se sepa que no estamos atentando
+contra las cifras de la institución, ni regalando nada a los jóvenes en
+Colombia, que por el contrario lo que estamos es simplemente
+prestándole unos recursos para que el pueda acceder con el cobro
+mínimo de lo que podría significar una tasa de interés, porque lo que
+también es cierto es que cualquier colombiano que decida hacerle un
+favor a otro y prestarle. Citemos un ejemplo, digamos que el doctor
+Carlos Amaya tuviera la generosidad de prestarme los 30 millones de
+pesos que estamos aquí poniendo como ejemplo y me los prestara por
+supuesto que yo digo que se los voy a devolver en el año 2016, pues
+él no va querer que yo le devuelva los mismos 30 millones de pesos,
+sino que por lo menos le devuelvan valor presente lo que él me ha
+prestado, que para este caso equivaldrá como a los 32 millones de
+pesos, pero para significar ello que lo que estamos haciendo es
+supremamente loable lo que estamos es dando un ejemplo para que
+estoy seguro muchos países se atrevan a copiar incluso la formula de
+lo que en Colombia hemos logrado de manera conjunta. Por eso
+Ministra y señora Presidenta del ICETEX nosotros como Congreso de
+la República seguimos con nuestro proyecto en el intento de defender
+la oportunidad de muchos jóvenes del estrato 1,2 y 3 para que puedan
+hacerse a un título profesional.
+Celebramos como ninguno el que el Estado haya decidido condonarle
+el 25% a quienes terminen titulados como un esfuerzo de garantizar
+que no deserten los jóvenes en Colombia, porque la deserción nos
+está costando, las cifras que dábamos el año pasado era que nos
+costaba 500 mil millones de pesos, medio billón nos cuesta la
+deserción en Colombia, con el subsidio a la tasa de interés evitamos
+que el joven se vaya de la universidad, garantizamos que se titule,
+evitamos la pérdida de los 500 mil y por supuesto le aportamos al
+desarrollo del país a través de ese sistema. Por eso queridos
+compañeros con el ejemplo que acabo de dar y termino mi
+intervención, lo único que pretendo yo con esta intervención el día de
+hoy es que los colombianos sepan que aquí es un trabajo conjunto
+entre el Ejecutivo y el Legislativo en un esfuerzo mancomunado por
+sacar adelante una iniciativa a través de la cual 53 mil jóvenes
+anualmente con los recursos que se han asignado tendrán la
+posibilidad de acceder a un crédito subsidiado en Colombia, es decir
+que en promedio durante los próximos 4 años alrededor de 200 mil
+jóvenes tendrán la posibilidad de acceder al título profesional, porque
+hoy solo en Bogotá estamos graduando más de 60 mil bachilleres,
+pero de ellos ni siquiera 10 mil logran ingresar a una universidad, es
+decir que 50 mil jóvenes solo en Bogotá se quedan por fuera de una
+universidad.
+Y tengo un compromiso el año entrante querida Presidenta, el
+compromiso es que la siguiente administración de Bogotá tendrá que
+colocarle recursos al ICETEX de manera significativa para que esta
+ciudad que es la que más demanda en el número de créditos en el
+país deje de andar haciéndose la de la vista gorda con el tema de los
+recursos frente a una institución como el ICETEX, es la ciudad que
+más demanda en número de créditos, pero la que menos le aporta a la
+institución, mientras hay municipios citemos un ejemplo como el de
+Barranquilla que creo que esta alrededor de los 10 mil millones de
+pesos, aquí colocamos mil millones de pesos para que el ICETEX le
+coloquen créditos a los jóvenes de estratos 1,2 y 3, situación que por
+supuesto no se compadece con la realidad de nuestra ciudad y será
+un compromiso de la siguiente administración y de este Representante
+para que la administración se comprometa en la colocación de
+recursos para que muchos jóvenes con recursos propios de esta
+ciudad tengan la posibilidad de acceder a un crédito de educación
+superior.
+Muchas gracias Presidente, gracias queridos colegas y reitero la
+intención de nuestra intervención, no tiene otro objetivo que permitirle
+a la Presidenta que nos explique en que esta hoy la situación del
+ICETEX, cuáles son realmente los créditos que se van a colocar, cual
+es la tasa real que se está cobrando y que se sepa que este es un
+trabajo conjunto entre el Congreso de la República y el Ejecutivo de
+Colombia, muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:22:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo" startTime="2011-09-14T11:22:30">
+							<from>H.R. Iván Darío Agudelo</from>
+							<p>Un saludo muy especial a la señora Presidenta del ICETEX y a la
+señora, Ministra de Educación, siempre acoge nuestro llamado y
+nuestra invitación, este es un tema que realmente me apasiona y no
+puedo perder siempre de que se me vaya la oportunidad, porque fue
+un tema en los cuales todos los integrantes de esta Comisión nos
+sentimos sumamente cómodos el día de hoy, nos sentimos muy
+reconocidos como siempre se lo he dicho a la señora, Ministra y a la
+señora Presidenta, porque particularmente cuando tuve la oportunidad
+de hablar con el señor Presidente Juan Manuel Santos cuando estaba
+en campaña en Medellín, siempre le hablaba de que con mucho gusto
+lo acompañábamos en el caso mío en Antioquia siempre y cuando la
+propuesta yo lo llamaba el ICETEX social se hiciera una realidad y
+cuando llegamos acá, gracias a los Antioqueños que nos eligieron nos
+damos cuenta que muchas personas también en el resto del país
+venían hablando del mismo tema, porque recorriendo las montañas de
+Antioquia escuchábamos las angustias de la gente doctor Wilson
+Gómez frente a los fiadores con propiedad raíz frente a la
+imposibilidad de pagar los créditos, cuando llegamos acá la señora
+Presidenta nos plantea otro escenario, yo creo que ella lo hizo
+sumamente bien con los fondos, porque también había grandes
+conocimientos y es el crédito del Banco Mundial, de los 500 millones
+de dólares, tuve la oportunidad de estar en el despacho de la doctora
+como Antioqueña que es siempre con su generosidad que nos ha
+aceptado y al igual que el doctor Wilson Gómez como lo plantee
+ahorita fueron momentos difíciles, porque ella obviamente hablaba de
+la sostenibilidad del sistema, ni más faltaba ella tenía que defender
+casi que me atrevo a decir gran parte de su obra, porque hoy lo que es
+el ICETEX se le debe demasiado, yo estoy aquí siempre, se le ha
+hecho ese gran reconocimiento, pero teníamos un nombre como Juan
+Manuel Santos, un hombre realmente con sus sueños puestos en la
+educación, con una señora, Ministra jugada totalmente y siempre con
+este respaldo.
+Hablábamos mucho que es que eso no podía ser un gasto, que
+teníamos que cambiar el concepto de gasto a inversión, pero más
+importante era ese reconocimiento a los jóvenes, de que los jóvenes
+sepan que hay un gobierno que piensa en ellos, que hay un Congreso
+que los representa realmente y que no solamente los perseguimos
+para que presenten servicio o para otras situaciones, sino para que se
+puedan sentar en los pupitres y hoy nos sentimos sumamente
+reconocidos, por eso me hace acordar mucho esta sesión y ojala
+muchas hayan mas de este tema, un profesor que me decía repita
+hasta que aprenda mijo y estas son cosas que las tenemos que repetir
+cada mes y todos los días y decirle al país que el Congreso de
+Colombia y que la Comisión Sexta ha estado comprometida y ahorita
+nos lo deben de reconocer y me disculpa la señora, Ministra y la
+señora Presidenta que hemos estado convencidos del tema del
+ICETEX, porque son las personas que se tienen que sente en los
+pupitres, yo siempre lo he dicho en Antioquia, por la magia del pupitre
+y por el poder transformador del pupitre y no me canso de decirlo, fue
+mesero, mensajero, repartí publicidad en los semáforos, me sentí en
+un pupitre y mi vida cambio, por eso era nuestro compromiso de llegar
+a la Comisión Sexta y también tuvimos la oportunidad de sentar aquí a
+la, Ministra de Educación y al lado al Ministro de Hacienda y decirle
+usted esta cómoda con la platica o no esta cómoda y ella misma
+también del lado de nosotros nos dijo no estoy cómoda con la platica,
+porque es un problema de plata; y hay un libro que les invito a los que
+no lo hayan leído y con el respeto que se merecen, hay un libro
+fundamental que es de obligatoria lectura para nosotros y es el del
+doctor Andrés Apenhawer, “basta de historias”, hay que leerlo, porque
+yo no me quedo contento con que rebajemos los intereses y con la
+tasa real sea 0, no, no podemos llegar ahí, ese apenas es el
+comienzo, el nos cuenta en su libro como por ejemplo en Singapur en
+40 años la transformación tan grande que se ha dado y que es un
+fenómeno cultural y decencia, aquí nuestro billete más representativo
+y obviamente es en honor al novelista y periodista y escritor Jorge
+Isaac, está en los billetes de 50 mil pesos y me parece muy bien, en
+Singapur los billetes lo que hay son universidades, estudiantes y
+profesores y para que me entiendan ese símil, haya tenemos que
+llegar, a que en todas partes sea la preeminencia de la universidad,
+del pupitre, del colegio y del maestro y del profesor y aquí tenemos
+que pelear porque tenemos una gran deuda histórica con nuestros
+profesores que han hecho ese gran esfuerzo para sacarnos adelante,
+allá tenemos que apuntarle y yo sé doctora María Fernanda Campo
+que en sus manos liderando este proceso y que la compañía de esta
+Comisión podemos llevar a Colombia a que este sea realmente la
+plataforma del lanzamiento, no la meta, estamos todavía y me
+disculpan en pañales de lo que realmente quiere ser este país,
+Singapur nos lo mostro en 40 años, siempre pensando en la
+educación, un país que nadie lo quería recibir y se la jugaron toda por
+la educación y Colombia tiene que hacer lo mismo y hacer ese
+llamado que desde acá lo hemos hecho también a la empresa privada,
+que se comprometa realmente con nuestros jóvenes, porque nuestros
+jóvenes han puesto mucha sangre en este país y me disculpa el
+término estamos mamados de que la sangre de nuestros jóvenes se
+siga derramando en nuestro país, aquí lo que tenemos que hacer es
+darles esa oportunidad y ustedes tienen esa gran responsabilidad y
+con el doctor Juan Manuel Santos y con esta Comisión que seguirá
+siempre comprometida, les agradezco de verdad, porque en buena
+hora escucharon y construimos desde la diferencia que tal que no,
+pues esa es la educación construir desde la diferencia y aquí
+estaremos siempre dispuestos a eso.
+Muchas gracias señor Presidente, señora , Ministra y señora
+Presidenta.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:22:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Voy a darle entonces el uso de la palabra a la doctora Martha Lucía
+Villegas, Presidenta del ICETEX.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas" startTime="2011-09-14T11:22:50">
+							<from>Dra. Martha Lucía Villegas</from>
+							<p>Buenas tardes, agradecer primero a la Honorable Comisión Sexta, al
+señor Presidente, a los Honorables Representantes, un saludo muy
+especial a la señora, Ministra, pues dimos una respuesta completa a
+cada uno de los ítems planteados en la comunicación y yo quisiera de
+una manera menos acartonada si se quiere recrear como algunos de
+los elementos que están en la respuesta y de pronto inclusive
+profundizar en algunos aspectos que me parece interesante habida
+cuenta de el avance fundamental que un tema como este ha tenido en
+una comisión del Congreso, que les confieso en muchísimos años yo
+siempre veo digamos estos espacios se dan con mucha frecuencia en
+una confrontación sobre ideas de Congreso y de Ejecutivo, pero en
+este momento nos encontramos en unos procesos superiores en los
+que somos capaces de abordar y profundizar sobre aspectos que casi
+nunca se plantean en estos escenarios, es decir ya estamos de
+acuerdo sobre muchos temas fundamentales que han dado un salto
+para el país que vamos a describir, pero me parece fundamental por
+ejemplo hablar un poco de que significa un sistema de crédito
+educativo en el mundo entero, porque casi siempre fallan en casi
+todas partes del mundo, en donde han fracasado de manera
+estruendosa y como Colombia tiene un sistema de crédito educativo
+magnifico, extraordinario de talla mundial, no lo digo yo, lo dicen
+Representantes del Banco Mundial y de otras entidades
+internacionales y cómo eso es hoy posible, gracias a una alianza
+extraordinaria entre el Congreso de la República y el Ejecutivo en un
+incentivo a una institución y sobre todo de cara a los estudiantes, a los
+ciudadanos y a quienes lo necesitan, es decir en una interpretación
+mucho más avanzada de las que tienen muchos países sobre el
+financiamiento de la educación superior.
+Entonces no se si puede de pronto profundizar en algunos aspectos
+de esos para que llevemos digamos que este debate magnifico a
+muchos otros aspectos que casi que nunca se tratan en estos
+escenarios y que son muy importantes para el país, yo diría
+fundamentales para el país. En cuanto a la primera pregunta, en
+cuánto cual es el procedimiento para la puesta en marcha del artículo
+150 de la Ley 1450 de 2011, en lo que se trata de los subsidios de
+educación superior, pues efectivamente como lo dice el doctor Wilson
+Gómez, desde julio de 2010 en el que nos reunimos en la oficina y que
+nos planteaba sobre la necesidad de bajar las tasas de interés a una
+tasa real cero, en las que ya venía un proceso de presentación del
+Presidente Santos desde su campaña de bajar los intereses del
+ICETEX, de no cobrar la cuota que cobrábamos en época de estudios
+y se fue generado todo un proceso interesante como de observar si
+eso es realmente posible, a la luz del financiamiento de esa tasa de
+interés por parte del Estado, porque el subsidio a la tasa está
+acompañado en todo caso de un recurso que la Nación aporta al
+ICETEX como compensación de esos puntos de la tasa de interés
+para no afectar el patrimonio de la institución, que como lo dice la Ley
+1002 de 2005, pues el ICETEX no debe perder parte de su patrimonio
+que le fue entregado por la Nación para ser entidad financiera de
+carácter especial, de carácter social.
+Así, que en diciembre de 2010 con los recursos que ya fueron
+aportados por Hacienda Nacional en los cuales con la señora, Ministra
+y con el señor Presidente y el Ministro de Hacienda se definió que
+efectivamente para hacer realidad la propuesta del Plan de Desarrollo,
+la propuesta de ley que se había presentado por parte del Honorable
+Congresista Wilson Gómez, de los Congresistas que habían
+participado en este tema cuando se dijo, bueno vamos a contar con
+una cifra de un billón 200 mil millones que es lo que vale en el
+cuatrienio el subsidio a la tasa, el subsidio a la matrícula o al crédito
+del 25% por graduación y subsidio de sostenimiento a los jóvenes,
+cuando se aprobó esa suma magnifica, porque tengo que decirlo con
+franqueza que a pesar de que habíamos avanzado mucho en años
+pasados y ya habían subsidios del Estado para la matrícula y algunos
+para sostenimiento, esta cifra de 1.2 billones de pesos cuadruplicaba
+la cifra dada en los últimos 6 0 7 años en subsidios del ICETEX, es
+decir era una cifra que realmente mostraba la voluntad completa de
+todos los actuantes en querer hacer realidad el hecho de que la tasa
+de interés fuera subsidiada totalmente y que hubiesen los subsidios de
+sostenimiento y la condonación.
+Así, que como corresponde desde el punto de vista legal lo hace la
+junta directiva del ICETEX, pero amparado obviamente en los recursos
+y en el Plan de Desarrollo que ya se había aprobado, que estaba
+aprobado en los inicios para esa época, ya entonces lo que hicimos
+para ese momento fue calcular el IPC un año corrido del año 2009 al
+año 2010 y eso nos dio algo como el 3.85%, 3.90% que lo pusimos en
+tasa efectiva al 4% anual y lo venimos cumpliendo desde diciembre 18
+de 2010, es decir, a esa fecha hicimos el re-cálculo de todos los
+intereses de los estratos 1, 2 y 3, pero con algo que inclusive pues yo
+pienso que causa sorpresa y es que no era solo para los nuevos
+adjudicatarios del crédito educativo, sino para los que tenían crédito
+educativo en el ICETEX ese momento que estuvieran en época de
+pregrado, eso significaba loa adjudicados hace dos años, hace tres
+años, todo el recurso acumulado se re-cálculo al 4% efectivo anual y
+esa es la tasa que se ha digamos ejecutado durante este año 2011
+para todos los créditos de pregrado de estrato 1,2 y 3 durante época
+de estudios y año de gracia.
+Para el año 2012 vamos a recalcular y así lo definimos el IPC entre
+octubre del 2010 y octubre del 2011, porque nosotros debemos
+anunciar en noviembre los créditos del 2012, porque empezamos a
+adjudicarlos desde noviembre, obviamente para que los jóvenes
+empiecen en enero, o empiecen en febrero, entonces recalculamos, o
+calculamos de octubre 2010 a octubre de 2011, eso nos va a dar
+aproximadamente el 3.2% del IPC, esa va a ser la tasa efectiva en el
+2012 y muy probablemente para el 2013 esa tasa efectiva me imagino
+que va a ser 2.8, 2.9% total, que como usted muy bien lo dice todos
+estamos, el país está en la idea de que el IPC sea una cifra muy
+manejable y baja, que nos permita tener unos créditos como lo decía
+el doctor Wilson Gómez absolutamente bondadosos.
+Todo esto entonces, se da por el apoyo que hemos tenido del
+Congreso de la República, de esta Comisión en especial, del doctor
+Wilson Gómez, de los que han participado en la propuesta del doctor
+Iván Darío Agudelo que lo menciono en una reunión con la, Ministra, de
+toda esta Comisión que nos reunimos al principio del Gobierno y que
+ese fue un tema digamos sobre la mesa y en el que definitivamente
+todos estábamos de acuerdo.
+Lo primero que debemos celebrar pienso yo y que no es fácil de
+lograr, es que definitivamente en algo que esta impactando a cientos
+de miles de estudiantes y va a impactar a millones de estudiantes y a
+millones de hogares colombianos hay toda la decisión política, la
+decisión administrativa, la decisión financiera del Gobierno Nacional,
+de poner estos recursos, de apropiar unos recursos muy grandes, muy
+importantes; no hay ningún crédito en el mundo, ninguno y podemos
+buscarlo por el mundo entero que tenga 3 subsidios como lo tiene el
+crédito del ICETEX, el subsidio a la tasa, tasa real, 0, hay algunos
+países que lo tienen, pero que no tienen un subsidio al sostenimiento
+de 630 mil pesos semestrales durante toda la carrera, este subsidio se
+va a entregar a 22 mil jóvenes en este año 2011, a más de 25 mil en el
+2012 nuevos, y así sucesivamente hasta llegar a mas de 125 mil en el
+cuatrienio que van a tener subsidio de sostenimiento;, esta es una
+tarjeta debido en el que les giramos 630 mil pesos semestrales,
+157.500 mensuales para que no se lo gasten todo de una vez y lo
+puedan repartir en los 4 meses, esto les ayuda para los pasajes, les
+ayuda para un almuerzo, para unas fotocopias, esto ha sido
+maravilloso y va a ser maravilloso, porque no solo va a ser el crédito
+educativo, el crédito de la matrícula que ayuda mucho, pero el
+sostenimiento ayuda extraordinario porque un jovencito que no tenga
+pasajes pues pone en la misma balanza la matrícula que los pasajes y
+si no tiene los pasajes pues no va a estudiar, entonces este subsidio
+es para los jóvenes de SISBEN 1 y 2 del país que tienen crédito con el
+ICETEX.
+Contemos algunas estadísticas, los créditos del ICETEX en el 97%
+son estrato 1,2 y 3, es decir el 97% de los jóvenes tendrán subsidio a
+la tasa, es un beneficio para todos, estos subsidio va a los de SISBEN
+1 y 2, hasta este año el 52% de ese 97% son SISBEN 1 y 2, es decir
+que hay un número muy importante de jóvenes que están ahí, para el
+año entrante será con el SISBEN 3, el nuevo SISBEN que se está
+haciendo en el país, que me parece muy importante que los
+Honorables Representantes estén pendientes de ese tema en sus
+regiones, porque es necesario, se está haciendo una encuesta nueva
+y en algunos casos se ha hecho por muestreo y en otros barrido
+completo, pero es muy importante, porque de eso va a depender este
+subsidio de ese nuevo SISBEN 3, así que este subsidio permitirá que
+muchos jóvenes y que sobretodo muchos padres de familia puedan al
+menos estar tranquilos por el tema de los pasajes y de algunos gastos
+asociados a la manutención.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:23:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Wilson Gómez Velásquez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-09-14T11:23:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidenta es para aprovechar ahí, cuántos recursos están colocando
+en subsidio para estos jóvenes, cuántos jóvenes han accedido hasta el
+momento y cuántos vamos a colocar en adelante, si pudiera
+recordarme la cifra por favor.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas-botero" startTime="2011-09-14T11:23:20">
+							<from>Dra. Martha Lucía Villegas Botero</from>
+							<p>En subsidio al sostenimiento este año tenemos alrededor de unos 80
+mil millones de pesos que se están girando en este momento a más
+de 22 mil jóvenes, acordémonos que son 2 semestres, hoy por
+ejemplo se entregan alrededor de mil cien subsidios aquí en Bogotá, le
+pedimos a las universidades que nos acompañen, porque las oficinas
+de bienestar les pedimos que nos ayuden en esto, las oficinas de
+bienestar universitario son muy importantes en la medida que ayudan,
+como observar que este subsidio se emplee bien y que los jóvenes
+hagan buen uso de este subsidio, con esta tarjeta ellos no tienen que
+pagar costo de operación de la Tarjeta, pueden sacar 4 retiros
+mensuales, no tiene vencimiento la tarjeta, semestre a semestre se les
+va abonando el recurso, es muy ágil y muy eficiente para ellos, amen
+que les recuerda que tienen un apoyo estatal que me parece que es
+fundamental, porque a veces en lo cotidiano a veces no se ve.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-09-14T11:23:30">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidenta es solo para estudiantes con crédito ICETEX.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas-botero" startTime="2011-09-14T11:23:40">
+							<from>Dra. Martha Lucía Villegas Botero</from>
+							<p>Hasta ahora para estudiantes con crédito ICETEX, en la nueva ley de
+educación superior, lo que ha presentado el Ministerio es que haya un
+recurso de 400 mil millones de pesos en la nueva ley que vaya para
+jóvenes de SISBEN 1 y 2, pero aunque no tengan crédito educativo,
+que eso es revolucionario y que definitivamente es algo extraordinario
+que pudiera llegar a todos los rincones, a las universidades públicas,
+universidades privadas y a jóvenes de escasos recursos tengan o no
+crédito educativo, eso está en la nueva ley de educación superior, en
+la modificación de la Ley 30 hay 400 mil millones de pesos para
+subsidio, al sostenimiento para los jóvenes, aunque no tengan crédito
+educativo y hay alrededor de 400 mil millones más para subsidio a la
+tasa, para crecer más los créditos educativos y subsidio y condonación
+de la deuda por graduación y condonación de la 4 parte de la deuda
+por graduación, así que pues los beneficios como vemos van
+aumentando, o sea no nos quedamos solo en la tasa real 0 que ya es
+definitivo sino que avanzamos a la condonación de la cuarta parte de
+la deuda para evitar la deserción y en cumplimiento también a la
+promesa del señor, Presidente de que los mejores estudiantes tengan
+un incentivo también ya se apropiaron los recursos dentro de ese
+billón 200 mil millones para condonar las deudas 100% a quienes
+saquen los mejores saber PRO, es decir que estén entre los mejores
+profesionales del país y tengan crédito educativo tendrán la
+condonación del 100%.
+Hemos indagado con el ICFES, estamos en una suma aproximada
+para este año de 280 jóvenes a los que se les condonaría 100% la
+deuda, eso asciende como a unos 5 mil millones de pesos para este
+año y obviamente eso crecería en el futuro porque cada vez los
+jóvenes que llegan al crédito ICETEX son jóvenes más
+comprometidos, van a buenos programas académicos, hay
+definitivamente como un círculo virtuoso que se está dando en los
+créditos educativos vs calidad de los jóvenes ingresados.
+Las universidades han hecho un análisis de los jóvenes con crédito
+educativo y sin crédito educativo en desempeño académico y están
+encontrando que tienen mucho mejor desempeño que muchos otros,
+de manera que eso pues es bueno en el sentido de que es un recurso
+que definitivamente está sirviendo a los jóvenes y a las familias y en la
+futura empleabilidad.
+Frente al número de créditos que llevamos adjudicados en pregrado
+2011, nosotros traemos un número de créditos antiguos de más de
+250 mil créditos que venimos financiando, porque digamos lo grande
+para ICETEX son los créditos que tiene que renovar año por año,
+porque cada vez que damos un crédito pues es por 5 años, así que el
+nuevo crédito que se da al año siguiente y tiene que contemplar el
+financiamiento del anterior, en este año hasta 31 de agosto
+adjudicamos 65.871 nuevos créditos de los cuales el 94% son de
+estratos 1,2 y 3 y todavía nos falta algunos seres que empiezan un
+poco más tarde y que estamos adjudicando en este mes de
+septiembre, sobrepasamos ya la meta, es decir teníamos una meta de
+53 mil créditos ya vamos en 65.871, tenemos una meta para el
+cuatrienio de 225 mil créditos nuevos fuera de los anteriores y creo
+que la superaremos y llegaremos a más de 250 mil créditos nuevos
+adjudicados en este cuatrienio.
+Ya les he hablado entonces de los subsidios que acompañan estos
+créditos y que significan para el estudiante, repasemos en el ejemplo
+del doctor Wilson Gómez que es muy bueno, si a un muchacho se le
+giran 3 millones y medio por semestre, en 10 semestres efectivamente
+tiene una condonación en toda la vida del crédito de una suma muy
+grande, perdón un subsidio a la tasa enorme en el crédito a través de
+los años, pero fuera de eso en esos 35 millones si el joven es de
+SISBEN 1 y 2 se le condona la cuarta parte de la deuda, es decir la
+cuarta parte de 35 millones de pesos, condonación por solo graduarse
+y fuera de eso recibiría 6. 300.000 pesos de subsidio de sostenimiento
+del que vemos acá, de manera que recibe muchísimo más de lo que
+finalmente paga, son como 8.75% más 6% estamos como a 16
+millones de solo subsidios, más el subsidio de la tasa que son pues
+una suma muy grande como usted lo planteaba en ese evento.
+Y en el caso de un joven por ejemplo que su matrícula le valga 2
+millones de pesos en 10 semestres son 20 millones de pesos,
+condonación por graduarse 5 millones de pesos, 6.300.000 de
+subsidio al sostenimiento y condonación de los intereses de por lo
+menos 18 o 20 millones subsidio a los intereses en toda la vida del
+crédito, de manera pues que esto pues lo está recibiendo la
+ciudadanía con mucha alegría y con mucho agradecimiento, tanto con
+el Congreso como con el Ejecutivo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:23:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-09-14T11:24:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Es que esta oportunidad no se puede desaprovechar, para que le
+cuente al país, hoy los que han hecho un gran esfuerzo para sacar los
+mejores puntajes seguro se van a motivar mucho mas, cuéntele por
+favor al país como se escogen esos primeros puntajes de las pruebas
+SABER PRO, usted dice que son casi 5 mil millones de pesos, como
+se escogen esos primeros puntajes, por favor.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas-botero" startTime="2011-09-14T11:24:10">
+							<from>Dra. Martha Lucía Villegas Botero</from>
+							<p>De todas maneras estamos todavía en ajustes con el ICFES, pero
+como llegamos a esa cifra de 280 jóvenes, los que presentaron el
+examen de saber pro y que ya estén graduados para este año 2011,
+que son los que adquieren digamos el beneficio, tomamos o nos envió
+el ICFES un listado alrededor de unos 2.800 jóvenes mejores saber
+pro del país en todas las disciplinas, eso lo cruzamos, cuántos
+coincidían en esos jóvenes con los ICETEX y coincidieron ya
+graduados y demás 280 jóvenes, eso puede crecer obviamente en la
+medida que estos jóvenes son los jóvenes que financiamos hace 5
+años, 6 años, pues hoy día tenemos muchos más jóvenes de los que
+se gradúan el año próximo a lo mejor esa cifra va a duplicarse y en
+tres años triplicarse, porque el mayor volumen de jóvenes financiados
+están en los últimos años, en los últimos 4 o 5 años y pues la verdad
+es que para esos 280 jóvenes que puedan ser premiados con el 100%
+de la condonación de la deuda pues va a ser maravilloso, porque si ya
+han hecho algún aporte en recursos o han pagado puede ser abonado
+a un postgrado para ellos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:24:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Silvio Vásquez.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2011-09-14T11:24:30">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Es que doctora yo, primero que todo pues darle el saludo de
+bienvenida a la señora, Ministra de Educación, a los colegas,
+agradecer a quienes nuevamente han citado este tema tan importante,
+hay como una preocupación y yo quiero que el doctor Wilson Gómez
+por eso ha tocado el tema fundamental en cuanto al valor de los
+créditos, es que obviamente rogamos que el IPC no suba tanto, pero
+de todas maneras para este años vamos en agosto en 2.64 para el
+2010 cerró en 3.17.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas-botero" startTime="2011-09-14T11:24:40">
+							<from>Dra. Martha Lucía Villegas Botero</from>
+							<p>No, disculpe, el 4% efectivo anual es lo que hoy se cobra, no es IPC
+más 4%.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2011-09-14T11:24:50">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Es que aquí dice amortización, se estableció el IPC más 4, así mismo
+aparece el 2012 una tasa anual equivalente al IPC el año anterior
+reportado en el mes de octubre por el Departamento Administrativo de
+Estadística DANE en épocas de estudios y año de gracias, el tiempo
+para la época de amortización, pero de todas maneras es diferentes,
+pero de todas maneras más 4 y para los de carreras universitarias
+más 8, entonces a mí se me hace que es alto, ahorita que hay por lo
+menos seguridad y que los bancos están ahí, pero si viene la crisis,
+tengo entendido no manejo mucho los temas económicos pero eso fue
+lo que paso cuando estaba el famoso PAC también y por eso los
+créditos ICETEX, yo lo digo porque tenía unos créditos de unas hijas y
+afortunadamente ellas se acogieron a esa parte, pero obviamente aquí
+hay una parte, pero me parece que de pronto ese punto más el 4, más
+el 8 puede ser oneroso hacia el futuro.
+Obviamente aquí estamos y yo quería hacer esa interpelación para
+que haya claridad porque de pronto los estudiantes, los jóvenes están
+un poco también confundidos como lo estoy yo y por eso celebro este
+debate que nos permita hacer claridad, porque nadie desconoce la
+importancia de esta ley, la propuesta del doctor Wilson Gómez, la
+colaboración de todos los demás colegas, lo que hicimos y nos
+sentimos muy orgullosos de que en la Comisión Sexta haya avanzado
+en el primer debate y en la cámara haya acogido todo lo que hicieron y
+hicimos, la voluntad del gobierno también desde luego, el gobierno del
+doctor Juan Manuel Santos, la intervención de la señora, Ministra de
+Educación, la suya como, directora del ICETEX, pero entonces que
+quede claro y por eso le decía yo y tengo la gran oportunidad de
+hacerlo públicamente, porque lo dije el fin de semana anterior en
+Neiva y en el Huila que queríamos que usted fuera a Neiva para poder
+explicar las bondades de la ley, de pronto el doctor Wilson Gómez ese
+día también nos acompaña, porque hay que darle crédito y mérito a
+las personas que trabajan y desde luego a los funcionarios sobretodo
+de alto nivel como ustedes que nos permitan llegarle a la comunidades
+en las explicaciones, en los conocimientos, en las bondades y
+entonces yo quedo con esa inquietud pero usted que maneja mucho
+mas el tema nos puede informar y a la vez a los colombianos, a los
+jóvenes universitarios y a los nuevos usuarios de los recursos del
+Estado a través del ICETEX, que podamos aclarar y desde luego
+también rogando que los fondos regionales en el caso del ICETEX
+Huila el fondo del ICETEX entre a acogerse a toda esta materia, ya le
+decía al diputado amigo mío que debía acogerse, adecuarse a la ley
+también para que por ordenanza le den la facultad al gobierno
+respectivo.
+Por eso la invitación es para que después del 30 de octubre podamos
+en el mes de noviembre podamos hacer esa explicación para evitar
+también que diga no es que allá el Representante Silvio Vásquez trajo
+a la señor, Directora del ICETEX a hacer política a ayudarlo al
+candidato que tiene a la gobernación, a las alcaldías, sino quitarle esa
+duda en este país de crítica, sobre todo en estos tiempos tan difíciles,
+entonces para que podamos realmente ir allá.</p>
+						</speech>
+						<speech by="#dra-martha-lucía-villegas-botero" startTime="2011-09-14T11:25:00">
+							<from>Dra. Martha Lucía Villegas Botero</from>
+							<p>Dr. Silvio Vásquez, usted introduce un tema que yo quería plantear
+acá y por eso decía que estamos preparados y maduros para ir más
+allá, digamos de lo que se ve en principio sobre un tema como este,
+cuando a mi me preguntan cuál es su mayor angustia permanente en
+la entidad donde se encuentra, yo llevo 9 años allí y yo les digo pues
+no solo es cumplir a cabalidad con lo que tenemos que cumplir, sino
+que yo encuentro el mayor desafío, siempre el mayor desafío es que el
+sistema que vamos creando y que vamos ajustando sea un sistema en
+el cual primero que todo haya sostenibilidad del sistema en el tiempo,
+porque las experiencias que tenemos en el mundo y voy a relatar dos
+experiencias de tiempos cercanos pero dramáticas y podemos
+observar que ocurre cuando el sistema no está balanceado y como
+puede desplomarse todo un financiamiento de cientos y miles y hasta
+millones de estudiantes, voy a hablar primero del sistema del crédito
+educativo que tenía Estados Unidos desde hace 25 años, en Estados
+Unidos hay dos grandes sistemas de crédito, uno hipotecario que era
+el fanimey y otro de crédito educativo el salimey. ¿Cómo operaban? El
+salimey operaba de la siguiente manera, los bancos comerciales
+inyectaban los recursos a créditos educativos para los jóvenes a
+través digamos directamente a los estudiantes pero con operación y
+ayuda de las universidades y de manera diferente de acuerdo con los
+Estados, que hacia el Estado central y los diferentes Estados en este
+país, avalaban una parte de estos créditos, es decir respaldaban ante
+los bancos una parte, sin embargo en Estados Unidos se pide
+codeudor de alguien que sea garante en Estados Unidos y que pueda
+efectivamente responder por esa deuda, eso funciono muy bien 25
+años, porque la tasa de interés inclusive en Estados Unidos de esos
+créditos es una tasa real de 8 o 9 puntos, es decir lo que hablamos
+aquí de un IPC más 8.
+Allá cuando los intereses de los bancos podían llegar a ser de 2% o de
+1% la tasa de crédito educativo era alrededor de unos 8 o 9 puntos,
+cuando la crisis del 2008 como lo que tenían los bancos eran las
+garantías que se firmaban, esas garantías igual que todo el sistema se
+negocio N veces y cuando la gente tuvo esta crisis mundial financiera,
+sencillamente si no tenían para pagar la hipoteca, menos tenían para
+pagar el crédito educativo, se desplomo un sistema de crédito de 66
+mil millones de dólares en Estados Unidos que financiaba millones de
+estudiantes.
+Esta semana hablando con funcionarios del Banco Mundial me
+contaban que en Estados Unidos el Presidente Obama estaba
+diseñando un nuevo sistema de crédito, y le dije que sistema está
+haciendo y me dijo: palabras textuales “UN ICETEX”, es decir están
+tomando un recurso del Estado central para que sea entregado
+directamente a los estudiantes a través de las universidades con
+apoyo y con un financiamiento en la tasa por parte del Estado, es decir
+lo que vemos en un país desarrollado como Estados Unidos donde
+más del 50% de la educación es privada, que se financia a través de
+créditos educativos en millones de estudiantes es que un modelo
+como el del ICETEX es un modelo ya observado aun en países como
+esos.
+Que paso en Chile recientemente, en Chile hace muchos años en los
+años 50, se creó un instituto parecido al ICETEX y se quebró en los
+60, porque la gente no le pago, luego en los 80 volvió a crearse otra
+institución, otro modelo de crédito y tampoco fue exitoso, en los años
+2000 se creó en 2007 un sistema de crédito educativo, a través de una
+comisión denominada ingresa, no como una institución como ICETEX
+sino algo parecido a lo de Estados Unidos, los bancos comerciales
+irrigaban el crédito, el Estado soportaba digamos avalaba ese crédito
+con parte de las universidades, pero sencillamente no tuvieron en
+cuenta monitorear lo que estaba pasando en los usuarios y resulta que
+la deserción masiva de estudiantes en Chile hizo que más de 120 mil
+estudiantes entraran en default, que los bancos comerciales entraran a
+cobrar una tasa, la tasa máxima, casi la tasa de usura, lo que hizo que
+más de 100 mil personas o que hace que hoy más de 100 mil jóvenes
+estén en una situación angustiosa por no poder pagar esas deudas
+pero además por no haberse podido graduar.
+El tema al que hoy es y que todos sabemos por las noticias en qué
+estado se encuentra eso, el tema al que voy es que el mayor desafío
+que todos tenemos en este sistema de crédito educativo no es
+digamos entre todos tomar una decisión aparentemente muy buenas
+para el momento, pero después no saber que nos va a pasar, lo más
+importante es la sostenibilidad en el tiempo y el monitoreo a cada
+minuto de lo que está pasando con esto, este crédito educativo a
+cambiado muchas veces en los últimos 9 años, se ajusta en la tasa, se
+ajusta en el subsidio, se ajusta en la operación, porque si no lo
+ajustamos permanentemente, sencillamente puede llegar a ser no
+adecuado en poco tiempo y generar situaciones como las que le he
+relatado.
+Así que la tasa hoy para universitario esta cuando ya el joven es
+profesional en un IPC más 8 así está definida, para técnica y
+tecnológica en un IPC más 4 eso puede cambiar, todo depende del
+monitoreo que hagamos, de la identificación, de la verificación de los
+recursos que puedan sostener esas tasas, con nada de eso entre
+comillas puede uno casarse para siempre, porque ustedes ven que el
+mismo sistema financiero va cambiando, el Banco de la República; lo
+más importante del ICETEX es que tenga ojos abiertos, oídos
+despiertos para ir modificando en la medida que vaya generando
+equilibrio entre sostenibilidad de la entidad a largo plazo, buenos
+resultados para el estudiante y sus familias y sostenibilidad del
+sistema de financiamiento de la educación superior a través de un
+proyecto como este; porque el caso por ejemplo de Chile, no son 100
+mil estudiantes que están en problema hoy, es que el sistema mismo
+se va a caer, se cayó, es decir que millones de estudiantes en Chile no
+van a poder estudiar y no hay tampoco unas universidades públicas
+con el financiamiento para recibirlos, eso no existe en la proporción
+que se requiere, total que pueden perderse uno o dos generaciones de
+un financiamiento adecuado. Así que el llamado en el fondo es que
+esto lo tenemos que estar monitoreando nosotros desde ICETEX, el
+Ministerio, la señora, Ministra permanentemente estamos analizando
+que va pasando y hay que tomar el pulso permanentemente para
+tomar las decisiones, no estamos cerrados a ninguna decisión que
+pueda ser tomada con los elementos de equilibrio, ese es el punto
+fundamental, equilibrio para todos, equilibrio para que haya un
+financiamiento que a todos nos complazca, no a una sola generación,
+si uno dijera bueno todo beca, entonces sería solo para unos pocos y
+ya no habría para nadie más, la clave del ICETEX 60 años ha sido la
+posibilidad de navegar en aguas difíciles, pero hacer los ajustes en el
+momento que deba ser.
+Así que esa sería mi respuesta en que hoy esta así, pero es posible
+que eso se ajuste y de hecho nosotros hemos ajustado la tasa no sé
+cuántas veces, por ahí 10 veces en estos últimos 8 años bajando la
+tasa, ajustando allí, ajustando allá, con el fin de que no se vuelva
+ruinoso para nadie.
+Sobre el codeudor, en el ICETEX primero que todo no hay límite de
+edad para ser financiado, cualquier persona puede ser financiada en
+ICETEX, se necesita un deudor solidario, que puede ser el papá, la
+mamá, no necesita propiedad raíz, me gustaría mucho que ustedes
+difundieran en las regiones que la persona cuando le presentan el
+formulario en Internet, simplemente si no tiene casa dice no tengo, en
+fin no se requiere nada de eso, pero si dice que tiene algo si lo debe
+demostrar; entonces lo que pedimos es que la persona sea sincera en
+lo que presenta, solo se requiere que tenga un salario mínimo de
+ingreso y no estar reportado en ninguna central de riesgos, esa es la
+única condición, para probar eso les cuento que el 92% de los que
+piden crédito educativo tienen codeudor aprobado, 92%, ahora no a
+todos alcanza para darles el crédito educativo, pero ese no es el
+obstáculo definitivamente, porque el escorien es sumamente digamos
+bondadoso para aprobarlos como debe ser.
+Así que el ICETEX cada vez se centra más en los estudiantes de
+escasos recursos económicos llegamos a 1.100 municipios en todo el
+país, todo el país tiene el beneficio del ICETEX, el ICETEX no solo son
+créditos educativos, son becas internacionales, son fondos en la
+administración con las regiones que cada vez creemos que puede ser
+mejor para el país ya que entre más recursos lleguen a la educación
+superior la transformación definitivamente es para la familia, para el
+estudiante, para la vida y para el país lo más importante que podemos
+hacer.
+Yo creo mucho en los subsidios asociados al crédito, creo mucho en la
+combinación de estrategias, no creo en un solo mecanismo, en un solo
+esquema, creo magnifico que podamos darle subsidio de
+sostenimiento a estudiantes aunque no tengan crédito educativo, eso
+me parece revolucionario en un país como el nuestro, creo
+profundamente en ese nuevo enfoque del financiamiento que lleva
+muchos instrumentos y muchas herramientas como las que plantean
+la nueva ley de educación superior.
+Así que ahí resumo algunos elementos que obviamente si hay la
+respuesta escrita es más detallada, me gustaría si me permiten
+presentar después de las preguntas un pequeño video que conoce
+muy bien el doctor Wilson Gómez y que representan la vida o
+situaciones que todos hemos vivido en cualquier momento de la vida y
+que estamos presentando por todo el país para lograr que los jóvenes
+lleguen a la educación superior de calidad.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:25:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy entusiasmados los Honorables Representantes en el tema, tengo
+aquí un listado de varios Representantes que me han pedido la
+palabra, no sé si por ser el citante el Representante Wilson Gómez le
+doy la palabra para que haga sus acotaciones respectivas, tengo aquí
+también al Representante Iván Darío Agudelo aunque ya ha
+intervenido un par de veces, tiene la palabra el Representante Wilson
+Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-09-14T11:25:20">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Muchas gracias Presidente, unos minutos simplemente para
+redondear y permitir a los colegas que tengan la posibilidad de
+intervenir, solo para hacer claridad en una cosa, sobre la pregunta que
+hace el doctor Silvio Vásquez que me parece sumamente importante,
+es señalar que dentro de la consecución de lo que hasta hoy hemos
+logrado, es muy importante señalar el subsidio al 100% de la tasa real
+durante la época de estudio, ahí tiene que haber una claridad, durante
+la época de estudio ese alumno como usted lo está señalando hoy
+solo va a pagar el IPC de lo causado el año anterior, que para estos
+efectos estamos redondeando en el 4%, esperamos que para el año
+entrante si usted dice hoy está en el 2,8 pues si acaso llegue al tres
+para mantenerlo en el 3, cierto; y es cierto en la respuesta de la
+señora Presidenta nos deja la claridad que después de graduado el
+joven y de obtener la condonación si es SISBEN uno y dos del 25%
+pagará el IPC más el 4% si es una carrera técnica tecnológico y 8
+puntos si es profesional y es ahí donde quiero señalar, por supuesto
+digamos que hasta hoy el esfuerzo nos da para conseguir que se
+subsidie al 100% la tasa real durante la época de estudio.
+Ahora usted me deja pensando que hacemos en adelante, porque hay
+que cobrar unos puntos adicionales que hoy no se los hemos dicho a
+los estudiantes y es donde usted tiene toda la razón, que es también lo
+yo quiero hacer claridad para no ir a salir a decir mentiras a los
+ciudadanos que terminan ilusionándose con algo que después no
+pueda suceder, pero quiero contarle que también en época de
+campaña me imagino cada uno de nosotros y sé que incluso se lo
+alcanzamos a decir al señor, Presidente de la República cuando ni
+siquiera era candidato, cuando era, Presidente del Partido de la U y
+cuando tenía la presunta posibilidad de ser candidato, le alcanzamos a
+señalar lo siguiente doctor Silvio Vásquez y era que nosotros en este
+país, en esta realidad en la que usted acaba de señalar donde los
+bancos en Colombia arrojaron unos resultados multimillonarios en
+familia, en los últimos años en donde los resultados nos entregan unas
+cifras que arrojan utilidades de 12 billones de pesos en un año que se
+lo reparten familias en Colombia que los podemos contar con los
+dedos de estas manos doctor Silvio Vásquez, no superan 10 familias
+en Colombia los dueños de los bancos en este país y se distribuyen
+entre ellos una utilidad de 12 billones de pesos anuales, que para la
+época en que yo estaba en campaña recuerdo que para el mes de
+octubre del año 2009 ya iba rondando los 8 billones o sea que no es
+mentira, hoy esta oscilando los 12 billones de pesos, yo creo que esos
+propietarios de esos bancos tienen una responsabilidad social con
+este país, porque es que vienen enriqueciéndose diariamente gracias
+ni siquiera al mayor esfuerzo de los colombianos, porque qué esfuerzo
+hace uno con ir al cajero y de manera inmediata ellos ingresan a sus
+arcas utilidades, pero si por supuesto con el esfuerzo del ciudadano
+común y corriente que hoy está obligado a tener que utilizar una
+cuenta de ahorros para poder hacer parte del sistema tradicional en
+Colombia.
+Si usted no tiene una cuenta de ahorros hoy, no como dicen los
+muchachos esta aut, esta por fuera del sistema, usted no es
+ciudadano, ni siquiera puede acceder a un crédito tradicional en
+cualquier banco si no tiene una historial.
+Entonces, hay que señalar que tenemos que seguir haciendo
+esfuerzos y en esa campaña yo recuerdo que llegamos a hablar con
+el Presidente Juan Manuel Santos y sé que para él es muy difícil hoy
+como, Presidente de la República abordar el tema, pero nosotros que
+tenemos la posibilidad gracias al voto ciudadano de poder decir lo que
+queramos en esta Corporación señalar que tenemos que meterle
+mano a las utilidades de los bancos en Colombia en beneficio de los
+estudiantes de este país, porque estamos a muy pocos pesos de
+poder llegar a subsidiar en adelante después de esos 5 años mantener
+el subsidio de la tasa real de interés y la responsabilidad de los
+señores banqueros en este país, es que tienen que contribuir con el
+desarrollo de la Nación y contribuir a través de la formación y la
+educación; me encanta cada vez que usted señala las palabras que a
+mí se me olvida cuando su maestro le decía que repita para que
+aprenda y usted da el ejemplo de lo que ese maestro le enseñaba,
+pero tiene toda la razón, es que nosotros que podemos tomar una
+decisión de lo más sano que pueda haber en Colombia, si usted le
+dice a los bancos en Colombia otórguenos el 1% de todas esas
+utilidades que nada termina afectando su bolsillo personal pero que en
+mucho termina beneficiando a los jóvenes en este país.
+Si hablamos de 12 billones de pesos estamos hablando de 120 mil
+millones de pesos el 1%, si solo dijéramos en 1%, que anualmente nos
+estarían ayudando a subsidiar la tasa real para ese complemento de lo
+que usted acaba de señalar y nos deja la puerta abierta para que en
+adelante nos pongamos a trabajar, que tal si dijéramos el 2, que tal si
+dijéramos el 3 que reitero en nada afecta los ingresos de unas familias
+como los banqueros en Colombia, pero que en mucho benefician a
+miles de familias en este país.
+Yo lo dejo para que iniciemos la discusión, porque hoy la Presidenta
+pues nos da claridad con esas cifras que realmente yo creo que vale la
+pena que esta Comisión y el Gobierno Nacional celebren lo que hasta
+hoy hemos conseguido que es muy significativo y por supuesto que
+muchos colombianos que puedan estar viéndonos a través de la
+televisión podrán decir hace falta mucho más, que mejor quisiéramos
+que ojala un día tuviéramos la posibilidad todos de ir a una universidad
+pública sin tener que pagar una matrícula, ojala, es el ideal, es el
+sueño de toda Nación poder llevar a la universidad pública a todos sus
+habitantes; pero reitero en el entretanto que hacemos, que solución le
+buscamos mientras logramos conseguir que haya universidad pública
+para todos, mecanismos como el que estamos poniendo en marcha a
+través del ICETEX, creo que es de los ejemplos más bellos que le
+podemos dar incluso al mundo como usted lo señala con el
+otorgamiento de una tasa subsidiada mientras estudia y con una tasa
+muy significativa y blanda mientras el profesional empieza a conseguir
+un trabajo y empieza a trabajar.
+Y por supuesto redondear diciendo que ya sé el ejemplo que usted va
+a demostrar a través de la televisión querida Presidenta, que es un
+ejemplo que nace de haber significado lo que es una familia en
+Colombia tuviera una mamá, dos hijos al tiempo, a uno decidiera darle
+educación y al otro no, ello para demostrar la importancia de la
+educación en el pueblo colombiano, eso lo hicimos en un club en
+reunión con el Presidente Juan Manuel Santos donde le explicamos si
+una mamá tuviera dos hijos al mismo tiempo, a uno decidiera darle
+educación y al otro no, yo quisiera comparar la calidad de vida de cada
+uno de esos hijos a los 35 años, por supuesto el que habrá recibido
+educación tendrá la posibilidad de ser un gran profesional y de tener
+unos ingresos ajustados a la realidad de su formación, pero
+seguramente aquel que no pudo recibir formación estará pagando las
+consecuencias de haber sido excluido de esa posibilidad, habiendo
+tenido la misma mamá, habiendo vivido bajo el mismo techo, habiendo
+tenido la misma oportunidad, eso quiere decir que la educación en
+este país o en cualquiera por supuesto es muy importante, porque ahí
+va a marcar la diferencia de lo que realmente es una oportunidad de
+acceder al conocimiento y de quien no la tiene y ese ejemplo es
+bellísimo, yo logre ver ese video y por supuesto los invito para que no
+se si después de las intervenciones de mis colegas tengamos la
+posibilidad de verlo. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:25:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, voy a cederle el uso de la
+palabra a la, Ministra que ha sido muy respetuosa de esta Comisión a
+diferencia de otros Ministros y que ha acudido siempre a las citaciones
+por su interés y por el compromiso que tiene con todos estos temas
+que van focalizados al mismo punto y es ampliar cobertura, fortalecer
+calidad y viabilizar la educación superior en Colombia para mas
+jóvenes Colombianos., Ministra bienvenida, y muchas gracias por
+acompañarnos en el día de hoy, tiene la palabra.</p>
+						</speech>
+						<speech by="#dra-maría-fernanda-campo-saavedra" startTime="2011-09-14T11:25:40">
+							<from>Dra. María Fernanda Campo Saavedra</from>
+							<p>Muchas gracias señor Presidente, lo saludo a usted muy
+especialmente y a todos los miembros de la Comisión Sexta de la
+Cámara de Representantes, agradezco al Representante Wilson
+Gómez por haber propiciado este debate en torno a uno de los temas
+más importantes que tiene nuestro sector educativo, particularmente a
+nivel de educación superior como es el crédito educativo que tenemos
+en Colombia a través del ICETEX y quiero felicitar a la doctora Martha
+Lucía Villegas porque me parece que con todas las explicaciones que
+dio primero en el cuestionario y después personalmente, pues dio un
+panorama muy claro de lo que es el ICETEX, la evolución que ha
+tenido, las condiciones actuales del crédito del ICETEX y las
+perspectivas tan importantes que tenemos hacia adelante a través de
+este crédito educativo que hemos construido a lo largo de muchos
+años aquí en Colombia.
+Como todos ustedes muy bien lo saben pues desde el Ministerio de
+Educación Nacional hemos venido promoviendo la construcción de
+una propuesta de reforma integral a la educación superior, una
+reforma que nos permita mejorar la calidad de la educación mayor
+oferta de mejor calidad, pero que nos permita también al mismo
+tiempo que más jóvenes especialmente lo de los más bajos ingresos
+puedan acceder a una educación de calidad y no solamente acceder a
+ella, sino que puedan terminar exitosamente sus estudios, por eso la
+reforma que hemos planteado a consideración del país y que la hemos
+discutido con toda la comunidad académica, con toda la sociedad, con
+el sector productivo, con organizaciones sociales, con padres de
+familia, parte de la base de fortalecer como nunca antes con recursos
+propios nuestra educación superior; una parte de esos ingresos
+adicionales de naturaleza pública irán a financiar la oferta, es decir las
+instituciones técnicas, tecnológicas y universitarias para que puedan
+mejorar la calidad y seguir ampliando la oferta; y en segundo lugar a
+través de la reforma, también buscamos que haya más recursos para
+financiar la demanda a través del crédito educativo a través del
+ICETEX; y buscamos por supuesto que nuestra educación superior
+este a tono con las grandes exigencias y demandas que tiene nuestro
+país, nuestras ciudades, nuestras regiones en un mundo cada vez
+más globalizado y ahí el crédito del ICETEX, el crédito educativo juega
+un papel importantísimo.
+Y de verdad que yo celebro mucho esta citación porque al igual que
+ustedes que han venido siendo unos abanderados apoyando al
+ICETEX, apoyando las distintas reformas, proponiendo reformas al
+crédito educativo y a mí me consta y de qué manera como varios de
+ustedes el doctor Wilson Gómez, el doctor Iván Darío Agudelo en fin
+han venido promoviendo todos estos cambios que se han venido
+dando en el crédito educativo que fueron por supuesto acogidos por
+parte del señor, Presidente de la República y que durante todo el
+primer semestre de nuestro gobierno trabajamos muy intensamente
+con la, directora del ICETEX para hacer posible y hacer realidad esa
+promesa de campaña del señor Presidente Juan Manuel Santos.
+Yo quisiera solamente complementar lo que la señora, Directora ha
+dicho con unos muy breves comentarios; en primer lugar como bien lo
+decía cuando uno mira el Plan Nacional de Desarrollo uno ve que se
+ha dejado una partida de 1.2 billones de pesos para el ICETEX, para
+financiar el subsidio de la tasa de interés y la condonación también de
+parte del crédito educativo, dependiendo pues de la modalidad,
+dependiendo también de la población y también como subsidio para
+manutención, es un incremento nunca antes observado en un plan de
+desarrollo, precisamente para poder llegar con esta opción de crédito
+a los jóvenes más pobres de Colombia y si algo es absolutamente
+redistributivo y busca la equidad es precisamente el crédito educativo
+del ICETEX, como bien lo ha dicho la señora, directora más del 95% de
+este crédito educativo va para la población más pobre de Colombia
+SISBEN 1, 2 y 3.
+Adicionalmente de verdad, cuando uno mira también el Plan de
+Desarrollo observa entonces como este crédito educativo nos va a
+permitir estos mayores recursos, ampliar la cobertura, llegando a más
+jóvenes, otorgando más créditos y también ampliando los beneficios a
+través de la tasa de interés real igual a 0 como ya se menciono; la
+condonación de una parte del crédito como ya se menciono y también
+por supuesto el subsidio de manutención y aquí hay una novedad bien
+importante que se introduce en la propuesta de reforma a la educación
+superior y es que este subsidio de manutención que antes estaba
+ligado exclusivamente al muchacho que tuviera crédito AXES ahora va
+a poder acceder a este subsidio de manutención en la medida que
+haya disponibilidad de recursos cada vez mas podrán acceder
+obviamente los jóvenes que estudien no solamente en una entidad de
+naturaleza privada con crédito educativo, sino también nuestros
+jóvenes estudiantes que estudien en una institución de educación
+superior estatal.
+Los recursos nunca son suficientes, ojala tuviéramos cada vez más
+recursos del presupuesto nacional y de diferentes fuentes para poder
+entonces ampliar estos recursos para el ICETEX y para incrementar el
+crédito educativo, mayor cobertura y con mejores condiciones en
+materia de financiamiento, pero existe una fuente de recursos muy
+importante que tienen nuestras entidades territoriales, que la van a
+tener y que yo no me canso de agradecerles particularmente a esta
+Comisión Sexta tanto de Cámara como de Senado, porque si ustedes
+recuerdan cuando se presenta la reforma, la Ley de Regalías no
+estaba de manera expresa ni explícita como sector financiable el
+sector de la educación, hoy gracias a ustedes se aprueba un nuevo
+acto legislativo en donde aparece el sector educativo como sector
+especifico que se puede financiar con la Ley de Regalías.
+Entonces, pues va a ver unos recursos muy importantes que le van a
+llegar a las entidades territoriales y además de sus propios recursos
+también y me he comprometido a hacer una gran campaña,
+obviamente no antes de las elecciones, sino después de las
+elecciones del 31 de octubre con todos los mandatarios que salgan
+elegidos como alcaldes y gobernadores, tengo previsto y además ya lo
+he hablado con quienes son los representantes de ellos, de sus
+distintas organizaciones, quiero que el sector educativo sea el primero
+en convocar a todos los gobernadores recién elegidos y a todos los
+alcaldes recién elegidos, para mostrarles todo el portafolio que en
+materia educativa podemos desarrollar en una alianza estratégica la
+entidad territorial con el Ministerio de Educación Nacional y por
+supuesto con todas sus instituciones adscritas y vinculadas y de
+manera particular quiero venderle a cada mandatario local que su
+responsabilidad no termina a nivel de la básicas, que no termina a
+nivel de la media cuando ese muchacho termina su bachillerato y se
+gradúa en el año 11, ese mandatario local tiene que pensar que tiene
+que seguir ayudándole a esos jóvenes de su pueblo, de su municipio,
+de su departamento para que puedan continuar en su proceso de
+formación, bien sea haciendo una carrera técnica, una tecnológica o
+una universitaria y de ahí la importancia de hacer entonces fondo
+común con recursos del ICETEX, hacer un cofinanciamiento de los
+muchachos de ese respectivo pueblo, de ese respectivo departamento
+puedan tener inclusive condiciones más favorables que las que hoy de
+hecho ya se tienen a través del crédito educativo del ICETEX, de
+manera que ese es un compromiso que he adquirido y conjuntamente
+con la señora Presidenta del ICETEX nos dedicaremos a promover por
+todo el país con los nuevos mandatarios la posibilidad con los nuevos
+mandatarios de acrecentar recursos, una parte lo está poniendo el
+Gobierno Nacional a través del Presupuesto Nacional y necesitamos
+que haya cofinanciación de las entidades territoriales desde el día
+número uno que quede eso explícito y expreso en el nuevo Plan de
+Desarrollo, que cada uno de ellos por supuesto tendrá que elaborar
+para ser aprobado a mediados del próximo año, de manera pues que
+esa es una tarea que tenemos pendiente por hacer, en la cual por
+supuesto esperamos que cada uno como ya lo ha mencionado usted,
+como lo dijo el doctor Wilson Gómez, esperamos que en sus
+respectivas entidades territoriales de donde ustedes proceden hagan
+una campaña muy fuerte, desde lo territorial para que en ese plan de
+desarrollo en los próximos años quede una partida para financiamiento
+de la educación superior haciendo alianza conjuntamente con el
+ICETEX.
+Hay un punto muy importante, usted bien lo ha dicho, todos los
+estudios demuestran que la educación paga y de qué manera,
+particularmente la educación a nivel de educación superior, ustedes
+saben que el Ministerio de Educación Nacional realiza todos los años
+o actualiza mejor un observatorio importantísimo que se llama el
+observatorio laboral para la educación y a través de este observatorio
+le hemos hecho seguimiento desde el año 2001 hasta la fecha a todos
+los estudiantes que se han graduado en todas las instituciones de
+educación superior en Colombia, en todos los programas y hemos
+cogido estos muchachos que se han graduado desde el año 2001
+hasta la fecha y los hemos cruzado con el sistema de información o
+con la base de datos del Sistema de Protección Social con la PILA,
+para saber cuáles de estos muchachos graduados están cotizando en
+seguridad social y como la cotización es proporcional al nivel de
+ingreso nos permite identificar dos cosas, primero el nivel de
+empleabilidad y de pertinencia de la educación que estamos dando a
+nivel de la educación superior en las distintas instituciones; en las
+distintas regiones y segundo nos permite entonces deducir el nivel de
+ingreso, el nivel de salario que en promedio esos muchachos están
+teniendo.
+Pues bien los resultados son muy importantes, los que acabamos de
+entregar hace aproximadamente un mes al país, le demostramos que
+había pasado o que paso con todos los muchachos que estudiaron un
+programa de educación superior en Colombia en el año 2009, que
+paso con esos muchachos en el año 2010, entonces aquí tengo el
+nivel de ampleabilidad de todo ese grupo de jóvenes que se gradúa
+en los distintos niveles educativos, si estudia una carrera técnica, una
+tecnológica o una universitaria y a nivel ya de postgrado una
+especialización o una maestría o un doctorado y tengo aquí también,
+lo conoce el país, está en la página web del ministerio, el salario real
+de estos recién egresados, salario real promedio.
+A qué conclusiones llega uno, simplemente voy a hablar de los dos
+primeros niveles, el muchacho que se gradúa de bachillerato, que no
+sigue estudiando, con mucha dificultad durante el año 2010 logro tener
+en la informalidad un promedio de ingresos alrededor de 380 mil pesos
+mensuales, con mucha dificultad y en la informalidad sin ningún tipo
+de protección social, el muchacho que con mucho esfuerzo su familia
+logra entonces por ejemplo acceder, logra que su muchacho entre a
+estudiar una carrera técnica con el crédito del ICETEX ese muchacho
+entra a ganar en promedio porque estos son promedios 909 mil pesos
+mensuales, eso transforma no solo la vida de ese muchacho recién
+graduado sino también la de su familia; y le pedí a la, directora del
+ICETEX bueno cuánto se están ganado los tecnólogos 1.057.000, el
+universitario 1.441.000 mensual y así sucesivamente, obviamente a
+mayor nivel de formación mayor nivel de ingreso, entonces le pedí que
+me hiciera un ejercicio que tanto representaba para estos muchachos,
+asumiendo que hubieran estudiado con un crédito del ICETEX, que
+tanto representaban de su salario mensual el pago de la amortización
+a capital más los intereses y los resultados realmente son
+absolutamente sorprendentes por lo favorable, un muchacho que
+estudió una carrera técnica con un crédito del ICETEX y que sale a
+ganarse en promedio 909.000 pesos dependiendo de la modalidad, lo
+que le toca pagarle por crédito educativo al ICETEX representa entre
+el 11 y 14% de su salario mensual, eso que quiere decir, que este
+crédito educativo nuestro es tan subsidiado que representa una
+mínima parte, un mínimo porcentaje del ingreso mensual que recibe
+ese muchacho recién graduado, si estudia una carrera tecnológica con
+un crédito del ICETEX entonces el pago de ese crédito del ICETEX le
+representa entre el 11 y el 14% de su ingreso mensual, si estudio en
+una carrera universitaria ese pago le significa entre un 15 y un 21%
+dependiendo de la modalidad de su ingreso mensual; y pues ni que
+decir si hizo un doctorado pues escasamente le representa el 12% o
+una maestría el 10%.
+Entonces, en conclusión, lo que demuestra es que el crédito educativo
+del ICETEX es lo mas redistributivo que hay en Colombia en términos
+de educación, porque permite entonces con estas nuevas condiciones
+que tiene nuestro crédito con todos los subsidios que ya sabemos que
+se tienen pues, le permite entonces a estos muchachos que cuando
+terminen puedan entonces sin ninguna dificultad cumplir con su
+compromiso de pago sin que se afecte su sostenimiento personal, ni
+familiar, que difiere totalmente la situación chilena, se ha tratado de
+manera perversa tratar de equiparar la situación que están viviendo
+allá los muchachos en Chile y la educación superior chilena con la
+educación superior en Colombia, eso es absolutamente perverso,
+porque son dos sistemas totalmente diferentes y en todos los
+indicadores que uno evalué entre el modelo chileno y el modelo
+colombiano son totalmente diferentes en Colombia, por ejemplo el
+55% de nuestros muchachos estudian por ejemplo en una universidad
+pública, en Chile ni siquiera llegan al 20%, el porcentaje que le
+giramos nosotros a las universidades públicas supera el 60% del total
+del presupuesto, allá ni siquiera llega al 17%, como porcentaje del PIB
+en la tercera parte lo que invierte en educación superior de lo que
+invertimos nosotros acá y el crédito educativo que es el propósito de
+esta convocatoria como ustedes muy bien lo han anunciado, lo saben,
+lo conocen, lo conoce el mundo, son créditos totalmente confiscatorios
+donde dicen esos muchachos y las familias que sencillamente no
+tienen la capacidad de pago y que se demoran hasta 20 años para
+poder asumir el pago de esa deuda. Entonces, son dos modelos
+completamente diferentes y de manera específica, nuestro crédito
+educativo como bien lo decía ahora la Presidenta se ha convertido y
+se está convirtiendo en un referente a nivel mundial, ustedes saben
+que en este proceso de reforma a la educación superior pues hemos
+venido realizando desde el Ministerio de Educación, hemos venido
+realizando muchos foros nacionales e internacionales y
+particularmente en uno de los foros que hicimos trajimos experiencia
+de financiamiento para nuestros jóvenes, para ver que otros modelos
+estaban dando en el mundo que pudiéramos nosotros aprender de
+ellos de sus ventajas, o de sus dificultades y que nos permitiera a
+nosotros tomar las buenas prácticas y la gran conclusión a la cual se
+llega después de haber pues conocido otros modelos a nivel
+internacional es que definitivamente el modelo de crédito educativo
+colombiano es un referente importantísimo a nivel internacional;
+precisamente por sus condiciones tan favorables que le permiten a
+ese joven más pobre de Colombia tener acceso, a una educación de
+calidad y no solamente que les permiten tener acceso sino que sus
+condiciones son tan blandas y tan favorables pues que pueden tener
+la posibilidad de cumplir con su obligación de pago sin que eso les
+signifique ningún tipo de trastorno para su sostenimiento personal y
+familiar.
+Entonces, la nueva ley que estamos nosotros ya en proceso de la
+nueva propuesta de reforma a la educación superior consigna como
+uno de sus apartes muy importantes todas estas nuevas condiciones
+del crédito educativo para nuestro país a través del ICETEX, porque lo
+que queremos es que este crédito educativo no se convierta en una
+política de una administración de turno, sino que se convierta en una
+política de Estado que garantice que las condiciones tan favorables
+que hoy se tienen puedan permanecer en el tiempo.
+Yo simplemente quería hacer esta interpelación pues para compartir
+esta información tan importante con ustedes pues definitivamente
+agradecerles nuevamente al Representante Wilson Gómez y a todos
+los Representantes de esta Comisión que han sido absolutamente
+solidarios, que han sido mis coequiperos en este año que llevo de
+gobierno, porque si alguien ha estado absolutamente comprometido
+con el sector educativo, con llevar educación, mejorar la calidad, el
+acceso y las condiciones de equidad ha sido precisamente la
+Comisión Sexta de la Cámara de Representantes.
+De manera que nuevamente muchas gracias a todos y muchas
+gracias por esta citación.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:25:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Me han dicho que la, ministra debe retirarse muy pronto, tiene la
+palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-09-14T11:26:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Muchas gracias señor Presidente y que pena abusar, pero este es un
+tema que realmente nos apasiona y de nuevo que bueno estar de
+acuerdo con el doctor Wilson Gómez y la señora Presidenta del
+ICETEX trae en mi mente, recuerdo ese desayuno, el primero en su
+despacho señora, Ministra, que también yo hablaba allá cuando he
+tenido la oportunidad de hablar con el señor, Presidente desde el año
+pasado cuando le planteaba el 4 por mil de que desapareciera ese 4
+por mil, dejáramos 1%, un puntico, de ese 4 por mil o sea el 25% , el
+1% y con eso tendríamos garantizada la educación. El señor
+Presidente planteaba que antes lo que él quería era que ese 4 por mil
+desapareciera por ser un impuesto anti técnico, yo a usted en ese
+momento le pedí el favor que miráramos el tema de los bancos,
+queremos un sistema financiero solido, fuerte, blindado, hoy lo
+tenemos, el país entero le dio la mano al sistema financiero cuando
+tuvo dificultades con el 4 por mil y salió a flote y como lo plantea el
+doctor Wilson Gómez, doctora, señora Presidenta convoquemos al
+Presidente, lideren ustedes el proceso, los invito a que pasen a la
+historia a que el señor, Presidente de la República pase a la historia,
+los representantes del sistema financiero muchas veces vienen a este
+Congreso a hacer lobby, los señores representantes o lobbystas del
+sistema financiero muchas veces vienen aquí a hacer lobby para que
+se les apruebe normas a su favor y el Congreso ha sido generoso
+porque entiende que necesitamos un sistema sólido y fuerte como lo
+decía y hoy sí que lo tenemos, que bueno que usted lidere ese
+proceso.
+Llamemos al Presidente y que el Presidente convoque a los
+banqueros a un desayuno a la casa de Nariño que inviten a las
+Comisiones y que le digan, señores banqueros ayúdenos con ese
+poquitico y qué bueno que usted ahorita señora Presidenta cuando
+nos dice y que mucho es su obra, somos los únicos en el mundo y que
+estamos enviando ese mensaje de que realmente hay un país
+convencido en la educación, que bueno que también le pudiéramos
+enviar el mensaje al mundo entero y decirle cuando vengan aquí los
+banqueros, los del Banco Mundial, los del Fondo Monetario decirles,
+mire aquí el sistema financiero no habla de responsabilidad social por
+hablar, el sistema financiero de Colombia es el único en el mundo que
+financia el 50% de los jóvenes en la educación y usted señora, Ministra
+cada que habla nos brinda más argumentos, siempre con su claridad,
+usted acaba de dar las cifras de un estudio de cuánto puede superar
+los ingresos de una persona que se sienta en un pupitre, eso en
+últimas va a terminar en la bancarización, en que los bancos puedan
+generar mayores recursos, entonces, ese sistema que es dinámico va
+a ser más lucrativo a los bancos y queremos a los bancos, pero que
+bueno quererlos más, que bueno que desde pequeños los jóvenes
+sepan que los bancos, que todo lo que la gente habla cuando va a ser
+la fila y que le cobran por todo, que ellos sepan que eso es realmente
+para financiar la educación de nuestros jóvenes, hoy los entes cuando
+se va a contratar tienen la estampilla, tienen una cantidad de puntos
+que se le aplican e impactan ese presupuesto en la contratación o
+ayúdenos.
+De una vez convoco a mis compañeros y que no sea yo, que seamos
+todos a que hagamos un proyecto de ley donde acá vengan los
+banqueros a este Congreso a decir estamos con eso y nos
+comprometemos, ellos no se van a quebrar, estamos convencidos de
+eso, ellos ganan mucho y pueden ganar mucho más y que ustedes
+nos den la oportunidad y ustedes mismos de pasar a la historia y que
+nuestros bisnietos cuenten que hubo un Congreso con un gobierno en
+cabeza de usted señora, Ministra María Fernanda Campo, de usted
+señora Presidenta del ICETEX Martha Lucía Villegas y del Señor
+Presidente de la República que eligieron al sistema financiero de este
+país sean un poquito más, ellos muchos y salen a la opinión pública
+allá financian, hay becas, ellos la dan, 20, 30, 40 mil, pero yo creo que
+podemos hacer un poco más, yo creo que podemos tener un grado
+mayor de desprendimiento y estoy convencido que van a ganar mucho
+más y vamos a querer mucho más al sistema financiero.
+Comprométanse a que nos van a ayudar en esa cruzada y a que
+ustedes van a abanderar ese proceso y aquí nos sentamos entre
+todos y elaboramos un proyecto de ley donde los bancos pues les
+digamos que también los vamos a inmiscuir en esta propuesta tan
+importante para el país y que tienen que cargar con un porcentaje que
+es mínimo pero es para la educación de nuestros jóvenes. Muchas
+gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:26:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>La, Ministra se debe retirar, yo pienso que le debemos dar como esa
+posibilidad, porque tiene otro compromiso, aquí sigue la, directora del
+ICETEX, no sé si ustedes lo consideren, pero en ese caso tiene el uso
+de la palabra el doctor Carlos Andrés Amaya.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2011-09-14T11:26:20">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Buenas tardes a todos los colegas, a usted señor Presidente, a la
+señora, Ministra y a la señora Presidenta del ICETEX, que alegría que
+esta Comisión señor Presidente esté trabajando últimamente tanto y
+estemos discutiendo tanto estos temas tan importantes, se siente uno
+realmente útil este semestre para el país en esta Comisión, no
+simplemente a la, Ministra antes de que se retire voy a centrar la
+intervención en lo dicho de los créditos, es que frente a lo de Chile que
+sumerced dice que se ha dicho de manera perversa y fue su palabra
+que la situación de Chile es parecida a la de Colombia, pues yo tengo
+que reconocer que yo he sido uno de los que he dicho eso que tiene
+similitudes con el tema chileno y por una razón contundente, yo
+conozco a Camila Vallejo hace 4 años, la conocí cuando ella era
+apenas una organización estudiantil en la Universidad de Chile, yo era
+Presidente de los representantes estudiantiles de Colombia y nos
+conocimos en un evento en Ecuador y compartimos preocupaciones
+frente a lo que venía sucediendo en Chile, evidentemente la situación
+de Colombia es mejor pero no dista mucho digamos del camino que se
+está recorriendo, algún columnista y un profesor muy importante en el
+país escribía Chile una situación a corto plazo de lo que puede
+suceder en Colombia si se mantenía el tema del ánimo de lucro y
+bueno muchas cosas. No quisiera profundizar, simplemente decirle
+Ministra en un próximo debate vamos a mostrar las similitudes que
+tiene la situación colombiana con la chilena, aunque son muy pocas,
+creo que existe y yo no lo he hecho de manera perversa mucho menos
+sino con el ánimo de contribuir y colaborar con el ejercicio del debate y
+la controversia que es propia del Congreso de la República, eso
+simplemente a manera de claridad.
+Frente a lo del ICETEX, si tengo que empezar con algo muy
+importante, que considero un cambio de cultura frente a la mentalidad
+que se siente como ICETEX en Colombia, yo tengo que decirle
+Presidenta que cuando yo fui líder estudiantil, yo fui el más acérrimo
+contradictor del ICETEX, a nosotros inclusive alguna vez nos iban a
+transferir unos recursos por vía del ICETEX, cierto los 70 mil millones
+que ni siquiera usted los iba a administrar, sino era como el banco de
+paso y yo me opuse pues armamos la marcha en contra de eso, por
+qué, porque en el imaginario colectivo de los estudiantes colombianos,
+sobretodo los estudiantes de la universidad pública se piensa que el
+ICETEX le está quitando la plata a la universidad pública, el ICETEX
+está recogiendo los recursos que podrían ir a la financiación de la
+oferta y si bien es cierto que hoy el objetivo y la utopía de todas las
+sociedades y la que nosotros pretendemos es que dirija la mayor
+cantidad de recursos a la financiación de la oferta, hoy tenemos que
+entender que es necesario en este momento en Colombia y por
+muchos años posiblemente financiar la demanda, porque esos
+estudiantes de universidades privadas que hoy no cuentan con
+subsidios a la oferta también son colombianos como decía Wilson
+Gómez, también merecen oportunidades y por eso hemos apoyado
+este proyecto, es más en todos los foros donde hoy me invitan a las
+universidades he dicho como buena noticia que esto está sucediendo
+en el ICETEX, aún cuando al principio hay chiflidos en las
+universidades públicas, cuando uno traduce la información y les dice
+esto está pasando, hay otra dinámica y hay otra mentalidad.
+Así que yo creo que hay que hacer un gran esfuerzo, no solo los
+Congresistas, el Ministerio y el ICETEX, sino toda la sociedad en
+poner lo que está ahí sucediendo con el ICETEX que las cosas que
+están cambiando son para beneficio del país, alguna vez en ingeniería
+económica que vi esa materia en séptimo semestre nos ponía el
+profesor en un parcial final a hacer un ejercicio de valor presente y
+valor futuro con un ejemplo del ICETEX y con las tasas reales y pues
+cuando uno terminaba el ejercicio si le quedo bien a esa parte de
+celebrar el 5 salía aterrorizado diciendo dios me guarde de hacer
+nunca un crédito en el ICETEX por los cálculos que allí se hacían, aún
+cuando este ejercicio era preocupante, hoy día yo creo que hay que
+decirle a los jóvenes colombianos y lo he asumido yo como vocero de
+alguna manera de muchos estudiantes que estoy acá con este criterio
+de la educación, que vengo de la universidad pública, que el ICETEX
+es un aliado hoy para los jóvenes colombianos y para el Estado y para
+los colombianos; que hoy el tema en la rebaja del subsidio de las tasas
+de interés es una situación revolucionaria realmente que obviamente
+pensaríamos que siguiera después de que uno se gradué pero creo
+que este ejercicio por lo menos cuando uno se gradúe un joven que
+tiene un crédito diga tengo que pagar la platica que saque prestada y
+no un montón de intereses, pues eso genera una tranquilidad, pero
+más revolucionario me parece y yo celebro esto, porque como soy
+crítico también señora, Ministra tengo la capacidad de celebrar cuando
+hay buenas decisiones el tema del subsidio al sostenimiento, cuando
+yo me enteré de eso un poco no lo creí, yo dije que le den una tarjeta
+a uno con una plata para que uno se sostenga, porque la
+preocupación hoy grande de muchos estudiantes no es pagar su
+matrícula, es como desayuno, como almuerzo, como voy hasta la
+universidad, como pago mi pasaje, esa situación es realmente difícil
+para muchos jóvenes hoy en Colombia que les toca; yo decía algo en
+el debate, les toca hasta las 4 de la mañana trabajando en un bar,
+tienda y llegar a presentar un parcial a las 6 de la mañana para
+conseguir lo del transporte y lo del almuerzo; o en la Universidad
+Nacional que yo tuve el privilegio de estudiar un semestre que a uno le
+tocaba llevar su portacomida y a ver si los microondas servían para
+poder calentar su almuerzo o pasar de largo y no almorzar para sacar
+las fotocopias y en el parcial no pensaba muy bien uno en resolver un
+parcial mientras pensaba en que comer, realmente esto me parece
+revolucionario el tema del subsidio y hoy los que tienen ese crédito de
+los estratos uno y dos hay que contarles que esta situación es
+realmente muy alentadora para estos estudiantes, hoy 150 mil pesos
+uno podría decir y aprovecho a dejar la cuñita no, frente a aquel sabio
+de planeación que dijo que 190 mil pesos uno ya no era pobre, pues
+con 150 mil esta cerquita no, pero cerrando el paréntesis con esos 150
+mil pesos los estudiantes podrían por lo menos tener mínimamente
+para comer, para un refrigerio y para pagar el transporte, aunque hace
+falta hacer mucho.
+Yo creo que sería crear una política de tarifas diferenciales de un
+montón de situaciones, creo que este es un gran avance y aplaudo de
+manera enfática y por lo cual ayer tenía una reunión con los dirigentes
+estudiantiles de las diferentes organizaciones que están encabezando
+las movilizaciones, nos sentábamos a conversar un poco y les decía
+que había que tener mucho cuidado con el tema del pliego de
+peticiones que no se metiera esto del ICETEX así, porque podríamos
+perder unas grandes ventajas, les decía a ellos si nosotros nos vamos
+en toda contra el ICETEX y en las marchas diciendo no al ICETEX,
+estos jóvenes que pueden recibir este subsidio de sostenimiento
+pueden perderlo y sería un grave error, yo creo que hay que afinar la
+discusión y habrá que generar las discusiones en su punto.
+En el tema de la condonación, hombre, no hay nada más alentador
+para un estudiante que diga que cuando se gradué, le rebajan por el
+solo hecho de graduarse con el promedio que sea el 25% de la deuda,
+eso es algo que evidentemente voy al tema de disminuir la deserción,
+un joven que dice yo me graduó aparte de que voy a conseguir un
+buen empleo según los estudios presentados que estamos de
+acuerdo, pues voy a rebajar el 25% de mi deuda, pues es una cosa
+que sirve mucho y a los mejores estudiantes que les condonen el total,
+pues evidentemente es muy importante. Yo tuve la oportunidad de ser
+el mejor ECAES de mi universidad y uno de los mejores del país y
+nunca me metí en el tema del ICETEX porque como dije prefiero
+aguantar hambre y morirme de gastritis antes de sacar un préstamo,
+porque en el imaginario uno decía eso un atraco, cierto y hoy tengo
+que decir cuando yo lo dije en muchas asambleas de estudiantes, no
+es un atraco el tema del ICETEX es un mecanismo válido para los
+estudiantes y hay muchos que van a estar todavía en contra de eso,
+pero yo le tengo que decir que este mecanismo del ICETEX que está
+haciendo grandes pasos es evidentemente una gran ayuda para los
+estudiantes colombianos y que hoy muchos buenos estudiantes que
+se gradúan podrán contar con esos recursos, además que los que ya
+hayan pagado un poco les podrán invertir para postgrado, eso es muy
+importante.
+Yo la sugerencia que dejaría ahí es que miremos el tema de que se
+escojan a los mejores de las regiones, porque muchas veces por
+escoger las grandes ciudades se vuelve un poco, se castigan las
+regiones, porque la calidad obviamente de las regiones es un poco lo
+que decíamos ayer en el proyecto de ley aprobado es a las regiones
+hay que darles una condición particular.
+Simplemente eso Presidenta, pero de la manera más cordial terminar
+la intervención diciendo, estoy acá señora, Ministra con un objetivo y es
+contribuir en esta causa, todos los criterios que siempre he dicho y los
+argumentos y los presento de la más manera más pausada, más
+aterrizada y quiero ayudar además porque hacemos parte de la mesa
+de unidad nacional, estoy en la vocería del Gobierno y esperamos
+colaborar para que esta reforma que usted está presentando y que
+está asumiendo ese reto pueda presentar unas soluciones a la
+situación de la educación superior en Colombia y podamos evitar que
+en el futuro suceda lo que está sucediendo hoy en otros países. Yo
+creo que no estamos en ese momento, pero es el momento clave para
+que esto se arregle, muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:26:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Atilano Giraldo.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2011-09-14T11:26:40">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>No me voy a extender, Ministra, mi intervención la voy a hacer de tres
+minutos, cortica pero al grano, gracias otra vez por el acompañamiento
+Ministra y a la doctora Martha Lucía Villegas, Presidente del ICETEX,
+esta es la Comisión de Educación y por lo tanto es la Comisión de
+ustedes y de verdad todos los días estoy seguro y que bueno
+escuchar a un líder estudiantil hoy Congresista como mi colega Carlos
+Amaya donde reconoce él como estudiante también errores que uno
+comete como estudiantes, pero hoy esa capacidad de él de
+reconocerlo y de verdad no puedo desaprovechar este momento para
+hacer ese llamado de atención. Reforma a la ley 30 y de una vez
+manifestaciones, que me parece que es equivocado, cuando es un
+anteproyecto y que apenas vamos a construirlo y de una vez
+manifestaciones, no es que esté en contra de que los estudiantes
+hagan este tipo de manifestaciones pero no de verdad en este caso
+donde era un anteproyecto, donde apenas lo vamos a construir y de
+una vez salir a decir no, no, a algo que no está definitivo y que era
+para construirlo.
+Ministra nunca se me olvida y yo creo que voy a hacer muy concreto,
+aquí ya hicimos la primera tarea, pero nos queda la segunda y no se
+me olvida cobertura y calidad, 37% a 50 calidad, son dos palabras,
+significan recursos; hoy aquí el llamado de esta Comisión y porque
+tengo que reconocerle que también es su preocupación, porque en
+unas oportunidades que hemos hablado siempre, manifestamos eso,
+es preocupación de recursos, porque si no hay recursos no hay mayor
+cobertura, no hay calidad de educación, es muy difícil, se puede lograr
+algunas pero mínimo, a las metas que tenemos necesitamos recursos
+y aquí también hablaba con mi colega que tenemos que mirar una
+bolsa para educación de diferentes sectores de diferentes formas,
+escuchaba ayer que un dólar de cada barril de petróleo, que de la
+parte financieras, de regalías, de todas partes donde podamos lograr
+recursos para la educación bienvenidos, pero hoy esa es la tarea.
+Pero esta Comisión y desde luego hoy tenemos esa satisfacción que
+el Presidente, la, Ministra y el Congreso en general tenemos clara la
+importancia de la educación y todos estamos trabajando hacia ese
+mismo sector, de verdad que es un logro grande que hoy tenemos
+para el país y poderlo compartir.
+La doctora Martha Lucía Villegas tiene un billón doscientos mil para los
+créditos que aquí lo que estamos haciendo es justicia, aquí no
+estamos ampliando cobertura, es justicia, justicia con unos sectores,
+los más desprotegidos, SISBEN 1,2 que no tenían opción de entrar a
+la universidad, unos jóvenes que ni siquiera se presentaban haber si
+pasaban dentro de los seleccionados, otros que se presentan pero se
+quedan con que quedan entre los 40 para esa carrera que quieren
+estudiar, pero si no tienen hasta ahí llegan, ahora que estamos
+haciendo, dándole oportunidad a esos jóvenes, pero si en la
+Universidad del Quindío y perdóneme que hable de la mía, vamos a
+seguir con el mismo grupo para medicina de 40, lo que estamos
+haciendo es desplazando unos para que ingresen otros, pero cual
+cobertura, ahí no hay cobertura, estamos asegurando el billón
+doscientos mil para poder subsidiar a esos colombianos que no tenían
+y bienvenido, pero cobertura es poder decirle a los colombianos en la
+Universidad del Quindío que había un solo grupo todos los semestres
+para medicina que tiene una demanda grande, decirles va a ver dos,
+ahí si hay cobertura, pero sabe ese otro grupo que significa, recursos
+Ministra, más profesores, más aulas, hace 20 años no construimos y
+siempre lo he dicho en esta Comisión hace 20 años en la Universidad
+del Quindío no se construye una aula, más laboratorios, mas
+personal, mas parte administrativa,, Ministra ahora la tarea es una,
+recursos y donde podamos.
+Decirle Representante Diego y lo sentimos es el Congreso en general
+que le estamos dando la importancia a la educación, nunca se nos
+olvida en Plenaria que estuvo a punto de caerse la ley de regalías
+porque irresponsablemente y no se los colegas que participaron
+irresponsablemente los conciliadores fueron y quitaron educación de
+regalías, que problema se les armo, que el Ministro se comprometió,
+aquí tenemos que trabajar, pero tenemos que citar al Ministro de
+Hacienda, como vamos a conseguir los recursos, afortunadamente el
+Ministro se comprometió y hoy educación está en regalías, igual
+irresponsablemente cuando estábamos y quiero aprovechar este
+minuto que me quedan para en salud que nunca estuve de acuerdo;
+pero que irresponsablemente también los conciliadores colocaron la
+integración vertical, contratar yo con yo, las EPS con las IPS eso lo
+tenemos que revisar nosotros como Congresistas, los conciliadores
+hasta donde tienen esos alcances para cambiar el sentir de toda una
+Plenaria, no me voy a extender más, sencillamente decirles que aquí
+llevamos una tarea pero que nos falta la más grande, tenemos que ser
+responsables y la más grande es recursos, porque decirles que mas
+becas, decirle a los colombianos que mas becas, que mas oportunidad
+de subsidios, pero si no hay donde estudiar estos jóvenes, pues lo
+único que estamos es desplazando unos y dándole la oportunidad a
+otros, bienvenido porque eso es equidad, es justicia, pero la
+responsabilidad grande aquí en adelante es recursos para la
+educación y todos tenemos que apuntar hacia este sector, a ese
+trabajo.
+Muchas gracias, Ministra y a la doctora Martha Lucía Villegas y aquí
+saben que cuentan con un buen grupo de aliados para este trabajo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:26:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el Honorable Representante Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-09-14T11:27:00">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Ministra, yo quisiera que me escuchara tres minutos, así como los ha
+escuchado a todos, es muy corto., Ministra es resaltar toda el esfuerzo
+y voluntad que hacen ustedes por mejorar todo el sistema educativo,
+pero es importante que todas estas iniciativas, así como las hemos
+visto en los diferentes campos, nosotros queremos ojala generar ese
+sistema ideal donde todo es gratis, parece que lo importante acá
+también es mantener unas instituciones sanas. Echándole una lectura
+muy rápida al informe de gestión del ICETEX, hay unos datos que de
+todas formas preocupan y valen la pena que todo ese esfuerzo que se
+hace se mantenga dentro de un buen análisis de mantener la
+institución sana, la cartera vencida del 2009 pasa de 140 mil millones
+de pesos al 2010 a 217 millones de pesos, con un concepto de nivel
+de riesgo alto, son indicadores que hay que tener, no quiero
+extenderme en otros indicadores por el tiempo.
+Y el otro tema es la pertinencia de las becas y de los mismos créditos
+que se realizan, aquí el doctor Iván Darío Agudelo nos recomienda
+que leamos el libro de “Vasta de Historias” y ahí hacen un
+señalamiento que ojala principalmente en Latinoamérica nosotros
+tengamos más pertinencia en cuanto a la educación y ojala sea
+dirigida a carreras técnicas, y veo en el mismo informe que las becas
+que se dan a nivel internacional administración y afines 344 becas,
+humanidades 237 becas, Ingeniería y afines 94 becas, a mi me parece
+que hay que direccionar mas con la pertinencia y con lo que necesita
+nuestro país.
+Y el otro punto, Ministra, que yo creo que el país no nos lo perdonaría
+ni al Gobierno ni al Congreso de la República que en esta reforma de
+la Ley 30 no logremos nosotros un mayor equilibrio, una mayor
+equidad dentro de la distribución de los recursos que hace el Gobierno
+Nacional, aquí en el informe que se nos presenta dice que el costo por
+estudiante semestralmente es alrededor de 3.400.000, esto quiero
+decir que por año 6.800.000, aquí hay universidades que reciben
+menos de un millón de pesos, como les vamos a exigir a ellos calidad
+de educación, como les vamos a exigir a ellos que en 8 años que está
+pidiendo la ley cumplan los requisitos para este mejoramiento de
+calidad si nosotros no logramos con esta ley que exista un mayor
+equilibrio dentro de la distribución de recursos. Muchas gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:27:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Sírvase por favor Señor Secretario anunciar los proyectos para la
+próxima sesión y continuamos con el orden del día para la próxima
+sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-09-14T11:27:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Para la próxima sesión que será citada la Comisión por intermedio de
+la Mesa Directiva.
+Proyecto de Ley No. 050 del 2011 Cámara “Por el cual se adopta la
+política nacional de gestión del riesgo de desastre y se establece el
+Sistema Nacional de Gestión del Riesgo de Desastre”.
+Señor Presidente agotado el orden del día.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-09-14T11:27:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bueno, lo primero es decirle a los ponentes por favor que le den el
+trámite necesario a cada uno de los proyectos para los cuales han sido
+asignados para que la Comisión pueda en este periodo sacar
+rápidamente el avance en el tema legislativo.
+Entonces agradecer a la, Ministra de Educación, agradecer a la
+Presidenta del ICETEX y a agradecerles a todos ustedes por su
+presencia.
+Se levanta la sesión siendo la una y cuarenta y cinco minutos de la
+tarde (1:45 p.m.) y se cita para la próxima semana.
+JOSE EDILBERTO CAICEDO SASTOQUE     DIEGO ALBERTO NARANJO ESCOBAR
+Presidente                      Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO      JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                      Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

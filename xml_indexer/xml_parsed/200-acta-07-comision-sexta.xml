@@ -1,0 +1,830 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo" id="hr-iván-darío-agudelo" showAs="H.R. Iván Darío Agudelo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-castillo" id="hr-wilson-gómez-castillo" showAs="H.R. Wilson Gómez Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-rodríguez-pinzón" id="hr-ciro-rodríguez-pinzón" showAs="H.R. Ciro Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera-gutiérrez" id="hr-luís-guillermo-barrera-gutiérrez" showAs="H.R. Luís Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera" id="hr-luís-guillermo-barrera" showAs="H.R. Luís Guillermo Barrera"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-armando-yepes-martinez" id="hr-jaime-armando-yepes-martinez" showAs="H.R. Jaime Armando Yepes Martinez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="200-acta-07-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2010</heading>
+				<debateSection>
+					<heading>Octubre</heading>
+					<debateSection>
+						<heading>ACTA NO. 07 / 2010-10-05</heading>
+						<speech by="" startTime="2010-10-05T10:24:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2010 - 2011
+ACTA No 007
+(Bogotá, D.C., 5 de octubre de 2010)
+A las diez y veinticuatro minutos de la mañana (10:24 a.m.), el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante DIEGO
+PATIÑO AMARILES, ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Arias Castillo Wilson Neber
+Bonilla Soto Carlos Julio
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Quintero Trujillo Jairo
+Yepes Martínez Jaime Armando
+Con excusa están el Honorable Representante Roldán Avendaño
+Jhon Jairo.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:24:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum decisorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:24:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Señor Secretario sírvase leer el orden día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:24:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Orden del día.
+RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2010 al 20 de junio de 2011
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2010-10-05T10:24:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 5 de octubre de 2010
+Hora: 9:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Aprobación del Acta No. 004 del 31 de agosto de 2010.
+III.
+Ponencia para Primer Debate a los siguientes Proyectos de Ley:
+1. Proyecto de Ley No. 013 de 2010 Cámara, “POR LA CUAL SE MODIFICA
+EL ARTICULO 159 DE LA LEY 769 DE 2002 (CODIGO NACIONAL DE
+TRANSITO) Y SE DICTAN OTRAS DISPOSICIONES”.
+ORIGINARIO: H. CAMARA DE REPRESENTANTES
+AUTORES: GLORIA STELLA DIAZ ORTIZ
+HH.S. : ALEXANDRA MORENO PIRAQUIVE
+MANUEL VIRGUEZ PIRAQUIVE
+ALBERTO BAENA LOPEZ
+PONENTE: WILSON HERNANDO GOMEZ VELASQUEZ
+PUBLICACION: PPD. Gaceta No.667/2010
+2. Proyecto de Ley No. 023 de 2010 Cámara, “POR MEDIO DE LA CUAL SE
+ESTABLECEN MEDIDAS PARA LA PROMOCION E IMPLEMENTACION
+DE MODOS DE TRANSPORTE QUE INCORPOREN TECNOLOGIA DE
+TRACCION ELECTRICA”.
+ORIGINARIO: H. CAMARA DE REPRESENTANTES
+AUTORES: GLORIA STELLA DIAZ ORTIZ
+HH.S. : ALEXANDRA MORENO PIRAQUIVE
+MANUEL VIRGUEZ PIRAQUIVE
+ALBERTO BAENA LOPEZ
+PONENTE: JHON JAIRO ROLDAN AVENDAÑO
+PUBLICACION: PPD. Gaceta No.688/2010
+3. Proyecto de Ley No. 001 de 2010 Cámara, “POR EL CUAL SE MODIFICA
+EL ARTICULO 3 DE LA LEY 1117 DE 2006”.
+ORIGINARIO: H. CAMARA DE REPRESENTANTES
+AUTOR: BUENAVENTURA LEON LEON
+PONENTES: H CIRO ANTONIO RODRIGUEZ PINZON (Coordinador)
+JAIRO QUINTERO TRUJILLO
+LUIS GUILLERMO BARRERA GUTIERREZ
+PUBLICACION: PPD. Gaceta No. /2010
+IV.
+Anuncio de Proyectos de Ley, de conformidad con el Artículo 8º. del Acto
+Legislativo No.01, del 3 de julio de 2003, los cuales se discutirán y votarán sus
+respectivas Ponencias para Primer Debate, en la próxima Sesión.
+V.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:24:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+DIEGO PATIÑO AMARILES JAIME ARMANDO YEPES MARTINEZ
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:25:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Ustedes están de acuerdo que excluyamos el segundo proyecto dado
+que el ponente se excuso por incapacidad médica, lo aplazamos hasta
+que el ponente este, entonces señor secretario quedan excluidos los
+dos proyectos el segundo y el tercero. Se pone en consideración el
+orden del día, se abre la discusión, anuncio que se va a cerrar, queda
+cerrada, lo aprueban con las modificaciones, señor secretario sírvase
+llamar a lista para verificar la votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:25:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Bonilla Soto Carlos Julio
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:25:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ha sido aprobado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:25:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Siguiente punto del orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:25:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Segundo punto, aprobación del acta No. 004 del 31 de agosto de
+2010.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:25:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces, en consideración el acta No. 004 del 31 de agosto de 2010,
+se abre su discusión, anuncio que se va a cerrar, queda cerrada,
+señor Secretario llamar a lista para verificar su votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:26:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:26:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ha sido aprobada el acta No. 004 del 31 de agosto de 2010 señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:26:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Señor Secretario sírvase leer el siguiente punto del orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:26:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ponencia para primer debate del proyecto de Ley No. 013 de 2010
+Cámara “Por la cual se modifica el artículo 159 de la Ley 769 de 2002
+(Código Nacional de Tránsito y se dictan otras disposiciones”.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:26:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Por favor leer el impedimento.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:26:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Impedimento.
+De conformidad con los artículos 286 y 291 de la Ley 5ª. de 1992 me
+permito solicitar a la Comisión Sexta Constitucional de la Honorable
+Cámara de Representantes se me declare impedido para participar en
+la discusión y votación del proyecto de ley No. 013 del 2010 Cámara “
+Por el cual se modifica el artículo 159 de la Ley 769 de 2002 Código
+Nacional de Tránsito y se dictan otras disposiciones”.
+En consideración que actualmente adelanto solicitudes de prescripción
+ante la secretaría de Movilidad de Bogotá D.C. por la imposición de
+dos órdenes de comparendo que se refieren a estacionamiento en sitio
+prohibido y prohibición de tránsito por medida de pico y placa,
+comparendo que tiene más de 5 años.
+Así mismo, dejo constancia que me retiro del recinto durante toda la
+discusión y votación de dicho proyecto de ley.
+Fdo.
+Silvio Vásquez Villanueva
+Representante a la Cámara
+Departamento del Huila</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:27:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>En consideración el impedimento leído, se abre la discusión, continúa
+la discusión, anuncio que va a cerrarse, queda cerrada, Vamos a
+votarlo pero dejamos constancia de que el doctor Silvio Vásquez se
+retira del recinto.
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:27:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ha sido aprobado el impedimento del Honorable Representante Silvio
+Vásquez Villanueva.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:27:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Por favor entonces dele lectura al informe con que termina la
+ponencia.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:27:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“Por todas las consideraciones expuestas solicito a los miembros de la
+Comisión Sexta de la Cámara de Representantes aprobar en primer
+debate el proyecto de ley 013 de 2010 Cámara “Por la cual se modifica
+el artículo 159 de la Ley 769 de 2002 (Código Nacional de Tránsito) y
+se dictan otras disposiciones”, con el pliego de modificaciones y el
+texto definitivo adjunto”.
+Ponente, firmado,
+Wilson Hernando Gómez Velásquez
+Honorable Representante a la Cámara
+Bogotá D.C.
+Someta a consideración la proposición leída con que termina el
+informa señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:27:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2010-10-05T10:27:50">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Para una aclaración, este artículo fue modificado por la Ley 1383 del
+2010, entonces no se si abra algún inconveniente, para mirar como
+aclaramos eso que ya ese artículo fue modificado, o sea no se hace
+referencia a la Ley 1279 sino a la Ley 1383.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:28:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Valer la aclaración del doctor Ciro Rodríguez, porque aquí se está
+modificando es el artículo 159 de la Ley 769.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2010-10-05T10:28:10">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>La Ley 1383 del 2010 que es posterior, es una fecha posterior.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:28:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Le damos la palabra al señor ponente que debió estudiar el caso para
+que nos aclare antes de continuar la votación de la proposición donde
+termina la ponencia.
+Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-castillo" startTime="2010-10-05T10:28:30">
+							<from>H.R. Wilson Gómez Castillo</from>
+							<p>Gracias Presidente, tiene la razón el Honorable Representante sin
+embargo vamos a tratar la modificación del artículo en unos temas que
+nada tienen que ver con la modificación que en su momento hizo la
+Ley 1383 de 2010 y quisiera si el señor Presidente me lo permite de
+una vez hacer la exposición o argumentar el porqué de la ponencia
+para que iniciemos la discusión del debate.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:28:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Una vez aprobemos la proposición abrimos el debate, es un único
+artículo además, tiene la palabra el doctor Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2010-10-05T10:28:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Presidente, escuchemos las explicaciones de él ponente y abrimos el
+debate.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:29:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>No, lo que pasa es que primero debemos es que aprobar la
+proposición con que termina la ponencia, entonces una vez aprobada
+se abre ya el debate sobre el articulado, si quiere doctor Ciro
+Rodríguez pues aprobemos la ponencia y ya en el debate nos
+pondremos de acuerdo.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2010-10-05T10:29:10">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>Si que el ponente aclare.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:29:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Sobre ese punto doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2010-10-05T10:29:30">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidente disculpe mi ignorancia en el tema pero si aprobamos la
+ponencia y entiendo que hay algunos reparos de varios de los
+Representantes a la Cámara, pues no habría entonces mérito a la
+discusión luego de aprobado el informe de ponencia, no se sáqueme
+de la duda Señor Secretario, por favor.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:29:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Usted en estos momentos debe aclarar si estamos modificando la Ley
+769 o la mil y pico, porque de nada sirve aprobar la ponencia con que
+termina el informe y después ir a discutir el articulado, porque si ya se
+aprobó la proposición con que termina el informe tenemos que aprobar
+el articulado tal y como está aquí, o de no presentar usted una
+proposición modificativa al artículo que usted rindió.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:29:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2010-10-05T10:30:00">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Señor Presidente, porque usted no decreta un receso
+mientras el señor ponente averigua perfectamente el contenido de la
+ley posterior que lo modifica, o decrete una sesión informal porque o si
+no estaríamos aprobando algo que ya una ley posterior hizo.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:30:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2010-10-05T10:30:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Igual señor Presidente, la inquietud con el compañero Wilson Gómez,
+para que aprobar el informe, si yo tengo una inquietud que ahora
+dialogaba con él de, que este proyecto es innecesario, entonces no se
+si dentro de la mecánica del procedimiento para estos proyectos
+primero se aprueban y después se discuten, resulta que era
+innecesario.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:30:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Si hay una proposición negando, se archiva el proyecto, pero entonces
+tiene que estar aquí por escrito donde haya una proposición donde se
+plantee que usted considera que el proyecto de ley es innecesario y
+explica las razones por las cuáles y se somete a votación, si su
+proposición es aprobada pues se archiva el proyecto.
+Tiene la palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2010-10-05T10:30:40">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Me parece de suma importancia, porque además yo también tengo
+otra inquietud que me parece que es importante y es que en el sentido
+de la modificación es que se tratan los recursos de los municipios y de
+las gobernaciones y al afectar estos recursos no hemos escuchado y
+me parece conveniente escuchar a los municipios y gobernaciones, yo
+también solicitaría hasta que se aplace la discusión y es de suma
+importancia de que tengamos esa claridad para la discusión normal
+del proyecto. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:30:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno, yo por lo que he leído el proyecto no afecta las arcas de los
+municipios ni de las secretarías de tránsito, al contrario le está dando
+es un poder coercitivo para poder cobrar.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2010-10-05T10:31:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Señor Presidente, con mayor razón, miramos por ejemplo cuando a
+ellos se les faculta, yo creo que si es importante escucharlos en la
+medida de si afecta o no el presupuesto, así sea para recaudar más o
+posiblemente también menos, en la medida de que de alguna manera
+hay que ver cuáles son los instrumentos que ellos tienen, porque
+podrían en un momento dado aportarle a los recaudos de estos
+recursos.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:31:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2010-10-05T10:31:20">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente, es que le entiendo al doctor Ciro Rodríguez que
+mediante la Ley 1383 de 2010 se modifico el artículo 159 de la Ley
+769 del 2002, el proyecto de ley que hoy vamos a discutir tendría que
+ver más con la Ley 1383 de 2010, es decir iríamos a modificar el
+artículo 26 de la Ley 1383 de 2010 y no el artículo 159 de la Ley 769
+de 2002, por eso es preferible Presidente que aplacemos la discusión
+de esa proposición con que termina la ponencia, para que el señor
+ponente tenga la posibilidad de establecer que modificaciones a ese
+artículo 159 estableció la Ley 1383 de 2010 y cuáles son las que
+contempla este proyecto de ley que él está hoy sustentando.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2010-10-05T10:31:30">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidente y colegas, es que la Ley 1383 de 2010 hizo unas
+modificaciones pero solo a los parágrafos del artículo 159 de la Ley
+769 de 2002, eso quiere decir que hoy que estamos discutiendo
+querido Representante el artículo 159, vamos a tratar únicamente el
+inciso primero que tiene que ver con el mandamiento de pago que se
+efectúa después del impuesto, del comparendo y no toca para nada en
+relación con los temas presupuestales de los municipios o
+departamentos, por esa razón en mi concepto creería que podríamos
+seguir dando la discusión.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:31:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Yo creo que el doctor Wilson Gómez tiene la razón, porque la Ley 769
+sigue vigente y el artículo 159 también sigue vigente en uno de sus
+apartes, o sea que a mí me parece que lo que hoy estamos
+discutiendo es lo correcto, que es la modificación al artículo.
+Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2010-10-05T10:31:50">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Yo difiero de esa posición Presidente, porque precisamente el artículo
+26 de la Ley 1383 de 2010 dice:
+“Artículo 26: El artículo 159 de la Ley 769 de 2002 quedará así: luego
+es mediante este artículo 26 que modifica el artículo 159 de la Ley 769
+de 2002.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:32:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Me puede leer la parte final que deroga.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2010-10-05T10:32:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidente hay un pliego de modificaciones que tienen relación
+únicamente con el inciso primero no con los parágrafos, que fue los
+que finalmente modifico la Ley 1383.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:32:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Barrera como quedo el artículo 26 en la Ley.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2010-10-05T10:32:30">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>El artículo 26 dice:
+“El artículo 159 de la Ley 769 de 2002 quedará así:
+Artículo 159: Cumplimiento, la ejecución de las sanciones que se
+impongan por violación de las normas de tránsito estará a cargo de las
+autoridades de tránsito de la jurisdicción donde se cometió el hecho
+quién está investida de jurisdicción coactiva para el cobro cuando ello
+fuere necesario y prescribirán en tres años contados a partir de la
+ocurrencia del hecho y se interrumpirá con la presentación de la
+demanda.
+Las autoridades de tránsito deberán establecer públicamente a más
+tardar en el mes de enero de cada año planes y programas destinados
+al cobro de dichas sanciones y dentro de este mismo periodo rendirán
+cuentas públicas sobre la ejecución de los mismos.
+Parágrafo primero: Las autoridades de tránsito podrán contratar el
+cobro de las multas que se impongan por la comisión de infracciones
+de tránsito.
+Parágrafo segundo: Las multas serán de propiedad exclusiva de los
+organismos de tránsito donde se cometió la infracción de acuerdo con
+su jurisdicción, el monto de aquellas multas que sean impuestas en las
+vías nacionales por parte del personal de la Policía Nacional de
+Colombia adscrito a la Dirección de Tránsito y Transporte, se
+distribuirá el 50% para el municipio donde se entregue el
+correspondiente comparendo y el otro 50% para la Dirección de
+Tránsito y Transporte de la Policía Nacional, con destino a la
+capacitación de su personal adscrito; planes de educación y seguridad
+vial que adelante esta especialidad o lo largo de la red vial nacional,
+locaciones que sufran las necesidades del servicio y la construcción
+de la escuela de seguridad vial de la Policía Nacional.
+Así quedo el artículo 26 que modifico el artículo 159.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:32:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces el artículo 159 quedo explicito en el artículo 26.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera" startTime="2010-10-05T10:32:50">
+							<from>H.R. Luís Guillermo Barrera</from>
+							<p>Correcto.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:33:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Muy bien, entonces señor Secretario ilústrenos entonces cuál es el
+camino a seguir.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:33:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>El procedimiento es el siguiente, aprobar la proposición tal como está
+aquí y cuando lleguemos al título decimos, por la cual se modifica el
+artículo 26 de la Ley 1383 de 2010.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:33:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera" startTime="2010-10-05T10:33:30">
+							<from>H.R. Luís Guillermo Barrera</from>
+							<p>La Ley 1383 es de marzo 16 de 2010 y el proyecto de ley es
+presentado el 20 de julio de 2010, o sea posterior a la Ley 1383, lo que
+vamos a modificar es precisamente el artículo 26 de la Ley 1383 de
+2010 y no el 159 de la Ley 769.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:33:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente hay dos proposiciones, la del doctor Wilson Gómez y
+la del doctor Ciro Rodríguez que dice que esto ya esta insertado en la
+Ley 1383, entonces es potestativo de usted que presente el doctor
+Ciro Rodríguez por escrito.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:33:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodríguez-pinzón" startTime="2010-10-05T10:34:00">
+							<from>H.R. Ciro Rodríguez Pinzón</from>
+							<p>La verdad el proyecto si modifica el artículo 159, lo que pasa es que
+ahora ese artículo es el 26 de la Ley 1383, si hace un nuevo aporte
+que vale la pena estudiarlo, no es que ya se haya estudiando a través
+de la Ley 1383.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:34:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Wilson Gómez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2010-10-05T10:34:20">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Yo lo que le sugeriría a la Comisión con todo el respeto es que en aras
+de aclarar la situación, porque por supuesto existen dudas respecto de
+que es lo que estamos modificando, aplazáramos la discusión del
+proyecto, para poderlo enriquecer, porque no es cierto que se tenga
+que archivar, porque ya está inmerso en otra ley, sino como lo acaba
+de señalar el colega pues existen una serie de aportes por parte de
+este proyecto solo que no se tuvo en cuenta que ya existía la Ley 1383
+de 2010 y yo creo que lo más sano para la discusión y para que todos
+tengamos la posibilidad de enriquecer o criticar la iniciativa acorde a
+las consideraciones de cada uno, pues es que aplacemos la discusión
+del proyecto.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:34:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Ortega en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2010-10-05T10:34:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Bueno, yo haría una proposición Presidente y Secretario de archivo,
+me gustaría que me la fueran redactando y dejar mis argumentos,
+ahora le explicaba al Honorable Representante Wilson Gómez donde
+este proyecto de ley sobra y le explico porque sobra, de pronto para
+los que estudiamos Derecho tenemos un conocimiento de la
+prescripción y la caducidad; por eso compañeros y el doctor Iván Darío
+Agudelo que dice que afecta, los recursos de los municipios y
+departamentos, eso no lo afecta ahí estoy de acuerdo con usted, eso
+no afecta para nada y que hay que escuchar a los municipios y
+departamentos; tampoco considero con respeto y tampoco como dice
+el Presidente que se está dando es un poder coercitivo para poder
+cobrar tampoco, ya está. Las prescripción es un instrumento legal que
+es como un castigo para las entidades por no iniciar una acción,
+entonces, le fijan un término de tres años en este caso y si usted en
+tres años de administración de la secretaría y tránsito no hizo lo
+posible para poder cobrar unas infracciones pues ya no tiene esa
+legalidad para poderlo hacer, ya le prescribió.
+¿Qué es lo que sucede? Y es sana la inquietud que tienen los autores
+y el ponente, ¿Qué pasa? que aquí en Bogotá abusan de los usuarios
+cuando han transcurrido los 3 años y lo confunden con 5 años que es
+para los impuestos; entonces yo le decía al Representante, hombre
+para eso están las sanciones disciplinarias y penales para que a un
+funcionario de estos con doble sentido por cobrar una y eso lo hacen
+en muchos municipios y uno como usuario con el afán de ir a tramitar
+algo en el tránsito; entonces mire, ahí está en la pagina aparece
+reportado que debe una multa, porque es que ya tiene tres años, ya
+automáticamente la tienen que bajar.
+Diría yo, porque esto está claro, la norma es muy clara y dice el
+artículo 159 que fue modificado por la Ley 1383 de 2010, igual,
+cumplimiento, la ejecución de las sanciones que se impongan por la
+violación de las normas de tránsito estará a cargo de la autoridad de
+tránsito, llámese movilidad, llámese secretaría de tránsito.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:34:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Para una moción de orden doctor Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2010-10-05T10:35:00">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Es que con todo el respeto del doctor Ortega se trata precisamente de
+lo mismo, yo he hecho una proposición en la que pido el aplazamiento
+del proyecto para que no lo discutamos hoy y usted ha iniciado la
+discusión del mismo y ha pedido una proposición de archivo cuando
+precisamente esta refiriéndose al contenido de la iniciativa, cosa que
+no amerita discusión por cuanto hemos pedido el aplazamiento, yo
+quisiera que la Presidencia le preguntará a la Comisión si acoge la
+propuesta nuestra de hacer el aplazamiento de la discusión del
+proyecto en aras como lo hemos señalado de enriquecerlo y después
+entonces si habrá la discusión propia del mismo.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:35:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Continué doctor Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2010-10-05T10:35:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Ahí nos enseñaran los que son antiguos, si ahora dar una idea del
+porque, no es necesario volver a debatir algo que ya está claro en la
+ley, ahí si no entiendo, o sea volver a aplazarlo para tratar algo que
+ahora yo le puedo dar luces de que es innecesario, porque ya está
+claro en la ley, ahí no hay sino que la Superintendencia, el Ministerio le
+envié unos oficios, una circular clara a las secretarías de tránsito que
+apenas se cumplan los tres años y ellos no hicieron su actuación
+administrativa pues de oficio bajen a estas personas de esos sistemas,
+automáticamente que los bajen, esto ya está claro allí, que les
+prescribe la acción a las autoridades de tránsito, entonces no se si la
+mecánica es aplazarlo para volver a tratar lo mismo y de pronto
+decirles que es innecesario.
+La intención es buena porque aquí en Bogotá parece ser que eso no lo
+hacen, pero para eso están las autoridades de control, la
+Superintendencia de Puertos y Transportes, el Ministerio, las
+Procuradurías y las Personerías que tiene que hacer valer que los
+funcionarios cumplan la Ley y no abusen de los usuarios, eso lo han
+hecho en los diferentes municipios de Colombia, pero cuando les dan
+las instrucciones a las secretarías de tránsito y a los funcionarios y
+están los organismos de control pendientes; ellos saben que con tres
+años es más ya tienen los formatos ahí de caducidad, cobran 2 mil
+pesos y el tramitador va y lo radica y en tres días ya los bajan del
+sistema, pero si aquí en Bogotá están haciendo eso pues hay que
+utilizar los organismos de control y las herramientas que da la ley, pero
+volver a reformar lo que ya se reformó y otra vez lo veo innecesario.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:35:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra la doctora Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2010-10-05T10:35:40">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias señor Presidente, de verdad que yo me acojo a la propuesta
+de aplazarlo, toda vez que surgen una nueva inquietud jurídica, aquí
+vamos a hacer un debate inicialmente con una Ley que era la 769,
+pero ya con lo que dice nuestro compañero el doctor Ciro Rodríguez
+pues tendremos que entrar a estudiar más a fondo y eso le
+corresponderá al señor ponente del proyecto de ley, porque no
+podemos de ligereza ponernos a aprobar estos temas que inicialmente
+parecerían sencillos y sin embargo jurídicamente pueden tener una
+trascendencia relevante.
+Entonces de forma respetuosa señor Presidente yo si solicitaría en
+este momento hacer si usted a bien lo tiene la votación de si se aplaza
+o no se aplaza el debate. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:35:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2010-10-05T10:36:00">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Gracias Presidente, en ese mismo orden y respaldando siempre aquí
+al diamante de la Comisión Sexta, estamos nosotros Señor
+Presidente, precisamente en este artículo comparto lo que dice el
+doctor Ortega, precisamente lo que quiere hacerse es que al parecer
+hay unos entes o direcciones de tránsito como medio artistas del país,
+entonces llega alguien y tiene y ya está prescrita la acción de los tres
+años y el señor va a hacer un acuerdo de pago por una multa que si
+está vigente y le dicen es que usted tiene otra, entonces le dicen haga
+acuerdo de pago de una vez de las dos y los inocentes que no han
+tenido la malicia indígena de coger al tramitador de los 2 mil pesos que
+le piden para que le digan mire no tramite la prescripción, eso más o
+menos es el espíritu del artículo que se quiere modificar.
+Pero yo también comparto la posición del doctor Jairo Ortega, que a
+mi si me parece que no es y difiero de usted señor Secretario de que
+en la proposición le cambiemos el título y miremos como lo hacemos,
+no me parece que después de que ha habido una ley en marzo del
+2010, un proyecto presentado el 20 de julio, de manera pues que yo si
+pretendía que el aplazamiento, pero también de que el doctor Wilson
+Gómez mirara su ponencia y de pronto mirar el archivo o la necesidad
+o conveniencia de la Ley. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:36:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo" startTime="2010-10-05T10:36:20">
+							<from>H.R. Iván Darío Agudelo</from>
+							<p>Si, este parágrafo ha tenido como muchas dificultades, vemos
+inclusive que tenía una vigencia de antes del día 31 de diciembre del
+2009 y la ley en su tránsito legislativo no corrigió esta fecha y se hizo
+inaplicable, con mayor razón yo creo que es una oportunidad muy
+importante y acojo de nuevo la propuesta del doctor Jairo Ortega de
+que no se archive sino que realmente se aplace, porque el debate es
+importante y para que saquemos lo mejor de esta propuesta,
+acompañar la propuesta del doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:36:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces en consideración el aplazamiento del proyecto, se abre la
+discusión, anuncio que va cerrarse, queda cerrado, señor Secretario
+sírvase verificar la votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:36:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:36:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ha sido aprobado el aplazamiento del proyecto de Ley 013 de 2010
+Cámara Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:37:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Continué con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-10-05T10:37:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente vamos a darle paso al siguiente punto del orden del
+día que es el anuncio de estos dos proyectos aplazados para la
+próxima sesión y proposiciones.
+Entonces anunciamos los proyectos de ley de conformidad con el
+artículo octavo del Acto Legislativo 001 del 3 de julio de 2003 los
+cuales se discutirán y votarán su respectiva ponencia para primer
+debate en la próxima sesión, entonces vamos a anunciarlos:
+Proyecto de Ley No. 013 de 2010 Cámara, “Por la cual se modifica el
+artículo 159 de la Ley 769 de 2002 (Código Nacional de Tránsito) y se
+dictan otras disposiciones”.
+Proyecto de Ley 023 de 2010 Cámara, “Por medio de la cual se
+establecen medidas para la promoción e implementación de modos de
+transporte que incorporen tecnología de tracción eléctrica”.
+Proyecto de Ley 001 de 2001 Cámara, “Por el cual se modifica el
+artículo 3 de la Ley 1117 de 2006”.
+Señor Presidente agotado el orden del día, hay un compromiso que
+usted mismo hizo con el Ministerio de Comercio Exterior y el debate
+para el próximo 13 que es miércoles, la continuidad con la, Ministra de
+Educación.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-10-05T10:37:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Ya se ha enviado una carta a la Mesa Directiva de la Cámara para
+excusar los que van a viajar a Cartagena para que no les pongan falla
+el día de mañana, es muy importante que los ponentes del proyecto de
+ley que tiene que ver con la Superintendencia de Puertos y Transporte
+estén en el debate que se va a dar en COLFECAR, si no tengo mal
+entendido es en las horas de la tarde del día jueves, para que
+hagamos presencia allá, entonces es muy importante que estemos,
+como ustedes ya saben hay otro Congreso que es de ASOMEDIOS
+para que ustedes determinen a que temas asistir.
+El próximo martes entonces vamos a debatir los proyectos que hoy
+hemos anunciado, el miércoles a las 7 y 30 de la mañana hay un
+desayuno con el señor Ministro de Industria y Comercio y luego
+vendremos acá a continuar con el debate del Ministerio de Educación,
+ICETEX, ya le hemos enviado la carta reiterando la invitación al señor
+Ministro de Hacienda para que esté presente en ese debate.
+Se levanta la sesión siendo las once y cuatro minutos de la mañana
+(11:04 a.m.).
+DIEGO PATIÑO AMARILES            JAIME ARMANDO YEPES MARTINEZ
+Presidente                           Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

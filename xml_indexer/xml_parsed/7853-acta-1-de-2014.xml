@@ -1,0 +1,1303 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ana-maría-rincón-herrera" id="hr-ana-maría-rincón-herrera" showAs="H.R. Ana María Rincón Herrera"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-víctor-correa-vélez" id="hr-víctor-correa-vélez" showAs="H.R. Víctor Correa Vélez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-víctor-javier-correa" id="hr-víctor-javier-correa" showAs="H.R. Víctor Javier Correa"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-alberto-cuero-valencia" id="hr-carlos-alberto-cuero-valencia" showAs="H.R. Carlos Alberto Cuero Valencia"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepúlveda-muñeton" id="hr-jaime-alberto-sepúlveda-muñeton" showAs="H.R. Jaime Alberto Sepúlveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/jaime-alberto-sepulveda-muñetón" id="jaime-alberto-sepulveda-muñetón" showAs="Jaime Alberto Sepulveda Muñetón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-alonso-giraldo-arboleda" id="hr-atilano-alonso-giraldo-arboleda" showAs="H.R. Atilano Alonso Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilmer-ramiro-carrillo-mendoza" id="hr-wilmer-ramiro-carrillo-mendoza" showAs="H.R. Wilmer Ramiro Carrillo Mendoza"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-castiblanco-parra" id="hr-jairo-castiblanco-parra" showAs="H.R. Jairo Castiblanco Parra"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-alfredo-ape-cuello-baute" id="hr-alfredo-ape-cuello-baute" showAs="H.R. Alfredo Ape Cuello Baute"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ricardo-flórez-rueda" id="hr-ricardo-flórez-rueda" showAs="H.R. Ricardo Flórez Rueda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepúlveda-muñetón" id="hr-jaime-alberto-sepúlveda-muñetón" showAs="H.R. Jaime Alberto Sepúlveda Muñetón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-hugo-hernán-gonzález-medina" id="hr-hugo-hernán-gonzález-medina" showAs="H.R. Hugo Hernán González Medina"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jorge-eliecer-tamayo-marulanda" id="hr-jorge-eliecer-tamayo-marulanda" showAs="H.R. Jorge Eliecer Tamayo Marulanda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-felipe-lozada-polanco" id="hr-jaime-felipe-lozada-polanco" showAs="H.R. Jaime Felipe Lozada Polanco"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-sepúlveda-muñeton" id="hr-jaime-sepúlveda-muñeton" showAs="H.R. Jaime Sepúlveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-eduardo-guevara-villabon" id="hr-carlos-eduardo-guevara-villabon" showAs="H.R. Carlos Eduardo Guevara Villabon"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-víctor-javier-correa-vélez" id="hr-víctor-javier-correa-vélez" showAs="H.R. Víctor Javier Correa Vélez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-martha-patricia-villalba-hodwalker" id="hr-martha-patricia-villalba-hodwalker" showAs="H.R. Martha Patricia Villalba Hodwalker"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-inés-cecilia-lópez-flórez" id="hr-inés-cecilia-lópez-flórez" showAs="H.R. Inés Cecilia López Flórez"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="7853-acta-1-de-2014"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2014</heading>
+				<debateSection>
+					<heading>Julio</heading>
+					<debateSection>
+						<heading>ACTA NO. 1 / 2014-07-30</heading>
+						<speech by="" startTime="2014-07-30T10:30:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2014 - 2018
+ACTA No 001
+(Bogotá, D.C., 30 de Julio de 2014)
+A las diez y treinta minutos de la mañana (10:30 a.m.) el Honorable
+Representante WILMER RAMIRO CARRILLO MENDOZA, actuando
+como, Presidente de la Comisión Sexta Constitucional
+Permanente de la Honorable Cámara de Representantes ordena
+llamar a lista y contestan los siguientes Honorables Representantes:
+Carrillo Mendoza Wilmer Ramiro
+Castiblanco Parra Jairo Enrique
+Cipriano Moreno Edgar Alexander
+Correa Vélez Víctor Javier
+Cuello Baute Alfredo Ape
+Cuero Valencia Carlos Alberto
+Flórez Rueda Ricardo
+Giraldo Arboleda Atilano Alonso
+González Medina Hugo Hernán
+Guevara Villabon Carlos Eduardo
+López Flórez Inés Cecilia
+Lozada Polanco Jaime Felipe
+Patiño Amariles Diego
+Rincón Herrera Ana María
+Rodríguez Pinzón Ciro Antonio
+Tamayo Marulanda Jorge Eliecer
+Villalba Hodwalker Martha Patricia
+Con excusa se encuentra el Honorable Representante:
+Agudelo Zapata Iván Darío</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda-muñeton" startTime="2014-07-30T10:30:10">
+							<from>H.R. Jaime Sepúlveda Muñeton</from>
+							<p>Tenemos quórum decisorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:30:20">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Por favor señor secretario sírvase leer el orden del día.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:30:30">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2014 - 2018
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2014 al 20 de junio de 2015
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2014-07-30T10:30:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 30 de julio de 2014
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Instalación de la Comisión, por parte del Señor, Presidente de la Corporación,
+Dr. FABIO AMIN SALEME
+III.
+Postulación, elección y posesión de los miembros de la Mesa Directiva de la
+Comisión Sexta Constitucional Permanente, período legislativo del 20 de julio de
+2014 al 20 de julio de 2015, de conformidad con el artículo 10 de la Ley 3ª 1992.
+a) Presidente
+b) Vicepresidente
+Postulación, Elección y posesión del Secretario de la Comisión Sexta
+Constitucional Permanente, período del 20 de julio de 2014 al 20 de julio de 2018,
+de conformidad con el artículo 11 de la Ley 3ª. de 1992.
+IV.
+</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:30:50">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+WILMER RAMIRO CARILLO MENDOZA JAIME ALBERTO SEPULVEDA MUÑETON
+Presidente Secretario</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:31:00">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Leído el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:31:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Leído el orden del día se somete a consideración, se abre la discusión,
+continúa abierta, se cierra, ¿aprueba la Comisión el orden del día?.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:31:20">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Ha sido aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:31:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Señor Secretario continúe con el orden del día.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:31:40">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>El segundo punto del orden del día es la instalación de la Comisión por
+parte del señor Presidente, entiendo que él ya ha pasado por la
+Comisión Primera, si quiere podemos continuar, con el tercero
+postulaciones, mientras que él se hace presente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:31:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Lo ponemos a consideración de la Comisión, si seguimos con el orden
+del día y esperamos el momento que llegue el, Presidente de la
+Cámara pues para que nos dé un saludo, seguimos con el orden del
+día.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:32:00">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Presidente solamente se puede continuar no vamos a elegir todavía,
+simplemente para hacer las postulaciones mientras que el Presidente
+llega, para ir adelantando, no se va a tomar ninguna decisión mientras
+él no llegue, se puede hacer eso si la Comisión lo acepta.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:32:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Tamayo.</p>
+						</speech>
+						<speech by="#hr-jorge-eliecer-tamayo-marulanda" startTime="2014-07-30T10:32:20">
+							<from>H.R. Jorge Eliecer Tamayo Marulanda</from>
+							<p>Gracias Presidente, pues aquí es meramente un acto de carácter
+protocolario o un acto del reglamento como tal, si no es reglamentario
+y es de carácter protocolario no afecta absolutamente nada, porque le
+cuento que apenas agotaron Comisión Primera, o sea que tardaremos
+un buen rato en esperar aquí, entonces yo le preguntaría al Secretario
+si es un acto de carácter protocolario que se incluyo en el orden del
+día o es un acto de carácter reglamentario que nos condicionaría a
+esperar que formalmente se instale la Comisión, si en el Reglamento
+dice las Comisiones serán instaladas por el, Presidente de la Cámara,
+si dice eso hay que esperar, sino dice eso, sino dice que las
+Comisiones se instalaran y no consideran entonces simplemente
+procedemos a continuar y hacemos el acto protocolario en el
+desarrollo en el momento que llegue él.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:32:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Alfredo Ape Cuello.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:32:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>No, ciertamente es apenas un acto protocolario, nosotros podemos si
+así lo decide la plenaria, la Comisión podemos ir avanzando y en el
+momento que llegue el Presidente da oficialmente instalada pero es un
+acto protocolario, legalmente la Ley dice: “Que después de que se
+reúna la mitad más uno de los miembros de la Comisión pueden
+empezar a ocupar sus funciones”.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:32:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Yo propongo que continuemos con lo de las postulaciones, no sé que
+opine la plenaria de la Comisión, sigamos entonces con las
+postulaciones, continúe señor Secretario con el orden del día.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:33:00">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Señor Presidente en ese orden de ideas: Tercer punto postulación y
+elección y posesión de los miembros de la Mesa Directiva de la
+Comisión Sexta Constitucional Permanente, periodo legislativo del 20
+de julio 2014 al 20 de julio de 2015 de conformidad con el artículo
+décimo de la Ley 3ª. de 1992.
+a. Presidente
+b. Vicepresidente
+Y a continuación la postulación y elección y posesión del secretario de
+conformidad con el artículo 11 de la Ley 3ª. de 1992 señor Presidente,
+puede abrir las postulaciones.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:33:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno se abren las postulaciones para Presidente y Vicepresidente,
+doctor Ciro Rodríguez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2014-07-30T10:33:20">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, saludar a todos muy especialmente,
+quiero postular al doctor Alfredo Ape Cuello para la, Presidente de la
+Comisión Sexta, pertenece al Partido Conservador, tiene una gran
+experiencia en la carrera del Congreso de la República, ya este es el
+tercer periodo como Representante a la Cámara, fue, Presidente de la
+Cámara de Representantes en el año 2006- 2010, esto nos va a
+garantizar a nosotros que la Comisión Sexta va a tener una
+conducción con amplios conocimientos y experiencia, por eso los
+invito a todos que me acompañen en esta postulación. Muchas gracias
+señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:33:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2014-07-30T10:33:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias Presidente, en nombre del Partido Liberal que represento y
+haciendo honor a los compromisos que se han adquirido para este
+cuatrienio el Partido Liberal respalda el nombre del doctor Alfredo Ape
+Cuello para la Presidencia este año y conozco de su trabajo y
+experiencia, compartimos curules en el 2006 y espero que este primer
+año que es tan importante para el país y para el mismo Congreso
+podamos tener la oportunidad de participar muy activamente doctor
+Ape Cuello en la discusión; y ese si es un tema que valdría la pena
+que todos los miembros de esta Comisión tuviéramos en cuenta de el
+Plan de Desarrollo en lo que compete a la Comisión en los temas de
+educación, en los temas de tic,s, en los temas de transporte, porque
+tradicionalmente han sido las Comisiones Económicas las que
+discuten en primer debate el Plan de Desarrollo y quedamos nosotros
+al margen, yo si le pediría doctor Ape Cuello que desde su presidencia
+pudiéramos lograr una discusión amplia sobre los temas que
+competen a la Comisión para que podamos tener incidencia en la
+discusión del Plan de Desarrollo del próximo cuatrienio.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:33:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Tamayo.</p>
+						</speech>
+						<speech by="#hr-jorge-eliecer-tamayo-marulanda" startTime="2014-07-30T10:34:00">
+							<from>H.R. Jorge Eliecer Tamayo Marulanda</from>
+							<p>Señor Presidente, en nombre de la bancada del Partido de la U
+queremos honrar nuestros compromisos y apoyar al doctor Alfredo
+Ape Cuello como, Presidente de la Comisión para este primer año.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:34:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Atilano Giraldo en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2014-07-30T10:34:20">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente, muy buenos días para todos, darle la bienvenida a
+las Honorables Representantes, a los colegas también
+Representantes, decirles que estos cuatro años de mi experiencia en
+esta Comisión quiero compartir hoy en este primer día que es una
+excelente Comisión, educación yo creo que todos identidad en la
+educación, infraestructura y transporte otro sector bien importante y
+las telecomunicaciones, industria y comercio, cultura es de las
+comisiones que más sectores toca.
+Como Representante de Cambio Radical mi voto positivo, mi respaldo
+total doctor Ape Cuello, no nos conocíamos pero está muy
+recomendado, es más conocido que el Papa, así que yo creo y estoy
+seguro que esta Presidencia de este primer año vamos a estar muy
+bien representados, esta Comisión el año pasado aquí compartimos
+con el Congresista más joven y creo que en este periodo va a ser
+igual, Víctor un estudiante lo conozco por otras circunstancias y estoy
+seguro que le va a ir muy bien.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:34:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Ricardo Flórez Rueda.</p>
+						</speech>
+						<speech by="#hr-ricardo-flórez-rueda" startTime="2014-07-30T10:34:40">
+							<from>H.R. Ricardo Flórez Rueda</from>
+							<p>Es también para decir mi voto a favor del doctor Alfredo Ape Cuello
+creemos que hay una importante función, estoy de acuerdo con los
+compañeros en que esta Comisión tiene que ser una Comisión que
+sea muy proactiva y creemos doctor Alfredo que usted en la
+Presidencia vamos a obtener ese proceso.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:34:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Continuamos con las postulaciones para Presidente y Vicepresidente,
+doctora Ana María tiene la palabra.</p>
+						</speech>
+						<speech by="#hr-ana-maría-rincón-herrera" startTime="2014-07-30T10:35:00">
+							<from>H.R. Ana María Rincón Herrera</from>
+							<p>Gracias Presidente, señor Presidente para postular a la doctora
+Martha Villalba del departamento del Atlántico por el partido de la U,
+abogada especialista en desarrollo social, exalcaldesa de Puerto
+Colombia y exdiputada del departamento de Atlántico por el partido de
+la U.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:35:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2014-07-30T10:35:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Qué pena que en mi intervención no di un saludo a todos los colegas
+de esta Comisión y por supuesto bienvenida las mujeres, en la pasada
+solamente tuvimos una pero hoy tenemos tres y qué bueno que
+empiecen siendo protagonistas de esta Comisión, que como todos han
+dicho es una Comisión bien interesante y que esperamos juegue el
+papel que le corresponda, no solamente en lo que tiene que ver en la
+aprobación de las leyes o los proyectos de ley que se pongan a
+consideración, sino que también hagamos un trabajo juicioso en el
+control político que nos corresponde, me parece que ahí hay un
+eslabón muy importante de la Comisión y creo que los temas que
+nosotros tocamos tienen una gran incidencia en la economía,
+desarrollo y sobretodo en la parte social de los colombianos.
+A nombre de la bancada del partido Liberal por supuesto apoyamos a
+la doctora Marta Villalba.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:35:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Jaime Felipe Lozada.</p>
+						</speech>
+						<speech by="#hr-jaime-felipe-lozada-polanco" startTime="2014-07-30T10:35:40">
+							<from>H.R. Jaime Felipe Lozada Polanco</from>
+							<p>En nombre del partido Conservador respaldamos el nombre de la
+doctora Marta Villalba para la Vicepresidencia, es un halago doctora
+Marta que como mujer nos vaya a representar en la Comisión y por
+supuesto que respetamos los acuerdos, estamos prestos a servirle en
+este año de su periodo, a todos los colegas un cordial abrazo y una
+feliz bienvenida.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:35:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Atilano Giraldo en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2014-07-30T10:36:00">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente, como Representante de Cambio Radical a la
+doctora Marta respaldo total y estoy seguro vamos a estar muy bien
+representados en esa Vicepresidencia y dispuesto a trabajar en
+equipo.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:36:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Ricardo Flórez.</p>
+						</speech>
+						<speech by="#hr-ricardo-flórez-rueda" startTime="2014-07-30T10:36:20">
+							<from>H.R. Ricardo Flórez Rueda</from>
+							<p>En todos los respetos de acuerdos de Opción Ciudadana también
+apoya el nombre tuyo y que rico que sea una mujer porque creemos
+que eso también nos va a dar un trabajo muy sistémico y muy
+disciplinado.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:36:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Víctor Javier Correa.</p>
+						</speech>
+						<speech by="#hr-víctor-javier-correa" startTime="2014-07-30T10:36:40">
+							<from>H.R. Víctor Javier Correa</from>
+							<p>Un saludo a todos los compañeros y compañeras de la Comisión
+Sexta, respondiendo al saludo del doctor Atilano Giraldo pues espero
+también poder hacer muy buen trabajo desde este espacio por llevar
+las banderas del movimiento estudiantil, vivimos todo el proceso de la
+mesa estudiantil del año 2011, 2012 y 2013 y espero entonces que
+dentro de ese mismo ejercicio que se dice hacer en este espacio, que
+es el ejercicio democrático, pues yo veo que quienes ya están
+postulados tienen un importante apoyo como miembro de un partido
+de oposición y de las minorías lo único que espero son todas las
+garantías para que la democracia efectivamente opere, para que el
+disenso sea posible, para que el debate sea una realidad en un
+espacio que es tan importante para el desarrollo de las políticas del
+país y sobretodo en un tema tan fundamental como es la educación
+que es en últimas el motor real del desarrollo social, económico y
+político de cualquier Nación.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:36:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Atilano en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2014-07-30T10:37:00">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente, ¿ya abrieron las postulaciones para Secretario?</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:37:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Entonces abrimos las postulaciones para Secretario de la Comisión,
+se abre las postulaciones.
+Dr. Atilano en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2014-07-30T10:37:20">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente, me corresponde colocar a consideración para
+Secretario el nombre de un amigo, de una persona que conozco hace
+un buen tiempo, como Secretario yo creo que debe reunir dos
+condiciones, muchas, pero dos básicas, la parte académica y también
+pues esa experiencia y como persona, como persona vuelvo y repito lo
+conozca ya hace varios años, reúne esas condiciones, es una persona
+seria, trabajadora, honesta, responsable y en la parte académica el
+doctor Jair José Ebratt Díaz es economista de la Universidad de
+Cartagena, con especialización en análisis de administración
+financiera de la Universidad Católica de Colombia, diplomado en
+gerencia de gestión legislativa así como en gerencia financiera pública
+de la Escuela Superior de Administración Pública- ESAP y en
+contratación en la Universidad Cooperativa de Colombia, participo en
+el año 2006 en la Comisión para la modernización del Congreso,
+cuatro años de trabajo en esta tarea, actualmente se desempeña
+como Subsecretario de la Comisión Tercera en donde ha hecho un
+recorrido, lleva 22 años de experiencia en esta Comisión, yo creo que
+esta presentación importante demuestra sus calidades, no solo
+académicas, vuelvo y repito, también las humanas que las tiene, por
+eso coloco a consideración el nombre del doctor Jair José Ebrat Días
+para Secretario de esta Comisión.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:37:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Continuamos con las postulaciones para Secretario de la Comisión,
+tiene la palabra el Representante Martha Patricia Villalba.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-07-30T10:37:40">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Respetando los acuerdos hechos con anticipación respaldamos el
+nombre de Jair José Ebratt Díaz, quiero decirles que además es un
+honor que sea costeño como muchos de los de esta bancada.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:37:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2014-07-30T10:38:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias Presidente, en nombre de la bancada del Partido Liberal por
+supuesto que le damos el completo respaldo al doctor Jair Ebrat Díaz
+para ocupar el cargo de Secretario de esta Comisión en el periodo
+legislativo 2014- 2018, no sin antes agregarle a lo que ha dicho el
+doctor Atilano Giraldo y no solamente las condiciones profesionales y
+humanas, sino también el compromiso y la lealtad con esta Comisión,
+es muy importante que haya un secretario que nos guie y sobre todo a
+los nuevos y es muy importante que el secretario este muy de la mano
+dándole el apoyo y el acompañamiento no solamente en las labores
+legislativas de acá de la Comisión, sino también el acercamiento hacia
+las ministerios y entidades a las cuales nosotros tenemos la obligación
+de hacer el control político y por supuesto de debatir los proyectos de
+ley con respecto a los temas que a la Comisión le competen.
+De verdad que conozco a Jair también hace un buen tiempo y se dé
+su calidad humana y se de su capacidad para desempeñar esta
+función, de hecho viene de ser Subsecretario de la Comisión Tercera
+que es una Comisión bien complicada y que creemos que lo hará con
+lujo de detalles.
+En nombre del Partido Liberal ratificamos el respaldo a Jair Ebrat Díaz
+para Secretario de la Comisión Sexta.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:38:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Jairo Castiblanco tiene la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-castiblanco-parra" startTime="2014-07-30T10:38:20">
+							<from>H.R. Jairo Castiblanco Parra</from>
+							<p>Un saludo muy respetuoso a todos mis compañeros de la Comisión
+Sexta y decirles que en nombre del Partido de la U y respetando los
+acuerdos porque ese va a ser el éxito tal vez de esta Comisión,
+respaldamos el nombre del doctor Jair Ebrat Díaz como Secretario de
+nuestra Comisión.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:38:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el doctor Carlos Alberto Cuero.</p>
+						</speech>
+						<speech by="#hr-carlos-alberto-cuero-valencia" startTime="2014-07-30T10:38:40">
+							<from>H.R. Carlos Alberto Cuero Valencia</from>
+							<p>Muy buenos días, primeramente darle a Dios gracias por esta
+oportunidad única que nos brinda, saludo a todos ustedes
+compañeros, con todo respeto de parte de la bancada del Centro
+Democrático al doctor Jair Ebratt Díaz no lo conozco, pero si fue muy
+bien recomendado por alguien que tiene experiencia acá, entonces por
+eso nosotros la bancada del Centro Democrático estamos de acuerdo
+con la postulación y la posible secretaria del compañero Jair Ebrat
+Díaz.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:38:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno si ya no hay más postulaciones vamos a elegir los jurados para
+ya proceder a las votaciones, la vamos a hacer simultáneamente
+Presidente, Vicepresidente y Secretario, entonces necesitamos aquí
+tres personas para que nos sirvan de jurado, le queremos pedir el
+favor al doctor Víctor Correa para que nos acompañe aquí como
+jurado de la Presidencia, al doctor Patiño de la Vicepresidencia y a la
+doctora Inés Cecilia López aquí en la Secretaría.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:39:00">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Señor Presidente procedo a llamar a lista para que vayan depositando
+su voto.
+Iván Darío Agudelo Zapata, con excusa
+Carrillo Mendoza Wilmer Ramiro
+Castiblanco Parra Jairo Enrique
+Cipriano Moreno Edgar Alexander
+Correa Vélez Javier Víctor
+Cuello Baute Alfredo Ape
+Cuero Valencia Carlos Alberto
+Flórez Rueda Ricardo
+Giraldo Arboleda Atilano Alonso
+González Medina Hugo Hernán
+Guevara Villabon Carlos Eduardo
+López Flórez Inés Cecilia
+Lozada Polanco Jaime Felipe
+Patiño Amariles Diego
+Rincón Herrera Ana María
+Rodríguez Pinzón Ciro Antonio
+Tamayo Marulanda Jorge Eliecer
+Villalba Hodwalker Martha Patricia
+Señor Presidente han sido llamados todos los integrantes de la
+Comisión Sexta para sus votos.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:39:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno ahora procedamos a contabilizar los votos de cada postulación
+para la Presidencia, Vicepresidencia y, Secretaria.
+Bueno yo le propongo a la Comisión que contabilicemos los votos y
+hasta tanto no llegue el Presidente no les damos posesión, ahí no
+vamos a incurrir en ningún acto de ley.
+Anunciamos las votaciones por parte de cada uno de los jurados de
+las votaciones de las postulaciones para Presidente, Vicepresidente y
+Secretario.</p>
+						</speech>
+						<speech by="#hr-víctor-correa-vélez" startTime="2014-07-30T10:39:20">
+							<from>H.R. Víctor Correa Vélez</from>
+							<p>Bueno anunciamos el resultado de la votación para, Presidente de la
+Comisión Sexta: Con 16 votos el doctor Alfredo Ape Cuello a favor y
+un voto en blanco.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2014-07-30T10:39:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Señor Presidente hay 17 votos de los cuales 16 fueron por la doctora
+Martha Villalba para Vicepresidente y un voto en blanco.</p>
+						</speech>
+						<speech by="#hr-inés-cecilia-lópez-flórez" startTime="2014-07-30T10:39:40">
+							<from>H.R. Inés Cecilia López Flórez</from>
+							<p>Señor Presidente hay quince (15) votos por Jair José Ebrat Díaz, uno
+(1) por Fernel Enrique Díaz Quintero y uno (1) en blanco.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:39:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno decretamos un receso mientras llega el Presidente para tomar
+las posesiones.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:40:00">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Le damos la bienvenida a nuestro Presidente el doctor Fabio Amín
+Sáleme y al doctor Jorge Humberto Mantilla, Secretario General de la
+Cámara de Representantes.
+Señor Secretario lea el segundo punto del orden del día por favor.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:40:10">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Señor Presidente para continuar con el orden del día, el segundo
+punto es: Instalación de la Comisión por parte del señor, Presidente de
+la Cámara de Representantes el doctor Fabio Amín Sáleme.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:40:20">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Tamayo en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jorge-eliecer-tamayo-marulanda" startTime="2014-07-30T10:40:30">
+							<from>H.R. Jorge Eliecer Tamayo Marulanda</from>
+							<p>Es que creo que falta dentro del proceso, es que nosotros
+suspendimos en un momento simplemente donde se anunciaron los
+resultados más no se declaro formalmente la elección de los
+dignatarios para efectos de posesionar por parte de su señoría que
+ejerce la Presidencia, igual para reiniciar la verificación del quórum
+reglamentario.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:40:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Tamayo primero vamos a darle continuidad al orden del día con
+la instalación de la Comisión por parte del Presidente y luego
+seguimos con la confirmación de la postulación y votación del
+Presidente, Vicepresidente y Secretario de Comisión.
+Dr. Fabio Amín Sáleme,, Presidente de la Honorable Cámara de
+Representantes:
+Muchas gracias señor Presidente, yo quiero iniciar dándole gracias a
+Dios por la oportunidad que hoy nos brinda y en nombre de la Mesa
+Directiva de la Cámara de Representantes, los dos Vicepresidentes
+que ya están en labores de sus respectivas comisiones, el doctor
+Efraín Torres y la doctora Sandra Ortiz, la Subsecretaria la doctora
+Yolanda Duque y el Secretario General el doctor Jorge Humberto
+Mantilla y el mío propio, agradecerles y reiterarles la gratitud que
+sentimos por el voto de confianza que nos brindaron todos el pasado
+20 de julio, reiterarles el compromiso de trabajar por nuestra
+Corporación, acuñamos una frase y la hemos venido compartiendo
+con todos.
+Yo quiero y sé que todos ustedes quieren que la gente quiera a su
+Congreso y con responsabilidad, con juicio vamos a sacar adelante las
+iniciativas legislativas de los Congresistas, las iniciativas legislativas
+del Gobierno que más convengan para que eso se refleje en mejorar
+la calidad de vida de todos los colombianos, queremos un Congreso
+lleno de glorias y para que ello sea así tiene que ser grande y tiene
+que ser útil.
+Pues compartía en la instalación del Congreso que la grandeza no es
+solo de la Corporación, sino también del comportamiento individual de
+cada uno de sus miembros y la utilidad en lo más sencillo de la
+palabra aprobar leyes que le beneficien al colombiano del común, al
+colombiano de a pie, para que eso se refleje en mejor calidad de vida,
+en eso estamos comprometidos y hoy placer inmenso con todos
+ustedes, venir hasta la Comisión Sexta Constitucional Permanente de
+conformidad al artículo 7ª. de la Ley 3º. declarar formalmente instalada
+la Comisión Constitucional, desearles éxitos, sé que es una Comisión
+que se ocupa de temas muy importantes, el mayor número de
+ministerios y de oficinas del Gobierno rinden cuentas a esta Comisión,
+la responsabilidad en los temas de transporte, la responsabilidad en
+los temas de educación, la responsabilidad de los temas de
+comunicaciones, la responsabilidad en los temas de cultura, el control
+político a los servicios públicos, a las superintendencias, todo eso es
+resorte de la Comisión Sexta y ver caras aquí de todos amigos nos
+compromete a que lo que salga de la Comisión y llegue a la Plenaria
+se debatirá con el mismo juicio y con el mismo sello que ustedes le
+impriman aquí en la Comisión Constitucional.
+Muchas gracias en nombre de todos nuestros compromisos, la
+disposición allí estamos para seguir tomando decisiones, les pido
+como lo he hecho en otras comisiones notificarme pronto las bancadas
+de los voceros, porque esperamos comenzar a agendar los temas del
+orden del día y sobre todo las fechas de los debates de control
+político, tenemos que tomar decisiones administrativas que van a
+cambiar la imagen de la Corporación ante la opinión pública en esos
+temas de ruido que tanto daño le hacen al Congreso de la República y
+en eso el concurso de todos los miembros de la Corporación.
+Muchas gracias, que Dios los bendiga, los ilumine, entiendo que ya se
+adelantaron las votaciones de las dignidades, no queda más que
+después de la formalidad de la instalación ratificar los resultados para
+que queden legalmente cumplidas las etapas, yo les reitero mi amistad
+y mi cariño y el compromiso desde la Presidencia de la Corporación,
+gracias a todos.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:40:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno muchas gracias Presidente por sus palabras, de verdad que le
+agradecemos su visita aquí a la Comisión y sabemos que sigue con la
+instalación de la otra Comisión que le falta, entonces le agrademos por
+estar aquí presente.
+Un saludo muy especial a la doctora Gloria Inés Raigoza, Directora
+Administrativa de la Cámara, bienvenida a nuestra Comisión doctora
+Gloria.
+Señor Secretario vuelva a leer las votaciones para ratificar por parte
+de la Comisión.</p>
+						</speech>
+						<speech by="#jaime-alberto-sepulveda-muñetón" startTime="2014-07-30T10:41:00">
+							<from>Jaime Alberto Sepulveda Muñetón</from>
+							<p>Señor Presidente antes de eso quisiera leer una carta que llego de la
+Comisión de Acreditación Documental para no omitir ese detalle.
+Bogotá 21 de julio de 2014
+Señores
+Mesa Directiva
+Comisión Sexta
+Cámara de Representantes
+Ciudad
+Ref: Remisión Acta No. 85, Acreditación
+Respetados señores:
+De acuerdo a la referencia me permito remitir a su despacho, copia del
+Acta No. 85 del 18 de julio de 2014, donde se acreditan las personas
+que aspiran a ocupar cargo del Secretario de Comisión Constitucional
+Permanente, Legal o Especial de esta Corporación.
+Lo anterior para fines pertinentes.
+Cordialmente,
+YOLVIS TABACO REYES.
+Secretario Ad-Hoc
+Comisión de Acreditación documental
+Esto para manifestarle que el doctor Jair Ebrat Díaz se encuentra
+acreditado para el cargo de Secretario.
+Procedo seguidamente señor Presidente a ratificar las votaciones que
+fueron leídas.
+Para Presidente el doctor Alfredo Ape Cuello Baute, hubo diecisiete
+(17) votos en total, el doctor Ape Cuello obtuvo dieciséis (16) y uno (1)
+en blanco.
+Para Vicepresidente la doctora Martha Patricia Villalba, fueron
+escrutados diecisiete (17) votos por la doctora Marta y un (1) voto en
+blanco.
+Para Secretario se escrutaron diecisiete (17) votos, quince (15) por el
+doctor Jair José Ebrat Díaz, uno (1) por el doctor Fernel Enrique Díaz
+Quintero y uno (1) en blanco.
+Por favor proceda a ratificar por parte de la Comisión estos resultados.</p>
+						</speech>
+						<speech by="#hr-wilmer-ramiro-carrillo-mendoza" startTime="2014-07-30T10:41:10">
+							<from>H.R. Wilmer Ramiro Carrillo Mendoza</from>
+							<p>Bueno pongo a consideración de la Comisión ratificar la votación
+anteriormente efectuada para las dignidades de Presidente,
+Vicepresidente y Secretario ¿las aprueban?</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñeton" startTime="2014-07-30T10:41:20">
+							<from>H.R. Jaime Alberto Sepúlveda Muñeton</from>
+							<p>Aprobadas señor Presidente en bloque los tres cargos.
+Proceda señor Presidente a tomarle posesión al señor Presidente
+designado, el juramento.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:41:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Dr. Alfredo Ape Cuello Baute invocando la protección de Dios, jura
+usted cumplir y desempeñar fielmente los deberes y responsabilidades
+como, Presidente de la Comisión Sexta Constitucional Permanente,
+sostener y defender la Constitución y las Leyes de la República.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:41:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Si lo juro.</p>
+						</speech>
+						<speech by="#hr-wilmer-ramiro-carrillo-mendoza" startTime="2014-07-30T10:41:50">
+							<from>H.R. Wilmer Ramiro Carrillo Mendoza</from>
+							<p>Si así lo hicieres que Dios y la patria os lo premien, sino que él y ella
+os lo demanden.
+Bueno felicitemos con un fuerte aplauso al dr. Ape por su posesión
+aquí como, Presidente de la Comisión.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:42:00">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno llamamos aquí en frente a la Dra. Martha Villalba para que
+tome posesión y se juramente.
+H.R. Martha Patricia Villalba Hodwalker invocando la protección de
+Dios, jura usted cumplir y desempeñar fielmente los deberes y
+responsabilidades como, Presidente de la Comisión Sexta
+Constitucional Permanente, sostener y defender la Constitución y las
+Leyes de la República.
+Vicepresidente encargada Martha Patricia Villalba Hodwalker:
+Si lo juro.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:42:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Si así lo hicieres que Dios y la patria os lo premien sino que él y ella os
+lo demanden.
+Queda usted oficialmente y legalmente posesionada como
+Vicepresidente de esta Comisión.
+Señor Secretario tengo entendido que el Secretario toma Posesión
+hoy.
+Secretario electo Jair José Ebratt Díaz:
+Si señor Presidente como quiera que en estos momentos estoy
+ocupando un cargo aquí en la Comisión Tercera de la Cámara como
+Subsecretario, me corresponde hacer un trámite administrativo, por lo
+tanto muy respetuosamente le solicito aplazar la posesión hasta que
+haga ese trámite que es pertinente, para la siguiente sesión.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:42:20">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Queda entonces aplazada hasta la próxima semana la posesión del
+Secretario que ya fue legalmente electo por esta Comisión.
+Siguiente punto del orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñeton" startTime="2014-07-30T10:42:30">
+							<from>H.R. Jaime Alberto Sepúlveda Muñeton</from>
+							<p>Presidente siguiente punto del orden del día número cuatro (4), lo que
+propongan los Honorables Representantes.
+Tenemos varias proposiciones de control político Presidente ya
+radicadas en la, Secretaria, procedo si quiere a dar lectura al
+encabezado de ellos para su respectiva aprobación.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:42:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Antes de eso tiene la palabra el H.R. Atilano Alonso Giraldo Arboleda.</p>
+						</speech>
+						<speech by="#hr-atilano-alonso-giraldo-arboleda" startTime="2014-07-30T10:42:50">
+							<from>H.R. Atilano Alonso Giraldo Arboleda</from>
+							<p>Gracias señor Presidente, sería injusto, ilógico no darle unos
+agradecimientos muy especiales a una persona que nos ayudo en
+cuatro años que termino el 20 de julio, hace cuatro años postule al dr.
+Fernel Enrique Díaz Quintero como Secretario de esta Comisión y
+afortunadamente hoy tengo la tranquilidad que lo hizo muy bien, dr.
+Fernel es la política, son los cambios, hoy le corresponde dejar la
+Secretaria, pero si quiero darle ante mis colegas el reconocimiento por
+esa ayuda que nos dio a los dieciocho (18) Congresistas en estos
+cuatro (4) años, bien lo decía ahora mi colega Diego Patiño que quien
+ejerce como Secretario debe ser una persona con mucha experiencia
+porque es el apoyo de nosotros, es la persona que se vuelve la
+consultora digámoslo así, a quien nosotros le podemos consultar
+muchas dudas y nos ayudó bastante, dr. Fernel tenga la seguridad y la
+tranquilidad que no solo en estos cuatro años porque usted lleva
+muchos años en este Congreso de la República que lo hizo con lujo de
+detalles puede estar tranquilo y le deseo la mejor de la suerte de aquí
+en lo que sigue de su vida como profesional, mil y mil gracias dr.
+Fernel verdad por todo ese trabajo.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:43:00">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra el H.R. Ciro Antonio Rodríguez Pinzón.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2014-07-30T10:43:10">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Gracias señor Presidente, en el mismo sentido Presidente aprovechar
+estos minutos para agradecerle al dr. Fernel Díaz quien he tenido la
+oportunidad de estar en dos periodos acá en la Comisión Sexta y el
+nos ha acompañado como Secretario y esta Comisión tiene una
+característica especial que está conformada por dieciocho (18)
+Congresista entonces siempre el Secretario General hace de
+diecinueve (19) es el que define cuando hay situaciones que no hay un
+consenso general y el dr. Fernel lo hizo muy bien, nos acompaño en
+ese proceso de gestión y de conducción de todos los temas tanto
+jurídicos como de gestión parlamentaria, por eso a usted dr. Fernel
+muchas gracias por esa acompañamiento; y de la misma forma al dr.
+Jaime Sepúlveda que también tengo entendido que se nos va de la
+Comisión, como Subsecretario darle las gracias por ese trabajo que
+hiciera usted acá como Subsecretario.
+Presidente yo no quiero dejar pasar estos minutos para dejar una
+constancia y de la misma forma hacer un llamado por unos hechos de
+orden público que sucedieron ayer en el municipio de Ocaña, llamar
+tanto a las autoridades nacionales, departamentales y municipales a
+que se tenga un mayor control sobre el orden público, ayer hubo un
+muerto, más de ocho (8) vehículos incinerados, un centenar de motos
+quemadas y esto tiene al municipio de Ocaña en una alteración que le
+pido al Gobierno Nacional que actué principalmente al ministerio del
+Interior y al ministerio de Justicia que nos acompañen en restablecer
+esta situación en el municipio de Ocaña.
+Pero de la misma forma a quienes realizan estos actos y buscan a
+través de actos, de hechos solucionar la problemáticas, decirle que en
+nuestro país hay un estado social de derecho, hay un estado
+constitucional, que existen las autoridades y cuando veamos nosotros
+que se nos esté atentando contra estos derechos acudamos hacia los
+organismos institucionales, hacia los órganos judiciales; y de la forma
+de los órganos administrativos de cada localidad y de esta forma
+poder construir y solucionar los grandes problemas que tiene nuestro
+país, solidarizarme con las familias que fueron afectadas en el día de
+ayer y esperamos nosotros una mayor presencia tanto del Gobierno
+Nacional y departamental en la solución de los grandes problemas que
+tiene nuestra región especialmente la provincia de Ocaña y la región
+del Catatumbo.
+Muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:43:20">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Secretario haga copia de esa constancia a los miembros de la fuerza
+pública, a las autoridades de Ocaña y Norte de Santander, al señor
+ministro de Gobierno.
+Tiene la palabra el H.R. Carlos Alberto Cuero Valencia.</p>
+						</speech>
+						<speech by="#hr-carlos-alberto-cuero-valencia" startTime="2014-07-30T10:43:30">
+							<from>H.R. Carlos Alberto Cuero Valencia</from>
+							<p>Gracias Presidente, buenos días, la problemática del municipio de
+Buenaventura, Buenaventura es una vergüenza nacional porque por
+ahí pasa el sesenta por ciento (60%) de la exportación de Colombia y
+es víctima reiteradamente de los ataques terroristas, ya lleva
+veinticuatro (24) horas sin energía por un atentado a la infraestructura
+eléctrica, más de cuatrocientos cincuenta mil (450.000) bonaverenses
+en el Valle del Cauca, el Estado colombiano debería tener un plan real
+y estratégico para Buenaventura, Buenaventura le da mucho al
+Gobierno Nacional pero recibe muy poco y el origen de tanta violencia
+también es la miseria y la pobreza en la que viven nuestros amigos
+bonaverenses, hago un llamado al Gobierno Nacional para un plan
+estratégico para Buenaventura lo necesita de carácter urgente.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:43:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene el uso de la palabra el H.R. Hugo Hernán González Medina.</p>
+						</speech>
+						<speech by="#hr-hugo-hernán-gonzález-medina" startTime="2014-07-30T10:43:50">
+							<from>H.R. Hugo Hernán González Medina</from>
+							<p>Muy buenas tardes ya para todos, primero me presento, soy Hugo
+Hernán González Medina del departamento de Caldas y de la bancada
+del Centro Democrático, soy de una población pequeña, de la
+pequeña provincia un pueblo cafetero del oriento del departamento de
+nombre Marquetalia.
+Quiero felicitarlo señor Presidente, Vicepresidente, Secretario,
+desearles a todos ustedes colegas muchos éxitos en este ejercicio
+Dios nos acompañe.
+Mi intención desde que aspire al Congreso siempre fue la que expresó
+hoy el Presidente Fabio Amín, que el pueblo colombiano quiera su
+Congreso y es en ese sentido que quiero con ustedes camaradería,
+cooperación, que se que la vamos a tener.
+De manera particular el Centro Democrático le interesa en esta
+Comisión sacar adelante una iniciativa en educación, es al fin de
+cuentas la misma idea de Oscar Iván Zuluaga, de Juan Manuel
+Santos, de todos, procurar que la jornada escolar completa se
+implemente, que le llegue su momento, desde luego que tendrá que
+ser de manera transicional, gradual, pero queremos desde aquí
+contribuir a eso, a que nuestros niños desde la primera infancia,
+nuestros adolecentes accedan a un sistema educativo que les de mas
+horas de formación, con doble alimentación, con doble titulación, en
+condiciones de mejor calidad.
+De manera particular Caldas tiene un interés también en el tema de
+las autopistas en el tema de infraestructura de revisar la situación de la
+vía Manizales- Bogotá y si sí es lo más apropiado para el
+departamento, para el país, para una mayor competitividad gracias a
+que se favorezca la comunicación desde Venezuela hacia el Pacifico.
+Esos dos temas pues espero de ustedes consideración, cooperación
+para que también los intereses de mi región se vean representados
+aquí en esta Comisión Sexta, les repito mis deseo de éxito en esta
+labor y sobre todo ustedes felicitaciones, muchos éxitos señores de la
+Mesa Directiva.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:44:00">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Muchas gracias Representante y esperamos pues la proposición para
+poder debatir aquí esos importantes temas, quería antes dar la palabra
+no se si se fue nuestro Vicepresidente Efraín Torres, bienvenido a la
+Comisión Vicepresidente queremos escuchar aquí su saludo, muchas
+gracias por acompañarnos.
+H.R. Efraín Torres, Vicepresidente de la H. Cámara de
+Representantes:
+Presidente muchas Gracias, de verdad por recibirme en el seno de su
+Comisión, en el seno también de la Dra. Martha Villalba felicitarlos a
+ustedes como nuevos miembros de la Mesa Directiva, también saludar
+a todos los miembros Representantes a la Cámara que conforman la
+Comisión Sexta, de verdad felicitarlos y desearles los mejores éxitos,
+que Dios los llene de sabiduría para afrontar las futuras leyes que por
+aquí tramiten, el único fin dejar una buena imagen del Congreso de la
+República y sacar estos proyectos con el fin de beneficiar a todos los
+colombianos, también quiero darle un saludo cordial a todos los
+integrantes, ayudantes de la Comisión Sexta y pedirles disculpas por
+no haber podido pasar por aquí para poder instalar la Comisión ya que
+me encontraba en mi Comisión Segunda votando por la Mesa
+Directiva y por el Secretario, muchas gracias a ustedes, en Efraín
+Torres como Vicepresidente y como compañeros Representantes a la
+Cámara tienen un amigo.
+Muchas Gracias.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:44:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Muchas gracias señor Vicepresidente, tiene la palabra el
+Representante Carlos Eduardo Guevara Villabon.</p>
+						</speech>
+						<speech by="#hr-carlos-eduardo-guevara-villabon" startTime="2014-07-30T10:44:20">
+							<from>H.R. Carlos Eduardo Guevara Villabon</from>
+							<p>Mil gracias Presidente, también dar un saludo a la Mesa Directiva que
+hoy esta Comisión eligió, desearles los mayores éxitos en la gestión
+que conjuntamente vamos a adelantar aquí en la Comisión Sexta,
+también saludar a mis compañeros.
+Presidente quisiera señalar lo siguiente, he presentado una
+proposición para citar al ministro de Trasporte, invitar al alcalde Mayor
+de Bogotá D.C. al dr. Gustavo Petro y al gerente de Transmilenio para
+prácticamente iniciar el control político con relación a los proyectos de
+infraestructura que tiene el Gobierno Nacional cofinanciados con el
+Distrito Capital que parece que estuvieran prácticamente frenados,
+señor Presidente he radicado esa proposición para que sea sometida
+a consideración y también invitarlo para que conjuntamente realicemos
+toda una agenda para empezar ya un proceso de estudio de lo que se
+ha denominado la reforma a la educación, que podamos traer a los
+estudiantes, podamos traer a los rectores, podamos tener en concurso
+de todas la comunidad estudiantil para empezar ya a llenar lo que se
+ha denominado una reforma integral al sistema educativo del país, y
+señalar Presidente que esta bancada, que es una bancada minoritaria
+tiene la plena certeza de que de su parte y de la Mesa Directiva pues
+tendrá las garantías, tendrá los espacios para poder adelantar el
+control político, las posturas, en fin las posiciones que nuestra
+bancada representada aquí en esta Comisión por mi pues va a realizar
+sobre los diferentes temas de interés del país.
+Gracias Presidente y los mejores éxitos en su labor.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:44:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra la H.R. Inés Cecilia López Flórez.</p>
+						</speech>
+						<speech by="#hr-inés-cecilia-lópez-flórez" startTime="2014-07-30T10:44:40">
+							<from>H.R. Inés Cecilia López Flórez</from>
+							<p>Señor Presidente felicitaciones primero a la Mesa Directiva, quiero
+decirles que estoy complacida de que una mujer con la calidades y las
+cualidades de Martha haya llegado ahí, hoy quiero hablar de un tema
+que en la costa Caribe nos golpea todos los días, sobre todo a las
+personas que menos recursos tiene y son los servicios públicos, las
+empresas prestadoras de servicios públicos en la costa Caribe son un
+monopolio que no hace otra cosa sino empobrecer a la clase menos
+favorecida, esa clase que hoy me puso aquí, estoy de acuerdo con el
+compañero en que este Congreso debe tener otra visión y otra misión,
+debemos ser respetados porque hoy es de las instituciones que
+menos se respeta en el país, por eso pienso que hay que hacer un
+gran control político y ya lo estoy preparando a las empresas
+prestadoras de servicios en la costa Caribe.
+Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:44:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Bueno muy bien vamos a leer las proposiciones entonces, antes tiene
+la palabra el Representante Wilmer Ramiro Carrillo Mendoza.</p>
+						</speech>
+						<speech by="#hr-wilmer-ramiro-carrillo-mendoza" startTime="2014-07-30T10:45:00">
+							<from>H.R. Wilmer Ramiro Carrillo Mendoza</from>
+							<p>Gracias Presidente he pedido la palabra primero que todo para
+saludarlos, felicitarlo a usted Presidente, a mi compañera de bancada
+Martha Villalba y sumarme también a las palabras del dr. Ciro Antonio
+Rodríguez, como norte santandereano que soy sobre la vigilancia que
+hay que tener especial cuidado en el corredor vial Cúcuta - Astilleros -
+Sardinata - Alto del Pozo - Ocaña donde necesitamos que la fuerza
+pública mantenga ese control ese corredor vial en Norte de Santander
+ha sido un corredor vial que ha sido azotado por los grupos al margen
+de la ley.
+Igualmente quiero dejar una constancia de la inconformidad de los
+norte santandereanos por los trabajos y las adecuaciones
+arquitectónicas del aeropuerto internacional Camilo Daza en mi
+departamento, la comunidad de Cúcuta se encuentra muy insatisfecha
+por las adecuaciones porque no corresponden al clima, no
+corresponde al diseño arquitectónico ni la correspondencia en todo el
+tema de los diseños de ingeniería, entonces señor Presidente para
+más adelante citar al, director de la Aeronáutica para que nos explique
+sobre los avances y el no cumplimiento de la ejecución de ese
+contrato de obra en la ciudad de Cúcuta.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:45:10">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>H.R. Wilmer Ramiro Carrillo Mendoza quería también agradecerle su
+exitosa y oportuno liderazgo hoy de la Comisión mientras elegíamos la
+nueva Mesa Directiva, va a ser muy pronto también un magnifico
+Presidente aquí de esta Comisión.
+Quería contarle que tan pronto se lean las proposiciones voy a
+presentar una que quería que me acompañara suscribiéndola para
+hacer un debate a la concesión de aeropuertos de oriente quien tiene
+aparte de Cúcuta también el aeropuerto de Valledupar entre otros,
+Bucaramanga, Riohacha, Santa Marta el mismo problema que usted
+expone, allá lo tenemos nosotros en Valledupar y ya se la llevo para
+que la suscribamos conjuntamente y programemos ese debate.
+Tiene la palabra el Representante Víctor Javier Correa Vélez.</p>
+						</speech>
+						<speech by="#hr-víctor-javier-correa-vélez" startTime="2014-07-30T10:45:20">
+							<from>H.R. Víctor Javier Correa Vélez</from>
+							<p>Bueno es importante en esta primera sesión ir perfilando cuales serán
+los grandes debates que tendremos durante estos cuatro años de
+trabajo y hay uno que es inmediato, la semana entrante planean
+presentar la política pública de educación superior el CESU, aquella
+que estuvo construyendo en una serie de actividades regionales y
+también pues dentro de esta presentación tendrá que tener cabida la
+voz de los sectores que han manifestado también propuestas
+alternativas, si ustedes bien recuerdan durante el año 2011 los
+estudiantes de las universidades públicas del país, universidades
+privadas, instituciones técnicas y tecnológicas nos alzamos en una
+gran movilización social en contra de una propuesta de reforma a la
+Ley 30 y ahí esa gran protesta nacional que se vivió con gran
+intensidad tanto en las capitales principales como en los municipios y
+ciudades de orden menor, tenía como objetivo no solo tumbar esa
+propuesta de reforma a la Ley 30 sino posicionar un modelo o una ley
+diferente de educación superior, porque tampoco era la Ley 30, una
+Ley que desfinancio la educación del país, una ley que si bien
+introdujo algunos elementos de autonomía también la violento a través
+de la conformación de esos consejos superiores universitarios, una ley
+que no hizo una adecuada articulación del sistema, que dejo
+abandonada la formación técnica y tecnológica como un elemento
+fundamental para el crecimiento del país, una buena educación
+técnica y tecnológica que favoreció a la apertura de una gran cantidad
+de instituciones de garaje, una ley que desconecto a la universidad de
+los problemas reales de la sociedad, una ley que también tiene que
+ser transformada. Producto de esas movilizaciones el señor
+Presidente de la República decidió retirar el proyecto de reforma a la
+Ley 30 y desde la Mesa Amplia Nacional Estudiantil empezamos un
+proceso de construcción de una propuesta alternativa, este proceso de
+construcción arrojo unos insumos técnicos y académicos muy bonitos
+porque se hizo de una manera muy amplia, en todo el país estuvimos
+recorriendo las distintas universidades, las distintas instituciones, se
+conformaron las comisiones técnicas de estudiantes, profesores,
+trabajadores universitarios que aportaron insumos muy valiosos en las
+discusiones nacionales, se realizaron una serie de foros regionales
+con la participación del Gobierno Nacional donde se pudo debatir
+alrededor de las visiones que se tenían desde el Gobierno y desde los
+sectores sociales sobre la educación en el país.
+El Gobierno inicio un proceso de construcción a través del CESU, ese
+proceso de construcción arroja hoy una política pública que tendremos
+que estudiar de manera juiciosa sin desconocer entonces también el
+proceso y el esfuerzo que hemos hecho los estudiantes colombianos
+para presentarle al país lo que es nuestra visión de la educación para
+el país que soñamos. Porque si algo tenia la MANE era un lema muy
+bonito y él decía: “dime qué país te sueñas y te diré que educación
+necesitas”, y el país la educación que tenemos hoy es una educación
+para un país de economía primaria, es una educación para un país de
+mano de obra barata, es una educación para un país en guerra, es
+una educación para un país que no es democrático, es una educación
+para país al servicio de intereses foráneos extranjeros y no hacia la
+construcción de una Colombia soberana, desarrollada, autónoma,
+libre, rica, prospera y equitativa.
+Muchas Gracias.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:45:30">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra nuestra Vicepresidente H.R Martha Patricia Villalba
+Hodwalker.
+H.R Martha Patricia Villalba Hodwalker:
+Gracias señor Presidente, antes que nada primero darle gracias a Dios
+por esta oportunidad maravillosa, primero de representarlos a ustedes
+en la Mesa Directiva, pero también de contar con el apoyo
+incondicional durante todo este periodo de cuatro años que vamos a
+permanecer en esta Comisión hombres y mujeres de distintas
+regiones del país que sin lugar a dudas vamos a dejar una hulla
+importante, porque creo que hoy todos vinimos aquí con una
+convicción enorme y es de trabajar por nuestra región y sobre todo por
+nuestro país.
+Hay una situación y tomando apuntes de quienes han antecedido en el
+uso de la palabra quiero manifestar que efectivamente nosotros
+tenemos que buscar la alternativa de que nuestras regiones y sobre
+todo el país avancen, la situación del pacifico colombiano, la situación
+de la costa Caribe colombiana son situaciones muy similares e iguales
+a las del sur de nuestro país donde se encuentran afincadas las
+personas más pobres de Colombia, donde el subdesarrollo aun nos
+atropella, estamos avanzando, hemos avanzado sin lugar a dudas no
+lo podemos negar, pero creo que hoy la región y sobre todo lo que
+Colombia significa para Suramérica, lo que significa en el desarrollo y
+lo que viene para nuestro país es avanzar, avanzar y hoy miramos con
+mucha preocupación lo decía el Honorable Representante Wilmer
+Ramiro Carrillo Mendoza y lo decía usted señor Presidente en donde
+miraba con preocupación la situación de los aeropuertos de sus
+regiones, nosotros en el Atlántico miramos con preocupación lo que
+ocurre recientemente, fuimos noticia cuando un ave golpea una
+aeronave que estaba para despegar, yo creo que aquí hay que tomar
+y mirar con muchísimo cuidado lo que está ocurriendo en los distintos
+aeropuertos de nuestro país, yo creo que el transporte aéreo requiere
+la revisión especifica de nosotros como miembros de esta Comisión
+del Congreso de la República y especialmente de las autoridades
+respectivas, hago un llamado, me huno a lo que hoy han manifestado
+usted señor Presidente e igualmente Wilmer Ramiro Carrillo Mendoza
+y creo que tenemos que revisar con lupa y sobre todo de manera muy
+seria y responsable lo que está ocurriendo hoy en los aeropuertos del
+país y sobre todo porque son supremamente indispensables para el
+trasporte de las personas y sobre todo también para el desarrollo
+económico de nuestras regiones.
+Quiero anotar hoy también se genera en el aeropuerto internacional
+Ernesto Cortissoz la apertura de un proceso licitatorio para el manejo
+durante un tiempo prudente y creo que es importante que
+comencemos analizar todas estas concesiones que hoy se han
+generado en el país y sobre todo en el tema de la aviación en
+Colombia.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:45:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Tiene la palabra nuestra Vicepresidente Honorable Representante Ana
+María Rincón Herrera.
+H.R Ana María Rincón Herrera:
+Señor Presidente quiero inicialmente saludar a la Mesa Directiva, a
+usted felicitarlo, a mi compañera Martha Villalba, a todos mis amigos
+Representantes, a todos los de esta Comisión decirles que realmente
+necesitamos trabajar duro por las vías de nuestro país, especialmente
+por el departamento del Huila, porque tenemos problemas en las vías
+hacia el sur por el Trasporte de crudo hay un alto índice de
+accidentalidad y yo pienso que es un tema que debemos debatir y
+pues sacar adelante en esta Comisión. También quiero una apoyo en
+el proyecto de ley de la cultura para ayudar a los artistas para que
+tengan una mejor calidad de vida y que tengan acceso a vivienda,
+créditos y alguna pensión en su vejez.
+Muchas gracias.
+Vicepresidente Martha Patricia Villalba Hodwalker:
+Tiene la palabra señor Presidenta Alfredo Ape Cuello Baute.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:45:50">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Gracias Presidenta, bueno quería respecto al tema que había tratado
+usted y el Representante Carrillo como van a leer las proposiciones
+quería una en la que se cita al señor ministro de Trasporte, al, director
+de la Aeronáutica, al, director de la Agencia Nacional de Infraestructura
+y al, Contralor General de la República para que en debate de la
+Comisión Sexta sin que este sea por supuesto el primer debate
+dándole prioridad a los que se inscribieron primero se trate el tema de
+la concesión de aeropuertos de oriente, así como el sistema
+estratégico de trasporte de Valledupar, con cuestionario anexo a esta
+proposición y si me permite el Representante Carillo quería que los
+proponentes fueran Ape Cuello y Wilmer Carrillo.
+Vicepresidente Martha Patricia Villalba Hodwalker:
+Señor Presidente pues sigamos hay más intervenciones, procedamos
+a las lecturas de las proposiciones señor Secretario.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñeton" startTime="2014-07-30T10:46:00">
+							<from>H.R. Jaime Alberto Sepúlveda Muñeton</from>
+							<p>Bogotá D.C. 14 de julio 2014
+Doctor
+Fernel Enrique Díaz Quintero
+Secretario Comisión Sexta
+Cámara de Representantes
+Asunto: solicitud debate control político.
+De conformidad con el artículo 249 de la Ley 5° de 1992 solicito se
+sirva citar a la señora, ministra de Educación a debate de control
+político sobre el tema de las pruebas programadas internacionales
+para la evaluación de estudiantes- PISA pruebas y calidad de
+educación con transmisión en directo por señal institucional, anexo
+cuestionario que esta contenido de once (11) peguntas.
+Cordialmente Iván Darío Agudelo Zapata, Representante a la Cámara,
+departamento de Antioquia.
+Siguiente
+Asunto: solicitud debate control político de conformidad con el artículo
+249 de la ley 5° de 1992.
+Solicito se sirva citar a la señora, directora de Colciencias a debate de
+control político sobre el tema: “programa, resultados, eficiencia,
+eficacia y efectividad en el uso de los recursos apropiados por el
+Estado para ciencia, tecnología e innovación con trasmisión en directo
+por señal institucional. Anexo cuestionario, que contiene quince (15)
+preguntas.
+Cordialmente Iván Darío Agudelo Zapata Representante a la Cámara
+departamento de Antioquia.
+Siguiente proposición.
+Cítese al, director Nacional de la Unidad Nacional para la Gestión del
+Riesgo de Desastres dr. Carlos Iván Márquez para que en debate de
+control político en la Comisión Sexta de la Cámara de Representantes,
+sobre la gestión del riesgo en nuestro país responda las siguientes
+preguntas, el cuestionario consta de cuatro (4) preguntas.
+Firmado Representante Ciro Antonio Rodríguez Pinzón,
+Representante a la Cámara, Representante Jaime Felipe Losada,
+Representante Ape Cuello y Representante López.
+Siguiente proposición
+Cítese a debate de control político al ministro de las TIC´s dr. Diego
+Molano para que en debate de control político en la Comisión Sexta de
+la Cámara de Representantes sobre el servicio de acceso universal de
+los servicios de telecomunicaciones responda las siguientes
+preguntas, el cuestionario consta de cuatro (4) preguntas.
+Firmado Representante Ciro Antonio Rodríguez Pinzón Representante
+a la Cámara, Representante Jaime Felipe Losada, Representante Ape
+Cuello y la Representante Inés López.
+Siguiente Proposición.
+Comisión Sexta
+Cámara de Representantes
+Julio de 2014
+Cítese al señor ministro de Hacienda dr. Mauricio Cárdenas, a la
+señora, ministra de Trasporte Dra. Cecilia Álvarez Correa, a la señora
+directora de Planeación Nacional Dra. Tatiana Orozco de la Cruz con
+el fin de analizar y evaluar públicamente el avance del programa
+integral de movilidad para la región Capital Bogotá Cundinamarca y en
+especial las medidas implementadas por el Distrito Capital para dar
+solución a la problemática de movilidad que afronta la ciudad de
+Bogotá. De igual manera invítese al señor Alcalde de Bogotá dr.
+Gustavo Petro, al señor Gobernador de Cundinamarca dr. Álvaro Cruz
+Vargas, al Procurador General de la Nación dr. Alejandro Ordoñez y a
+la, Contralora General de la República Dra. Sandra Morelli. El
+cuestionario para el ministro de Hacienda consta de cinco (5)
+preguntas, así mismo de conformidad con lo establecido en el Compes
+3677 esa consta de cuatro (4) preguntas en total el cuestionario consta
+están por separado los cuestionario para el ministro de Hacienda
+consta de cinco (5) preguntas, luego tenemos otro cuestionario de 8
+preguntas para el alcalde me imagino, para el tema de movilidad de
+Bogotá son otras 19 preguntas. Firmado el Representante Carlos
+Eduardo Guevara, Representante a la Cámara, departamento de
+Cundinamarca.
+Someta a consideración los cuestionarios citados que son seis con las
+del Representante Ape Cuello, sométalas a consideración señor
+Presidente.
+Vicepresidente Martha Patricia Villalba Hodwalker:
+Bueno se somete a consideración las proposiciones, anuncio que se
+va cerrar ¿las aprueban?</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñeton" startTime="2014-07-30T10:46:10">
+							<from>H.R. Jaime Alberto Sepúlveda Muñeton</from>
+							<p>Aprobadas señora Presidenta.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:46:20">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Finalmente quería Secretario que nos rindiera un informe aquí a la
+Comisión antes de salir de qué proyectos están en tránsito para
+asignación de ponentes para conocimiento de los compañeros y
+también para que los que quieran hacer parte o ponentes o
+coordinadores ponentes de los distintos proyectos no lo hagan saber a
+la Mesa Directiva y proceder a su designación.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñeton" startTime="2014-07-30T10:46:30">
+							<from>H.R. Jaime Alberto Sepúlveda Muñeton</from>
+							<p>Tenemos cuatro proyectos pendientes de designación de ponentes
+para segundo debate son:
+Proyecto de ley No. 132 de 2013 “Por el cual se modifica el artículo 15
+de la Ley 1005 de 2006” cuya autora él la, ministra de Trasporte Cecilia
+Álvarez Correa Glen.
+Proyecto de ley No. 131 de 2013 “Por medio de la cual se adopta el
+sistema y el método para la fijación de las tarifas de las tasas por los
+servicios que presta el ministerio de Trasporte”, autora, ministra de
+Trasporte Cecilia Alvarez Correa Glen.
+Proyecto de ley No. 188 de 2014 “Por la Cual se establece las
+condiciones para la gratuidad de la educación superior para
+estudiantes con ingresos familiares inferiores a tres (3) salarios
+mínimos mensuales vigentes (smmlv) y se dictan otras disposiciones”.
+El autor fue el Representante Iván Darío Agudelo Zapata y se habían
+designado todos los 18 Integrantes de la Comisión en primera
+instancia.
+Proyecto de ley No. 066 de 2013 Cámara “Por la cual se modifica la
+Ley 142 de 1994 que establece el régimen de los servicios públicos
+domiciliarios y se dictan otras disposiciones”.
+Y acaban de llegar más de 10 proyectos que se están radicando en
+recepción de, Secretaria señor Presidente.</p>
+						</speech>
+						<speech by="#hr-alfredo-ape-cuello-baute" startTime="2014-07-30T10:46:40">
+							<from>H.R. Alfredo Ape Cuello Baute</from>
+							<p>Muy bien señor Secretario sino hay otra intervención vamos
+inicialmente a proceder con la Mesa Directiva de acuerdo a las
+intenciones de ustedes asignar ponentes a los proyectos que ya
+venían en tránsito y la otra semana revisamos los que van llegando a
+la Comisión, citamos para el próximo martes a las 09:00 a.m.
+felicitaciones a todos muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepúlveda-muñetón" startTime="2014-07-30T10:46:50">
+							<from>H.R. Jaime Alberto Sepúlveda Muñetón</from>
+							<p>Siendo las doce y quince minutos de la tarde (12:15) p.m. se da por
+terminado, se agotó el orden del día no hay más que considerar señor
+Presidente, se levanta la sesión y se cita para el día martes a las
+09:00 a.m. señor presidente.
+ALFREDO APE CUELLO BAUTE        MARTHA PATRICIA VILLALBA HODWALKER
+Presidente                           Vicepresidente
+JAIME ALBERTO SEPULVEDA MUÑETÓN
+Secretario</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

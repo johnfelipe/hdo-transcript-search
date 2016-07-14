@@ -1,0 +1,1041 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo-sastoque" id="hr-josé-edilberto-caicedo-sastoque" showAs="H.R. José Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hs" id="hs" showAs="H.S."/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-adriana-patricia-saavedra" id="dra-adriana-patricia-saavedra" showAs="Dra. Adriana Patricia Saavedra"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera-gutiérrez" id="hr-luís-guillermo-barrera-gutiérrez" showAs="H.R. Luís Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vasquez-villanueva" id="hr-silvio-vasquez-villanueva" showAs="H.R. Silvio Vasquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera-amado" id="hr-didier-tavera-amado" showAs="H.R. Didier Tavera Amado"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="4618-acta-77-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>Noviembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 77 / 2012-11-20</heading>
+						<speech by="" startTime="2012-11-20T11:10:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 077
+(Bogotá, D.C., 20 de noviembre de 2012)
+A las once y diez minutos de la mañana, (11:10 a.m.) el, Presidente de
+la Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, Honorable Representante SILVIO VASQUEZ
+VILLANUEVA, ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Pinto Hernández Miguel Angel
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Con excusa se encuentra el Honorable Representante:
+Patiño Amariles Diego</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:10:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente le informo que tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:10:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con quórum decisorio, sírvase señor Secretario leer el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:10:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2012 al 20 de junio de 2013
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hs">
+								1. La Comisión Sexta de la Cámara de Representantes y el país en general
+desea conocer el panorama actual del sector Turismo en Colombia, sus
+estadísticas, indicadores de medición, avances y resultados.
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								2. Solicitamos indicar dentro del Presupuesto General de la Nación ¿cuál ha sido la
+destinación de recursos para el sector turismo en las últimas cuatro vigencias y
+porcentaje de crecimiento del mismo?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								3. El turismo en Colombia es regulado con políticas que hacen parte del ministerio de
+Comercio, Industria y Turismo; ¿Cuáles son las políticas del actual gobierno
+encaminadas a incentivar el turismo interno en el país? ¿Con qué programas se
+cuentan para la activación de dichas políticas?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								4. ¿Qué proyectos de inversión desarrolla hoy el Ministerio destinados al
+crecimiento hotelero del país, al turismo religioso y turismo médico. Indicar
+el monto de las inversiones y el plazo de dicha inversión?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								5. Según reporte turístico se indica un crecimiento de turistas a nuestro país,
+¿Cuál es la procedencia de los turistas que llegan? ¿Qué estrategias se
+están aplicando para incentivar a Colombia como destino turístico en los
+países con menores porcentajes?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								6. ¿Se ha visto afectado el sector del turismo en Colombia debido a la
+percepción de inseguridad que puede sentirse en estos momentos y que
+pudiera impactar en el daño de imagen respecto al resto del mundo? ¿Qué
+programas realiza el gobierno para activar propuestas que proporcionen
+seguridad al viajero y visiten al país sin ningún temor?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								7. El turismo es uno de los sectores que más se beneficiará con el Tratado de
+Libre Comercio firmado con los Estados Unidos, ¿Qué medidas se están
+tomando para que el país asuma dicha implementación y se muestre
+competitivo frente al caso?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								8. El escándalo presentado en la pasada Cumbre de las Américas por los
+agentes del servicio secreto del presidente de los Estados Unidos deja al
+descubierto una problemática social que cada vez es más común en el país
+y a nivel mundial que es el Turismo Sexual, ¿Qué acciones adelanta el
+gobierno frente a esta situación?
+								<from>H.S.</from>
+							</question>
+							<question by="#hs">
+								9. El Eje Cafetero se ha convertido en uno de los símbolos del turismo en
+Colombia y a nivel internacional, ¿Cuáles son las diferentes campañas de
+mercadeo y publicidad para promocionar la oferta de la región?
+								<from>H.S.</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2012-11-20T11:10:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 20 de noviembre de 2012
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Ponencias para Primer Debate a los siguientes proyectos de ley:</p>
+						</speech>
+						<speech by="" startTime="2012-11-20T11:10:50">
+							<from>OTROS</from>
+							<p>1. Proyecto de Ley No. 115 de 2012 Cámara, “POR EL CUAL SE ADICIONA
+UN ARTICULO NUEVO (128 A) A LA LEY 769 DE 2002 - CODIGO DE
+TRÁNSITO Y TERRESTRE”.
+Autor: H.R. IVAN DARIO AGUDELO ZAPATA
+Ponente: H.R. IVAN DARIO AGUDELO ZAPATA Y LUIS GUILLERMO
+BARRERA G.
+Publicación: Gaceta P.L. No. 586-12 - P.P.D. Cámara Gaceta No. 706-12
+2. Proyecto de Ley No. 243-de 2012 Cámara, 147 de 2011 Senado acumulado
+con el P.L: 157/11,”POR MEDIO DE LA CUAL SE ESTABLECEN TARIFAS
+DIFERENCIALES EN EL SERVICIO PUBLICO DE TRANSPORTE MASIVO
+DE PASAJEROS DE ACUERDO A UN ENFOQUE SOCIAL.”
+Autor: HH.S. . JUAN MANUEL CORZO ROMAN Y EFRAIN
+CEPEDA SARABIA
+Ponente: H.R. DIEGO ALBERTO NARANJO ESCOBAR
+Publicación: Gaceta P.L. No. 767-11 - P.P.D. Cámara Gaceta No.729-12
+3. Proyecto de Ley 215 de 2012 Cámara - 74 de 2011 Senado, “POR MEDIO DE
+LA CUAL SE MODIFICA LA LEY 769 Y SE DICTAN OTRAS
+DISPOSICIONES.” (CODIGO NACIONAL DE TRANSITO)
+Autor: H.S. OLGA SUAREZ MIRA
+Ponentes: H.R. JOHN JAIRO ROLDAN AVENDAÑO
+Publicación: Gaceta P.L. 595-11 P.P.D. SENADO 702-11 - PSD SENADO
+93-12
+P.P.D. Cámara Gaceta No. 318-12
+Nota: Las ponencias de estos proyectos se encuentran siguiendo este Link:
+http://www.camara.gov.co/portal2011/informes-legislativos-comision-
+sexta
+Anuncio de Proyectos de Ley, de conformidad con el artículo 8º. Del Acto
+legislativo No. 01, del 3 de julio de 2003, los cuales se discutirán y votarán sus
+respectivas Ponencias para Primer Debate, en la próxima Sesión.
+Citación a Ministros y Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en
+concordancia con el artículo 249 y 233 de la Ley 5ª. de 1992.</p>
+						</speech>
+						<speech by="" startTime="2012-11-20T11:11:00">
+							<from>OTROS</from>
+							<p>A. PROPOSICION No. 027
+(Bogotá, D.C., 15 de agosto de 2012)
+Cítese a Debate de Control Político al señor ministro de Comercio, Industria y
+Turismo, doctor SERGIO DIAZ-GRANADOS GUIDA, “para que explique de
+manera detallada el panorama actual del Sector Turismo en Colombia”, y
+absuelva el siguiente cuestionario:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:11:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+
+Para la Sesión Ordinaria del día martes 20 de noviembre de 2012
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Ponencias para Primer Debate a los siguientes proyectos de ley:
+1. Proyecto de Ley No. 115 de 2012 Cámara, “POR EL CUAL SE ADICIONA
+UN ARTICULO NUEVO (128 A) A LA LEY 769 DE 2002 - CODIGO DE
+TRÁNSITO Y TERRESTRE”.
+Autor: H.R. IVAN DARIO AGUDELO ZAPATA
+Ponente: H.R. IVAN DARIO AGUDELO ZAPATA Y LUIS GUILLERMO
+BARRERA G.
+Publicación: Gaceta P.L. No. 586-12 - P.P.D. Cámara Gaceta No. 706-12
+2. Proyecto de Ley No. 243-de 2012 Cámara, 147 de 2011 Senado acumulado
+con el P.L: 157/11,”POR MEDIO DE LA CUAL SE ESTABLECEN TARIFAS
+DIFERENCIALES EN EL SERVICIO PUBLICO DE TRANSPORTE MASIVO
+DE PASAJEROS DE ACUERDO A UN ENFOQUE SOCIAL.”
+Autor: HH.S. . JUAN MANUEL CORZO ROMAN Y EFRAIN
+CEPEDA SARABIA
+Ponente: H.R. DIEGO ALBERTO NARANJO ESCOBAR
+Publicación: Gaceta P.L. No. 767-11 - P.P.D. Cámara Gaceta No.729-12
+3. Proyecto de Ley 215 de 2012 Cámara - 74 de 2011 Senado, “POR MEDIO DE
+LA CUAL SE MODIFICA LA LEY 769 Y SE DICTAN OTRAS
+DISPOSICIONES.” (CODIGO NACIONAL DE TRANSITO)
+Autor: H.S. OLGA SUAREZ MIRA
+Ponentes: H.R. JOHN JAIRO ROLDAN AVENDAÑO
+Publicación: Gaceta P.L. 595-11 P.P.D. SENADO 702-11 - PSD SENADO
+93-12
+P.P.D. Cámara Gaceta No. 318-12
+Nota: Las ponencias de estos proyectos se encuentran siguiendo este Link:
+http://www.camara.gov.co/portal2011/informes-legislativos-comision-
+sexta
+III.
+Anuncio de Proyectos de Ley, de conformidad con el artículo 8º. Del Acto
+legislativo No. 01, del 3 de julio de 2003, los cuales se discutirán y votarán sus
+respectivas Ponencias para Primer Debate, en la próxima Sesión.
+IV.
+Citación a Ministros y Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en
+concordancia con el artículo 249 y 233 de la Ley 5ª. de 1992.
+A. PROPOSICION No. 027
+(Bogotá, D.C., 15 de agosto de 2012)
+Cítese a Debate de Control Político al señor ministro de Comercio, Industria y
+Turismo, doctor SERGIO DIAZ-GRANADOS GUIDA, “para que explique de
+manera detallada el panorama actual del Sector Turismo en Colombia”, y
+absuelva el siguiente cuestionario:
+1. La Comisión Sexta de la Cámara de Representantes y el país en general
+desea conocer el panorama actual del sector Turismo en Colombia, sus
+estadísticas, indicadores de medición, avances y resultados.
+2. Solicitamos indicar dentro del Presupuesto General de la Nación ¿cuál ha sido la
+destinación de recursos para el sector turismo en las últimas cuatro vigencias y
+porcentaje de crecimiento del mismo?
+3. El turismo en Colombia es regulado con políticas que hacen parte del ministerio de
+Comercio, Industria y Turismo; ¿Cuáles son las políticas del actual gobierno
+encaminadas a incentivar el turismo interno en el país? ¿Con qué programas se
+cuentan para la activación de dichas políticas?
+4. ¿Qué proyectos de inversión desarrolla hoy el Ministerio destinados al
+crecimiento hotelero del país, al turismo religioso y turismo médico. Indicar
+el monto de las inversiones y el plazo de dicha inversión?
+5. Según reporte turístico se indica un crecimiento de turistas a nuestro país,
+¿Cuál es la procedencia de los turistas que llegan? ¿Qué estrategias se
+están aplicando para incentivar a Colombia como destino turístico en los
+países con menores porcentajes?
+6. ¿Se ha visto afectado el sector del turismo en Colombia debido a la
+percepción de inseguridad que puede sentirse en estos momentos y que
+pudiera impactar en el daño de imagen respecto al resto del mundo? ¿Qué
+programas realiza el gobierno para activar propuestas que proporcionen
+seguridad al viajero y visiten al país sin ningún temor?
+7. El turismo es uno de los sectores que más se beneficiará con el Tratado de
+Libre Comercio firmado con los Estados Unidos, ¿Qué medidas se están
+tomando para que el país asuma dicha implementación y se muestre
+competitivo frente al caso?
+8. El escándalo presentado en la pasada Cumbre de las Américas por los
+agentes del servicio secreto del presidente de los Estados Unidos deja al
+descubierto una problemática social que cada vez es más común en el país
+y a nivel mundial que es el Turismo Sexual, ¿Qué acciones adelanta el
+gobierno frente a esta situación?
+9. El Eje Cafetero se ha convertido en uno de los símbolos del turismo en
+Colombia y a nivel internacional, ¿Cuáles son las diferentes campañas de
+mercadeo y publicidad para promocionar la oferta de la región?
+Presentada por: H.S. .RR. JUANA CAROLINA LONDOÑO JARAMILLO
+CIRO ANTONIO RODRIGUEZ PINZON
+B. PROPOSICION No. 030-12
+(Bogotá. D.C., 15 de agosto de 2012)
+Cítese, al ministro de Comerció, Industria y Turismo, doctor SERGIO DIAZ
+GRANADOS GUIDA, al señor, viceministro de Comercio, Industria y Turismo,
+doctor OSCAR RUEDA GARCIA, a la, directora del Fondo Nacional de Turismo,</p>
+						</speech>
+						<speech by="#dra-adriana-patricia-saavedra" startTime="2012-11-20T11:11:20">
+							<from>Dra. Adriana Patricia Saavedra</from>
+							<p>“El manejo y distribución
+de los recursos en el Sector del Turismo, el presupuesto del Fondo
+Nacional de Turismo, así como los planes para fortalecer y mejorar la
+competitividad del sector, con el fin de incrementar el turismo receptivo
+en desarrollo del Tratado del Libre Comercio con Estados Unidos”, y
+absuelvan los siguientes cuestionarios:
+MINISTRO Y VICE MINISTRO DE COMERCIO, INDUSTRIA Y TURISMO
+Doctores: SERGIO DÍAZGRANADOS GUIDA y OSCAR RUEDA GARCIA
+1. ¿Exprese porqué razón el turismo es considerado como el tercer generador
+de divisas para el país?
+2. Sírvase relacionar las entidades con las cuales se tienen convenios de
+cooperación internacional, indicando nombre, tipo de convenio y objetivos?
+3. ¿Cuántos y cuáles acuerdos de inversión tiene suscritos Colombia? Por
+favor detallar cada uno de los sectores a su cargo.
+4. ¿Qué alianzas con el sector público y privado tiene el Ministerio a su cargo
+para fortalecer el sector Turístico? Indicar el nombre de las entidades
+aliadas, el valor, clase y objetivo de cada una de ellas.
+5. ¿Explique en qué consiste el Acuerdo de Promoción Comercial con los
+Estados Unidos y como se está ejecutando?
+6. ¿Qué acciones de promoción y mercadeo, orientadas al fortalecimiento de
+la demanda turística, se han implementado después de la entrada en
+vigencia del TLC con USA? Indicar valor de los contratos, contratista,
+objetivo y etapa de ejecución
+7. ¿Qué proyectos de Infraestructura Turística se tienen programados y
+cuáles se encuentran en ejecución? Indicar el valor y el tiempo de
+ejecución.
+8. Explique ¿cuáles son los requisitos y el procedimiento que se debe realizar
+para la presentación y aprobación de proyectos para fomentar la
+promoción, mercadeo y competitividad del sector turístico de las regiones?
+9. ¿Cuántas y cuales iniciativas regionales para fomentar el turismo están
+radicadas en su ministerio? Indicar: Nombre del ente territorial, valor del
+proyecto, objetivo y estado de la iniciativa.
+10. Indicar el presupuesto por sectores asignado al Ministerio a su cargo para
+la vigencia 2012.
+11. ¿De acuerdo al presupuesto nacional asignado, indicar cuánto dinero está
+destinado para la promoción, mercadeo y competitividad del sector
+turístico?
+12. ¿Sírvase relacionar el número de contratos, con su respectivo valor y
+objetivo, suscritos por su entidad para promocionar a Colombia como
+destino turístico en el exterior?
+13. ¿Indicar cuantos programas y planes tiene su Ministerio para el desarrollo
+e impulso del Turismo en nuestro País?
+14. A lo anterior discrimine el valor de inversión de cada uno de los programas
+de desarrollo turístico en todas sus modalidades
+15. ¿Indique cuántos productos turísticos binacionales tiene el País?
+16. ¿Indique cuánto ha sido el monto por recaudo del impuesto al turismo en
+los últimos 3 años?
+17. ¿Indique cuánto ha sido el monto por recaudo de contribución parafiscal en
+los últimos 3 años para el Ministerio a su cargo?
+18. ¿En qué etapa se encuentra la actualización del CONPES 3397 de 2005?
+19. ¿Cómo se está realizando la elaboración de reglamentos técnicos para
+actividades de turismo de aventura?
+20. ¿En qué etapa se encuentra el diseño del sistema de información turística.
+Indicar valor, objetivo y proyección?
+DIRECTORA DEL FONDO NACIONAL DE TURISMO
+Doctora. ADRIANA PATRICIA SAAVEDRA
+1. ¿Cuáles son los sectores aportantes de la contribución parafiscal para el
+sector turismo?
+2. Enumere cada uno de los establecimientos aportantes de la contribución
+parafiscal durante la vigencia 2011-2012.
+3. Indique cuánto ha sido el monto por recaudo de contribución parafiscal en
+los últimos 3 años para el sector turismo.
+4. Describa de manera detallada y por sectores el valor del recaudo generado
+durante el año 2011 y lo que va de 2012 por contribución Parafiscal.
+5. Describa cuál es el procedimiento que se debe seguir para acceder a la
+financiación de proyectos en el sector turístico.
+6. Puntualice de manera detallada ¿cuáles y cuántos proyectos de promoción,
+mercadeo y competitividad está ejecutando el Fondo?
+7. Indicar el valor de los recursos asignados a proyectos aprobados en los
+últimos 3 años.
+Presentado por: H.R. DIDIER TAVERA AMADO
+V.
+Lo que propongan los Honorables Representantes
+SILVIO VASQUEZ VILLANUEVA JOHN JAIRO ROLDAN AVENDAÑO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:11:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Leído el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:11:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2012-11-20T11:11:50">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muy buenos días señor Presidente, señor Viceministro, Honorables
+Representantes. Señor Secretario yo quisiera que usted nos certificara
+si cuando hay proyectos de ley y debate de control político el orden
+debe ser primero el debate de control político y más hoy que a mí me
+parece que es un día histórico para nuestro país y tenemos
+precisamente la oportunidad de citar tanto el ministro de Comercio,
+como al, viceministro de Turismo y podríamos entrar a hacer un
+análisis con respecto al fallo que hoy la Corte Internacional de la Haya
+hace con respecto a San Andrés y mirar los efectos que se puedan
+tener en materia turística y en materia de comercio, yo creo que no es
+una oportunidad que debe dejar pasar esta Comisión para hacer y
+adelantar este importante debate que hoy está en el orden del día de
+la Comisión Sexta.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:12:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Iván Darío Agudelo Zapata.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2012-11-20T11:12:10">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Un saludo al señor, viceministro de Turismo en esta Comisión y a todos
+los compañeros, pero yo le pediría al doctor Ciro Rodríguez es que el
+punto que tenemos de primero en el orden del día ya se ha debatido,
+lo hemos construido entre otros compañeros y solamente sería votarlo
+y no sé si los otros dos no hay acuerdo para que podamos evacuar
+ese tema y después poder seguir, porque se nos va a atrasar otra
+semana más este proyecto.
+Entonces, doctor Ciro Rodríguez le pediría comedidamente pues que
+nos permita votar este proyecto y continuamos luego con el debate de
+control político.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:12:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-11-20T11:12:30">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Presidente muchas gracias y Presidente por supuesto lo sucedido con
+nuestros compatriotas en las Islas de San Andrés y todo el
+Archipiélago no puede pasar desapercibido para esta Comisión que
+tiene que ver con los temas que han resultado afectando a la
+población isleña; por esa razón yo también me sumaría a la petición
+del doctor Ciro Rodríguez quien ha manifestado que discutamos esta
+situación, mucho más aprovechando la presencia del señor
+Viceministro y de los funcionarios del Gobierno Nacional encargados
+de esta situación. Por lo tanto Presidente, si fuera posible y así lo
+considera la Comisión votáramos la modificación del orden del día
+para que hagamos una seria discusión sobre las implicaciones que
+tiene el fallo de la Haya en el territorio nacional, que esta mañana el
+doctor Londoño señalaba que Colombia no amanece hoy más chica
+sino más grande, porque todos los colombianos le hemos puesto el
+alma a esta situación y que eso engrandece la patria, sin embargo hay
+que decir que sobre el alma no podemos nosotros navegar, ni pescar,
+por el contrario la afectación ha sido supremamente grande y yo creo
+que vale la pena que discutamos la situación en esta Comisión
+encargada de este tema. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:12:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor José Edilberto Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2012-11-20T11:12:50">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>En la misma línea de los Honorables Representantes que se han
+manifestado frente al tema del fallo de la Haya, pues debo decir por
+supuesto que somos solidarios con nuestros compatriotas de San
+Andrés y Providencia y por supuesto que es una decisión que afecta
+los intereses del país y que al igual que lo expreso el Representante
+Ciro Rodríguez de Norte de Santander, pues vale la pena que sobre la
+mesa aprovechando el debate del día de hoy, podamos visualizar el
+impacto que estos temas que son trascendentales, por supuesto por la
+afectación que tienen para los habitantes de las islas pues puedan
+también formar parte de la agenda de discusión del día de hoy en este
+debate.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:13:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2012-11-20T11:13:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente, sugiero lo que dijo el compañero Iván Darío
+Agudelo del orden del día, saquemos adelante el primer punto, se
+formo una comisión, ayer nos llegaron lo que hizo la Comisión y eso
+someterlo a consideración del orden del día y pasamos para no hacer
+esperar más al Viceministro al doctor Rueda y a la doctora Adriana
+Patricia y empezamos con el tema del debate público al tema del
+turismo y por ende incluimos el tema que dice el doctor Ciro
+Rodríguez, entonces saquemos adelante ese primer punto para no
+dilatarlo más.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:13:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Atilano Giraldo.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2012-11-20T11:13:30">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente, con un saludo al Viceministro y a los funcionarios,
+en el mismo sentido, yo creo que aquí tenemos que ser solidarios con
+el doctor Iván Darío Agudelo, unos proyectos que ya los hemos
+debatido en otras sesiones, que no va a demorar, ya prácticamente es
+votarlos y yo creo que 10 minutos, 15 minutos que le dediquemos a
+estos proyectos no va a cambiar en nada la importancia y la discusión
+que le vamos a dar precisamente al control político, entonces yo si les
+pediría a los colegas que le ayudáramos a quienes son coordinadores
+o ponentes de estos proyectos para que lo saquemos adelante y
+seguimos entonces con el control, 10, 15 minutos no más se demora.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:13:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Yo le quiero preguntar al doctor Ciro Rodríguez si sostiene la
+proposición para ponerla en consideración o la retira. Ah bueno
+entonces el doctor Ciro Rodríguez retira la proposición.
+En consideración el orden del día leído por secretaría, anuncio que va
+a cerrarse, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:13:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:14:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Quiero agradecer la presencia del doctor Oscar Rueda García,
+viceministro del Turismo, quién ha sido delegado también por el señor
+ministro de Comercio Industria y Turismo el doctor Sergio
+Díazgranados para representarlo en esta Comisión dado que esta
+ratificando soberanía en San Andrés y los demás cayos; desde luego
+la doctora Adriana Patricia Saavedra también, ella es la, directora del
+Fondo Nacional de Turismo, le agradecemos su presencia y lo mismo
+a todos los demás funcionarios que hacen parte tanto del Ministerio
+como del Fondo Nacional.
+Continué señor Secretario con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:14:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ponencia para primer debate al proyecto de ley No. 115 del 2012
+Cámara “por el cual se adiciona un artículo nuevo 128 A, a la Ley 769
+del 2002 Código de Tránsito y Terrestre”.
+Señor Presidente, que el informe con que termina la ponencia ya fue
+aprobado en anterior debate y hoy vamos al articulado, el proyecto
+consta de dos (2) artículos, entonces el señor subsecretario va a
+aclarar para someter a consideración en bloque.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2012-11-20T11:14:20">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Señor Presidente para informarle lo siguiente, hay una proposición
+modificando el artículo primero del proyecto de ley No. 115 que
+sustituye el artículo 128 de la ley 769 de 2002, esta modificación
+consta de doce (12) incisos donde se establece todo el procedimiento
+para la disposición de la enajenación y declaración administrativa del
+abandono de los vehículos, no sé si le damos lectura a todos los
+incisos o la somete a consideración.
+Esta suscrita por el doctor Iván Darío Agudelo, Luís Guillermo Barrera,
+Miguel Angel Pinto, Jaime Yepes.
+Entonces someta a consideración la proposición modificando todo el
+artículo primero inicialmente, pero hay que llamar a lista señor
+Presidente porque es modificatorio.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:14:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>En consideración entonces la proposición para el artículo primero del
+proyecto de ley No. 115 del 2012 Cámara, continúa la discusión va a
+cerrarse. Tiene la palabra la doctora Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2012-11-20T11:14:40">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias Presidente, a mi si me gustaría que alguno de los ponentes
+me explicara esta proposición de modificación, que nos hiciera como
+una claridad sobre el tema, de acuerdo a lo que yo leí y entendí es,
+que si usted tiene el vehículo en los patios y no lo ha reclamado
+durante un tiempo tiene que hacerse una publicación, si la persona
+dentro de un término que da la norma no cancela el servicio de
+parqueadero y todo pueden proceder a la disposición y a la
+enajenación del bien para pagar, ese es como el espíritu general.
+Entonces, me gustaría que el señor ponente me lo explicara bien.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:14:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Dr. Iván Darío Agudelo tiene la palabra.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2012-11-20T11:15:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Si muchas gracias doctora Juana Carolina Londoño, esta modificación
+que se ha planteado y hemos llegado a un acuerdo con el doctor
+Pinto, con el doctor Luís Guillermo Barrera también donde quisimos
+adecuarlo a la propuesta inicial, es una propuesta que viene desde
+más de 12 años, los municipios queriendo poder salir de esa dificultad
+tan grande que se ha generado con las montañas de vehículos que
+genera un tema ambiental, un tema de recaudo, muchas dificultades
+para los municipios, la otra vez planteábamos aquí algunas
+estadísticas, en Medellín, en Bogotá, en todos los municipios.
+Entonces, fueron acogidas todas las propuestas de los doctores Pinto
+y Barrera y de otros compañeros que de verdad de pronto no había
+mucha claridad y lo que quisimos es acoger aspectos primero de la
+Corte Constitucional, que la Corte ya se había pronunciado frente a
+este articulado, también algunos aspectos del derecho administrativo,
+del estatuto tributario, en donde la misma Corte decía como se debía
+establecer todo el procedimiento para lograr declarar el abandono de
+ese vehículo.
+Entonces, ahí hemos elaborado de alguna manera donde dice un año,
+luego habla de unos días, de unas publicaciones, pero siempre
+salvaguardando el derecho a la propiedad, nunca violentando el
+derecho a la propiedad ni más faltaba, pero yo le pediría
+respetuosamente doctora que si usted tiene alguna inquietud o alguna
+sugerencia, alguna modificación que usted quiera que sea tenida en
+cuenta, con el mayor de los gustos le solicito para que nos acompañe
+y como siempre hemos tenido previsto con el doctor Pinto y el doctor
+Barrera engrandecer el debate, mejorar el procedimiento y lo más
+seguro muchos otros compañeros también tienen algo más que
+aportar y que sería bueno para el segundo debate ya en Plenaria, pero
+le pediría el favor que hoy nos acompañe con su voto positivo doctora
+Juana Carolina Londoño y que mejoremos y también en el tercer
+debate lo más seguro y ya en Senado habrá que mejorarlo, que esa es
+la idea y para eso son estos debates doctora Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:15:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto, continúa la discusión, va a cerrarse, lo aprueba la
+Comisión.
+Sírvase señor Secretario llamar a lista.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:15:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Pinto Hernández Miguel Angel
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Ha sido aprobado por unanimidad el artículo primero del proyecto de
+ley 115.
+Someta a consideración el artículo segundo (2) señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:15:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>En consideración el artículo segundo del proyecto es el último,
+continúa la discusión, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:15:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:15:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Sírvase leer el título del proyecto señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:16:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“Por el cual se sustituye el contenido del artículo 128 de la Ley 769 del
+2002, Código Nacional de Tránsito Terrestre”.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:16:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Como tiene el título modificación por favor señor Secretario Llamar a
+lista.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:16:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Pinto Hernández Miguel Angel
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Ha sido aprobado el título presentado por el ponente señor Presidente.
+Señor Presidente someta a consideración el querer de la Comisión
+Sexta que este proyecto pase a segundo debate y nombramiento de
+ponentes.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:16:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Quiere la Comisión que este proyecto tenga segundo debate en
+Plenaria de Cámara.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:16:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Si lo quiere señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:16:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Los ponentes los doctores Iván Darío Agudelo Zapata, Luís Guillermo
+Barrera y Miguel Angel Pinto, quedan los tres como ponentes para
+segundo debate.
+Entonces entramos señor Secretario al debate de control político.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:17:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Como lo anuncio y fue aprobado el orden del día el siguiente punto del
+orden del día es anuncio de proyectos para la próxima sesión.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:17:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Sírvase anunciar proyectos para la próxima sesión señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:17:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Proyecto de ley No. 243 de 2012 Cámara, 147 de 2011 Senado,
+acumulado con el proyecto de ley 157 del 2011 “Por medio de la cual
+se establecen tarifas diferenciales en el servicio público de transporte
+masivo de pasajeros de acuerdo a un enfoque social”.
+Proyecto de ley No. 063 del 2012 Cámara, 207 del 2012 Senado “Por
+la cual se reforma parcialmente la Ley 115 de 1994”.
+Proyecto de ley No. 215 de 2012 Cámara, 74 de 2011 Senado “Por
+medio de la cual se modifica la Ley 769 y se dictan otras
+disposiciones.
+Señor Presidente el cuarto punto es la citación al Ministro y servidores
+públicos, está una excusa del señor ministro de Industria y Comercio
+donde delega al doctor Oscar Rueda García Viceministro para que
+asuma la responsabilidad como Ministro delegado y también para
+escuchar la suerte de todo Colombia, especialmente del Fondo
+Nacional de Turismo.
+Señor Presidente queda en manos de usted la organización de este
+debate de control político y el pueblo colombiano se lo agradecerá.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:17:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Entonces, ratificamos que los ponentes para segundo debate son los
+doctores Iván Darío Agudelo y el doctor Luís Guillermo Barrera.
+Este debate de control político ha sido propuesto por la doctora Juana
+Carolina Londoño y el doctor Ciro Antonio Rodríguez Pinzón y se ha
+adicionado al doctor Didier Alberto Tavera.
+Entonces, vamos a darle la palabra a los tres Honorables
+Representantes a la Cámara citantes a este debate, desde luego que
+pregunto a la Comisión si aceptamos la disculpa del señor ministro de
+Comercio Industria y Turismo el doctor Sergio Díazgranados, por
+encontrarse en la ciudad de San Andrés, en consideración la escusa
+leída por Secretaría, la aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:17:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobada señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:17:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-11-20T11:18:00">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Perdóneme es la excusa del señor Ministro.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:18:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Si como no.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-11-20T11:18:20">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Una pequeña referencia, por supuesto hay que entender que el señor
+Ministro no pueda estar en esta Comisión, es más que entendible la
+situación por la que hoy atraviesa el país, merece que la comisión
+haya puesto en consideración que de manera unánime como veo se
+haya tomado la decisión, se excuse la asistencia del señor Ministro, lo
+digo porque yo he sido uno de los críticos en esta Comisión de los
+funcionarios que no asisten a la Comisión, pero vale la pena dejar
+también en los anales de esta que hoy es un día muy especial en la
+cual hay que excusar la inasistencia del señor Ministro por los propios
+hechos por los que el país atraviesa.
+Esperemos entonces que con la presencia de los demás funcionarios
+podamos adelantar este debate para solidarizarnos señor Presidente
+con nuestros compatriotas y con la difícil situación por la que hoy
+atraviesan.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:18:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2012-11-20T11:18:40">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Presidente me uno a las palabras del doctor Wilson Gómez, sin
+embargo si es bueno recordarle al señor Viceministro a quien le
+presentamos nuestro afectuoso saludo que en los dos años que lleva
+esta Comisión trabajando juiciosos no hemos tenido la oportunidad de
+contar con la presencia del Ministro, es Ministro de mi partido, pero
+ojala en una próxima oportunidad tengamos el placer de escucharle y
+de saber pues todas las ejecutorias que sabemos son importantes
+para el beneficio del país, pero sería muy importante para esta
+Comisión, tal vez creo que es el único ministro de los que trabajan con
+la Comisión Sexta que no ha estado presente en la Comisión, nos
+gustaría muchísimo contar con la presencia de él, para debatir temas
+importantes obviamente que hoy seguramente serán objeto de análisis
+y de discusión.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:18:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra la doctora Juana Carolina Londoño Jaramillo.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2012-11-20T11:19:00">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias señor Presidente, agradecemos aquí la asistencia del señor
+Viceministro, estuvimos hablando los tres citantes, los doctores Ciro
+Rodríguez y Didier Tavera y yo y queremos solicitarle a los
+compañeros el aplazamiento de la citación del día de hoy.
+Se entiende la excusa presentada por el señor Ministro, sin embargo
+la Comisión Sexta dentro de las funciones constitucionales que tiene
+es hacer el control político durante estos dos años dos meses que
+lleva el Congreso de la República no hemos tenido el
+acompañamiento doctor Barrera y esa era una de las razones del
+señor Ministro.
+Por lo tanto, solicitamos respetuosamente a nuestros compañeros nos
+acompañen con la proposición presentada por los citantes de la forma
+más respetuosa también para el señor Viceministro quien siempre ha
+estado atento a las invitaciones que se han hecho, pero realmente si
+quisiéramos que por primera vez en dos años y dos meses viniera el
+señor Ministro a darnos respuestas a estos dos cuestionarios que de
+forma tan juiciosa hemos venido presentando. Muchas gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:19:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto doctora Juana Carolina Londoño, tiene la palabra el
+doctor Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2012-11-20T11:19:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente, con todo el respeto del doctor Oscar Rueda y de
+la doctora Patricia, de verdad que si hay unos temas ahí de turismo
+importantes que tocar, pero uno a la proposición de los citantes, es de
+mi Partido, del partido de la U, pero tengo que ser consecuente con la
+Comisión Sexta, aquí nunca hemos visto al Ministro, entonces yo me
+uno, Representante Juana Carolina Londoño que él es el que debe
+venir a este debate de control político.
+Si bien es cierto, ya hay unas respuestas pero eso no es suficiente,
+queremos verle la cara, no los oficios que nos envía muy
+constantemente en su función de Ministro con los Acuerdos que está
+haciendo, los Tratados, que esto es muy importante, pero lo queremos
+ver aquí y yo me sumo a esa proposición de aplazar el debate hasta
+que el Ministro tenga la oportunidad de venir, le apruebo la excusa,
+porque todos entendemos la situación que hoy está viviendo nuestro
+país y que tenía que hacer presencia allá en San Andrés Islas.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:19:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Ciro Antonio Rodríguez Pinzón.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2012-11-20T11:19:40">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Gracias Señor Presidente, yo creo Presidente que el aplazamiento es
+totalmente justificado, a pesar que entendemos que el Viceministro
+haría una exposición y defensa muy bien del debate, aquí hay un tema
+nuevo que hay que tratar y son las consecuencias del fallo de la Haya,
+por lo tanto en ese nuevo debate anexaríamos unos nuevos
+cuestionarios para analizar las consecuencias que pueda tener este
+fallo y lo podamos discutir acá en esta Comisión Sexta con el señor
+Ministro.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:19:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Dr. Didier Tavera en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2012-11-20T11:20:00">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Gracias señor Presidente, saludamos cordialmente a nuestro Ministro
+con sueldo de Viceministro al doctor Oscar Rueda y a la, directora del
+Fondo y a toda la Comisión, efectivamente aquí es lógica, respetuosa
+y aceptada la excusa del señor Ministro por encontrarse en San
+Andrés, todos conocemos la difícil situación, la verdad que estábamos
+hasta preocupados, la doctora Juana Carolina Londoño lo decía de
+forma hasta jocosa, que el proyecto de patrimonio sumergible también
+debían de retirarlo porque para que patrimonio sumergible si ya no
+vamos a tener ni mar, entonces aquí ya la situación de Colombia está
+cambiando enormemente y aquí necesitamos profundizar y agudizar
+este debate adicionándole un nuevo cuestionario para poder analizar
+todas las consecuencias turísticas ambientales, todas las políticas que
+se deben tener en materia de comercio exterior y de comercio interior
+aquí que se tienen especialmente con el archipiélago de San Andrés y
+Providencia toda vez que vemos que en varios hermanos países hay
+jubilo porque si bien hubo una defensa de proteger el ecosistema
+marino en el archipiélago de San Andrés y Providencia vemos que yo
+creo Nicaragua no se va a parar en pelos para explotar el petróleo que
+hay allí, que es el gran regalo que le dieron de las festividades de
+diciembre al hermano país sandinista, nicaragüense.
+Entonces, si tenemos aquí que debemos replantear, yo tendría que
+unirme a la solicitud de todos aquí de que aplazáramos este debate y
+más porque aquí doctor Rueda, queremos que como conclusión de
+este gran debate, con esa nueva labor que se ha venido haciendo
+tengamos nosotros la obligación y la capacidad de trabajar en cuáles
+son las políticas en materia de turismo que se tiene que tratar, miren
+como estas decisiones afectan el turismo náutico, miren como estas
+decisiones en cuanto a política de comercio exterior tenemos que
+trazar nuevos lineamientos y como también desde el ministerio de
+Comercio, que no solamente en la cartera del viceministerio de
+Turismo sino en toda la materia de comercio tenemos que contar aquí
+con la presencia del Ministro.
+Entonces, uniéndome señor Presidente a la misma solicitud de toda la
+plenaria.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:20:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Bueno hay una proposición de aplazamiento del debate.
+Yo quiero hacer claridad en lo siguiente, primero que todo la
+puntualidad del doctor Oscar Rueda García, como también la
+puntualidad de la doctora Diana Patricia Saavedra, debo decir que
+ellos también están citados y tienen cuestionario, pero me ha dicho el
+doctor Rueda y me ha dicho la doctora Saavedra que ellos desde
+luego acogen y así debe ser la decisión de la Comisión.
+Como hay una proposición sobre la mesa especialmente los tres
+citantes a este debate, yo la quiero poner en consideración de la
+Comisión.
+En consideración la proposición que han hecho los tres citantes de
+aplazar el debate para contar con la presencia del señor ministro de
+Comercio Industria y Turismo Sergio Díazgranados, tiene la palabra el
+señor Viceministro.
+Dr. Oscar Rueda García,, viceministro de Comercio, Industria y
+Turismo:
+Gracias Presidente Silvio Vásquez, presentar un respetuoso saludo a
+la Comisión y obviamente no solamente con respeto como debe ser,
+sino además con mucho aprecio que nos vincula con esta Comisión
+que es nuestra tutora, pues entender el sentido de la proposición,
+agradecer que hayan aceptado la excusa del señor Ministro Sergio
+Díaz Granado quien viajo en el día de ayer a San Andrés con el señor
+Presidente, esta mañana celebraban un Consejo de Ministros y sin
+duda alguna muchas de las inquietudes que ustedes se plantean y que
+todos nos planteamos de que si sigue para las actividades que aquí
+nos congregan, el turismo y el comercio van a tener respuesta en el
+desarrollo de estos ejercicios políticos que vienen, todos nos hacemos
+preguntas de la aplicación de ese fallo y obviamente sus efectos.
+El doctor Silvio Vásquez recordaba que no solamente estoy aquí como
+en reemplazo y por la ausencia del señor Ministro, sino además por el
+hecho de que fui citado directamente al igual que la, directora del
+Fondo y como siempre con el mayor gusto y como siempre con el
+mayor gusto venimos aquí a atender sus requerimientos y a recibir las
+orientaciones, trabajamos en mucho equipo tanto la Comisión Sexta
+de la Cámara aquí como también la del Senado y gracias a ellos que
+por ejemplo hoy contamos con un instrumento que celebramos
+muchísimo y estamos en pleno trabajo de desarrollo que es la Ley
+1558, la verdad no alcanzan ustedes y yo cada vez que leo más la ley
+vislumbro mucho más posibilidades de potenciar el turismo a través de
+esta herramienta que ustedes nos dieron.
+De manera que por un lado yo podría decirles; mire estoy aquí
+atendiendo su citación y no olviden que también estamos citados
+individualmente, pero ni más faltaba, corro el riesgo de que solicite
+entonces que me escuchen y como consecuencia de eso me den
+duro, entonces prefiero más bien acoger con el mayor aprecio esa
+solicitud que usted hace y claro estaré pendiente de acompañar al
+señor Ministro y atendiendo también la citación para una próxima
+oportunidad, yo soy el primer interesado en que ojala por agenda no
+se envolate esa oportunidad, la agenda de ustedes, porque de verdad
+tenemos cosas muy importantes para contarles, para compartir con
+ustedes, estamos en el momento de definir la planeación estratégica
+del sector para el año entrante, de manera que es más que oportuno
+esta convocatoria.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:20:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Le agradecemos al señor Viceministro doctor Oscar Rueda, doctora
+Diana Patricia Saavedra en el uso de la palabra.
+Dra. Diana Patricia Saavedra,, directora del Fondo Nacional de
+Turismo:
+Gracias a todos, realmente para nosotros es una oportunidad el poder
+contar a ustedes y que sepan de nuestra propia voz que hacemos en
+el Fondo Nacional de Turismo y en que se invierten los recursos y
+cualquier sugerencia, recomendación para nosotros será bienvenida,
+luego estamos listos y dispuestos en el momento que ustedes lo
+consideren pertinente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:20:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto doctora Diana, sigue la discusión de la propuesta de
+aplazar el debate del día de hoy, sigue la discusión, lo aprueba la
+Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:20:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:20:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Continué con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-11-20T11:21:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día para la sesión de hoy señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-11-20T11:21:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Yo le quiero informar a la Comisión, mañana miércoles 21, jueves, 22
+y viernes 23 está el noveno Congreso Nacional de la Infraestructura, la
+Comisión Sexta de Senado y Cámara en este caso nuestra Cámara
+siempre ha asistido en un buen número y ya tenemos aprobación por
+la Plenaria de la Cámara para ausentarnos durante estos tres días, por
+consiguiente no hay Comisión, esperamos vernos mañana muy
+temprano en la Ciudad de Cartagena para participar activamente en
+este noveno Congreso de la Infraestructura.
+Para el próximo martes citamos la Comisión. Quiero manifestar esta
+mañana en reunión de Presidentes de Comisión y el Señor Presidente
+de la Cámara y los voceros de los partidos se acordó que el próximo
+lunes se sesiona lunes, martes y miércoles a partir de las 4 de la tarde,
+el lunes para que ustedes vayan agendando en sus diferentes
+regiones en sus diferentes regiones y también los de acá.
+A partir del próximo lunes la Plenaria de la Cámara se citara a partir de
+las 4 de la tarde, lunes, martes y miércoles, por esta semana se va a
+sesionar martes hoy, mañana miércoles y el jueves, pero a partir de la
+próxima semana lunes a partir de las 4 de la tarde, martes y miércoles,
+el jueves quiero reiterarles muy especialmente de todo corazón, con
+mucha amistad la invitación para que nos acompañe en el debate de
+control político con 5 ministros y el señor, viceministro de Turismo en la
+ciudad de San Agustín en el departamento del Huila el próximo 29 de
+noviembre, de este jueves en ocho días.
+Aquí la doctora Diana Patricia Saavedra va a hacer gestión haber si
+es posible lograr vuelo Bogotá - Pitalito que nos quedaría en las
+goteras de San Agustín, dado que San Agustín cumple 100 años de
+descubrimiento científico, la atención corre por cuenta mía no de la
+Presidencia, personalmente Silvio Vásquez Villanueva debo reconocer
+que he tenido todo el apoyo del señor Alcalde de San Agustín Edgar
+Agustín Lara, de todo su gabinete, de toda la estructura administrativa,
+política y todas las autoridades civiles, militares y eclesiásticas de San
+Agustín, como los alcaldes del sur de Huila y también todo el apoyo de
+la señora Gobernadora del departamento doctora Cielo González,
+estamos buscando la manera con los señores Ministros y aquí con la
+doctora Diana Patricia que también nos está colaborando para ver si
+logramos Bogotá - Pitalito directamente.
+Los que se quieran quedar el jueves en San Agustín me avisan con
+tiempo para hacer las reservas en el hotel y todo lo que tiene que ver
+con el recorrido turístico.
+En seguridad ustedes saben que estamos en paz total en todo el
+territorio nacional a través de la tregua de la FARC, de manera que no
+hay problema, la seguridad está garantizada a través del Ejército
+Nacional, de la Policía y la seguridad del Estado, allí eso también se
+está coordinando.
+Yo le pido el favor que por medio de Secretaría nos confirmen para el
+jueves 29 de noviembre la presencia en San Agustín, departamento
+del Huila.
+Levantamos la sesión siendo las once y cincuenta y seis minutos de la
+mañana (11:56 a.m.) y convocamos para el próximo martes a partir de
+las nueve de la mañana, teniendo en cuenta que hay Plenaria el lunes
+a las 4 de la tarde.
+SILVIO VASQUEZ VILLANUEVA        JHON JAIRO ROLDAN AVENDAÑO
+Presidente                         Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO     JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                         Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

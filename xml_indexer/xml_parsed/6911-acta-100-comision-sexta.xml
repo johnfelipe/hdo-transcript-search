@@ -1,0 +1,1490 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andres-amaya-rodriguez" id="hr-carlos-andres-amaya-rodriguez" showAs="H.R. Carlos Andres Amaya Rodriguez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andres-amaya" id="hr-carlos-andres-amaya" showAs="H.R. Carlos Andres Amaya"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias-castillo" id="hr-wilson-neber-arias-castillo" showAs="H.R. Wilson Neber Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gomez-velasquez" id="hr-wilson-gomez-velasquez" showAs="H.R. Wilson Gomez Velasquez"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="6911-acta-100-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2013</heading>
+				<debateSection>
+					<heading>Octubre</heading>
+					<debateSection>
+						<heading>ACTA NO. 100 / 2013-10-02</heading>
+						<speech by="" startTime="2013-10-02T10:28:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2012 - 2013
+ACTA No 100
+(Bogotá, D.C., 2 de Octubre de 2013)
+A las diez y veintiocho minutos de la mañana (10:28 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Arias Castillo Wilson Neber
+Giraldo Arboleda Atilano Alonso
+Naranjo escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Tavera Amado Didier Alberto
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes.
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Pinto Hernández Miguel Angel
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Vásquez Villanueva Silvio</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:28:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:28:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se abre la sesión, proceda señor Secretario dar lectura al orden del
+día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:28:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-wilson-gomez-velasquez">
+								1. ¿Cuál es el avance que ha tenido el Sena durante los últimos 3 años?
+Proporcione las cifras que demuestran ese crecimiento.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								2. Informe cuál ha sido la demanda de cupos en todos los niveles y en todos
+los programas que ha presentado en los últimos 3 años su institución. ¿Qué
+porcentaje de esa demanda cubre el Sena? Favor enviar esta información
+por periodos de inscripción, por regiones y por programas académicos
+durante los últimos 3 años.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								3. Relacione información de los directivos del Sena, especificando nombre de
+todos los directivos, perfiles y salarios. Favor adjunte las hojas de vida de
+estos funcionarios.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								4. Sírvase proporcionar una relación de todos los contratos directos,
+consultorías, licitaciones, convenios, adiciones, prórrogas, modificaciones y
+órdenes de servicio que su despacho ha suscrito desde el primero de enero
+de 2010 hasta la fecha; especificando entre otros: nombre, valor, objeto,
+tiempo, interventor, porcentaje de ejecución. Envíe información en archivo
+excel.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								5. Proporcione un cronograma de todos los procesos de contratación que su
+despacho tiene programado hasta el 31 de diciembre del año en curso.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								1. ¿Cuáles son las tasas de deserción de los últimos 5 años en las áreas de formación
+que ofrece el SENA?
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								2. ¿Cuántos cupos ofrece por programa el SENA, cuántos son los estudiantes que se
+presentan a las convocatorias de matrícula y cuáles son las cifras reales de
+cobertura? Refiérase a datos de los últimos 5 años.
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								3. ¿Con que estándares de calidad el SENA mide la enseñanza presencial en sus
+centros de formación?
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								4. ¿Qué características debe tener un programa técnico o tecnológico en términos de
+calidad para que pueda ser ofrecido de manera virtual por el SENA?
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								5. ¿Según la ley de primer empleo, proyectada para disminuir el desempleo juvenil y
+teniendo en cuenta que el SENA cuenta con un observatorio laboral, cuales son las
+cifras generadas por tal organismo en todas las áreas de formación desde la
+implementación de dicha ley.
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								6. ¿Cuáles son los planes y las proyecciones de ampliación que contempla el SENA
+para los próximos 10 años?
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<question by="#hr-carlos-andres-amaya-rodriguez">
+								7. ¿Cuáles son los títulos técnicos y tecnológicos ofrecidos por el SENA que serán
+homologados en su totalidad en el convenio suscrito con EL Politécnico
+Grancolombiano, y cuáles fueron los términos de calidad utilizados para garantizar
+la excelencia académica?
+								<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							</question>
+							<narrative>PROPOSICION ADITIVA A LA 034</narrative>
+							<question by="#hr-wilson-arias-castillo">
+								DIRECTORA DEL SENA,
+doctora GINA PARODY D´ECHENOA
+1. ¿Cuál es la posición del Servicio Nacional de Aprendizaje - SENA con respecto a la
+reforma tributaria presentada por el Gobierno Nacional, la cual pretende sustituir
+los aportes parafiscales por el denominado IMPUESTO SOBRE LA RENTA PARA LA
+EQUIDAD - CREE?
+								<from>H.R. Wilson Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-arias-castillo">
+								2. ¿Considera la dirección del SENA que esta reforma podría implicar una reducción
+significativa de los recursos disponibles para la institución?
+								<from>H.R. Wilson Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-arias-castillo">
+								3. ¿Qué alternativas se plantean frente a una eventual reducción el presupuesto del
+SENA?
+								<from>H.R. Wilson Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-arias-castillo">
+								4. En el nuevo esquema de financiación del SENA ¿cuántas empresas entrarían a
+contribuir? ¿Qué tipo de empresas contribuirían mayoritariamente? ¿Qué implicaciones
+tendría esta composición sobre la disponibilidad de recursos para la entidad?
+								<from>H.R. Wilson Arias Castillo</from>
+							</question>
+							<narrative>
+CUESTIONARIO ADITIVO A LA PROPOSICION No. 034</narrative>
+							<narrative>DIRECTORA GENERAL DEL SENA
+Dra. GINA PARODY D’ECHENOA</narrative>
+							<question by="#hr-wilson-neber-arias-castillo">
+								1. Suministrarnos informe de gestión de lo corrido del año.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								2. Considerando que a partir de la reforma tributaria los recursos del SENA
+dependerán del CREE y que las utilidades de las empresas se calculan al final
+de los períodos contables, mientras el SENA requiere recursos mes a mes,
+¿cómo se ha previsto el Flujo de Caja, para garantizar estos recursos con esa
+periodicidad?
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								3. Suministrarnos el presupuesto aprobado a la entidad para la presente vigencia,
+relacionando cómo está distribuido y qué monto de presupuesto no se ha
+distribuido si se encuentra en la Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								4. Suministrar ejecución mes a mes de todos los rubros de presupuesto del
+SENA de las Regionales, Centros de Formación y Dirección General en el
+presente año, indicar porcentaje de recursos ejecutados, comprometidos y
+pendientes de ejecución.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								5. Suministrar metas de Formación asignadas y ejecutadas en las vigencias
+consolidado a nivel nacional estableciendo oferta regular, media técnica,
+formación virtual, complementación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								6. Entregar la relación de programas de Oferta Cerrada 2012 y 2013, indicando
+empresa que se encarga de patrocinar a los estudiantes en cada caso.
+Discriminar la información por Regional y Centro de Formación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								7. Relacionar qué modificaciones se han hecho en el presente año a la política
+pedagógica y educativa institucional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								8. Indicar el número de estudiantes que adelantan formación actualmente con el
+SENA que son objeto de contrato de Aprendizaje, y el número de contratos de
+aprendizaje que tienen los estudiantes del SENA actualmente detallando la
+regional, centro, tiempo de patrocinio, sector económico y empresa
+patrocinadora .Indicarnos la meta en la contratación de aprendices, establecida
+para los años 2010, 2011, 2012, 2013. detallando la regional y centro.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								9. Indicarnos el nivel de deserción de los estudiantes del SENA, en el año 2011,
+especialmente suministrar
+información en el programa de jóvenes en acción, en programas virtuales,
+articulación con la media y en oferta regular.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								10. Suministrarnos número de estudiantes actualmente se encuentran vinculados
+al SENA en el marco del programa articulación con la media, indicar nombre
+del programa articulado, institución educativa con la que está articulada, municipio,
+regional, centro de formación, nivel de certificación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								11. Suministrar dato total de estudiantes en el programa de articulación por Centro
+de Formación y Regional y consolidado Nacional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								12. Indicar el monto del presupuesto asignado por el SENA en los años 2009,
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								13. Indicar costo estimado por estudiante en cada uno de los Centros de
+Formación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								14. Indicarnos los recursos del SENA ejecutados durante los años 2009, 2010,
+por año las instituciones educativas con las cuales se suscribió convenio, número
+de estudiantes formados, nombre de los programas ofertados, dinero cancelado
+por el SENA a estas instituciones discriminados por regional, centro y consolidado
+a nivel Nacional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								15. Suministrarnos la relación de programas que imparte el SENA a nivel nacional
+y la relación de los que cuentan con registro calificado, detallar la sede en la que
+se puede impartir.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								16. Indicar si a partir de la decisión de incorporar nuevamente en los programas de
+formación del SENA las competencias básicas y transversales incluidas, se
+aumentó la duración de cada una las acciones, indicar el tiempo promedio
+aumentado por competencia y las competencias que se incorporaron nuevamente.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								17. Indicarnos nivel de certificación alcanzado por cada Centro de Formación en
+los años 2010, 2011, 2012, 2013.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								18. Suministrarnos relación de Contratistas vinculados actualmente al SENA bajo
+la modalidad de Prestación de Servicios, discriminar la información por Regional,
+Centro de Formación y Dirección General, nombre del contratista, actividades
+desempeñadas, nivel ocupacional a que pertenecen las actividades que
+desempeña, honorarios mensuales, duración del contrato. Si es instructor detallar
+el número de cursos que imparte, el número de horas directas que ejecuta
+semanalmente cada instructor contratista.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								19. Suministrar relación de contratos suscritos en cada regional bajo el rubro de
+arrendamiento, indicar fecha de suscripción, nombre del contratista, objeto del
+contrato y valor.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								20. Suministrar relación de Convenios suscritos por cualquier dependencia de la
+Dirección General del Sena con medios de comunicación nacionales y regionales
+en los últimos cinco (5) años e informar cuales están vigentes a la fecha y cuales
+han sido objeto de adiciones, detallando:
+a. Fecha y número de convenio
+b. Nombre del medio de comunicación
+c. Indicar si es un medio de comunicación nacional o regional
+d. Objeto del Convenio
+e. Valor del Convenio
+f. Nombre de la dependencia del Sena que suscribe el Convenio.
+g. Informar si algún Convenio ha tenido adiciones y el valor del mismo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								21. Suministrarnos relación de sentencias que condenan al SENA a cancelar a
+algunos contratistas de prestación de servicios personales, recursos dejados de
+cancelar teniendo en cuenta que se demostró que la actividad realidad configura
+relación laboral. Detallar: nombre de la persona que ganó la demanda, número de
+sentencia, valor cancelado por el SENA, regional en donde prestó servicios.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								22. Relación de puntos cumplidos e incumplidos del acuerdo suscrito entre
+SINDESENA y la Dirección del SENA el 31 de enero de 2012.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								23. Suministrar relación de aplicativos o sistemas de información comprados o
+elaborados por el SENA desde el año 2002 a la fecha, detallar nombre del
+aplicativo y costo cancelado, fecha en que fue puesto en funcionamiento, tiempo
+de utilización y fecha de desmonte.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								24. Indicarnos los recursos económicos asignados por el SENA en los años 2010,
+de las existentes, detallar la información por regional, centro de formación o
+dirección general.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								25. Suministrarnos copia de todas las disposiciones vigentes que reglamentan lo
+concerniente a bolsas concursables para montar nuevas sedes del SENA en los
+municipios. Indicar si este proyecto se desarrolló en el marco de las alianzas
+público privadas.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								26. Suministrar relación de instalaciones del SENA en los diferentes
+departamentos del país que no cuentan con estructura antisísmica y los trámites
+que se están realizando en procura de adecuarlos a la normatividad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								27. Indicar la posición oficial del SENA frente al proyecto de ley 177 de 2012, que
+actualmente cursa en el Congreso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								28. Suministrarnos cuadro consolidado de contratistas de prestación de servicios
+vinculados al SENA en los años 2009, 2010, 2011, 2012 y 2013, discriminar la
+información por Administrativos e Instructores y por regional, Centro de Formación
+y Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								29. Indicarnos cuál fue el mecanismo de diagnóstico y análisis previo
+implementado por el SENA con miras a definir los programas de formación que se
+impartirán en el marco de jóvenes en acción. Suministrar copia del estudio previo
+realizado si existe.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								30. Indicarnos el número exacto de estudiantes que se pretende atender en el
+SENA durante el año 2013 a través del programa de jóvenes en acción.
+Discriminar la información por Centros y Regionales, indicar meta asignada a cada
+Centro, el costo estimado en el año 2013 de esta formación y el presupuesto
+adicional que ha sido traslado a cada Centro para cumplir este compromiso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								31. Suministrarnos relación de programas de formación que actualmente imparte
+el SENA en el marco del programa jóvenes en acción. Detallar la información por
+Centro de Formación y Regional, indicando fecha de inicio, fecha estimada de
+terminación, número de estudiantes por grupo y sedes en las que está formando.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								32. Indicarnos, a la fecha cuantos estudiantes del programa de jóvenes en acción
+se encuentran en procesos de formación en el SENA.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								33. Informarnos cuales son los requisitos que deben cumplir las personas que
+aspiran a adelantar formación en el SENA en el marco del programa de
+jóvenes en acción. Indicarnos claramente cuál es la población beneficiaria de
+este programa.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								34. Suministrarnos copia de todos los lineamientos, directrices y orientaciones en
+los que se soporta la ejecución en el SENA del programa de jóvenes en acción.
+(documentos expedidos por el Gobierno o por el SENA).
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								35. Indicar el monto exacto de recursos que se estima se requerirán en el año
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								36. Indicarnos si el gobierno nacional, tal y como lo planteó inicialmente, asignó los
+recursos presupuestales requeridos para desarrollar en el SENA en el año
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								37. De ser afirmativa la respuesta anterior, indicarnos el monto exacto de recursos
+que fueron traslados al SENA y la fecha en que este traslado se produjo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								38. Indicarnos las fechas exactas en que el DPS, ha hecho efectivo el pago de los
+apoyos de sostenimiento que debe entregar a los estudiantes del SENA,
+detallar cuantos estudiantes hay
+matriculados en este programa y a cuantos se les cancelará este auxilio, con
+qué frecuencia, discriminar la información por Centro de Formación y Regional
+y consolidado a nivel Nacional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								39. Indicarnos si este programa gubernamental exclusivamente será ejecutado por
+el SENA; de ser negativa la respuesta indicarnos las otras entidades que
+también ejecutarán el programa.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								40. Considerando que el programa jóvenes en acción tiene múltiples coincidencia
+con el plan 250 mil, implementado en el SENA en el año 2009, el cual presentó
+serios problemas para su ejecución, afectando sensiblemente la calidad de la
+formación impartida y las condiciones de trabajo y de estudios de los
+servidores públicos de la entidad y de los estudiantes, comedidamente le
+solicito suministrarnos copia de los análisis, estudios y evaluaciones
+efectuados a dicho programa, que debieron servir de insumos para
+implementar un programa similar.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								41. ¿Cuál es la razón para que los jóvenes que están siendo atendidos en el
+marco del programa de jóvenes en acción no sean atendidos a través de la
+oferta regular de los centros?
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								42. Tienen los mismos derechos y beneficios los estudiantes vinculados al SENA
+mediante el programa jóvenes en acción que los de la oferta regular.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								43. Tienen los jóvenes en acción derecho a tener contrato de aprendizaje.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								44. En la actualidad cuantos de los jóvenes en acción tiene contrato de
+aprendizaje.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								45. Indicar la fecha exacta en que se le han cancelado los auxilios a los jóvenes
+vinculados al SENA a través del programa jóvenes en acción.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								46. Fecha en que se cancelará a los estudiantes del programa Jóvenes en acción
+el auxilio prometido, indicar meses que se cancelarán, meses que les quedarán
+pendientes de pago.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								47. Hemos conocido de algunos inconvenientes que se podrían estar presentando
+para la ejecución de este programa, indicarnos cuáles son las situaciones
+problemáticas detectadas y cuáles son las alternativas de solución planteadas
+por la alta Dirección de la entidad, con miras a evitar una nueva afectación de
+la calidad de la formación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								48. Indicarnos si el programa Jóvenes en acción ha afectado la oferta regular de
+formación del SENA programada dentro del plan operativo 2013 y de ser esta
+respuesta positiva detallarla donde y como se ha presentado y como se ha
+solucionado la situación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								49. Indicarnos qué sedes adicionales está garantizando la alta Dirección de la
+entidad para la ejecución del programa de jóvenes en acción a fin de evitar que
+se repita lo sucedido con la ejecución del plan 250 mil, el cual generó que se
+impartiera formación en sedes no adecuadas, en pasillos e incluso debajo de
+los árboles.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								50. Indicarnos las metas de formación asignadas y ejecutas por los Centros en el
+año 2012, así mismo informarnos la meta asignada a cada Centro para el año
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								51. Indicarnos si ha sido necesario diseñar o adaptar nuevos programas de
+formación para desarrollar el programa de jóvenes en acción, de ser afirmativa
+la respuesta, suministrarnos la relación de programas ajustados a creados.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								52. Solicitamos indicarnos la posición oficial de su administración frente a este
+programa impuesto por el Gobierno Nacional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								53. Suministrarnos la relación de programas de formación que fueron o serán
+ofertados en el año 2013 dentro de la oferta regular de acuerdo al plan
+operativo 2013 por los diferentes Centros de Formación Profesional del SENA;
+detallar información por Centro, Programa, regional y consolidado nacional e
+indicar número de estudiantes en cada caso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								54. Suminístranos relación nacional de funcionarios que ya adquirieron el derecho
+a pensionarse y continúan en la entidad y aquellos que lo adquirirán en el
+transcurso del presente año y en el 2014.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								55. Suministrarnos en medio magnético el listado de provisionales que en la
+actualidad se encuentran en cargos declarados desiertos, indicando nombre
+del provisional, cargo, numero de IDP, centro y regional a que pertenece.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								56. Suministrar el listado de solicitudes de traslados y de cambio de ubicación
+geográfica que la Administración del SENA tiene a la fecha, con la siguiente
+información nombre, cargo, centro y regional en la que se encuentra
+actualmente vinculado y para la cual está solicitando traslado o cambio de
+ubicación geográfica. Detallar la situación que motiva la solicitud de traslado.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								57. Suministrarnos relación de beneficiarios del decreto 1894 de 2012.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								58. Suministrarnos relación de traslados que se materializaron entre 1 de enero de
+regional en la que se encontraba y regional a la se trasladó.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								59. Suministrarnos relación de traslados que se han materializaron entre marzo 6
+de 2013 y la fecha detallando fecha, nombre del funcionario, cargo, regional en
+la que se encontraba y regional a la que se trasladó.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								60. Suministrarnos plan de acción resultante del informe de la, Contraloría del año
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								61. Suministrarnos relación de trabajadores vinculados a la entidad después del
+junio de 2009, que aún se encuentren vinculados a la planta de personal de la
+entidad. Discriminar la información por Centro, Regional y Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								62. Suministrar relación de Subdirectores y, Directores que tienen derechos de
+carrera administrativa y se encuentren actualmente vinculados a la entidad,
+bajo la figura de comisión. Discriminar nombre, cargo, Regional, Centro de
+Formación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								63. Suministrarnos la relación de Directivos de la entidad, declarados
+insubsistentes del 6 de marzo de 2013 a la fecha. Discriminar la información
+por Regionales, Centros de Formación y Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								64. Suministrarnos la relación de Directivos de la entidad, destituidos del 6 de
+marzo de 2013 a la fecha. Discriminar la información por Regionales, Centros
+de Formación y Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								65. Concurso a Subdirectores. Informar qué mecanismos ha empleado la entidad
+para selección por mérito a los subdirectores de los centros de formación y si
+en la presente vigencia se ha modificado, en qué consiste la misma y qué la
+justifica. En caso de haberse suscrito algún convenio, suministrarlo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								66. Suministrarnos relación de trabajadores a quienes actualmente el SENA les
+administra sus cesantías considerando que son integrantes del Fondo de
+Vivienda del SENA.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								67. Suministrarnos relación de trabajadores a quienes actualmente el SENA les
+administra sus cesantías considerando que son integrantes del Fondo Nacional
+del Ahorro.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								68. Indicar las razones por las cuales usted, en su calidad de, Directora General del
+SENA, a partir de su vinculación oficial a la entidad, se ha negado a sostener
+reunión con los representantes de las organizaciones sindicales SINDESENA y
+SINTRASENA.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								69. Indicar en qué estado se encuentra y cuando se materializará el proceso de
+ampliación de los 5.000 cargos, anunciado por el Gobierno Nacional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								70. Indicarnos el tiempo estimado para el hacer efectivos los préstamos sobre
+ahorros del Fondo de vivienda solicitados por los trabajadores y el
+reconocimiento de cesantías, discriminar las dependencias que intervienen en
+este proceso y el tiempo promedio que se debe tomar cada una de esas
+dependencias.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								71. Suministrarnos relación de trabajadores que han solicitado cesantías o
+préstamos sobre ahorros en el año 2013, indicando nombre del trabajador,
+fecha en que radicó la solicitud, fecha en que se le hizo efectivo, tiempo
+empleado por cada unas de las dependencias que intervino en el proceso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								72. Indicarnos relación de cesantías y préstamos sobre ahorros pendientes de
+cancelar, detallar, nombre del funcionario, fecha de radicación y el trámite que
+se está adelantando en el momento.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								73. Suministrarnos copia de las actas del consejo directivo de las reuniones
+realizadas durante el 2012 y en lo corrido de 2013.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								74. Sírvase suministrarnos relación de personas vinculadas durante los años 2010,
+contrato de prestación de servicios. Detallar dependencia, nombre del
+contratista, cargo desempeñado, funciones, valor cancelado mensualmente,
+duración del contrato. Indicar el valor total mensual cancelado por concepto de
+prestación de servicios.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								75. Indicar el número de personas vinculadas durante los años 2010, 2011, 2012 a
+la planta de la entidad en las diferentes dependencias de la Dirección General.
+Detallar dependencia, nombre del contratista, cargo desempeñado, funciones,
+valor cancelado mensualmente, duración del contrato. Indicar el valor total
+mensual cancelado por concepto de prestación de servicios.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								76. Sírvase suministrarnos relación de personas vinculadas en lo corrido de 2013
+en las diferentes dependencias de la Dirección General mediante contrato de
+prestación de servicios. Detallar dependencia, nombre del contratista, cargo
+desempeñado, funciones, valor total cancelado mensualmente, duración del
+contrato.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								77. Indicar el número de personas vinculadas durante el año 2013 a la planta de la
+entidad en las diferentes dependencias de la Dirección General. Detallar
+dependencia, nombre del contratista, cargo desempeñado, funciones, valor
+cancelado mensualmente, duración del contrato. Indicar el valor total mensual
+cancelado por concepto de prestación de servicios.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								78. Indicarnos para cada uno de los años 2010, 2011, 2012 y 2013, el número
+exacto de cargos vacantes adscritos a la planta de la Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								79. Suministrarnos en medio magnético, la planta de personal de la entidad a la
+fecha, indicando cargo OPEC, IDP, nombre del funcionario, número de
+documento de identidad, regional, dependencia, sueldo, fecha de vinculación,
+tipo de vinculación centro, regional o dependencia de la Dirección General,
+estado del cargo y correo electrónico.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								80. Indicar cantidades de planta de personal por regionales, centros de formación,
+dirección General y tipo de vinculación.
+81. Suministrar relación de cargos vacantes-vacantes a la fecha, detallando
+Regional, Centro de Formación o dependencia, IDP, OPEC, etc.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								82. Suministrarnos copia de los traslados tramitados por la Dirección del SENA
+durante el año 2012 y en lo corrido de 2013. Detallar nombre del funcionario,
+fecha de vinculación a la entidad, dependencia en la que se encuentra
+vinculado después del traslado y dependencia en la que se
+encontraba antes del traslado, regional en donde se encuentra tras al traslado
+y en donde se encontraba antes, cargo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								83. Suministrar copias de las comunicaciones recibidas de la CNSC, en el
+presente año, mediante las cuales dicha Comisión autoriza al SENA a hacer
+uso de listas de elegibles sin costo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								84. Detallar los procesos que la entidad ha realizado para dar trámite a estas
+solicitudes de uso de listas de elegibles sin costo, relacionando las
+comunicaciones remitidas, las OPEC objeto de provisión, los IDP que se
+ofertan, la regional a que pertenecen, los nombres de los concursantes a
+quienes se ofrece para que escojan cargos y los nombres de quienes ocupan
+por encargo o provisionalidad dicho cargo. Suministrar copias de las
+comunicaciones remitidas a cada uno de los beneficiarios o afectados con esta
+decisión.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								85. Suministrar copias de las comunicaciones recibidas de la CNSC en el presente
+año, mediante las cuales esa entidad autoriza al SENA a hacer uso de listas de
+elegibles con costo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								86. Informarnos en qué fase se encuentra en la actualidad el proceso de
+inscripción en carrera a los antiguos instructores tiempo parcial.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								87. Suministrarnos copia de las comunicaciones remitidas por el SENA a la CNSC
+solicitando inscripción en carrera administrativa de los trabajadores vinculados
+como consecuencia del concurso de méritos según convocatoria 001 de 2005 y
+para los antiguos instructores tiempo parcial.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								88. Detallar los procesos que la entidad ha realizado para dar trámite a estas
+solicitudes de uso de listas de elegibles con costo, relacionando las
+comunicaciones remitidas, las OPEC objeto de provisión, los IDP que se
+ofertan, la regional a que pertenecen, los nombres de los concursantes a
+quienes se ofrece para que escojan cargos, los nombres de quienes ocupan
+por encargo o provisionalidad dicho cargo, los trámites que a la fecha están
+pendientes y los tiempos previstos para que se concluya todo el proceso.
+Suministrar copias de las comunicaciones remitidas a cada uno de los
+beneficiarios o afectados con esta decisión.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								89. Suministrarnos relación de servidores públicos de libre nombramiento y
+remoción que estaban vinculados al SENA y que han sido declarados
+insubsistentes o destituidos en lo corrido de presente año, indicarnos nombre
+de la persona, regional, dependencia, cargo, tiempo que prestó servicios a la
+entidad y fecha de desvinculación.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								90. Indicarnos los nombres de las personas que están reemplazando a los
+empleados públicos desvinculados, indicando cargo que desempeñaba en el
+SENA antes del encargo o comisión, regional y dependencia a la que se
+encuentra adscrito.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								91. Indicarnos si en este momento se encuentra en trámite en la entidad algún
+proceso de selección de servidores públicos de libre nombramiento y remoción,
+de ser afirmativa la respuesta, suministrarnos TODA la información
+relacionada con el concurso, especialmente los cargos, el cronograma del
+concurso y las normas en las cuales se sustenta el proceso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								92. Suministrarnos relación de los funcionarios de Libre Nombramiento y
+Remoción que se han vinculado al SENA desde enero del presente año,
+indicar si en cada uno de los casos se ha adelantado un proceso de selección
+por méritos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								93. Para cada una de las personas que se han vinculado a la entidad, relacionada
+en el punto anterior, indicarme el tiempo exacto de experiencia que tienen en
+las funciones para las que fue contratado en instituciones del sector educativo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								94. Indicarnos si en la entidad existe alguna norma que reglamente el bienestar
+social de los funcionarios y si se le está dando cumplimiento. De existir la
+norma facilitar copia de la misma.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								95. indicarnos si la entidad tiene formulado un plan de bienestar social para los
+funcionarios y hacer llegar este por cada regional y centro, con sus recursos
+asignados e igualmente su nivel de ejecución por cada regional, centro y
+Dirección General.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								96. Sírvase remitir cuadro consolidado que contenga información detallada de las
+actividades que ha programado realizar cada una de las regionales y los
+Centros adscritos en el marco de los días de confraternidad definidos para la
+presente vigencia.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								97. Indicar las actividades de integración y confraternidad que se ha programado
+realizar para cada uno de los días de dicha semana.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								98. Informarnos el presupuesto destinado por cada Centro de Formación y
+Dirección Regional para la financiación de las actividades de confraternidad,
+indicar el presupuesto ejecutado en la vigencia anterior.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								99. Indicar el número exacto de personas beneficiaras de esta actividad por cada
+Regional y el número estimado de participantes, considerando el
+comportamiento de años anteriores.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								100. Indicarnos las estrategias administrativas implementadas por la Dirección
+General, tendientes a garantizar que se realice la Semana de la Confraternidad
+con la participación de todos los actores involucrados y a que se dé
+cumplimiento a todos los compromisos adquiridos por la Dirección con la firma
+de los referidos acuerdos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								101. Suministrarnos en medio magnético copia de las actas del Comité de
+Bienestar de cada una de las regionales en donde se evidencia la discusión lo
+relacionado con el plan de bienestar de la Regional y particularmente la
+programación de la semana de la confraternidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								102. Indicarnos los presupuestos asignados y ejecutados en los años 2010,
+en todo el país.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								103. Indicarnos el presupuesto asignado en el año 2012 para la financiación de
+las actividades de bienestar definidas en cada regional, teniendo en cuenta el
+contenido de los acuerdos suscritos por la Administración en enero de 2012.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								104. ¿Qué lineamientos se han producido por parte de la Dirección General,
+para aclarar el alcance de la Circular de Austeridad del Gasto a fin de que no
+se convierta en un obstáculo en la consolidación y materialización de los
+planes de bienestar, elaborados teniendo en cuenta los acuerdos suscritos con
+SINDESENA? Entregar una copia de los mismos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								105. ¿Qué lineamientos se han suscrito sobre la semana de la confraternidad, en
+los que se especifique que la semana de confraternidad convenida en los
+acuerdos, consta de 5 días hábiles en los que deben participar todos los
+trabajadores de la entidad y el día sábado de esa misma semana se debe
+realizar una actividad en donde además de los trabajadores participa su
+familia. Entregar copia de los mismos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								106. Sírvase indicarnos el número de deportistas de cada Regional que
+participarán los juegos nacionales programados para el mes de junio de 2013.
+Discriminar la información por disciplina.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								107. Indicarnos cuantos participaron la vigencia anterior de los juegos
+nacionales, igualmente discriminar la información por Regional y Disciplina.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								108. Indicarnos el presupuesto ejecutado en la vigencia anterior en cubrimiento
+de los gastos generados por los juegos nacionales, discriminar la información
+por Regional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								109. Indicarnos el presupuesto asignado para la presente vigencia para la
+financiación de los juegos nacionales, discriminar la información por Regional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								110. Certificar si en todas las Regionales se han contratados los entrenadores o
+se han dispuesto las estrategias necesarias para garantizar la preparación de
+los deportistas.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								111. Indicarnos el número de entrenadores contratado por cada Regional,
+discriminando duración de sus contratos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								112. Indicarnos el número de funcionarios de cada Regional que participarán en
+el encuentro cultural programados para el año 2013 y cuantos participaron en
+el encuentro de 2012.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								113. Indicarnos el presupuesto ejecutado en la vigencia anterior en cubrimiento
+de los gastos generados por el encuentro cultural. Discriminar la información
+por regional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								114. Indicarnos el presupuesto asignado para la presente vigencia para la
+financiación del encuentro cultura, discriminar la información por Regional.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								115. Listar las regionales del SENA en el país que actualmente cuentan con
+escenarios deportivos que pueden ser utilizados por los trabajadores de la
+entidad, así mismo las regionales que no cuentan con esos escenarios,
+informarnos con qué entidad ha suscrito convenio para garantizar el
+cumplimiento del acordado en la negociación del año 2012.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								116. Sírvase remitirnos copia de todas las directrices, lineamientos,
+orientaciones y normas expedidas por el SENA en los últimos como soporte del
+proyecto Calidad con Calidez.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								117. Indicarnos cuantas personas en cada regional fueron asignadas para la
+materialización de las estrategias definidas en el marco del programa Calidad
+con Calidez, informarnos Regional, Centro de Formación o dependencia,
+nombre del funcionario y cargo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								118. Listar las acciones de capacitación, encuentros o actividades nacionales y
+regionales adelantadas para poner en marcha el programa Calidad con
+Calidez.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								119. Número de horas invertidas en actividades de capacitación o discusión de
+carácter nacional, por las personas responsables del programa Calidad con
+Calidez.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								120. Recursos invertidos por el SENA en estos dos años en el marco del
+funcionamiento del programa Calidad con Calidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								121. Indicarnos las razones exactas que motivan el desmonte de esta estrategia
+por cuando menos el cambio de nombre.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								122. Suministrarnos lineamientos, directrices, orientaciones y normas expedidas
+que sustenten el nuevo programa de calidad en el SENA.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								123. Indicarnos las diferencias y coincidencias del anterior programa de calidad
+(Calidad con Calidad) y el implementado por la actual administración.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								124. Presentar al Comité de Vivienda del SENA solicitud de revisar y definir
+estrategias para materializar la reducción de intereses planteada por el
+Gobierno y los bancos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								125. Indicarnos los trámites que deben adelantar los trabajadores del SENA en
+procura de que se materialice dicha reducción de la tasa de interés.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								126. Indicarnos el número de funcionarios de la entidad vinculados al Fondo de
+Vivienda del SENA y al Fondo Nacional del Ahorro.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								127. Indicar el valor que el SENA a traslado al Fondo para garantizar su
+funcionamiento en los años 2009, 2010, 2011, 2012, 2013 (recursos de la
+entidad), diferente a las Cesantías, pago de préstamos, ahorros voluntarios y
+rendimientos financieros.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								128. Indicar el número de trabajadores de la entidad que actualmente tienen
+vigente prestamos de vivienda con el SENA en las diferentes modalidades,
+discriminar la información por Regional, modalidad del préstamo e indicando
+fecha del préstamo y fecha estimada de cancelación total del préstamo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								129. Indicar el número de trabajadores de la entidad que actualmente tienen
+vigente prestamos de vivienda con el Fondo Nacional del Ahorro en las
+diferentes modalidades, discriminar la información por Regional, modalidad del
+préstamo e indicando fecha del préstamo y fecha estimada de cancelación total
+del préstamo.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								130. Indicar la fecha en que el SENA traslado las cesantías de los trabajadores
+al Fondo de Vivienda del SENA o al Fondo Nacional del Ahorro, en los años
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								131. ¿Cómo se están realizando los cálculos institucionales para definir quienes
+deben cancelar retención en la fuente?
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								132. Indicar por qué a algunos trabajadores y contratistas que tiene ingresos
+inferiores a los establecidos en la ley 1607 para descontar retención en la
+fuente, se les está haciendo descuentos superiores a los establecidos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								133. Indicarnos como ha sido se ha llevado a cabo la centralización en la
+dirección general de los procesos administrativos que se llevaban en las
+regionales, detallando cuales se han centralizado, cuales faltan y cuál es el
+cronograma para terminar este proceso.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								134. Indicarnos como se está llevando a cabo el proceso de contabilidad en la
+institución en la actualidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								135. Indicarnos cuáles son las ventajas y las desventajas de la centralización del
+proceso de compra de materiales y servicios en la entidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								136. Indicarnos como se está realizando en la actualidad el proceso de
+actualización de inventarios por parte de la entidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								137. En entrevista con el periódico El País de la ciudad de Cali, usted informó
+haber interpuesto en la Fiscalía una denuncia penal por tráfico de influencias. En
+el contexto de las denuncias que usted menciona, sírvase indicar el nombre de la
+(s) persona (s) a que usted se refiere como actores de dicha información penal.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2013-10-02T10:28:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 2 de octubre de 2013
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Citación Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política en concordancia con el
+artículo 233 de la Ley 5ª. de 1992, y en desarrollo de:</p>
+						</speech>
+						<speech by="" startTime="2013-10-02T10:28:50">
+							<from>OTROS</from>
+							<p>PROPOSICION No. 034
+(Bogotá, D.C., del 29 de agosto de 2012)
+“Cítese a la, directora general del Servicio Nacional de Aprendizaje SENA,
+doctora GINA PARODY D´ECHENOA, al debate de Control Político”, para que
+absuelva los cuestionarios adjuntos:</p>
+						</speech>
+						<speech by="" startTime="2013-10-02T10:29:00">
+							<from>OTROS</from>
+							<p>PROPOSICIÓN ADITIVA A LA N° 034
+(Bogotá D.C., 29 de agosto de 2012)
+Cítese a debate de control político a la, directora del SENA, doctora Gina Parody
+D´Echenoa para que de conformidad al cuestionario anexo responda frente a la
+cobertura y calidad a nivel nacional de la institución que dirige:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:29:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:29:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente como no tenemos quórum decisorio, la, Secretaria se
+permite informarle que el doctor Wilson Neber Arias Castillo le envío
+una misiva radicada ayer 11 y 31 de la mañana y del SENA nos
+mandaron el Decreto No. 1998 del 12 de septiembre del 2013 y la
+Resolución No. 003450 del 24 de septiembre respectivamente, señor
+Presidente, tan pronto tengamos quórum decisorio la, Secretaria se lo
+hará saber señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:29:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Someta a consideración el orden de día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:29:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente con la llegada del doctor Barrera tenemos quórum,
+doctor Wilson Arias, Amaya, Barrera, Giraldo Arboleda Atilano Alonso,
+tenemos con la llegada del doctor Carlos Andrés Amaya Rodríguez y
+con la llegada del doctor Barrera tenemos quórum decisorio señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:29:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se somete a consideración el orden del día, se abre la discusión,
+tiene la palabra el Representante Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2013-10-02T10:30:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Gracias Presidente, saludo a los funcionarios, a mis colegas, a la
+mesa directiva y al público asistente., Presidente desde el día de ayer
+envíe una comunicación, realmente debo hacer un poco mas de
+memoria, llame al señor, Presidente desde la semana pasada para
+informarle que por conductos de representantes en el Consejo
+Directivo Nacional, me había enterado del viaje de la doctora Gina
+Parody fuera del país, razón por la cual Presidente se lo comunique
+inmediatamente indicando mi preocupación por varias circunstancias,
+de una parte, debo decir, tengo en mis manos, no voy a hacer el
+debate a propósito de los debates que me han dado, ni más faltaba, es
+un problema de tiempo, de racionalidad, pero debo decir que a las
+preguntas que originalmente envié, le tuve que agregar varios
+derechos de petición, porqué en mi opinión fueron insatisfactorias
+varias de las respuestas y otras me fueron anunciadas con un
+aplazamiento, los términos que propuso el SENA para las nuevas
+respuestas fueron superados, no fueron cumplidos y algunos de esos,
+dicen ellos por el volumen de la información, solamente me llegaron el
+viernes al Congreso y el lunes a mi oficina algunos de ellos, razón por
+la cual estoy en proceso aun de sistematización aunque también debo
+decir que puedo soportar varias de las afirmaciones que había venido
+haciendo yo en mis correspondientes denuncias, ellos, en relación con
+varias de mis solicitudes.
+Pero el otro asunto de fondo Presidente que le he explicado a usted y
+qué razón por la cual le anuncie una carta que ya radique, es que es
+mi interés es discutir no solamente desde luego el asunto institucional
+y lo que atañe al cargo de la dirección general del SENA, pero también
+digamos asuntos relacionados con el comportamiento de la funcionaria
+como tal que en mi opinión solamente pueden ser respondidos por
+parte de la doctora Gina Parody, le informo a mis compañeros que ese
+es el sentido de mi solicitud por lo cual reitero la solicitud de que se
+aplace el debate hasta que la doctora Gina este presente,
+comedidamente recuerdo que en algunas oportunidades hemos
+demandado la presencia del funcionario y titular, inclusive en casos
+cuando se trata de ministros, muy a pesar de que lo reemplazan vice-
+ministros y en este caso pues lo reemplaza una persona pues
+bastante interina a la entidad, yo preferiría que fuera la señora
+directora general quien lo reemplazara. Gracias presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:30:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continua la discusión, tiene la palabra el Representante Carlos
+Amaya.</p>
+						</speech>
+						<speech by="#hr-carlos-andres-amaya" startTime="2013-10-02T10:30:20">
+							<from>H.R. Carlos Andres Amaya</from>
+							<p>Gracias señor Presidente, con los buenos días para todas y todos,
+especialmente para los colegas, en el mismo sentido Presidente
+solicitar el aplazamiento del debate teniendo en cuenta pues que la
+directora general del SENA no se encuentra presente, y si de alguna
+manera hacerle la solicitud a usted Presidente y a usted
+Vicepresidente doctor Didier, pues que yo creo que ya es ir hacer
+respetar a esta Comisión, ya suena como ha bastante repetido, pero si
+decirle al Presidente y al Vicepresidente que pues le digamos a la
+doctora Gina que esta Comisión encargada de temas de educación
+necesita debatir este tema importante y que necesitamos de su
+presencia para poder desarrollar este debate. Entonces Presidente si
+fuera posible que por secretaria se le envíe una nota a la doctora Gina
+para que cuando se reprograme este debate se le pueda decir que es
+muy importante su presencia y que no haremos el debate hasta que
+ella no esté presente. Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:30:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continua la discusión, de aprobación del orden del día, aviso que va a
+cerrarse, queda cerrada, tiene la palabra Diego Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-10-02T10:30:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias Presidente. No mire, yo he respetado y acojo pues la teoría
+de que debería estar sentado el titular, pero esto se está volviendo
+reiterativo y yo me hago una pregunta, el día que volvamos a
+programar el debate y si la señora Gina Parody, no es ya la, directora
+del SENA entonces que va a pasar, se va a hacer el debate o no se va
+a hacer el debate, porque yo entiendo que esto es mas institucional,
+cierto y así debe ser pues si seguimos con esa teoría, aquí nunca
+vamos a poder tener un debate porque siempre, o en la gran mayoría
+de las veces pues ha mandado el encargado que desde el punto de
+vista legal pues las normas establecen, pero lo digo a termino de
+discusión pero si la decisión de la Comisión es aplazarlos bien pueda,
+lo aprobamos, si tranquilo.
+Con la venia de la Presidencia, para darle una palabra.
+H.R.WILSON ARIAS CASTILLO:
+Con la venia de la presidencia que tal vez Diego no escuchó porque
+no lo explique cuando él estaba presente, en general doctor Diego yo
+creo que hay que hacer los debates, deploro que no asistan los
+funcionarios, se está volviendo reiterativo que la doctora Gina no
+venga al Congreso de la República alegando otras ocupaciones
+bastante discutibles en algunos casos pero hoy está fuera del país, de
+modo que es una razón suficiente y comparto que normalmente
+asuntos institucionales muy concernidos. Pero le quiero notar una
+cosa doctor Diego, en oportunidades las reservas, las impugnaciones
+desde el Congreso y este es el caso, no solamente aluden a asuntos
+institucionales, sino también del servidor público que debe contestar,
+le quiero contestar que por esa razón, por no contestar además se fue
+el embajador, le quiero recordar que un ministro de Agricultura que
+fruto de unos debates que hicimos y le presentamos pruebas
+concretas pues tuvo que también en el fondo caerse, es decir aquí hay
+asuntos que atañen a la institución y yo doctor Diego siempre lo he
+sustentado honradamente, pero también honradamente digo, aquí hay
+debates que atañen al comportamiento del servidor público y yo
+preferiría que ella pudiera responderlos, que no por interpuestas
+personas. Gracias doctor Diego.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:30:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra representante Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2013-10-02T10:31:00">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Gracias señor Presidente. Saludamos cordialmente a todos los
+Honorables miembros de la Comisión Sexta Constitucional
+Permanente de la Cámara de Representantes, este es un importante
+debate que se tiene que llevar a cabo con el SENA, pero aquí yo si
+quisiera llamar la atención de los colegas, falta un cuarto para las 11
+de la mañana, han citado congreso en Plena para elección del nuevo
+Magistrado del Partido Liberal del Consejo Nacional Electoral,
+entonces señor Presidente hay una consideración en la mesa del
+Representante Wilson Arias, yo le diría presidente que en aras de la
+celeridad pongamos en consideración si vamos a realizar o no el
+debate porque a las 12 del día cuando abran Congreso en Pleno pues
+tenemos que levantar la sesión y es de interés para todo el país
+conocer la información de primera mano frente al tema del SENA y
+saber si lo vamos a aplazar o si lo vamos a adelantar para que en su
+defecto si es la consideración de los honorables miembros de esta
+Comisión que lo hagamos de forma inmediata para poder al menos
+tener una hora de iniciación de este debate y continuar una próxima
+sesión, o tomar la decisión por parte de los miembros que es la
+máxima autoridad de la comisión, la plenaria, de la Comisión Sexta de
+Cámara en decidir si aplazamos o no. Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:31:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Sigue la discusión de aprobar el orden del día, yo igual que el
+Representante Diego Patiño aquí nos hemos pronunciado sobre las
+ausencias de los funcionarios, pero yo veo aquí que no hay ausencia,
+viene como se llama ese regente o gerente, presidente,, director que
+está encargado por decreto, está en la institución, yo por eso le he
+dicho al compañero Wilson, yo estoy interesado en los temas del
+SENA, yo estoy preocupado por el SENA, porque usted sabe que
+hemos defendido al SENA, todos defendemos al SENA, todos aquí
+queremos mirar cómo está funcionando el SENA, ya si quiere que este
+Gina y los problemas son personales yo siempre lo he dicho con
+respeto busquen otro espacio, pero aquí yo quisiera mirar el debate
+de lo del SENA, como esta su presupuesto, si están llegando los
+recursos y si los funcionarios, si el funcionario que está encargado nos
+satisface todas esas inquietudes yo digo que bienvenido el debate de
+control político, yo si invito a los compañeros que decidamos antes de
+proseguir porque lo que ustedes decidan así se hará. Tiene la palabra
+Carlos Amaya.</p>
+						</speech>
+						<speech by="#hr-carlos-andres-amaya-rodriguez" startTime="2013-10-02T10:31:20">
+							<from>H.R. Carlos Andres Amaya Rodriguez</from>
+							<p>Presidente gracias, vea yo, yo creo que no hay que dejar en el
+ambiente, ningún tipo de dudas que el tema del SENA es un tema
+personal de Wilson con Gina, desde ningún punto de vista podemos
+aceptarlo, yo creo que yo soy testigo y todos somos testigos acá
+doctor Jairo y Presidente que las peleas que ha dado Wilson que
+además de ser parte de su historia de vida, son siempre peleas
+institucionales con el anterior, director, con cualquier, director estoy
+seguro que Wilson exigiría las mismas cosas y haría los mismos
+debates, el problema no es personal con Gina, ella si lo ha vuelto
+personal por demás, y así sale a decir en la radio que es que Wilson
+la quiere estigmatizar, que la secuestraron, que, y eso es lo que hay
+que debatir en esta Comisión, porque la doctora Gina es muy
+mediática, ella tiene muy buenos amigos en los medios de
+comunicación, y por supuesto vuelve una discusión de fondo
+sustantiva frente al funcionamiento del SENA en una discusión de si la
+secuestraron o no, o si Wilson mando una carta o no, y eso es lo que
+creo que hay que discutir acá, por eso la importancia de que este la
+directora del SENA en propiedad.
+Yo no subvaloro la presencia del, director encargado, le agradecemos
+mucho su presencia, pero usted entenderá que la discusión tiene que
+darse con la persona que está al frente de la institución y Presidente
+con este argumento nosotros en otras ocasiones no hemos aceptado
+excusas ni a encargados, no entiendo porque aquí si vamos a
+aceptarlo, es decir, si quiere le recuerdo ministerio de Transporte,
+Gestión del Riesgo, cuantas veces aplazamos el debate, pero que hay
+que aplazarlo, enviarle una carta a la, directora del SENA y decirle que
+la necesitamos a ella, es más si quiere esto no se debía hacer pero
+enviémosle una carta diciéndole, cuándo puede doctora Gina venir a
+la Comisión, que no debería ser, porque es que ella fue Congresista
+como nosotros y ella sabe la obligación constitucional, legal de que
+vengan los funcionarios a este organismo como ente de control en
+representación del pueblo colombiano, debería estar acá, pero en el
+entendido que somos buena gente, porque en otras circunstancias
+pasamos ya mismo doctor Wilson Gómez una proposición de no
+aceptarle la excusa y que empiece a transitar la moción de censura,
+pero no vamos a ser extremistas, pero por lo menos si que la doctora
+Gina Parodi venga y a usted como Presidente le pedimos y le pido
+particularmente, personalmente, como integrante del Partido Verde,
+hoy por fin, tranquilo, independiente que por favor, Presidente de la
+alianza verde, no señor esta es una alianza entre el partido Verde y
+Progresistas no es Peñaloza - Petro, están equivocados los medios
+que han dicho eso, pero si estamos por fuera de la unidad nacional y
+hoy doctor, señor Presidente si quiero pedirle como integrante de esta
+Comisión, de parcero, de colega, que por favor aplacemos este debate
+hasta que la señora venga y concretemos una comisión donde la
+señora Gina Parody este acá. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:31:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Buenos, tres cosas para continuar. Yo no decido, aquí decidimos
+todos; Segundo, usted me va a dar la razón porque esto es
+institucional, usted me la da esa razón, este es un problema
+institucional, aquí esta; tercero, aquí no hay excusa, sino se leería, hay
+excusa señor secretario (NO), no, aquí no hay excusa, caso muy
+diferente a los demás debates de control político donde si ha habido
+excusa y envían un delegado y él se excusaba y en ese caso no la
+hemos leído, por eso lo decide la, no, yo tengo que ser con lo que está
+en la realidad, Wilson y Carlos, con lo que esta, es lo que decida la
+mayoría, si la mayoría decide aplazarlo yo no veo problema, lo
+volvemos y lo programamos pero no podemos confundir esas dos
+situaciones que se han dado, aquí está la persona encargada de la
+entidad, no ha sido delegada por la, Directora, por eso no hay excusa
+de ella, seguimos con la discusión, aviso que va a cerrarse, queda
+cerrada, lo aprueba, votación nominal señor Secretario. Primero el
+aplazamiento, que es la solicitud del compañero Wilson Arias y de
+Carlos Amaya.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:31:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>AMAYA RODRIGUEZ CARLOS ANDRES
+ARIAS CASTILLO WILSON NEBER
+BARRERA GUTIERREZ LUIS GUILLERMO
+GIRALDO ARBOLEDA ATILANO ALONSO
+NARANJO ESCOBAR DIEGO ALBERTO
+ORTEGA SAMBONI JAIRO
+PATIÑO AMARILES DIEGO
+PINTO HERNANDEZ MIGUEL ANGEL
+QUINTERO TRUJILLO JAIRO
+TAVERA AMADO DIDIER ALBERTO
+VASQUEZ VILLANUEVA SILVIO
+YEPES MARTINEZ JAIME ARMANDO
+Señor, Presidente de acuerdo a la proposición presentada y solicitud
+que hizo el Representante Wilson Neber Arias Castillo, la votación por
+el SI, es por unanimidad, 12 votos, en consecuencia queda aplazado
+el debate con la, directora del SENA.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:31:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Antes de continuar con el orden del día, tiene la palabra el
+Representante Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2013-10-02T10:32:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Gracias Presidente. Para dos cosas, de una parte la encomienda a
+Carlos Amaya, la encomienda de un debate sobre el debate de la
+educación superior que había pedido el Partido Verde y que yo había
+respaldada y para dejársela planteada señor Presidente que nos
+colabore con la programación, creo que ya fue sometida a
+consideración, de modo que podría ser muy útil inclusive para
+diversificar varios debates que tenemos; y lo segundo Presidente es
+una licencia un poco personal, quiero informar presidente que a pesar
+de las graves amenazas de que he sido objeto a raíz de los debates
+de tierras y del compromiso que ha hecho la unidad de protección, el
+doctor Villamizar me visito en mi oficina y concordamos en la
+necesidad de aumentar el esquema de protección, entonces eso es
+muy deplorable Presidente, en estos momentos han tenido que pedir
+exilio varios periodistas que recientemente han sido asesinados y en
+general los organismos de inteligencia del Estado nos abordan para
+hablar de la gravedad de las amenazas.
+Quiero denunciar frente al país que pese a ello dos semanas doctor
+Jairo, en este momento no he tenido ninguna modificación al esquema
+de protección, dejo en responsabilidad del doctor Villamizar y del
+doctor Aurelio Iragorri, la circunstancia y el riesgo de mi vida diciéndole
+al país que no se ha producido modificación alguna y que lo sepa el
+país, hay una situación absolutamente precaria de mi esquema de
+protección, al punto que el vehículo en estos momentos Presidente no
+funciona. Entonces para dejarle dicho a mis colegas pero de este
+modo también al país de la responsabilidad que cae en la Unidad de
+Protección doctor Villamizar y en el Ministerio del Interior, doctor
+Aurelio Iragorri, por las circunstancias de mi vida. Gracias presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:32:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Señor Secretario por secretaria hacer un oficio donde nos
+solidarizamos con el compañero Wilson Arias, y rechazamos esas
+amenazas y requerimos al doctor Villamizar para que le sea reformado
+su esquema de seguridad, sea reforzado y le brinde toda la protección
+que merecemos todos los Congresistas que hemos estado en esta
+situación de amenazas injustas, ojala sea para hoy, para enviar eso
+hoy inmediatamente al doctor Villamizar y reprogramaremos.
+Continúe con el orden del día señor Secretario, reprogramaremos
+porque también dentro de 8 días estaba la malla vial del Valle y ojala
+nos quedemos, eh perdón de todo Colombia, un debate que ha
+solicitado la representante Juana y Ciro pero parece ser que la
+Ministra esta por fuera del país, entonces vamos, eso nos atrasa las
+agendas ahí lo programaremos la suya, está pendiente la seguridad
+vial, está pendiente educación superior, está pendiente lo del
+presupuesto del ICETEX, está pendiente un debate sobre las
+investigaciones en la Universidad Santiago de Cali, unas posibles
+irregularidades, está pendiente lo del tema de seguridad social y
+también un informe de las subcomisiones que se han formado para el
+tema de las tarifas de acueducto y alcantarillado, el Código Nacional
+de Transito, ICETEX, ICETEX también hay una subcomisión para que
+trabajemos por un buen presupuesto para el próximo año y esa ley
+que aprobamos aquí de iniciativa del compañero Wilson Gómez pues
+no se vea truncada y quede en el papel, sino porque si no hay
+presupuesto para prestarle a los jóvenes para acceder a la educación
+superior pues no hacemos nada. Continúe con el orden del día señor
+secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:32:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente púes para también recordarles a los congresistas
+que por intermedio de secretaria allá se le enviaron unas propuestas
+del ICETEX con el fin de que la Comisión Sexta sea solidaria y
+defienda el presupuesto del ICETEX ahora cuando se empiece a
+debatir en segundo debate la ley de presupuesto. Señor Presidente
+pues agotado el orden del día, el doctor Arturo Fernando Rojas Rojas
+está encargado de las funciones del despacho del, Director General del
+SENA, según Decreto 1998.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:32:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Bueno registramos la presencia del doctor Fernando Rojas entonces
+ya sabe la decisión de la comisión, y que próximamente le estaremos
+avisando y oportunamente, todavía no programemos para el martes o
+miércoles, ahora agendamos con el Vicepresidente para que le
+hagamos llegar por correo si vamos a sesionar proyectos para el
+martes o un debate político para el miércoles.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:32:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente también para recordarles que la ley de presupuesto
+siempre se gasta dos semanas y como hay tiempo límite para aprobar
+la ley de presupuesto que es el 20 de octubre y el 20 de octubre cae
+domingo, entonces me imagino que la próxima semana irán a sesionar
+en la plenaria el presupuesto tanto en la semana del 14 como la
+semana del 17, perdón la semana del 10 como la semana del 17.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:32:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Precisamente señor Secretario, por eso no mencionamos que vamos a
+trabajar martes o miércoles porque estamos pendientes del Presidente
+de la Cámara, doctor Iván Penagos de cuándo es que se van a debatir
+allá, si van a citar desde las 10, o desde las 9 o desde las 12 y eso
+pues prioriza sobre cualquier debate o cualquier proyecto de ley que
+se vaya a tramitar en las comisiones, agradecimiento a todos las
+personas que vinieron me imagino que desde el SENA. Muchas
+gracias por asistir pero ya nos entenderán. Continúe señor secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-02T10:33:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-02T10:33:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se levanta la sesión siendo las diez y cincuenta y cinco minutos de la
+mañana (10:55 a.m.) y convocamos posteriormente.
+JAIRO ORTEGA SAMBONI                 DIDIER ALBERTO TAVERA AMADO
+Presidente                            Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO         JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                            Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

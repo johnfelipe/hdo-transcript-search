@@ -1,0 +1,1409 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo-sastoque" id="hr-josé-edilberto-caicedo-sastoque" showAs="H.R. José Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luis-guillermo-barrera-gutiérrez" id="hr-luis-guillermo-barrera-gutiérrez" showAs="H.R. Luis Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andrés-amaya-rodríguez" id="hr-carlos-andrés-amaya-rodríguez" showAs="H.R. Carlos Andrés Amaya Rodríguez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hs-juan-lozano" id="hs-juan-lozano" showAs="H.S. Juan Lozano"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias-castillo" id="hr-wilson-neber-arias-castillo" showAs="H.R. Wilson Neber Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez-villanueva" id="hr-silvio-vásquez-villanueva" showAs="H.R. Silvio Vásquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="2281-acta-51-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>Mayo</heading>
+					<debateSection>
+						<heading>ACTA NO. 51 / 2012-05-15</heading>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2012-05-15T10:00:00">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>Sírvase señor
+Secretario llamar a lista para verificar el quórum.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:00:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>NOMBRE PRESENTE AUSENTE EXCUSA
+AGUDELO ZAPATA IVAN DARIO
+AMAYA RODRIGUEZ CARLOS ANDRES
+ARIAS CASTILLO WILSON NEBER
+BARRERA GUTIERREZ LUIS GUILLERMO
+CAICEDO SASTOQUE JOSE EDILBERTO
+GIRALDO ARBOLEDA ATILANO ALONSO
+GOMEZ VELASQUEZ WILSON HERNANDO
+LONDOÑO JARAMILLO JUANA CAROLINA
+NARANJO ESCOBAR DIEGO ALBERTO
+ORTEGA SAMBONI JAIRO
+PATIÑO AMARILES DIEGO
+PINTO HERNANDEZ MIGUEL ANGEL
+QUINTERO TRUJILLO JAIRO
+RODRIGUEZ PINZON CIRO ANTONIO
+ROLDAN AVENDAÑO JHON JAIRO
+TAVERA AMADO DIDIER ALBERTO
+VASQUEZ VILLANUEVA SILVIO
+YEPES MARTINEZ JAIME ARMANDO
+Tenemos quórum decisorio, señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:00:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Sírvase dar lectura al orden del día para la presente sesión señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:00:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2011 al 20 de junio de 2012
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2012-05-15T10:00:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 15 de mayo de 2012
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Ponencias para Primer Debate a los siguientes proyectos de ley:
+1. Proyecto de Ley No. 035 de 2011 Cámara, “POR LA CUAL SE CREAN INCENTIVOS QUE
+CONTRARRESTEN LA DESERCIÓN ESTUDIANTIL EN COLOMBIA - LEY ANTIDESERCIÓN”.
+Autores: H.R. DIEGO ALBERTO NARANJO ESCOBAR
+Ponentes: H.R. IVAN DARIO AGUDELO ZAPATA (Ponente Coordinador), LUIS
+GUILLERMO BARRERA GUTIERREZ, CARLOS JULIO BONILLA SOTO, Y
+SILVIO VASQUEZ VILLANUEVA.
+Publicación: Gaceta P.L. No. 567/11 - P.P.D.C. No. 225-12
+2. Proyecto de Ley No. 163 de 2011 Cámara, 007 de 2010 Senado acumulado con el P.L No. 114
+de 2010 Senado, “POR LA CUAL SE MODIFICA LA LEY 769 DE 2002 Y LA LEY 1383 DE 2010 EN
+TEMAS DE EMBRIAGUEZ Y REINCIDENCIA Y SE DICTAN OTRAS DISPOSICIONES”.
+Autor: HH.S. . CARLOS ALBERTO BAENA Y JUAN LOZANO RAMIREZ
+H.R. GLORIA STELLA DIAZ
+Ponente: H.R. JOSE EDILBERTO CAICEDO SASTOQUE
+Publicación: Gaceta P.L. No. 457/10, P.P.D.S. 995/10, PSDS 785/11
+Texto Definitivo Aprobado en Plenaria de Senado Gaceta No. 941/11
+P.P.D.C. Gaceta No. 203-12
+3. Proyecto de Ley No.099 de 2011 Cámara - 056 de 2010 Senado “POR MEDIO DE LA CUAL SE
+MODIFICAN LAS LEYES 769 DE 2002 Y 1383 DE 2010 “CODIGO NACIONAL DE TRANSITO” Y
+SE DICTAN OTRAS DISPOSICIONES”.
+Autor: H.S. JAVIER CACERES LEAL
+Ponente: H.R. WILSON NEBER ARIAS CASTILLO
+Publicación: GACETA P.P.D.C. No. 216-12
+Nota: Las ponencias de estos proyectos se encuentran publicadas en la página web “ (comisión
+sexta).
+III
+Anuncio de Proyectos de Ley, de conformidad con el artículo 8º. del Acto Legislativo No. 01, del 3
+de julio de 2003, los cuales se discutirán y votarán sus respectivas Ponencias para Primer Debate,
+en la próxima Sesión.
+IV.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:00:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JOSE EDILBERTO CAICEDO SASTOQUE DIEGO ALBERTO NARANJO ESCOBAR
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario”
+Leído el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:01:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Presentamos un afectuoso saludo hoy a los maestros en el día del maestro, a todos
+los educadores de Colombia, felicitaciones y nuestro compromiso por la educación pública, por la
+defensa de la formación de la formación de nuestros jóvenes, de nuestros niños y de las futuras
+generaciones.
+Se pone en consideración el orden del día que se ha leído, me pide el Representante Wilson Neber
+Arias que modifiquemos el orden del día, solicita que cambiemos el tercer punto del orden del día
+y pase a ser primero.
+En consideración el orden del día con las modificaciones propuestas, se abre la discusión, continúa
+abierta, anuncio que se va a cerrar, queda cerrada. ¿Lo aprueba la Comisión Sexta?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:01:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:01:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continuamos con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:01:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Segundo punto del orden del día, ponencia para primer debate Proyecto de Ley
+No.099 de 2011 Cámara - 056 de 2010 Senado “POR MEDIO DE LA CUAL SE MODIFICAN LAS
+LEYES 769 DE 2002 Y 1383 DE 2010 “CODIGO NACIONAL DE TRANSITO” Y SE DICTAN OTRAS
+DISPOSICIONES”.
+La proposición con que termina el informe de ponencia es la siguiente, señor Presidente: “Con
+fundamento en las razones anteriormente expuestas propongo a la Honorable Comisión Sexta de
+la Cámara de Representantes, dar primer debate al Proyecto de Ley No. 056 de 2010 Senado - 099
+de 2011 Cámara “POR MEDIO DE LA CUAL SE MODIFICAN LAS LEYES 769 DE 2002 Y 1383 DE 2010
+“CODIGO NACIONAL DE TRANSITO” Y SE DICTAN OTRAS DISPOSICIONES”, con la modificaciones
+que se adjuntan”.
+Cordialmente, firmado Wilson Neber Arias Castillo, ponente.
+Someta a consideración señor Presidente, la proposición con que termina el informe de ponencia
+para primer debate.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:01:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración la proposición con que termina el informe correspondiente al
+Proyecto de Ley No.099 de 2011 Cámara - 056 de 2010 Senado “POR MEDIO DE LA CUAL SE
+MODIFICAN LAS LEYES 769 DE 2002 Y 1383 DE 2010 “CODIGO NACIONAL DE TRANSITO” Y SE
+DICTAN OTRAS DISPOSICIONES”, sigue en consideración, tiene el uso de la palabra el
+Representante del departamento de Risaralda y Vicepresidente de la Comisión Sexta, Diego
+Naranja.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:01:50">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Gracias señor Presidente.
+Primero muy buenos días, Presidente es que tengo una inquietud respetuosa para los ponentes de
+estos proyectos. Aquí se viene discutiendo la reforma al Código de Tránsito, el Código de Tránsito
+viene en la agenda de la Comisión Sexta, tendrá que estar ahorita o si no el próximo 20 de julio.
+Aquí hablábamos en la Comisión la semana pasada que el Código de Tránsito tiene una debilidad
+inmensa y es que cada dos o tres o cuatro meses se le cambia uno, dos o tres artículos, y habíamos
+dicho que era muy bueno que esta Comisión se apersonara de la necesidad de que hubiese una
+reforma al Código de Tránsito, integral, además hablamos de la necesidad de que se pudiera
+hablar de tránsito y transporte por separado en un buen Código, se hizo una audiencia que usted
+convocó señor Presidente y yo sugeriría de manera respetuosa que tuviéramos en cuenta y si
+miramos los textos y lo que se está proponiendo, hoy esos textos y esos cambios que se están
+proponiendo están en el articulado que está proponiendo el Ministerio de Transporte en el
+proyecto 153, si no estoy mal.
+Yo estuve revisando y existen los mismos artículos, o sea el ministerio como lo hemos dicho,
+recogió una serie de inquietudes, hizo un cuerpo y nos lo pasó a nosotros y además existe otro
+proyecto del cual yo soy autor y la idea es que sobre una sola estructura se pueda construir todo
+un proyecto que le permita realmente al gremio, al país y a los ciudadanos tener un Código de
+Tránsito que no esté modificado por artículos solamente y en pequeños periodos. Yo sugeriría
+escuchar a los ponentes de manera respetuosa pero si dejar la inquietud de que deberíamos
+nosotros, respetando la ponencia, yo se que vienen algunas autorías del Senado, pero yo pienso
+que la Comisión necesita asumir ese liderazgo en ese proceso y poder de una manera decirle al
+gobierno, venga si es que aquí hay una propuesta del gobierno de modificar el Código de Tránsito,
+pues venga, no se señor Secretario cual sería el mecanismo pero estos proyectos no tendrían, con
+todo respeto, la posibilidad de entrar cuando el Gobierno hoy quiere y tiene estructurada una
+propuesta ante la Comisión Sexta para que se debate una reforma estructural, vuelvo y repito, y
+definitiva que le de garantías jurídicas al sector y que no estemos nuevamente en un costo plazo
+cambiando otra vez, uno, dos o tres artículos.
+En ese sentido yo si pediría que discutiéramos la situación aquí y que pudiéramos entre todos
+tomar una decisión, yo pensaría que no es conveniente que esto se de sino que pudiéramos
+integrar esto al proyecto que tiene presentado el Gobierno y que igual está también presentado
+por nosotros y que es la Comisión Sexta la debe asumir el liderazgo en este tema. En ese orden,
+Presidente yo pediría que no se votaran estos proyectos de modificación sino que lo pudiéramos
+coordinar y unificar en el proyecto de ley que es el número 153 que está en trámite y que si no
+surte el trámite ahora, lo debe surtir el próximo 20 de julio en la próxima legislatura. En ese
+sentido, Presidente muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:02:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Antes de darle la palabra al coordinador ponente del Código Nacional de Tránsito
+que presenta el Gobierno, digamos que en mi condición de Presidente voy a hacer una aclaración
+frente a la apreciación del Vicepresidente Diego Naranjo, yo estoy de acuerdo en que de una vez
+por todas tengamos una estructura, no de colcha de retazos del Código Nacional de Tránsito sino
+una estructura integral que recoja muchos aspectos. En la sesión pasada por ejemplo hablaba el
+Representante Iván Darío Agudelo del tema de los patios, que no hay reglamentación dentro del
+Código de Tránsito actual, pero también quiero poner sobre la mesa un tema que tiene que
+resolver la plenaria de esta Comisión y es que hay unos proyectos que vienen desde antes de que
+el Gobierno presentara el proyecto de Código de Tránsito y que en la medida en que inclusive esta
+Comisión presentó un proyecto por todos los Honorables Representantes liderados aquí por la
+iniciativa también de Diego Naranjo, a renglón seguido el Gobierno presentó el proyecto de
+Código Nacional de Tránsito.
+Estando de acuerdo en que vale la pena hacer un proyecto, de todas maneras debo dejar sobre la
+mesa que hay proyectos como el que presenta el Senador Juan Lozano que viene a debate en
+Cámara en el día de hoy también, junto con el que hoy también es ponente el Representante
+Wilson Arias, que vienen desde antes que se presentara el Código. Entonces si se acoge por parte
+de esta Comisión una decisión en tal sentido, no podría ser una decisión para frenar estos
+proyectos de ley y también frenar el Código de Tránsito, porque entonces nuestra función cual
+sería, si hay una decisión de la plenaria de esta Comisión en materia de no aprobar proyectos de
+ley que regulan pedacitos del Código Nacional de Tránsito, pues entonces yo le pediría al
+coordinador ponente que acelere el tema y que presente la ponencia respectiva y que incorpore
+todo lo que está en estos proyectos separados para que queden dentro del Código Único Nacional
+de Tránsito, pero no podemos un proyecto que lleva casi un año en debate desde el Senado,
+matarlo aquí porque apenas vamos a darle trámite al proyecto de Código de Tránsito que presenta
+el Gobierno, es decir, yo un poco le pongo sobre la mesa al coordinador ponente ese tema y a
+quienes somos ponentes de ese proyecto.
+Yo por lo menos en mi calidad de ponente ya convoqué a la audiencia, que fue exitosa además y
+que ustedes tanto el coordinador ponente como el Representante Diego Naranjo que maneja muy
+bien estos temas participaron y creo que hubo bastante apoyo y bastante intervención del sector
+privado en esa materia y ya diríamos que se ha dado un paso en el tema de la concertación del
+proyecto de ley. Entonces no se en ese sentido qué agenda tiene pensado el coordinar ponente,
+para saber, tenemos un mes y en un mes tenemos todas las condiciones para que podamos sacar
+adelante este tema y recoger lo que haya que recoger. Coordinador ponente tiene el uso de la
+palabra.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:02:10">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Gracias señor Presidente, a usted y a la Mesa Directiva y a
+los compañeros un afectuoso saludo.
+Como bien lo manifiesta usted, por designación de la Mesa Directiva yo soy el coordinador
+ponente de este importante proyecto de ley, proyecto de ley número 153 que reforma el Código
+de Tránsito.
+En efecto Presidente, en la propia audiencia usted pudo escuchar el reclamo de todos los gremios,
+de que ellos quieren seguridad jurídica en el tema de la normatividad en aspectos de tránsito en
+este país y usted como el doctor Diego Naranjo han explicado que este proyecto de ley en
+discusión, pues trae consigo modificar la Ley 1383 de 2010, pero a su vez esa ley 1383 modificó la
+ley 769 de 2002.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:02:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Perdón, le solicito silencio por favor a los asistentes.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:02:30">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Eso para significarle Presidente que desde el año 2002 a la
+fecha el Código de Tránsito ha sufrido más de 18 reformas y aquí lo que estamos encontrando es
+precisamente es otra reforma a la Ley 1383 que modificó a su vez la Ley 769. Luego la propuesta
+tanto del doctor Diego Naranjo como su propuesta son absolutamente conducentes, nosotros
+podríamos en el proyecto de ley 153, casi que recoger el contenido de estas dos iniciativas que
+están entre otras cosas, en el orden del día de la presente sesión y poder entonces unificar toda
+esta normativa en temas de tránsito y darle realmente a este país una seguridad jurídica en este
+aspecto.
+Luego yo respetuosamente también le sugiero tanto al coordinador ponente como a los ponentes
+de este proyecto, que ojalá nos permitiesen que estas dos iniciativas pudiesen contemplarse
+también en el proyecto de ley 153 y que tuviésemos realmente un único Código Nacional de
+Tránsito. Seguramente usted también lo ha significado, hoy también se dará alguna discusión en
+cuanto respecta a una modificación al Código Penal y al Código de Procedimiento Penal, referido a
+los conductores en estado de embriaguez, la iniciativa que se está estudiando, que viene del
+Senado, de alguna manera no concuerda con la propia iniciativa de gobierno en cuanto respecta a
+las propias sanciones y a los propios contenidos de alcohol en sangre para los conductores en
+estado de embriaguez, por ello también en la plenaria vamos a solicitarle que en lo posible guarde
+coherencia la propuesta que viene en el proyecto de ley y de Código Penal y de Procedimiento
+Penal con respecto al propios Código de Tránsito, y lo propio ocurre aquí Presidente.
+Luego, concluyendo, la solicitud respetuosa al señor coordinador ponentes y a los ponentes de
+este proyecto de ley o de estos proyectos de ley, porque entiendo que son dos, es que
+pudiésemos incluir estas iniciativas en el Código Nacional de Tránsito para que tengamos una
+única norma que nos regule en el país en este aspecto, Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:02:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Coordinado, ¿usted tiene agenda en esta legislatura para ese tema o no?.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:02:50">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Quería significarle que estamos trabajando en ello, que así
+como se desarrolló la audiencia con participación activa de muchos de los gremios, venimos
+desarrollando algunas reuniones permanentes con los diferentes gremios del transporte, hemos
+venido trabajando con los asesores de los Honorables Representantes en sus unidades de trabajo
+legislativo, algunos Representantes han sido juiciosos, acuciosos a través de sus unidades de
+trabajos legislativo. Otros no, tengo que significarle Presidente, así que yo reclamaría un poco más
+de cooperación de parte de los ponentes, hemos avanzado con el Gobierno Nacional, acá están
+algunos asesores del ministerio que dan testimonio de ello, yo he venido avanzando a través de
+mis asesores y de algunos de los asesores, del doctor Didier Tavera también ha estado trabajando,
+el doctor Wilson Arias también ha estado trabajando con su asesor, tengo entendido que el doctor
+Carlos Amaya también, en lo posible para que podamos cumplir con ese cometido que usted fijó
+Presidente de entregar en este periodo la ponencia a este proyecto trascendental para el país,
+nosotros tenemos una gran responsabilidad, lo explicaba en una sesión anterior, el número de
+muertos del año inmediatamente anterior supera la cifra de los 5.500 muertos en accidentes de
+tránsito, tenemos lesionados que superan la cifra de los 39.000 el año inmediatamente anterior y
+creo que hay una inmensa responsabilidad desde esta Comisión, que al fin y al cabo por su
+naturaleza se encarga de estos asuntos.
+Luego Presidente, yo le rogaría que por su intermedio los señores compañeros congresistas,
+ponentes de este proyecto de ley, bien de forma directa o a través de sus asesores nos ayuden a
+poder rendir ponencia a la mayor brevedad, pero venimos trabajando juiciosos Presidente, con los
+diferentes gremios, con el Gobierno y obviamente escuchando también las posiciones de los
+compañeros congresistas en este aspecto sustancial de la reforma al Código Nacional de Tránsito
+Terrestre.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:03:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Mire los ponentes de ese proyecto son: El coordinador ponente Luis Guillermo
+Barrera y por voluntad de participación, varios de ellos de los otros partidos se vincularon, Diego
+Patiño, Jairo Ortega, Diego Naranjo, Ciro Rodríguez, José Caicedo, Wilson Neber Arias, Carlos
+Andrés Amaya, Atilano Alonso Arboleda y Jairo Quintero Trujillo. Es decir, media Comisión está
+como ponente de este proyecto de ley.
+Muy importante que todo gire alrededor del coordinador ponente, entonces usted da una línea,
+me informa coordinador y notificamos a los ponentes del tema para que puedan allegarse todas
+las apreciaciones a la coordinación o si hay otras ponencias contrarias, pues que se dé. A mí lo que
+me preocupa realmente es que ese proyecto se dilate y no lo alcancemos a sacar en esta
+legislatura y entonces nos quedemos, si me permiten una expresión que decía mi mamá “nos
+quedamos sin el pan y sin el queso”. Me parece importante que se asuma una responsabilidad por
+parte de la Comisión, tiene el uso de la palabra el Representante Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2012-05-15T10:03:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente. Yo avalo la proposición del compañero Diego
+Naranjo, yo también creo que no podemos permitir que se siga desgranando más esa ley del
+Código Nacional de Tránsito, todo el que se inventa algo o sugiere algo de buena fe, creo que es
+sano, pero no, yo creo que es el momento coordinador ponente, que recojamos todo eso que
+anda suelto y lo plasmemos y concertemos con el Gobierno, porque en realidad no es bien visto
+que cada legislatura, cada mes, cada Senador, Cara Representantes, hombre que vengan las ideas
+acá que es la Comisión respectiva y que hoy en día se está tramitando una reforma a ese código,
+presentada por el Gobierno, pues es buena idea que nosotros lo unifiquemos todo. Aquí acaba de
+haber una ley del año 2010 que modificó la 769 de 2002 y ahora vuelve otro por un artículo,
+porque no entró un sector para regularlo, hombre aprovechemos el tiempo ahora y hagamos una
+reforma integral.
+Yo me sumo a ese aplazamiento Presidente, para que el coordinador ponente reúna todos estos
+proyectos de ley que andan en Senado y Cámara y los podamos integrara a una verdadera
+reforma. Igual, el que sigue ahora de tercero, el que habla de la embriaguez, el que habla de la
+reincidencia, eso ya está en el Código, qué culpa tenemos que aquí los legisladores aprueben las
+leyes, el Gobierno las sancione pero las autoridades administrativas no lo apliquen, eso ya está, el
+que es residente para los grados de alcoholemia, eso ya está, que allá llegan algunas personas o
+los tramitadores y sacan los vehículos o los funcionarios no tienen la debida diligencia para aplicar
+la ley, donde tienen que sancionar, donde tienen que suspender, donde tienen que sancionar la
+licencia, pues ahí están los órganos de control, lo que pasa es que no se aplica la ley.
+Entonces hay cosas que no tienen razón de ser, yo aquí acabo de leer el otro proyecto y está
+hablando de los mismos que ya está aprobado aquí, que ya hay una ley.
+Entonces, yo creo que es un desgaste legislativo y no podemos caer en ese juego Presidente. Yo
+me sumo entonces a esa proposición, pasémosla por escrito Representante Diego, un
+aplazamiento para que nuestro coordinador ponente de esa reforma al Código Nacional de
+Tránsito Terrestre, pues recoja todos estos proyectos de ley, todas estas sugerencias que están
+caminando y formemos uno integral. Muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:03:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Representante. Tiene el uso de la palabra el Representante Wilson
+Arias, coordinador ponente.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias-castillo" startTime="2012-05-15T10:03:30">
+							<from>H.R. Wilson Neber Arias Castillo</from>
+							<p>Muchas gracias Presidente.
+Presidente yo creo que tiene la razón la Comisión en general en que si estamos próximos a hacer
+una modificación integral, obtienen menos justificación las reformas parciales, yo creo que es un
+valor y en eso deberíamos ponernos de acuerdo y lo comparto, creo que en general deberíamos
+hacer el esfuerzo, además para que la Comisión cobre protagonismo, importancia. No se trata de
+celos con otros sectores, con otras comisiones, es decir en este caso por ejemplo se trata de
+alguien del Senado muy acucioso y no es por competirle a la Comisión Sexta del Senado, digamos
+que la Comisión tiene derecho a intentar, que al otorgar seguridad jurídica a los distintos agentes
+que no solamente a los que proveen los servicios, digamos la totalidad de ellos se haga un
+proyecto integral, estructurado, discutido, de cara al país y mucho más cuando ha habido
+esfuerzos tan importantes que se han invertido, lo que aquí se ha señalado es razón suficiente
+para declinar varios proyectos, yo pienso.
+A mi solo asalta algo y es la única razón que encuentro para insistir que podríamos discutir, veo
+una diferencia en relación con lo que se ha planteado, por ejemplo el doctor Jairo Ortega Samboni
+plantea con toda razón el tema del estado de embriaguez y las consecuencias jurídicas,
+disciplinarias, en fin, está regulado varias veces, ha sido modificado a través de toda la historia y es
+vedad, ahí tenemos una legislación y uno podría pensar que la modificación no fuere, siendo
+urgente en general todo lo que modifiquemos, porque lo que se eleve a canon de ley no puede ser
+secundario, pero dada la urgencia, se relativiza porque eso ya está legislado. Lo único que me
+preocupa doctor Luis Guillermo Barrera, doctor Jairo Ortega, doctor Diego Naranjo y apreciada
+Comisión es lo siguiente: en este caso la falta de legislación para un sector en particular,
+relativamente pequeño de la industria, pero es el de los cocheros que es el motiva realmente la
+modificación, como lo voy a explicar, si produce digamos, casi que una pérdida de industria en ese
+sector, es decir, el hecho de que no se le permita acceder por ejemplo a las pólizas, por no tener
+placa ese grupo en particular, que insisto es pequeño pero en términos sociales es muy justa su
+reclamación, prácticamente puede llevar en zonas de turismo a la desaparición y la queja de ellos
+es esa, la falta de placa para nosotros impide que accedamos a otros servicios, por ejemplo las
+pólizas y hoy por ellos que son tan pequeños vienen perdiendo aceleradamente muchos negocios
+en zonas turísticas que es casi que la que per se ellos deben atender.
+Entonces, los señalo compartiendo el razonamiento, creo que es un razonamiento serio,
+inteligente. Lo único que me preocupa es que el tiempo que demoremos está jugando en contra
+de un segmento que es un segmento relativamente popular y que me parece a mí merecería
+nuestra atención, es la única razón que encuentro, lo digo medidamente antes de discutirlo, sí
+podía hacerse pero en estos momentos están pasando las “verdes y las maduras” y hay una
+urgencia que fue la que señalaron en el Congreso y lamentablemente por cierta desidia nuestra
+apenas hasta ahora, digo no nuestra de esta Comisión sino legislativa, apenas hasta ahora está a
+punto de obtenerlo y un nuevo aplazamiento puede jugar muy en contra de ello.
+Pero de verdad que comparto el razonamiento de ustedes, yo invitaría a que miráramos este
+proyecto excepcionalmente, por esas estrictas razones, es decir; no conocía mucho del tema, les
+digo no ha sido pues como el tema de interés mío en la vida, pero digamos que las razones que
+han esgrimidas me han parecido que son perfectamente razonables y que podrían explicar que en
+este caso jugáramos por vía de excepción, compartiendo lo que aquí se ha dicho doctor Luis
+Guillermo Barrera. Gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:03:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el Representante Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2012-05-15T10:03:50">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, saludarlos a todos muy
+especialmente.
+Presidente yo quiero aunarme a lo que han expuesto los diferentes congresistas, pero creo que en
+vez de aplazar deberíamos darle el trámite y poder archivar las diferentes iniciativas que hay,
+diferentes a la reforma general que se está planteando, pero también hay que tener en cuenta
+que hay dos propuesta como reforma general, una de iniciativa de la Comisión Sexta en donde
+todos los integrantes de la Comisión son autores de este proyecto y otro que presenta el Gobierno
+Nacional. Deberíamos nosotros decidir de las dos propuestas que hay acá y las otras dos que están
+con ponencia también en la Comisión, decidir sobre un solo proyecto y poder nosotros archivas las
+otras tres iniciativas y darle celeridad a ese trámite del nuevo Código, y me gustaría que nosotros
+como Comisión Sexta donde todos somos autores de esta reforma le diéramos prelación a esta
+iniciativa de los congresistas con respecto a las otras tres iniciativas y así podamos nosotros en
+este periodo que nos hace falta, sacarla por lo menos en primer debate esta reforma al Código.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:04:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Para una moción le voy a dar el uso de la palabra al Representante Wilson Arias,
+pero me están informando aquí en mi UTL, que hay pésimo sonido, que no hay adecuado sonido
+en la señal, para que ustedes revisen ese tema allá en la consola, por favor.
+Representante Wilson Arias tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias-castillo" startTime="2012-05-15T10:04:10">
+							<from>H.R. Wilson Neber Arias Castillo</from>
+							<p>Presidente, un poco para facilitar el trámite, porque encuentro
+razón en todo lo que se ha dicho y me parece que es adecuado, hay razones muy poderosas y uno
+no debería existir si la hubiera. El doctor Luis Guillermo Barrera creo que acaba de ofrecer una
+solución concreta, ha dicho; estoy de acuerdo con la iniciativa, la Comisión en general no ha
+manifestado contrariedad a frente a ella sino frente al tema del trámite, de que este
+objetivamente si no entorpece por lo menos si dilata y resta interés del otro y lo hace menos
+integral. Yo me voy a permitir presentar la solicitud de archivo, en contrario de lo que había
+planteado, en atención a las razones que se han señalado, el doctor Luis Guillermo barrea muy
+solícitamente y con toda su letra me ha dicho que va el parágrafo, realmente es una parte muy
+pequeña y si la Comisión ayuda a que procedamos, creo que estemos teniendo una feliz solución
+pronta, además que es lo que más nos angustia.
+Presidente voy a presentar la propuesta sobre el compromiso que ya había planteado a los
+ponentes del otro proyecto.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:04:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Representante Luis Guillermo Barrera tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:04:30">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente.
+Yo le agradezco la deferencia que tiene el doctor Wilson Arias en atender esta solicitud que le
+hacemos quienes estamos trabajando en el proyecto de reforma al Código Nacional de Tránsito, le
+decía aquí al doctor Wilson Arias que por ejemplo, el proyecto en su artículo primero describe
+básicamente lo de coche turístico cuando en el artículo segundo del proyecto 153 al que estoy
+haciendo referencia, pues vienen las definiciones y ahí podemos perfectamente incluirlo, no
+contraviene en nada el proyecto de ley, el parágrafo. En cambio si mire que si lo dejamos allá
+suelto queda un absurdo, en un Código Nacional de Tránsito, por allá unas definiciones, unos
+parágrafos que sobran.
+Entonces, yo le agradezco mucho esa decisión que ha tomado el doctor Wilson Arias de retirar el
+proyecto en estudio y que podamos incluirlo en este Código Nacional de Tránsito, demando
+igualmente de ustedes, Representantes ponentes que por favor me colaboren a través de sus
+asesores, de las UTL para que ojalá esta semana, a más tardar, le he pedido al Presidente que me
+conceda diez días más, en diez días espero entregar la ponencia de este proyecto, que además no
+es fácil Honorables Representantes, estamos acumulando nueve proyectos de ley en este Código
+Nacional de Tránsito, eso quiere decir que el estudio ha sido riguroso y demando del
+acompañamiento y de la ayuda de sus asesores. Yo espero Presidente, ahora que se encuentra
+aquí al lado mío, en diez a más tardar entregarle la ponencia de este trascendental proyecto para
+el país, de la reforma al Código Nacional de Tránsito.
+Era eso Presidente, si la otra iniciativa que cursa aquí también y que es objeto de discusión en esta
+Comisión se puede retirar, sería fabuloso y la incluimos en el Código Nacional de Tránsito. Muy
+amable Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:04:40">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Tiene el:
+uso de la palabra el Representante José Edilberto Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2012-05-15T10:04:50">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>Muchas gracias señor Presidente.
+Digamos que pueden ser entradas en razón las apreciaciones pero debo dejar de todas maneras
+constancia de un tema y es que este proyecto de ley 007 de 2010 Senado - 114 de 2010
+acumulados y el 163 de 2011 Cámara “por el cual se modifica la Ley 769 de 2002 y la ley 1383 de
+2010, en temas de embriaguez y reincidencia y se dictan otras disposiciones”, es un proyecto qe
+viene desde el año 2010 en trámite.
+Yo, digamos, recibí una especial solicitud del Senador Juan Lozano de que le diéramos trámite a
+esto y la iniciativa primera venía concentrada fundamentalmente en el tema de incorporar el
+primer grado de alcoholemia dentro de las consideraciones para la suspensión de las licencias, lo
+que a mí me preocupa y debo dejar constancia Honorable Representante Luis Guillermo Barrera y
+es que aquí debe haber una decisión muy seria de esta Comisión en materia legislativa y es que el
+país está esperando por supuesto este proyecto de ley, uno pensaría en principio que esta es una
+voluntad exclusiva del Gobierno y uno podría decir que en ese sentido el Ministro Germán
+Cardona no ha tenido una expresión muy clara de que le interese este proyecto, valga decirlo, y no
+hemos visto que haya la intención y la persistencia y la preocupación porque esta Célula
+Legislativa le de trámite a ese proyecto, pero no obstante creo que el proyecto no es solamente
+iniciativa del Gobierno y que como bien lo ha dicho el coordinador ponente, pues este proyecto lo
+que está recogiendo es una cantidad de necesidades, de inquietudes, de exigencias de modernizar
+el sistema legislativo en esa materia y que no le corresponde solamente al ejecutivo tomar
+decisiones frente a ello.
+Entonces si hay siete, ocho, nueve o diez iniciativas del Legislativo que se están aglutinando y
+acumulando para poder sacar un único Código, esa no es una respuesta, el gobierno y no es una
+respuesta excluyente. Deberíamos por lo menos desde esa perspectiva adquirir un compromiso en
+esta Comisión, no de que somos unos Congresistas supremamente hábiles para frenar las
+actividades y las iniciativas de nuestros compañeros de Senado, como en este caso del Senador
+Juan Lozano, la Representante de MIRA Gloría Estela Díaz, etc., igualmente el creador del proyecto
+de ley, el ex senador Javier Cáceres, y que nosotros lo que hacemos acá es tener un quórum y una
+voluntad de frenar los proyectos que vienen de nuestros compañeros congresistas, sino que
+también tenemos una iniciativa de sacar adelante el proyecto de ley.
+Yo la verdad desde el principio, frente a la actitud del ministro y del Gobierno, pues había tenido
+también una actitud de estar a la expectativa de cual era la posición del Gobierno y el respaldo y la
+defensa que el Gobierno Nacional iba a hacer de este proyecto. Pero primero, no la veo muy clara
+por parte del ministerio, valga decirlo por parte del ministro de Transporte no veo que sea un
+proyecto prioritario, que este proyecto esté en la agenda de la Casa de Nariño y que esté en la
+agenda del ministerio de Transporte, no lo veo, pero en cambio si lo veo que este es un proyecto
+que está en la agenda del Congreso, que está en la agenda de muchos congresistas. Quisiera
+entonces dejar constancia primero frente al Senado que aquí hay una voluntad de sacar adelante
+este proyecto, pero en segundo lugar, que si vamos a frenar unas iniciativas que en el caso mío yo
+no propondría que votemos negativo sino que lo aplacemos y miremos el desarrollo durante este
+mes que nos queda, para saber si realmente vamos a avanzar en el proyecto del Código de
+Tránsito y que le trabajemos con ahínco en este tema y que aplacemos, no sé, esos diez días o
+quince este proyecto de ley hasta cuando nosotros entremos de frente a darle el debate sobre el
+Código que tiene la coordinación de ponencia del representante Luis Guillermo Barrera. Porque si
+no, nos convertimos en verdugos de los proyectos de la iniciativa legislativa y tampoco sacamos
+adelante los proyectos que están aquí listos en la Comisión Sexta, comparto, me está pidiendo una
+interpelación el Representante Luis Guillermo Barrera, pero comparto la posición del
+Representante Wilson Arias en el sentido que le compete a esta Comisión ser la que fije las
+políticas y las normas y las leyes en materia de tránsito en el país. Muchas gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:05:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Nos informan que el sonido ya está restablecido completamente. Para una
+interpelación tiene el uso de la palabra el Representante Luis Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:05:10">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Presidente gracias.
+Es que el señor Presidente, el doctor José Caicedo se ha referido a este proyecto que cursa
+también en esta Comisión y que tiene que ver con reformas sustanciales a la ley 769 de 2002 y a la
+ley 1383 de 2010. Note usted Presidente que el artículo segundo propuesto en esta iniciativa tiene
+que ver básicamente con algunas definiciones que están contempladas justamente en el artículo
+segundo del proyecto de ley 153, luego no tendría sentido darle cursos a este proyecto para que
+luego nosotros en el Código de Tránsito volvamos a incluirla, eso no tendría razón de ser. Yo creo
+que aquí tenemos una enorme responsabilidad con el país.
+Presidente, lejos de si el ministro está interesado o no en el tema, nosotros estamos interesados y
+teneos una responsabilidad frente a los colombianos de poder garantizarle seguridad jurídica
+sobre todo en este aspecto al país. Yo creo que esta iniciativa también, este proyecto de ley 114
+de 2010 Senado y 163 de 2011 Cámara, está recogido perfectamente en el proyecto de ley 153
+que hace referencia al Código Nacional de Tránsito, luego también yo les sugiero respetuosamente
+dos vías para que la Comisión tome la decisión o bien que se retiren esos proyectos o bien que se
+aplace el estudio de los mismos y el compromiso nuestro es poder entregar, a más tardar yo
+creería Presidente en 10 días la ponencia de este proyecto.
+Le repito que son más o menos nueve proyectos de ley que están recogidos en esta iniciativa, en el
+proyecto de ley 153, por ello demando de la cooperación también de ustedes compañeros
+ponentes para que podamos entregarle no solo a esta Comisión sino al país un verdadero Código
+de Tránsito Terrestre para los colombianos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:05:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bueno, para una moción de orden el Representante Diego Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2012-05-15T10:05:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>La pregunta es si ya está radicada en la Secretaría la proposición de
+archivo por parte del ponente.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:05:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ya está en Secretaría.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2012-05-15T10:05:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Someta a consideración la proposición señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:06:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el Representante Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias-castillo" startTime="2012-05-15T10:06:10">
+							<from>H.R. Wilson Neber Arias Castillo</from>
+							<p>Para lo siguiente Presidente: Yo creo que la Comisión gana en un
+ejercicio interno de tratar de escucharnos las razones y lo digo sencillamente porque pienso que la
+actitud del doctor Edilberto Caicedo es consecuente con el tema que se ha planteado. Una muy
+pequeña discrepancia, es normal que nuevos proyectos y sucesivos proyectos modifiquen los
+anteriores y ahí no radica la novedad de esta discusión, lo digo porque creí entender otra razón.
+No, lo que nos preocupa al doctor Edilberto Caicedo y mí es que tanto tiempo se va a producir un
+cambio más integral que justifique el aplazamiento de este, digamos que la angustia es esa.
+Porque lo que lo que ha dicho el doctor Edilberto Caicedo es verdad, no queremos seguir
+agregando a la colcha de retazos, pero en algunos asuntos que resultan cruciales, por ejemplo en
+este caso y lo reitero porque además el país está atento de él. En este caso se trata de proteger
+una industria que está virtualmente desmantelada, es decir, los señores cocheros de zonas
+turísticas dependen en buena medida de una póliza de esas para poder contratar con entidades
+del Estado, por decir algo, impedirles la plaquita es impedirle el acceso a la póliza, una especie de
+encadenamiento que hace difícil las cosas.
+De modo Presidente, que lo que queremos el doctor Edilberto Caicedo y mi persona en relación
+con algunos temas puntuales es que la Comisión y así lo he dicho a la Comisión en lo que
+celebramos, intentará acelerar el proyecto que viene en curso, con la finalidad de que podamos
+resolverlo y creo que la discusión ha sido suficiente, hay otro proyecto que reclama también la
+atención de la Comisión, de modo que comparto lo que ha dicho el doctor Diego Patiño,
+podríamos tratar de resolver para pasar al otro proyecto de ley Presidente. Gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:06:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Sigue entonces en consideración la proposición presentada por el Representante
+Wilson Neber Arias, pero antes debo darle trámite a un impedimento. Señor Secretario, lea el
+impedimento presentado por el Representante Miguel Ángel Pinto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:06:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“Señor Presidente, me permito declararme impedido para participar en el debate y
+discusión del proyecto de ley 099 de 2010, toda vez que el artículo 21 habla de multa y yo fui
+asesor de una empresa concesionaria de tránsito que recaudaba el valor de multas, durante
+comienzos del 2011”.
+Firmado, Miguel Ángel Pinto Hernández.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:06:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración el impedimento presentado por el Honorable Representante,
+quien deja constancia que se retira de la Comisión Sexta para someter a consideración esta
+proposición, sigue en consideración, ¿lo aprueba la Comisión?, sírvase llamar a lista.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2012-05-15T10:06:50">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>El impedimento, Secretario, ¿tiene algún tiempo después de
+ejecutado para seguir impedido?, o es en el momento. Porque es que él dice que fue, no que es
+asesor actualmente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:07:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Digamos que ahí lo que hay que verificar es si esa decisión de declararse impedido
+tiene una afectación a futuro con el proyecto de ley en el que él participe, o que el proyecto de ley
+que se aprueba tenga una afectación retroactiva con las responsabilidades que él tuvo en el
+desempeño de su cargo.
+Cuando fue radicado el proyecto de ley él estaba en el desempeño de su cargo, perfecto.
+Retomemos la votación del impedimento y respaldemos la apreciación del Representante si lo
+considera a bien la plenaria de la Comisión Sexta.
+Volvamos a llamar a lista señor secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:07:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>NOMBRE SI NO AUSENTE
+AGUDELO ZAPATA IVAN DARIO
+AMAYA RODRIGUEZ CARLOS ANDRES
+ARIAS CASTILLO WILSON NEBER
+BARRERA GUTIERREZ LUIS GUILLERMO
+CAICEDO SASTOQUE JOSE EDILBERTO
+GIRALDO ARBOLEDA ATILANO ALONSO
+GOMEZ VELASQUEZ WILSON HERNANDO
+LONDOÑO JARAMILLO JUANA CAROLINA
+NARANJO ESCOBAR DIEGO ALBERTO
+ORTEGA SAMBONI JAIRO
+PATIÑO AMARILES DIEGO
+PINTO HERNANDEZ MIGUEL ANGEL
+QUINTERO TRUJILLO JAIRO
+RODRIGUEZ PINZON CIRO ANTONIO
+ROLDAN AVENDAÑO JHON JAIRO
+TAVERA AMADO DIDIER ALBERTO
+VASQUEZ VILLANUEVA SILVIO
+YEPES MARTINEZ JAIME ARMANDO
+Ha sido aprobado el impedimento señor Presidente.
+Ahora si someta a consideración la proposición donde dice que se archive el proyecto de ley 099
+de 2011 Cámara - 056 de 2010 Senado, firmado Wilson Neber Arias Castillo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:07:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración la proposición de archivo del proyecto que acaba de ser leída, se
+abre la discusión, continúa abierta, anuncio que se va a cerrar. ¿La aprueba la Comisión Sexta?.
+El, Secretaria:
+NOMBRE SI NO AUSENTE
+AGUDELO ZAPATA IVAN DARIO
+AMAYA RODRIGUEZ CARLOS ANDRES
+ARIAS CASTILLO WILSON NEBER
+BARRERA GUTIERREZ LUIS GUILLERMO
+CAICEDO SASTOQUE JOSE EDILBERTO
+GIRALDO ARBOLEDA ATILANO ALONSO
+GOMEZ VELASQUEZ WILSON HERNANDO
+LONDOÑO JARAMILLO JUANA CAROLINA
+NARANJO ESCOBAR DIEGO ALBERTO
+ORTEGA SAMBONI JAIRO
+PATIÑO AMARILES DIEGO
+PINTO HERNANDEZ MIGUEL ANGEL
+QUINTERO TRUJILLO JAIRO
+RODRIGUEZ PINZON CIRO ANTONIO
+ROLDAN AVENDAÑO JHON JAIRO
+TAVERA AMADO DIDIER ALBERTO
+VASQUEZ VILLANUEVA SILVIO
+YEPES MARTINEZ JAIME ARMANDO
+Ha sido aprobada la proposición sustitutiva señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:07:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, queda archivado el proyecto de ley en mención, continuamos con el
+siguiente punto en el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:07:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ponencia para primer debate del proyecto de ley No. 035 de 2011 Cámara, “POR LA
+CUAL SE CREAN INCENTIVOS QUE CONTRARRESTEN LA DESERCIÓN ESTUDIANTIL EN COLOMBIA -
+LEY ANTIDESERCIÓN”.
+Hay dos impedimentos señor Presidente, uno presentado por el doctor Didier Alberto Tavera
+Amado y otro por el doctor Miguel Ángel Pinto Hernández.
+Sometamos a consideración los impedimentos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:07:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Lea los impedimentos señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:08:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“Honorable Representante
+José Edilberto Caicedo Sastoque
+Presidente Comisión Sexta
+Cámara de Representantes
+Atn. Dr. Fernel Enrique Díaz Quintero
+Secretario
+Asunto: Comunicación de impedimento proyecto de ley No. 035 de 2011 Cámara, “POR LA CUAL
+SE CREAN INCENTIVOS QUE CONTRARRESTEN LA DESERCIÓN ESTUDIANTIL EN COLOMBIA - LEY
+ANTIDESERCIÓN”.
+Respetado doctor:
+Acudo ante usted de conformidad con el artículo 182 de la Constitución Política de Colombia y los
+artículos 291 y 292 de la Ley 5ª de 1992, a fin de solicitar sea declarado impedido por la Honorable
+Corporación para participar en el trámite del proyecto de ley No. 035 de 2011 Cámara, “POR LA
+CUAL SE CREAN INCENTIVOS QUE CONTRARRESTEN LA DESERCIÓN ESTUDIANTIL EN COLOMBIA -
+LEY ANTIDESERCIÓN”, por considerar que existe un conflicto de interés en razón a que el proyecto
+a debatir en la Comisión establece el tema de una tarifa diferencial en el transporte público
+intermunicipal, interdepartamental para los estudiantes, establecido en los artículos 37, 38 y 39, y
+actualmente tengo dos parientes en tercer grado de consanguinidad quienes son socios y dueños
+de empresas transportadoras y carga.
+Del Presidente y la Honorable Corporación,
+Atentamente,
+Firmado
+DIDIER ALBERTO TAVERA AMADO
+Representante a la Cámara
+Departamento de Santander”.
+La del doctor Miguel Ángel Pinto dice lo siguiente, dirigido al Presidente y al secretario:
+“Respetados doctores:
+Acudo ante usted de conformidad con el artículo 182 de la Constitución Política de Colombia y los
+artículos 291 y 292 de la Ley 5ª de 1992, a fin de solicitar ser declarado impedido por la Honorable
+Corporación para participar en el trámite del proyecto de ley No. 035 de 2011 Cámara, “POR LA
+CUAL SE CREAN INCENTIVOS QUE CONTRARRESTEN LA DESERCIÓN ESTUDIANTIL EN COLOMBIA -
+LEY ANTIDESERCIÓN”, por considerar que existe un conflicto de interés en razón a que el proyecto
+a debatir en la Comisión establece el tema de una tarifa diferencial en el transporte público
+intermunicipal, interdepartamental para los estudiantes, establecido en los artículos 37, 38 y 39, y
+actualmente tengo dos parientes de segundo grado de afinidad quienes son socios y dueños de
+empresas transportadoras y carga.
+Del Presidente y la Honorable Corporación,
+Atentamente,
+Firmado
+MIGUEL ÁNGEL PINTO HERNANDEZ
+Representante a la Cámara
+Departamento de Santander”.
+Someta a consideración los dos impedimentos señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:08:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración los dos impedimentos que acaban de ser leídos, sigue en
+consideración, tiene el uso de la palabra el Representante Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2012-05-15T10:08:20">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Presidente muchas gracias. Para sustentar el impedimento, es
+porque dentro de los artículos 37, 38 y 39 hablamos de unas tarifas diferenciales de precio en el
+transporte intermunicipal debido a que estos parientes en tercer grado de consanguinidad son
+socios y propietarios de vehículos de transporte público, por eso presentamos el impedimento
+señor Presidente, y me dispongo a abandonar el recinto de la Comisión sexta Honorables
+Representantes.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:08:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Este impedimento tiene que ver con personas que tengan vínculo directo con el
+sector del transporte, que puedan verse beneficiados él, sus empresas o sus parientes que tengan
+empresas con la reducción en las tarifas, o afectados de alguna manera, que tengan que ver con
+una afectación. Tiene el uso de la palabra el representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:08:40">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Bueno, para conocimiento de los compañeros, el tema de
+tarifa diferencial en las modificaciones que se hicieron fue excluido del proyecto, el tema de tarifa
+diferencial.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:08:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el Representante Luis Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:09:00">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Presidente muchas gracias, es que digamos que es bueno
+que quede eso claro; la iniciativa contemplaba o en uno de sus artículos la tarifa diferencial pero
+valga la pena recordarles compañeros que por autoría nuestra de la Comisión Sexta cursa también
+en esta Comisión un proyecto de ley que tiene que ver con tarifa diferencial exclusivamente, ese
+proyecto de ley ya está radicada la ponencia también señor Presidente, para que seguramente en
+la próxima sesión le demos estudio. Entonces como para nosotros mismos no contradecirnos,
+señor Secretario, nosotros habíamos solicitado y creo que así quedó en la ponencia, retirar
+exclusivamente el artículo de tarifa diferencial, lo demás como viene en la ponencia y continuamos
+en la discusión luego de ese proyecto de ley de tarifa diferencial Presidente. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:09:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muchas gracias Representante, si eso es así uno pensaría que no hay sustento para
+aprobar los impedimentos presentados por los Honorables Representantes, entonces lo ideal sería
+que los Representantes retirar la solicitud de impedimento en razón a que ese artículo no está
+formando parte del texto.
+Representante Didier Tavera y Representante Miguel Ángel Pinto.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:09:20">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Yo creo Presidente como quiera que el proyecto en si trata
+de unos incentivos y de forma indirecta se vean perjudicados.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:09:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Recibo su apreciación. El doctor Jairo Ortega tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2012-05-15T10:09:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Bueno yo no había visto ese artículo y hay confusión de que si hay o
+que no está, que si está, que no está.
+Entonces, ese artículo que toca con el transporte intermunicipal ahí me tocaría declararme
+impedido, pero a pesar de que yo tenía, esto tiene otro objetivo, donde toca entes territoriales,
+departamentales, donde toca con la autonomía de esas localidades. Es otro tema donde es mejor
+retomar, pero lo de los entes territoriales es bueno que lo miren porque aquí no podemos legislar
+para los municipios y los departamentos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:09:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Para una moción de orden tiene el uso de la palabra el Representante Diego
+Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:10:00">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Dr. Jairo Ortega, para una recomendación respetuosa
+para usted, como usted está en este momento declarándose impedido usted no puede participar
+de la discusión, porque le crearía un problema a usted si se le aprueba o no se le aprueba el
+impedimento.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:10:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>El Representante Jairo Ortega Samboni acaba de adicionar aquí la proposición
+presentada por los dos honorables Representantes para que él también quede dentro de las
+proposiciones de declaración de impedimento y deja constancia que se retira del recinto de la
+Comisión Sexta.
+En consideración las proposiciones presentadas por los tres Honorables Representantes, en el
+sentido de declararse impedidos para participar en el presente proyecto de ley, sigue en
+consideración, aviso que se va a cerrar, queda cerrada. ¿La aprueban los Honorables
+Representantes?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:10:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>NOMBRE SI NO AUSENTE
+AGUDELO ZAPATA IVAN DARIO
+AMAYA RODRIGUEZ CARLOS ANDRES
+ARIAS CASTILLO WILSON NEBER
+BARRERA GUTIERREZ LUIS GUILLERMO
+CAICEDO SASTOQUE JOSE EDILBERTO
+GIRALDO ARBOLEDA ATILANO ALONSO
+GOMEZ VELASQUEZ WILSON HERNANDO
+LONDOÑO JARAMILLO JUANA CAROLINA
+NARANJO ESCOBAR DIEGO ALBERTO
+ORTEGA SAMBONI JAIRO
+PATIÑO AMARILES DIEGO
+PINTO HERNANDEZ MIGUEL ANGEL
+QUINTERO TRUJILLO JAIRO
+RODRIGUEZ PINZON CIRO ANTONIO
+ROLDAN AVENDAÑO JHON JAIRO
+TAVERA AMADO DIDIER ALBERTO
+VASQUEZ VILLANUEVA SILVIO
+YEPES MARTINEZ JAIME ARMANDO
+Aprobada la proposición de impedimento de los Honorables Representantes Didier Alberto Tavera
+Amado, Jairo Ortega Samboni y Miguel Ángel Pinto Hernández, señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:10:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continuemos entonces con el trámite del proyecto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:10:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>La proposición con que termina el informe es la siguiente: “por las razones y
+consideraciones expuestas proponemos y solicitamos a los miembros de la Comisión Sexta de la
+Cámara de Representantes aprobar en primer debate el informe de ponencia del proyecto de ley
+No. 035 de 2011 Cámara, “POR LA CUAL SE CREAN INCENTIVOS QUE CONTRARRESTEN LA
+DESERCIÓN ESTUDIANTIL EN COLOMBIA Y SE DICTAN OTRAS DISPOSICIONES- LEY ANTIDESERCIÓN
+ESTUDIANTIL DE COLOMBIA”, junto con el pliego de modificaciones y el texto que se propone para
+primer debate.
+Atentamente, firmado Iván Darío Agudelo Zapata, coordinador ponente, Luis Guillermo Barrera,
+ponente, Silvio Vásquez Villanueva, ponente”.
+Someta a consideración la proposición con que termina el informe señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:10:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración la proposición con que termina el informe de ponencia, tiene el
+uso de la palabra el Representante Wilson Neber Arias del departamento del Valle.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias-castillo" startTime="2012-05-15T10:11:00">
+							<from>H.R. Wilson Neber Arias Castillo</from>
+							<p>Presidente, tal como se lo anuncié a los ponentes, voy a votarlo
+positivamente pero voy a debo dejar anunciado mi insistencia en el concepto de beneficio y ayuda
+diferencial, sin embargo reconozco que cualquier debate adicional ahora puede arriesgar el
+naufragio del proyecto y en el buen espíritu que ha señalado lo acompaño, pero dejo dicho de mi
+insistencia y esperaría poder concertar con ustedes alguna fórmula en este y otros dominios.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:11:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante. Sigue en consideración la proposición
+con que termina el informe de ponencia, sigue en consideración, anuncio que se va a cerrara,
+tiene el uso de la palabra el Representante Carlos Andrés Amaya del departamento de Boyacá y
+Representante del Partido Verde.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2012-05-15T10:11:20">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Muy corto Presidente. Por supuesto que respaldo este
+proyecto, hemos manifestado en muchas ocasiones la preocupación que tienen hoy las
+universidades frente a este tema de deserción y por supuesto doctor Iván Darío Agudelo que
+respaldamos, de todos modos dejar esta reflexión; una de las causas según los estudios que han
+hecho en diversas universidades, las mayores causas es la falta o garantías de transporte de los
+estudiantes, no solo en la ciudad sino a nivel interurbano, ejemplo doctor Atilano Giraldo, los
+estudiantes que estudian en Armenia, que vienen de Quimbaya o de alguno de algunos de los
+municipios tienen esas dificultades y creo que esa discusión se tiene que dar , digamos acompaño
+el proyecto dejando esa claridad que creo que el tema de tarifas diferenciales es trascendental
+para eso y pues saludar una vez la iniciativa del doctor Diego Naranjo y respaldarla
+vehementemente, gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:11:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, entonces sigue en consideración el
+informe con que termina la ponencia, sigue en consideración, anuncio que se va a cerrar, queda
+cerrada. ¿Lo aprueba la Comisión?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:11:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.
+El proyecto consta de 24 artículos señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:11:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración el articulado con las modificaciones propuestas para primer
+debate, sigue en consideración, aviso que se va a cerrar, queda cerrada. ¿Lo aprueba la Comisión?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:12:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:12:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Título del proyecto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:12:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Titulo “POR LA CUAL SE INTERPRETA LEGISLATIVAMENTE LA EXPRESIÓN
+“INVERSIONES FÍSICAS EN EDUCACIÓN” DEL INCISO PRIMERO DEL ARTÍCULO 2º, DEL ACTO
+LEGISLATIVO 05 DE 2011 Y SE CREAN INCENTIVOS QUE CONTRARRESTEN LA DESERCIÓN
+ESTUDIANTIL EN COLOMBIA Y SE DICTAN OTRAS DISPOSICIONES - LEY ANTIDESERCIÓN
+ESTUDIANTIL DE COLOMBIA”.
+Someta a consideración el título y el querer de la Comisión Sexta que pase a segundo debate señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:12:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración el título del proyecto de ley que acaba de ser aprobado, sigue en
+consideración, anuncio que se va a cerrar, queda cerrada. ¿Lo aprueba la Comisión Sexta?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:12:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:12:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>¿Es voluntad de esta Comisión Sexta que se le de tránsito a segundo debate en la
+plenaria de la Cámara de Representantes del presente proyecto que ha sido aprobado en la
+Comisión Sexta?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:13:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Si lo quiere señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:13:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Dr. Iván Darío Agudelo, ponente coordinador de este proyecto de ley tiene el
+uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2012-05-15T10:13:20">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Gracias señor Presidente y a todos los colegas.
+Lo primero sea en este grandioso día del maestro, felicitar a todas las maestras y a todos los
+maestros de este país, saben que la Comisión Sexta siempre estará atenta y será el interlocutor
+válido -yo les pido un poco de silencio por favor dado que le estoy agradeciendo y felicitando en
+este maravilloso día a las maestras y maestros de este país-, todos tenemos una deuda con
+nuestros maestros, todos en la vida hemos sido maestros y repito que seremos unos
+interlocutores ante el Gobierno Nacional y aquí daremos grandes debates porque sabemos que el
+país tiene una gran deuda con nuestros maestros.
+Lo segundo es agradecerle a la Comisión por el apoyo a este proyecto que fue sumamente
+estudiado, un proyecto presentado por nuestro Vicepresidente y amigo, el doctor Diego Naranjo,
+agradecerle todo el apoyo del doctor Luis Guillermo Barrera, todos sus aportes y que fueron
+tenidas todas sus inquietudes para modificar y enriquecer este proyecto, al doctor Silvio Vásquez
+por todos sus aportes y a todos el equipo de todas sus UTL y a todos los Representantes
+compañeros de esta Comisión Sexta. Les agradezco mucho y yo sé que en plenaria vamos a seguir
+dando el debate, porque es un mensaje que le queremos dar a los estudiantes de este país y un
+mensaje también al Gobierno, que esta es una Comisión que está totalmente comprometida con
+la educación y con posibilitar de que nuestros jóvenes no se retiren del pupitre, creemos en la
+magia del pupitre, en el poder transformador del pupitre y lo que esta Comisión puede hacer para
+aferrar esos alumnos y esos estudiantes al pupitre, esta Comisión lo va a hacer. Les gradezco pues
+de tal manera.
+Y lo otro, señor Presidente discúlpeme pero no puedo dejar pasar esta oportunidad para invitar a
+toda la Comisión el día viernes 18 en Medellín, en la Universidad de Medellín, donde seremos
+anfitriones para discutir la ley general de turismo. Antioquia debe jugar un papel importantísimo
+en la ley general de turismo, Antioquia tiene de participación en el océano Atlántico, después de
+La Guajira somos el segundo departamento con mayor participación en el mar, en el océano
+Atlántico, está invitado también especialmente también el departamento del Chocó, sabemos lo
+importante que es el Chocó en nuestro Pacífico y lo que puede generar en materia de turismo.
+Por eso pues todos los compañeros de la Comisión están invitados para que Jhon Jairo Roldán me
+acompañe a ser anfitrión en Antioquia, de todo el país, para poder enriquecer el debate y poder
+lograr que nuestro coordinador ponente, el doctor Didier Alberto Tavera y nosotros como
+ponentes acompañarlo en el engrandecimiento de ese proyecto de ley, y les garantizo que les
+tendremos una bandeja paisa el viernes en Medellín. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:13:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, ya está coordinado todo lo pertinente
+para que podamos viajar a Medellín, muy importante el debate sobre la ley de turismo que es
+determinante por supuesto para el desarrollo de este país. Tiene el uso de la palabra el
+Representante Luis Guillermo Barrera, ponente de este proyecto de ley 035 de 2011 Cámara.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:13:40">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente.
+Solamente felicitar tanto al autor como al coordinador ponente, hemos procurado contribuir
+desde nuestra humilde opinión con el enriquecimiento de esta importante iniciativa, de hecho
+esta Comisión tiene que hacer una defensa férrea de la misma en plenaria, porque no va a ser
+fácil, desde ahora advierto, la discusión de esta importante iniciativa pero allá estaremos prestos.
+De otro lado Presidente, es que esta Comisión como la plenaria aprobaron una proposición de
+desplazamiento de la Comisión a diferentes sitios del país y dentro de esas está incluido el
+desplazamiento de la Comisión Sexta a la ciudad de Sogamoso el próximo primero de junio. Sin
+embargo para esa citación el señor ministro de las TICS, el doctor Diego Molano no puede estar
+como quiera que se encuentra para esa época defendiendo algunos apartes del TLC, en cuanto
+respecto a los intereses de Colombia en materia de TICS. Él me ha solicitado que ese debate se de
+el día ocho de junio, por eso Presidente, si me escucha, es menester que a través de Secretaría, no
+se sea prudente informarle a la plenaria, no sé cual sea el mecanismo para que nos podamos
+desplazar el día ocho y no el día primero, tal como fue aprobada la proposición en la plenaria.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:13:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Me había dicho que el día siete.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:14:00">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>El siete es Bucaramanga, Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:14:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Pero yo pensaría que nos quedamos mejor en Bucaramanga. Mentiras Honorable
+Representante, con todo gusto.
+Tiene el uso de la palabra el Representante Diego Alberto Naranjo Escobar, autor de este proyecto
+de ley por la cual se crean incentivos que contrarresten la deserción estudiantil en Colombia.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:14:20">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Gracias señor Presidente, primero agradecerle al
+coordinador ponente, al doctor Iván Agudelo, a los ponentes Luis Guillermo Barrera y al doctor
+Silvio Vásquez y un reconocimiento para un colega que ya no está, el doctor Carlos Julio Bonilla
+que ya no pertenece a la Comisión, él tuvo también mucho que aportar a este proyecto.
+Agradecerle a los ponentes, decir que este es un proyecto que se concertó, que como autor me
+parece muy bien que la gente sepa que en la Comisión los ponentes se pusieron de acuerdo, se
+concertó, se discutió y en lo que hubo acuerdo se logró y lo que no, de alguna manera se concertó
+para que el proyecto pudiera salir adelante.
+Finalmente decir que este proyecto, decirle a los miembros de la Comisión Sexta, necesita todo el
+apoyo y todo el respaldo en la plenaria de la Cámara, allá es donde tenemos que dar la verdadera
+lucha. Entonces no queda mas que agradecerles y a los niños y a las niñas del país que desde aquí
+estamos y a todos los estudiantes, que desde aquí estamos defendiendo la posibilidad de que ellos
+tengan garantías para permanecer en sus aulas y poder lograr su desarrollo personal. Muchas
+gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:14:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, a usted Honorable Representante, debo reconocer estas iniciativas de la
+Comisión Sexta de la Cámara de Representantes en materia de educación para nuestro país. Tiene
+el uso de la palabra el Representante Silvio Vásquez del departamento del Huila.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2012-05-15T10:14:40">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Presidente para dos cosas; primero que todo unirme a las
+felicitaciones que debemos expresar como padres de familia, como líderes y como congresistas
+integrantes de esta Comisión Sexta Constitucional que tiene que ver con la educación, a todos los
+maestros, a todos los educadores en este su día, agradecerles todo lo que hacen por nuestros hijos
+y de manera especial felicitar a todos los educadores del departamento del Huila, que reciban un
+abrazo de solidaridad, de compromiso y especialmente decirle a Dios que los siga bendiciendo y
+que a través del Espíritu Santo ilumine esa noble tarea de educar, de orientar, de darle educación
+al país que es donde está la base del desarrollo.
+En segundo lugar señor Presidente, hace siete meses esta Comisión me escuchó pedir la
+solidaridad del Congreso, de la Comisión, por el secuestro del señor Laurentino Rojas Molina,
+secuestrado en la vía del municipio de Garzón a la inspección de Zuluaga en el departamento del
+Huila, expresábamos la solidaridad y el llamado vehemente para que la guerrilla colombiana, las
+FARC le dieran la libertad inmediata, dada su avanzada edad de 75 años, también las
+enfermedades por las cuales estaba siendo tratado médicamente. Hoy después de siete meses y
+unos pocos días registramos con mucho alborozo, complacencia y alegría el regreso de don
+Laurentino Rojas Molina al seno de su hogar, en Garzón Huila, él fue entregado en los municipios
+del Caquetá, a su hijo Laurentino Rojas Rodríguez, gran amigo, he tenido el honor de tener la
+amistad de esa familia, yo que viví esta terrible pesadilla del secuestro y la alegría de la libertad sé
+cómo vivió don Laurentino y cómo está hoy la familia, abrazada en el agradecimiento primero a
+Dios y en segundo, brindándole todo el apoyo para que don Laurentino se integre a la familia, a la
+sociedad y pueda disfrutar del resto de su vida de manera feliz con los suyos. Por eso la libertad
+que significa vida también me cubre a mí en la felicidad, en el anhelo especial de que todo
+colombiano que esté secuestrado llegue a sus hogares, llegue a la sociedad. Reiterarle a la guerrilla
+colombiana, a las FARC, al ELN y a todas las organizaciones criminales que atentan contra la
+libertad y la vida de los colombianos, que dejen de una vez por todas este delito de lesa
+humanidad como es el secuestro y que la libertad de don Laurentino Rojas Molina sea espacio
+para enmarcar lo que quiere Colombia, paz, pero paz dentro de las voluntades, no paz dentro de
+los marcos jurídicos para que abusen de ella.
+Por eso desde esta Comisión Sexta y le pido al señor, Presidente de la Comisión, al señor
+Presidente de la Mesa Directiva, a los colegas de la Comisión Sexta le decimos a don Laurentino
+Rojas, a su esposa Alicia Rodríguez, a sus hijos, entre ellos Laurentino Rojas Rodríguez,
+felicitaciones, Dios los bendiga, Dios los una más en familia, y dele todo el abrazo para que don
+Laurentino pueda superar, que va a ser muy difícil, estos siete meses largos que estuvo en
+cautiverio, pero que ante todo reine la paz espiritual, la tranquilidad de conciencia y el afán para
+que el municipio de Garzón, el departamento del Huila y nuestro país Colombia sea cada día
+mejor. Un abrazo especial de su amigo también, Silvio Vásquez Villanueva, de mi familia y de todo
+el pueblo huilense. Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:14:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, debo presentarle un afectuoso saludo al
+presidente del partido de La U, Senador de la República Juan Lozano, él es el autor del proyecto de
+ley 007 de 2010 Senado, 114 y 163 de 2011 Cámara, acumulado, del cual me referí hace un rato.
+Igualmente un saludo afectuoso al doctor Jairo Quintero, Representante a la Cámara por el
+departamento de Caldas.
+Continuemos con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-05-15T10:15:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, antes de continuar con el orden del día, la Secretaría se permite
+informar que fueron nombrados como ponentes para segundo debate al proyecto de ley 035 el
+doctor Iván Darío Agudelo Zapata como coordinador, Luis Guillermo Barrera Gutiérrez, Silvio
+Vásquez Villanueva y por el doctor Carlos Julio Bonilla Soto se nombró al doctor José Edilberto
+Caicedo Sastoque.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:15:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra la Representante Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2012-05-15T10:15:20">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Muchas gracias señor Presidente, su saludo muy especial
+para ustedes, de pronto recordar la audiencia pública que se va a realizar el día de mañana, es una
+audiencia supremamente importante para el país en materia de educación, creo que ya todo está
+muy coordinado señor, Presidente desde su presidencia, esperamos que todos los actores a los
+cuales se les hizo la invitación nos acompañen y a todos nuestros compañeros invitarlos a que nos
+acompañen en esa audiencia pública del día de mañana donde vamos a estar exponiendo este
+proyecto de ley el cual consta de tres puntos: uno sobre el matoneo, ahí vamos a explicar
+claramente qué es el matoneo, cuáles son sus clases, cuáles son las estadísticas que se tienen a
+nivel a nivel nacional, a nivel mundial en los últimos años.
+De igual forma vamos a hacer la explicación con los demás ponentes y compañeros de este
+proyecto, en materia de educación sexual y reproductiva, embarazos de jóvenes y adolescentes,
+que son la quinta causa de problemática pública en salud en nuestro país y vamos a dar una
+explicación cómo va a ser ese manejo que le vamos a dar y ante todo señor Presidente vamos a
+dar una claridad, que estos no son cátedras, que no son materias que se van a implementar sino
+que queremos que los colombianos el día de mañana sepan cómo se van a articular estos
+proyectos que ya se cuenta con los recursos para empezar a montar esta iniciativa a nivel nacional.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:15:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, yo debo unirme por supuesto a esa
+intervención suya, este proyecto de ley por la cual se crea el sistema nacional de convivencia
+escolar es demasiado importante, la angustia por la que está atravesando hoy la comunidad
+educativa en el país con toda la serie de agresiones mutuas entre los menores de edad y todo lo
+que significa la necesidad de fortalecer el ejercicio de los derechos humanos, de los derechos
+sexuales y reproductivos y sobre todo la prevención y mitigación de la violencia intraescolar. Muy
+importante, yo invito a todos los Honorables Representantes a que mañana que no vamos a tener
+Comisión Sexta, participemos en esta audiencia pública, esta es una audiencia pública que tiene
+televisión en directo y que por supuesto lo que busca es que el país se entere que este Congreso
+de la República y esta Comisión sexta que le corresponde por supuesto, dar los grandes debates
+en materia educativa, le está dando trámite a una iniciativa que tiene por fin establecer una
+política pública, integral en esa materia, no solamente que busquemos no solamente, como lo ha
+dicho la Representante Juana Carolina Londoño, un maestro para que les hable sobre esos temas a
+los muchachos, hay que interactuar con las administraciones municipales, con las secretarías de
+gobierno en temas de seguridad, en temas de protección intramuros con todo lo que significa la
+agresión en materia de drogadicción hacia los niños en los establecimientos educativos.
+A todos los rectores de Cundinamarca, de los municipios de Cundinamarca que son quienes están
+más cercanos al Distrito, que los hemos invitado, esperamos que mañana nos puedan acompañar
+en esa importante audiencia pública y por supuesto que yo le pediría a los Honorables
+Representantes de esta Comisión que a este proyecto de ley le demos un trámite, digamos entre
+comillas, de urgencia manifiesta, aquí en la Comisión sexta, para que podamos sacarlo adelante
+porque creo que es perentorio que avancemos en esta materia de lucha contra la violencia
+escolar.
+Sigamos con el orden del día señor Secretario, le reitero el saludo de bienvenida al Senador Juan
+Lozano, presidente del Partido de La U, tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hs-juan-lozano" startTime="2012-05-15T10:15:40">
+							<from>H.S. Juan Lozano</from>
+							<p>Muchas gracias Presidente, un saludo y gracias por su hospitalidad en esta
+importante Comisión. Una palabra breve y muy breve porque sé que el tema lo han analizado ya
+hoy, estaba conversando con el doctor Luis Guillermo Barrera, quien ha hecho un trabajo muy
+juicioso para compendiar y recoger en la reforma al Código de Tránsito una serie de iniciativas
+dispersas sobre distintos asuntos, de tal manera que el nuevo Código sea un estatuto integral
+sobre la materia.
+A mí me parece que eso es un camino correcto para que la legislación de tránsito esté
+completamente codificada, sin embargo le mencionaba a la doctor Luis Guillermo Barrera; como
+quiera que la iniciativa que está sometida a la consideración de ustedes viene haciendo curso
+desde hace más de un año y está a punto de ser aprobada, permitiría si excluimos todos los demás
+asuntos para proceder, como lo indica el doctor Luis Guillermo Barrera, que queden en la
+ponencia del nuevo Código de Tránsito, dejando solo un asunto que pueda hacer curso en este
+proyecto y que luego se recoja de la misma manera en el nuevo Código de Tránsito, y es el asunto
+del grado uno de alcoholemia que hoy está excluido del Código.
+Si ustedes permiten que este proyecto haga tránsito, durante este año que falta de este momento
+al momento en que esté aprobado el Código de Tránsito en diciembre de este año, habrán salvado
+muchas vidas. Al Código de Tránsito le hace falta primer debate, segundo debate y le hace falta la
+vuelta por el Senado y hoy seguimos teniendo el vacío en el Código de Tránsito porque el grado
+uno de alcoholemia no está siendo considerado en las normas, no está contemplado dentro de las
+restricciones y ahí es donde empieza buena parte de la calamidad de los accidentes de tránsito, en
+esa frontera que muchas personas que conducen alicoradas no son capaces de distinguir entre su
+primer trago, su segundo trago, el primer grado de alcoholemia y lo que luego se vuelve fatal
+causando los accidentes.
+Entonces, lo que hablaba aquí en voz baja con el doctor Luis Guillermo Barrera, que queríamos
+respetuosamente someter a consideración Presidente y por su conducto a esta Comisión, es que
+de este proyecto acumulado se eliminen todos los artículos distintos al de consagrar el grado uno
+de alcoholemia, todo lo demás viene en el Código como dice el doctor Luis Guillermo Barrera, él
+tiene toda la razón en que no tendría sentido aprobar un proyecto que luego va a ser distinto del
+Código de Tránsito, pero como aquí hay una urgencia de coyuntura, que es el grado uno de
+alcoholemia, queremos y de hecho ya viene muy peluqueada la ponencia, quitar los demás
+artículos y dejar solamente, para ganarnos estos ocho meses, que serán ocho meses en los que
+ganamos vidas, en los que protegemos vidas, en los que evitamos que se cometan mas desafueros
+bajo los efectos del licor para los conductores, que ese grado uno de alcoholemia se incorpore en
+la legislación y eso se armonizará con el proyecto que trae el doctor Luis Guillermo Barrera.
+Frente a otros artículos, por supuesto que no tendría sentido aprobar una ley que no sea armónica
+o que sea redundante con el Código de Tránsito que trae el doctor Luis Guillermo Barrera, pero
+como en este caso el problema es que hay un vacío legal, la disposición no existe y cada noche hay
+gente que se emborracha y sale a manejar y hay gente que causa muerte y hay gente que causa
+heridos, este proyecto de ley podría estar convertido en ley de la República en dos semanas,
+saliendo de su aprobación en la Comisión Sexta, en dos semanas, el otro proyecto nos toma por
+ahí hasta diciembre porque apenas inicia su trámite.
+Entonces, eso era lo que hablaba con el doctor Luis Guillermo Barrera, para rogarles la
+comprensión de esta Comisión, para rogarles el apoyo de esta Comisión y en esa medida, en
+resumen señor Presidente la sugerencia es eliminar todos los demás artículos y sacar simplemente
+lo del grado uno de alcoholemia para que no nos quede por fuera de la legislación durante estos
+ocho meses y luego entrará en vigencia integralmente el Código de Tránsito. Presidente era en ese
+sentido que quería hacer esta reflexión y le agradezco mucho.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:15:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Senador, yo comparto plenamente su apreciación, soy el
+ponente de este proyecto y precisamente una vez reunido con sus asesores y con los míos, estaba
+planteando yo que un elemento prevalente ahí es precisamente lo referente al grado uno de
+embriaguez que se convierte como usted lo ha dicho, un poco en el límite, en la frontera entre lo
+que es estar embriagado y no estarlo, pero que en esa frontera ha habido muchos muertos y
+muchos accidentes en este país y en ese sentido comparto por supuesto plenamente, que se
+pueda dar trámite, lo dejé como constancia frente a la posición de los Honorables Representantes
+de la Comisión Sexta y pensaría que hay que ponerlo a consideración de la próxima sesión,
+incluirlo y si la Comisión lo considera pertinente le damos trámite.
+Solamente tendría una observación ahí y es que el Senador Juan Lozano nos tiene que ayudar a
+que en la conciliación con Senado, los Honorables Senadores acojan la ponencia que presentemos
+aquí en Cámara, en el entendido de que el Código que está en cabeza del coordinador Luis
+Guillermo Barrera, pues va a recoger todos esos artículos que le colgaron a la iniciativa inicial, la
+iniciativa inicial estaba destinada precisamente a incluir el grado uno como un grado de
+calificación para la suspensión de la licencia de conducción y para evitar por supuesto la
+accidentalidad y los grandes problemas que tenemos en esa frontera como usted la menciona.
+Entonces, acogemos esa proposición, no sé si tenemos quórum pero igual en la próxima sesión lo
+incluiremos dentro del orden del día a consideración de la Comisión. Tiene el uso de la palabra el
+Representante Luis Guillermo Barrera y luego el Representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2012-05-15T10:16:00">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Presidente, yo creo que ha sido como clara la discusión en
+este proyecto que ha presentado el Gobierno y que es el acumulado de ocho iniciativas además,
+que uno de los principios rectores es el de la seguridad vial y que todos lo que nosotros podamos
+hacer por salvaguardar vidas, como lo expresa el Senador Juan Lozano, jefe de nuestro partido
+además, pues es una corresponsabilidad de todos. Este proyecto del cual yo soy coordinador, en
+efecto establece una modificación al artículo 153 de la ley 769 que igualmente fue modificado por
+el artículo 25 de la ley 1383 de 2010, esto tiene que ver básicamente con los límites de alcohol
+presentes en la sangre, producto de los exámenes que hagan también las autoridades de tránsito
+para determinar si se encuentra en el organismo humano un concentración de alcohol o de
+sustancia psicoactiva que afecte la capacidad para conducir vehículos automotores.
+Yo creo que le hace bastante bien a la iniciativa, el poderla ya en el Código de Tránsito arropar la
+iniciativa que trae el Senador Juan Lozano, poderla arropar luego en el Código que está siendo
+objeto de discusión. Yo lo que le he manifestado al Senador Juan Lozano es que no puede ser y
+aquí lo advertí también a mis propios compañeros, que el Código de Tránsito no puede ser una
+cocha de retazos, que no hay ninguna seguridad jurídica en este país en este aspecto, que
+tenemos un Código de Tránsito que ha sufrido modificaciones, más de 18 modificaciones desde el
+año 2002.
+Así que Presidente, si usted lo considera pertinente y prudente daríamos tránsito exclusivamente
+a este artículo al que ha hecho referencia el Senador Juan Lozano, que básicamente modifica el
+artículo 152 de la ley 769 de 2002 y continuo yo con el análisis juicioso y rigurosos que vengo
+haciendo en el acompañamiento además de todos ustedes los ponentes, para que en un término
+no superior a ocho o diez días podamos presentar esta ponencia que está reclamando el país. Muy
+amable Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:16:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el Representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-05-15T10:16:20">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Gracias señor Presidente, advirtiendo aquí que se acaba de
+votar anteriormente el archivo de un tema que venía en concordancia con respecto a esto. Yo si
+quiero como a manera de información y a manera de ayudar, que es lo que hemos querido en este
+proceso, en el proyecto de ley del gobierno, en el artículo 46, dice: “el artículo 152 de la ley 769 de
+2002 modificado por el artículo 25 de la ley 1383 de 2010, quedará así: si realizada la prueba de
+alcoholemia se establece: a) entre 20 y 30 miligramos de etanol en sangre, además de las
+sanciones previstas en la presente ley se decretará la suspensión de la licencia de conducción
+entre seis y doce meses”. Que quiere decir eso, que se está reviviendo el primer grado.
+Entonces, el tema que estamos tocando es un tema trascendental, lo que el Senador Juan Lozano
+está planteando es un tema trascendental para el país pero acabamos de votar el archivo de otro
+proyecto que tiene que ver con los temas de tránsito, que quedamos de acuerdo en que todos
+estos temas que son de trascendental importancia se incluyan dentro del Código de Tránsito de
+manera integral. Además por un problema Senador Juan Lozano, el Gobierno qué hizo, el
+Gobierno cogió todos los proyectos de modificación del Código de Tránsito y esto no sé si aquí
+haya alguien del Ministerio de Transporte, y qué hizo; cogió y montó una estructura sobre todo lo
+que había propuesto, por eso es que hay proyectos que llevan más de un año, año y medio sin que
+hayan podido ser votados. Al Gobierno se le pidió desde esta Comisión que presentara un
+proyecto y no lo presentó, nosotros presentamos uno, yo soy el autor con casi todos los miembros
+de la Comisión, varios miembros, y ahí si el Gobierno radicó el de él y cuando lo fuimos a revisar, lo
+digo con respeto, es una copia de lo que había en los otros proyectos.
+Entonces, aquí ya está. Si se trabaja en el proyecto de ley yo que pediría, porque ya se archivó uno
+en ese sentido doctor Juan Lozano, hombre aquí se está reviviendo el primer grado, pues
+incorporar esas propuestas, esas cosas que existen en el Código Nacional de Tránsito,
+incorporémoslo todo, me parece a mí que no sería concordante que archivemos uno que
+acabamos de archivar por el mismo sentido y que en este digamos que no, que solamente se
+quede, con todo el respeto lo digo Senador Juan Lozano y es con el ánimo de colaborar y ayudar,
+porque la Comisión necesita, tanto la Comisión Sexta de Senado y la Comisión de Cámara, trabajar
+integralmente en este proceso para que le demos al país, para terminar Presidente, las garantías
+jurídicas en el tema de tránsito. Hoy empezó el TLC y hoy no tenemos un Código de Tránsito que le
+de garantías a la competitividad del país, a lo que el país necesita.
+Entonces, me parece a mí que es incorporar todo esto si es posible, en un solo proyecto que ya
+está radicado, que el Gobierno presentó, que hay una estructura o en otra estructura que
+podamos definir. En ese sentido no sé Presidente como podríamos hacer porque hoy aquí se
+acaba de votar, vuelvo y repito, el archivo en el mismo sentido de que había otro proyecto que
+incorporaba nuevas cosas al Código de Tránsito, pues no sé aquí que decisión se pueda tomar.
+Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:16:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto, Senador Juan Lozano tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hs-juan-lozano" startTime="2012-05-15T10:16:40">
+							<from>H.S. Juan Lozano</from>
+							<p>Muchas gracias Presidente. Dr. Diego Naranjo, yo comparto en la esencia lo
+que usted ha dicho como lo que dijo el doctor Luis Guillermo Barrera, creo que tienen toda la
+razón en pedir y en propender porque la aprobación de ese Código de Tránsito sea absolutamente
+integral, por eso este proyecto que ha venido haciendo curso desde hace más de un año, en la
+propuesta que les traíamos hoy incorpora la eliminación de once de sus doce artículos, es un
+proyecto que venía con doce artículos aprobado del Senado, lo que yo les pido es eliminen once
+de doce artículos pero ganémonos vidas, protejamos vidas, protejamos ciudadanos, protejamos la
+integridad de la gente ganándonos estos diez meses, mientras se aprueba en definitiva el Código
+integralmente, con la incorporación del grado uno de alcoholemia, doctor Diego Naranjo. Lo
+demás quitémoslo todo, pero esto si tiene una urgencia cotidiana, si ustedes vieron las
+informaciones de Bogotá de este fin de semana, son iguales a las de Cali, a las de Medellín, a las de
+Pereira, a las de Cartagena, a las de Barranquilla, de accidentes causados por conductores en
+estado embriaguez y buena parte de la dificultad inicia porque por un error técnico quedó
+excluido el grado uno de embriaguez de los grados sancionables para los conductores.
+Entonces, sin perjuicio de lo que usted dice, porque no sería aprobar ningún mico ni ninguna
+norma diferente a la que viene, es ganarnos para ese tema ocho meses de vigencia, ocho meses
+de vigencia que son ocho meses de vida. Podemos hacer dos acuerdos adicionales que me parecen
+razonables, uno; garantizar que el contenido con que vote este único artículo que se salvaría del
+proyecto anterior, sea el mismo que luego se recoja de manera integral en el Código, que la
+codificación sea idéntica para que no vayamos a tener una discrepancia normativa.
+Segundo; lo que dice el Representante José Caicedo yo lo asumo como un compromiso político,
+que la conciliación o recoge lo que dijo la Cámara con este artículo o se hunde, yo como autor de
+la norma puedo solicitar a la Mesa Directiva que me nombre conciliador y la conciliación se haría
+sobre la base de que cumplimos con el acuerdo de que el texto de Cámara es el que se incorpora
+para que no vayamos a tener esas discrepancias. Pero los invito a que los podamos hacer así
+porque tendría una utilizad evidente y nos resolvería un bache que hoy es prominente.
+Y lo último, y por supuesto que todos tenemos que trabajar para que ese Código salga adelante,
+pero esta ley está a punto de ser ley, la tenemos a punto de ser coronada, uno no sabe las
+vicisitudes que venga en el sector transporte, ni siquiera sabemos si van o no a anunciar un nuevo
+ministro de Transporte, uno no sabe si ese nuevo ministro tenga nuevas o viejas inquietudes, uno
+no sabe en un relevo que es inminente en la Cartera qué es lo que va a suceder y lo digo por la
+información de prensa, no sabemos cual es la suerte de la cartera de Transporte en el futuro y por
+tanto tampoco sabemos en diciembre del año entrante en qué vamos a estar con este Código, en
+cambio aquí con este aseguramos esos meses de vigencia, por eso mi solicitud muy respetuosa
+doctor Diego Naranjo, como se la hacía al doctor Luis Guillermo barrera, a quien le agradezco que
+la haya acogido para que nos ayude y nos acompañe, pudiendo votar ese único artículo, ganando
+estos meses y luego armonizándolo, doctor Diego Naranjo, con todo el Código de Transporte como
+viene en el trabajo que ustedes están haciendo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2012-05-15T10:16:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien Senador Juan Lozano, yo creo que recogemos eso y en la próxima sesión
+que no será mañana porque tenemos la audiencia pública sobre el tema, Senador Juan Lozano, a
+propósito, usted que me motivó a darle trámite a ese tema, me parece que es vital y esperamos
+contar con su presencia, si nos vienen los rectores del Distrito y de Cundinamarca lo hacemos en el
+Salón Boyacá o de lo contrario lo haremos aquí en la Comisión Sexta, pero muy importante su
+presencia.
+Como ya no tenemos quórum debemos levantar la sesión, pero si me parece que pongamos a
+consideración las apreciaciones, sobre todo por la temporalidad de la vigencia de ese proyecto de
+ley que hace el Senador Juan Lozano.
+Se levanta la sesión y se cita para mañana a las ocho de la mañana (8:00 a.m.), aquí en la Comisión
+Sexta en principio, para la audiencia pública sobre el tema de la violencia escolar.
+Asdrúbal Oviedo Cáceres</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

@@ -1,0 +1,2813 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo-sastoque" id="hr-josé-edilberto-caicedo-sastoque" showAs="H.R. José Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez-villanueva" id="hr-silvio-vásquez-villanueva" showAs="H.R. Silvio Vásquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-eduardo-osorio" id="dr-eduardo-osorio" showAs="Dr. Eduardo Osorio"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-armando-yepes-martínez" id="hr-jaime-armando-yepes-martínez" showAs="H.R. Jaime Armando Yepes Martínez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldán-avendaño" id="hr-jhon-jairo-roldán-avendaño" showAs="H.R. Jhon Jairo Roldán Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño" id="hr-juana-carolina-londoño" showAs="H.R. Juana Carolina Londoño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias" id="hr-wilson-neber-arias" showAs="H.R. Wilson Neber Arias"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-quintero-trujillo" id="hr-jairo-quintero-trujillo" showAs="H.R. Jairo Quintero Trujillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luis-guillermo-barrera-gutiérrez" id="hr-luis-guillermo-barrera-gutiérrez" showAs="H.R. Luis Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-andrés-amaya-rodríguez" id="hr-carlos-andrés-amaya-rodríguez" showAs="H.R. Carlos Andrés Amaya Rodríguez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodriguez-pinzon" id="hr-ciro-antonio-rodriguez-pinzon" showAs="H.R. Ciro Antonio Rodriguez Pinzon"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-julio-bonilla-soto" id="hr-carlos-julio-bonilla-soto" showAs="H.R. Carlos Julio Bonilla Soto"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-armando-yepes-martinez" id="hr-jaime-armando-yepes-martinez" showAs="H.R. Jaime Armando Yepes Martinez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-sepúlveda" id="hr-jaime-sepúlveda" showAs="H.R. Jaime Sepúlveda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="194-acta-02-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2010</heading>
+				<debateSection>
+					<heading>Agosto</heading>
+					<debateSection>
+						<heading>ACTA NO. 02 / 2010-08-11</heading>
+						<speech by="" startTime="2010-08-11T10:21:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2010 - 2011
+ACTA No 002
+(Bogotá, D.C., 11 de agosto de 2010)
+A las diez y veintiuno de la mañana (10:21 a.m.), el, Presidente de la
+Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, Honorable Representante DIEGO PATIÑO
+AMARILES, ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Bonilla Soto Carlos Julio
+Giraldo Arboleda Atilano Alonso
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luis Guillermo
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Quintero Trujillo Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:21:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:21:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Se abre la sesión, proceda Señor Secretario a dar lectura al orden del
+día para la presente sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:21:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2010 al 20 de junio de 2011
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<narrative>PROPOSICION No. 001
+(Bogotá, 28 de Julio de 2010)</narrative>
+							<narrative>PROPOSICION PARA DEBATE DE CONTROL POLITICO SOBRE DESARROLLO DEL
+PROYECTO DE TELEVISION DIGITAL TERRESTRE, PROYECTO DE TELEVISION
+SATELITAL SOCIAL Y DEL TERCER CANAL EN LA COMISION VI DE CAMARA.
+Con el ánimo de informar y conocer el avance en la implementación de los
+proyectos de Televisión Digital Terrestre, Televisión Satelital Social y el tercer canal,
+solicito a la Comisión VI de la Honorable Cámara de Representantes citar a los
+Comisionados de Televisión para que en un Debate de Control Político respondan
+el cuestionario que se adjunta a esta proposición.</narrative>
+							<narrative>CUESTIONARIO:</narrative>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								1. ¿Cuáles son los estudios jurídicos, técnicos, financieros y sociales
+que realizó la Comisión Nacional de Televisión para la
+implementación de los proyectos de Televisión Digital Terrestre,
+Televisión Satelital Social y el Tercer Canal?.
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								2. ¿cuál es el estado de avance de estos proyectos?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<question by="#hr-ciro-antonio-rodriguez-pinzon">
+								3. ¿Cuál es el impacto financiero para la Comisión Nacional de
+Televisión con la implementación de estos proyectos?
+								<from>H.R. Ciro Antonio Rodriguez Pinzon</from>
+							</question>
+							<narrative>
+Representante a la Cámara
+Departamento de Norte de Santander
+CUESTIONARIO ADITIVO A LA PROPOSICION No. 001
+(Bogotá, 28 de Julio de 2010)
+Televisión Digital Terrestre.</narrative>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								1. Que es el estándar digital para Colombia y como fue el proceso de selección del
+mismo.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								2. Bajo que parámetros se llevara a cabo el proceso de implementación de la
+Televisión Digital Terrestre para el país.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								3. En que afecta o cuáles son las oportunidades de los canales de televisión
+comunitaria frente a la televisión digital terrestre.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								4. Cuáles son las determinaciones que en materia de regulación ha tomado la
+comisión nacional de televisión frente a la implementación de la televisión
+digital terrestre para evitar abusos de los operadores de televisión frente a los
+televidentes.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								5. Cuáles son los beneficios para el país desde el punto de vista Tecnológico,
+económico y de competitividad, frente a la implementación de la Televisión
+Digital Terrestre.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								6. Cuáles son los alcances del Acuerdo No. 003 de 2009, de la Comisión Nacional
+de Televisión, Por medio del cual se adopta el plan de utilización de frecuencias
+y límites de exposición de las personas a campos electromagnéticos.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								7. Cuáles son los requerimientos técnicos que deben cumplir los televisores para
+recibir la señal de la Televisión Digital Terrestre.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								8. Cuando se inicie el proceso de implementación de la Televisión Digital
+Terrestre, que regulación y que normatividad se le aplicara a los operadores de
+TV abierta.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								9. Qué papel han jugado los operadores de televisión abierta del país, frente al
+proceso de implementación de la Televisión Digital Terrestre.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								10. Cuáles han sido los mayores obstáculos que se han presentado en el proceso de
+implementación de la Televisión Digital Terrestre en el país y como los han
+solucionado.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								11. Cual ha sido el papel del Ministerio de Tecnologías de la información y las
+comunicaciones frente a este proceso.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								12. Qué tipo de demandas civiles, administrativas o penales se han recibido durante
+el proceso, de parte de quien y en qué estado se encuentran.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								13. Cuáles son los retos del país, del gobierno y de CNTV, frente a la televisión
+digital terrestre en los próximos años.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								14. Cuanto le costara al país la implementación de la televisión digital terrestre, de
+donde saldrán esos recursos y cuáles son las metas de cobertura en el territorio
+nacional.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								15. Qué mecanismos de formación y/o comunicación ha utilizado ó viene utilizando
+la CNTV, para darle a conocer a los televidentes lo referente a la
+implementación de la televisión digital terrestre, sus contenidos y
+potencialidades; y como aprovechar los beneficios que esta trae.
+Televisión Satelital Social.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								1. Cuál es el estado actual de la red pública de televisión en Colombia.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								2. A quien beneficiara la televisión satelital social y cómo será el proceso de
+implementación.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								3. Qué papel juegan los operadores de televisión del país, frente al proyecto de
+televisión satelital social, cual es su compromiso frente a este proyecto.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								4. Cuánto vale la implementación de este programa, cuál será su nivel de
+cobertura y como podrán acceder los televidentes a este servicio.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								5. Cuáles son las características de la televisión pública en Colombia.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								6. Como se financia la televisión pública en Colombia, cuales son los tipos de
+financiación y en qué áreas o sectores de la televisión se invierten esos
+recursos.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								7. Cómo funciona el Fondo de Desarrollo de la Televisión, quien lo administra y
+que proyectos aplican en este fondo.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								8. Cuáles son las modalidades de prestación del servicio de televisión en
+Colombia.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								9. Que acciones adelanta la CNTV para la protección del televidente.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								10. Que dificultades afrontan los Comisionados de Televisión en el desarrollo de sus
+funciones, como subsanar esas dificultades.
+Adjudicación Tercer Canal Privado de Televisión.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								1. Porque y para que adjudicar un tercer canal de televisión en Colombia y en que
+beneficia al país la adjudicación de un tercer canal de televisión.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								2. Cuáles fueron los criterios técnicos, legales, económicos y de mercado tenidos
+en cuenta por la CNTV para abrir la licitación del tercer canal y fijar el precio
+base de la subasta.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								3. Porque ha tenido tantos sobresaltos técnicos y jurídicos la adjudicación del
+tercer canal de televisión.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								4. Cuáles han sido los reparos técnicos y jurídicos que ha este proceso le han
+hecho los juristas Néstor Humberto Martínez Neira y Jaime Lombana y cuál ha
+sido la respuesta a los mismos por parte de la CNTV.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								5. Que actuaciones administrativas, técnicas y jurídicas llevo a cabo la CNTV para
+atender los reparos de los proponentes del grupo prisa y Cisneros a los pliegos
+de licitación y evitar su retiro de la misma, al punto que sólo el grupo planeta
+continúa en la puja.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								6. Porque se han dado tantos cambios en las reglas de juego con respecto a los
+requisitos y formalidades para participar en el proceso de adjudicación del
+tercer canal de televisión.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								7. Cual ha sido el problema de los Grupos Prisa y Cisneros con el registro único de
+operadores.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								8. Hay alguna posibilidad de que los concesionarios de la empresa estatal
+Teveandina o Canal 13 se vean forzados a negociar su frecuencia con la firma
+que resulte elegida para operar el tercer canal, ó que los actuales operadores
+de las redes de transmisión, es decir, los canales privados tengan que compartir
+su infraestructura con el tercer canal.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								9. Cuáles han sido los reparos de la, Contraloría General de la Republica, la
+Procuraduría General de la Nación y el Honorable Consejo de Estado a la
+Adjudicación del Tercer Canal Privado de Televisión, cual ha sido la respuesta a
+esos reparos y en qué condiciones esta el proceso de adjudicación frente a los
+mismos.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<question by="#hr-jhon-jairo-roldan-avendaño">
+								10. Porque la exigencia de una parrilla de programación para los próximos diez años
+-que pesa un 50 por ciento en la decisión final de quién se queda con el Canal-,
+pues esta exigencia les quita flexibilidad frente a los canales privados que son
+libres de cambiar sus programas según las preferencias de la audiencia.
+								<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							</question>
+							<narrative>
+Representante a la Cámara
+Departamento de Antioquia
+CUESTIONARIO ADITIVO A LA PROPOSICION No. 001
+(Bogotá, 28 de Julio de 2010)</narrative>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								1. ¿Cuál sería la estrategia de medición de la efectividad del resultado
+en aspectos sociales y culturales, en las regiones, ciudades
+intermedias y demás municipios, de la implementación del proyecto
+de televisión digital terrestre, proyecto de televisión satelital social y
+del tercer canal?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								2. ¿Cuál es la estrategia a implementar por la Comisión Nacional de TV
+para el desarrollo técnico y económico de los sistemas locales o
+comunitarios de televisión pública o abierta, que permita la inclusión
+de estos a la estrategia nacional de implementación de la televisión
+digital terrestre, televisión satelital social y del tercer canal?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<narrative>
+Representante a la Cámara
+Departamento del Cauca
+CUESTIONARIO ADITIVO A LA PROPOSICION No. 001
+(Bogotá, 3 de agosto de 2010)</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								1. La CNTV deberá presupuestar los recursos para la implementación de la TDT por
+parte de los operadores públicos del país. Explique cómo va ese proceso de
+presupuestación.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								2. Cuándo se expedirá la resolución por parte de la CNTV que garantice los recursos
+necesarios para construir las redes públicas nación y regional de TDT?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								3. Cómo y quién ejecutará estos recursos?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								4. De qué manera se va a garantizar que en la ejecución de los recursos no se pierda
+la oferta y los compromisos de cooperación y financiamiento que ofrecieron los
+gobiernos de FRANCIA y ESPANA a la saliente, Ministra de TICS?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								5. Colombia escogió el Standard DVB o Standard Europeo. Como garantiza que será la
+industria europea con el respaldo de la Unión Europea y sus países miembros la
+que realice la implementación del Standard en el país y especialmente la
+construcción de las redes pública y privada de TV?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								6. La CNTV en el proceso de implementación de la TDT ha escogido el que considero
+el mejor Estándar, ha realizado juiciosamente la reorganización del espectro, ha
+expedido las normas técnicas para la comercialización en el país de aparatos de
+televisión y decodificadores. En la evolución de este proceso, cuando la CNTV va a
+expedir la reglamentación de Televisión Digital Terrestre para el país? Cuando los
+Colombianos y la industria conocerán las reglas básicas de producción, emisión,
+transmisión y en general de operación de la TDT en Colombia?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								7. La Televisión Digital Terrestre implicara grandes esfuerzos económicos para los
+operadores de televisión abierta en el país, es evidente que se debe expedir una
+reglamentación que permita la estructuración de nuevos modelos de negocio
+utilizando las ventajas de la TDT, cuando la CNTV va a regular el tema? Cuando la
+CNTV va autorizar como existe en el mundo entero los servicios de PPV en
+televisión abierta? No creen los señores comisionados que la falta de esta
+reglamentación es la que le ha puesto freno a los canales privados del país para
+impulsar la implementación de la TDT en Colombia?.
+Finalmente, porqué la CNTV no ha asumido el liderazgo que le corresponde de acuerdo
+con la Constitución Política para conseguir la unión entre operadores públicos y privados
+con el propósito de lograr una red única de televisión digital terrestre en el País?.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2010-08-11T10:21:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 11 de agosto de 2010
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Citación a Funcionarios Públicos</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:21:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+DIEGO PATIÑO AMARILES JAIME ARMANDO YEPES MARTINEZ
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:22:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente los comisionados se encuentran presentes y
+también los citantes, cuando tengamos quórum decisorio la secretaría
+se lo hará saber para aprobar el orden del día.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:22:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno mientras se conforma el quórum decisorio permítame
+manifestar que una proposición que habíamos aprobado en las
+sesiones anteriores con el fin de ir al Congreso de Expo-agua en la
+Ciudad de Pereira para el día de mañana, no fue posible dado de que
+no hubo posibilidad de aprobar en la Plenaria la autorización por parte
+de la Corporación para realizar este viaje y poder hacer presencia en
+Pereira a esta invitación que nos formulara la Empresa Aguas y
+Aguas. Le voy a pedir a aquellos Parlamentarios que quieran asistir
+que nos acompañen y fundamentalmente aquellos que viven cerca de
+la ciudad de Pereira, a la gente del Tolima, la gente del Norte del
+Valle, la gente de Caldas, para que los de Antioquia por supuesto para
+que nos acompañen y mañana hagamos una presencia importante de
+esta Comisión para conocer en detalle las propuestas, haremos todo
+lo posible para que nos hagan conocer los resultados de la misma y
+poder tener aquí información y elementos de juicio para lo que nos
+corresponde.
+Para organizar el debate entonces vamos a darle la palabra a los
+cuatro citantes, máximo 15 minutos, luego intervendrá el, Presidente de
+la Comisión Nacional de Televisión que tiene la vocería, luego
+nuevamente podrán intervenir los citantes y posteriormente los
+Parlamentarios que quieran hacer parte del debate, esperamos
+entonces que se conforme el quórum decisorio, mientras tanto le
+damos la palabra al doctor Wilson Neber Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias" startTime="2010-08-11T10:22:20">
+							<from>H.R. Wilson Neber Arias</from>
+							<p>Gracias Presidente, con el saludo a todos los integrantes de la
+Comisión, a los integrantes de la Comisión Nacional de Televisión y a
+su Presidente, para hacer una sugerencia comedida Presidente, creo
+que quienes y todos así lo hicimos pudimos expresar tanta atención en
+un tema tan sensible, tan importante, tan actual y leímos las
+respuestas, tenemos razones para seguramente querer formular, darle
+alcance a algunas de ellas o formular algunas observaciones que sería
+muy bueno que conociera la Comisión antes de su intervención y no
+sea a posteriori, yo sugeriría comedidamente que en un tiempo
+razonable nos permitieran a los restantes Representantes a la Cámara
+de la Comisión poder formular esas observaciones e inquietudes con
+la finalidad de que la Comisión las tenga en cuenta en su momento de
+la intervención.
+Que recomiendo, que sea muy aplicada a los tres bloques temáticos
+que en su oportunidad diseñaron los que hicieron las preguntas, creo
+que sería muy recomendable poder hacerlo para que tramitemos
+rápidamente el punto.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:22:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno doctor Wilson Arias tendremos en cuenta su petición siempre y
+cuando las observaciones sean con respecto a las preguntas que se
+formularon, si hay alguna pregunta adicional y los representantes de la
+Comisión Nacional de Televisión están en condiciones de dar
+respuesta pues les agradeceríamos que así lo hicieren, pero no están
+obligados sino a responder el cuestionario que se formuló con
+anterioridad.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:22:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, la Secretaría agradece a la Comisión Nacional de
+Televisión un CD que nos envío, dice el derecho de la televisión, lo
+vamos a repartir porque también este es un material de estudio y nos
+sirve mucho a nosotros.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:22:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Señor Secretario hay algunas proposiciones en la Mesa que se
+puedan leer mientras se conforma el quórum decisorio.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:23:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Si Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:23:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces sírvase leer las proposiciones que hay sobre la Mesa.</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda" startTime="2010-08-11T10:23:20">
+							<from>H.R. Jaime Sepúlveda</from>
+							<p>Proposición.
+En agosto del año pasado realicé un debate sobre los problemas de la
+educación en el Departamento del Putumayo, dado que estos no se
+han solucionado le propongo a la Comisión Sexta de la Cámara citar a
+la Señora, Ministra María Fernanda Campo e invitar a la doctora Ana
+Lucía Villa de la Dirección de Apoyo Fiscal del Ministerio de Hacienda,
+al doctor Felipe Guzmán Mendoza Gobernador, a la doctora Nelcy
+Cuellar Administradora Temporal de la Secretaría de Educación del
+Putumayo, al profesor Agustín Ordoñez, Presidente de la Asociación
+de Educadores del Putumayo y al profesor Felipe Burbano Presidente
+de la Asociación de,Rectores del Putumayo.
+Fdo: Guillermo Rivera Flórez
+Representante a la Cámara
+Anexa un cuestionario de 7 preguntas.
+Hay otra proposición que dice:
+Proposición:
+Proposición para debate de control político
+La coyuntura del transporte público y la movilidad de la capital
+evidencia la necesidad imperante de avanzar en la construcción de un
+medio de transporte masivo alternativo y complementario a
+Transmilenio, el cual ha excedido su capacidad límite de transporte y
+empieza a mostrar ineficiencias operativas.
+De otro lado, existen estudios de carácter técnico, financiero y jurídico
+que muestran la viabilidad de la construcción del metro, esto, sumado
+al compromiso que ha mostrado el Gobierno Nacional a través de la
+firma del CONPES 3967 para apoyar la financiación del metro.
+Sin embargo, se necesita una posición clara del Gobierno Nacional
+entrante sobre la ayuda financiera de la Nación al proyecto, por esto,
+es prioritario asegurar dichos recursos a través de las vigencias
+futuras dentro del plan de desarrollo que presentará el gobierno
+entrante.
+Por esta razón solicitamos a la Comisión VI citar para debate de
+control político al Ministro de Hacienda, Ministro de Transporte y al
+Director de Planeación Nacional e invitar a la discusión al Secretario
+de Movilidad, el Gerente del Metro, el Gerente de Transmilenio y al
+Secretario de Hacienda, a fin de resolver las inquietudes que se
+presentan en el siguiente cuestionario.
+Cuestionario que consta de 9 preguntas.
+Fdo: Wilson Hernando Gómez Velásquez
+Representante a la Cámara por Bogotá
+Esas son las dos proposiciones que hay sobre la Mesa Señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:23:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno cuando tengamos el quórum decisorio las pondremos a
+consideración, como lo habíamos planteado en el momento de la
+posesión. Habíamos de poder lograr un contacto directo con los
+señores Ministros que tienen que ver con los temas que la Comisión
+aborda, ya hemos hablado con el señor Ministro del Transporte, para
+que el próximo miércoles a las 9 y 30 de la mañana podamos hacer
+presencia en su despacho y debatir allí con él los temas que ustedes
+consideren pertinentes, citación que se reconfirmará siempre y cuando
+no tengamos que sesionar como Congreso pleno, porque tengo
+entendido que el, Presidente del Congreso había planteado estas
+fechas para elegir, Contralor General de la República y los miembros
+del Consejo Nacional Electoral, si ello no ocurriere entonces
+estaremos haciendo presencia el próximo miércoles a las 9 y 30 en el
+despacho del Señor Ministro de Transporte.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:23:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:23:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Habiendo quórum decisorio se pone a consideración el orden del día,
+se abre la discusión, continúa, anuncio que se va a cerrar, aprueba la
+Comisión el orden del día leído, señor Secretario favor llamar a lista y
+verificar la votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:24:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldan Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:24:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente ha sido aprobado el orden del día.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:24:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Siguiente punto del orden del día Señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:24:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente someta a consideración las proposiciones leídas por
+el subsecretario.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:24:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces el orden del día quedo de última, una vez terminemos el
+debate ponemos a consideración las proposiciones, tiene la palabra el
+doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2010-08-11T10:24:50">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, saludar muy especialmente al señor
+Director de la Comisión Nacional de Televisión el doctor Eduardo
+Osorio, de la misma forma que los comisionados doctor Mauricio
+Samudio, doctora Aní Vásquez, doctor Gustavo Araque y a la Mesa
+Directiva y los compañeros de la Comisión Sexta, este debate que hoy
+realiza la Comisión Sexta tiene un objetivo primordial que es informar
+sobre tres proyectos diríamos nosotros estructurales para el desarrollo
+no solo de la televisión sino del país.
+Por eso en la medida en que desarrollemos el debate y nos informen
+sobre el proceso de implementación de estos importantes proyectos,
+seguramente nosotros tendremos algunas inquietudes que al final se
+las daremos a conocer.
+En materia de televisión aquí hay que recordar que a partir del año
+1991 por mandato constitucional se crea un ente autónomo para dirigir
+la política en materia de televisión contemplado en los artículos 75 y
+76 de la Constitución Política Colombiana, el Congreso de la
+República en desarrollo de este mandato desarrolla la Ley 182 del 95,
+la Ley 335 del 96 y ha venido emitiendo en tiempos recientes diferente
+legislación que acometen sobre la política de televisión y organización
+de la televisión en nuestro país, principalmente aquí hay que resaltar
+que la televisión es un servicio público sujeto a la titularidad, reserva
+control y regulación del Estado, que a diferencia de antes del año 91
+con este nuevo mandato la televisión puede ser prestada por
+particulares, por comunidades organizadas y por el mismo Estado, la
+importancia de la televisión es que es un medio que educa, que forma
+y que entretiene.
+Los tres grandes temas que hoy trataremos que tienen que ver con la
+televisión digital terrestre, la televisión satelital gratuita y la
+implementación del tercer canal son modalidades de televisión que
+tienen que ver con la televisión abierta, la televisión radiodifundida, la
+televisión gratuita que nos llega a toda la población colombiana; en
+esa división de la televisión también hay que decir que en nuestro País
+existe la televisión cerrada que ya es la televisión paga que llega a
+determinados usuarios a través de la subscripción.
+En la información que se nos hizo llegar, yo quiero resaltar el estudio
+general de medios para que veamos nosotros la importancia de la
+televisión en la vida diaria de nuestra sociedad, que la audiencia de la
+televisión es superior al 93%, 94%; que los canales nacionales
+privados son los que tienen mayor audiencia con un 96.3%, lo siguen
+los canales internacionales, después los canales regionales que han
+venido teniendo una importancia en cada una de nuestras regiones
+con un 47%, se ubican los canales nacionales y públicos con un
+25.7% y después estarían los canales locales; que el televisor a color
+es el equipo más común en los hogares colombianos con una tenencia
+del 85.3%, que tiene una discriminación según el estrato social, el
+estrato 6 tiene casi un 100%, en cambio los de el estrato uno están
+alrededor del 80%, de la misma forma hay una gran diferenciación
+entre la zona urbana y la zona rural, que la cobertura de los canales
+nacionales públicos llega al 92%, que los canales nacionales privados
+tienen una cobertura del 86%, seguramente a través del contrato de
+concesión se les ha colocado a ellos una restricción o un beneficio
+para ellos que solo tienen la responsabilidad de atender municipios
+mayores de 20 mil habitantes, los canales regionales el 78% y los
+canales locales 45%.
+También es interesante resaltar la penetración que tienen las
+diferentes modalidades de televisión y decir que en Colombia la
+televisión cerrada tiene una alta penetración, en un estudio del DANE
+se habla del 55.4%, el estudio general de medios habla en una
+penetración superior o cercana al 80% y si se discrimina por ciudades
+en algunas ciudades se supera el 90% y la televisión aérea o
+televisión radiodifundida, la televisión abierta con una penetración del
+44.6%.
+También es importante resaltar en esta información que hoy, pues el
+gran auge que tiene la conectividad, que el internet es a través de la
+televisión por suscripción que mayoritariamente se ha venido
+difundiendo este medio con una participación del 73.8% y en una
+resolución dentro de la implementación de esta televisión digital que
+saca el Ministerio de Tecnología de la Información y la Comunicación,
+la 2623 hace un reordenamiento del espectro electromagnético
+asignando a la televisión los canales del 14 al 20 que venían siendo
+utilizados en sistemas de comunicación y dejando para el servicio de
+televisión móvil la frecuencia entre el 698 megaherz a 806 megaherz,
+lo que se llama el dividendo digital.
+A mí me gustaría que dentro de la presentación que haga la Comisión
+Nacional de Televisión nos indiquen como va este proceso de
+reorganización, si el Ministerio de Tecnología de la Información y la
+Comunicación viene haciendo esta limpieza de estos canales y de la
+misma forma si la Comisión Nacional de Televisión ya tiene este
+espacio de banda de frecuencia que se llama la frecuencia de los 700
+megaherz libres para hacer, para que el Ministerio la pueda otorgar
+hacia la telefonía móvil.
+Dentro de la televisión abierta en la país existe la televisión nacional
+pública, la televisión nacional privada, la televisión regional y la
+televisión local, nosotros quisiéramos pedirles que dentro de este
+propósito de digitalización la Comisión Nacional de Televisión pueda
+ser incluido el Canal del Congreso como una señal abierta
+radiodifundida, aprovechando como lo veremos más adelante las
+ventajas que tiene la televisión digital de poder por un mismo canal
+tener varios programas.
+Dentro de este estudio general de medios yo quiero resaltar que el 8%
+de la población colombiana no recibe ningún tipo de señal, que esto
+equivale aproximadamente a 260 municipios con una población de
+3.634.935 personas, generalmente poblaciones apartadas de nuestro
+territorio nacional, zonas de frontera, si bien en población diríamos
+nosotros que es un porcentaje pequeño en espacio territorial,
+podríamos decir que obedece a más del 50% del territorio nacional,
+seguramente cuando veamos la televisión satelital, debe ser una de
+las decisiones que tomó la Comisión Nacional por la dificultad y lo
+costoso que sería prestarle el servicio a esta población a través de
+este mecanismo.
+Dentro de los grandes temas que tratamos nosotros no podría decir
+uno que ninguno es menos importante, pero el tema que hoy en día
+diríamos tiene mayor relevancia y la Comisión Nacional de Televisión
+ha venido haciéndole una gran socialización, tiene que ver con la
+televisión digital terrestre, que sería el sistema que remplazaría al
+actual sistema de televisión analógica, sería la forma como iríamos a
+recibir nosotros la televisión gratis en cada uno de nuestros hogares.
+Aquí hay que decir que este sistema de televisión digital terrestre tiene
+unas grandes ventajas en la mejora de la calidad del video, del audio
+en la trasmisión, la posibilidad de aprovechar esta franja de
+frecuencias para emitir un mayor número de programas para tener
+movilidad o para tener interactividad, en Colombia después de unos
+estudios y un procedimiento que implementó la Comisión Nacional de
+Televisión se escogió el estándar digital europeo comprensión en p4,
+para esto se hizo un acuerdo de cooperación con la comunidad
+económica europea, nos gustaría a nosotros conocer como está
+funcionando este acuerdo de cooperación, si realmente las
+expectativas que se tuvieron inicialmente de asesoramiento en la
+implementación del sistema se han cumplido en la disminución de los
+costos en la implementación de este sistema se ha venido cumpliendo.
+De la misma forma conocer por parte de ustedes si la implementación
+por casi de todos los países de Latinoamérica del sistema japonés-
+brasileño tiene algún efecto en la decisión que tomó Colombia o sigue
+siendo la mejor decisión por parte de Colombia del estándar europeo.
+La Comisión Nacional de Televisión ha tomado unas decisiones con
+respecto a esta televisión digital terrestre, que es un sistema gratuito,
+que se entregara por canal de 6 megaherz para que cada uno de los
+operadores pueda implementar los diferentes servicios, la diferente
+programación en cada canal y de la misma forma que la transición en
+el país de analógico a digital durara un periodo de 10 años.
+Con respecto a la televisión satelital directa al hogar, también es un
+proyecto muy importante ya que nos lleva a nosotros hacia la
+universalización del servicio, es llegar precisamente a esa población
+que hoy no tiene la posibilidad de tener televisión gratuita en sus
+hogares, yo tengo unas regiones muy importantes en Norte de
+Santander que ha sido una queja constante porque no reciben la
+televisión colombiana y si reciben la televisión venezolana.
+Creemos nosotros que este reto que se ha propuesto la Comisión
+Nacional de televisión nos ayudará a nosotros a mejorar la calidad de
+vida de toda la población y a tener este medio tan importante en cada
+uno de los hogares Colombianos, de todas maneras, por el costo de
+esta propuesta siempre nos asalta una duda y quisiéramos nosotros
+hoy saber si realmente la Comisión Nacional de Televisión tiene los
+recursos para la implementación de este sistema, si ya es un proyecto
+que podemos tener nosotros la esperanza que va a estar al servicio de
+todos los colombianos.
+Con respecto al tercer canal, seguramente es el proyecto que más
+medios de comunicación, más radiodifusión ha podido tener por los
+medios de comunicación, diría uno por la importancia que tiene, diría
+uno en beneficio a la poblaciones por el mismo poder que tienen hoy
+en día estos medios de comunicación, un proceso que se está
+implementando desde el año 2007, cuando la Comisión Nacional de
+Televisión toma la decisión de implementar este tercer canal en el
+2008, toma la decisión de adjudicar la citación, en el 2009 se abre una
+primera licitación que por los diferentes problemas se revoco en el
+2010, en el mismo 2010 en abril se abre la segunda licitación para
+otorgar este tercer canal y hoy por todos es sabido que se encuentra
+suspendido este tercer canal, esperamos nosotros que este impase se
+supere y todos los colombianos podamos tener la oportunidad de un
+medio más para impartir información, para educar y para entretener.
+Con estos tres proyectos diríamos nosotros que en materia de
+televisión tenemos unos grandes retos, con respecto al tercer canal
+realmente que se logre adjudicar diría uno en condiciones de igualdad,
+esto generaría también unos recursos adicionales para el
+sostenimiento de la televisión pública, además que generaría una
+forma de entretenimiento y educación en nuestro país.
+Con respecto a la televisión satelital gratuita, diría uno que es un
+sistema que universaliza la televisión en Colombia, por lo tanto el gran
+reto es que se empiece realmente con la implementación de este
+servicio, de todas maneras por la tecnología que se utiliza por parte de
+la Comisión Nacional de Televisión y también por la población que va
+atender seguramente se necesita una gran socialización de este
+sistema, una gran apropiación de este sistema para que realmente
+cumpla su objetivo como es que todos los colombianos podamos tener
+la televisión.
+Con respecto a la televisión digital terrestre la Comisión Nacional de
+Televisión tiene un gran reto y es lograr que hoy todos los operadores
+tanto nacionales públicos y privados, regionales, como locales puedan
+implementar estas tecnologías, sabemos que son unas tecnologías
+costosas, pero valdría la pena, así como la televisión privada hoy en
+día tiene un consorcio que coordina, mantiene y opera la red pública y
+privada, de la misma forma la red nacional pública tanto regional como
+local donde tenemos muchas universidades, instituciones sin ánimo de
+lucro puedan todas tener una red única de tal forma que se
+disminuyan costos tanto para los operadores como para la misma
+sociedad.
+Habrá temas que la Comisión Nacional de Televisión tiene muchos
+retos, como es la implementación de la movilidad, nosotros
+quisiéramos saber si hoy en día ese proceso viene alterno con la
+televisión digital terrestre, que se ha hecho con respecto a la
+regulación de la movilidad, si se ha pensado que esto va a ser un
+servicio nuevo en materia de televisión o si los operadores que hoy
+tienen televisión cerrada podrán prestar este tipo de servicios o si van
+a existir barreras de entrada que no permitan la interoperabilidad de
+los diferentes operadores principalmente de comunicaciones que hoy
+en día existen a nivel mundial para que aprovechen esta tecnología.
+De la misma forma que en materia de interactividad los rectos son
+grandes, hoy la conectividad en nuestro país, si bien es cierto ha
+venido creciendo, generando una gran brecha digital donde solo el
+desarrollo en gran medida se ha venido teniendo en las grandes
+ciudades a pesar de que conocemos los grandes beneficios que hoy
+en día genera la conectividad en materia social, en materia
+económica, en materia de salud, en materia de educación, por lo tanto
+vemos una gran oportunidad en la implementación de la televisión
+digital terrestre de poder empezar a eliminar esta brecha digital por la
+gran penetración que tiene la televisión por la gran apropiación que
+tiene la televisión en toda nuestra sociedad.
+Entonces también quisiéramos saber cómo ha venido pensándose
+esta implementación de las ventajas que tiene la televisión digital
+terrestre, dejaremos algunos comentarios, una vez escuchemos a los
+comisionados de televisión, muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:25:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el Representante Jhon Jairo Roldan Avendaño por 20
+minutos.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldán-avendaño" startTime="2010-08-11T10:25:10">
+							<from>H.R. Jhon Jairo Roldán Avendaño</from>
+							<p>Gracias Señor Presidente, a todos los asistentes muy buenos días, los
+Señores Comisionados, la Comisionada Aní Vásquez, a todos los
+compañeros de la Comisión, para los que somos nuevos en la
+Comisión, yo creo que la mayoría somos alrededor de 15
+Representantes incluida nuestra compañera Juana Londoño como
+nuevos en la Comisión, este es un tema que vamos a empezar a
+trabajar, yo quisiera señor Secretario si usted me da una información
+que puede ser algo que pasa en nuestra oficina, la información que
+habíamos solicitado a la Comisión cuando se solicito y cuando llego el
+cuestionario y la información adicional, discúlpeme que es
+fundamental para la intervención que voy a realizar.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:25:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Con la venia de la Presidencia el cuestionario se le mando a la
+Comisión Nacional de Televisión vía Fax el 2 de agosto, el primer
+cuestionario firmado por Ciro Antonio Rodríguez, Jhon Jairo Roldán y
+Carlos Julio Bonilla Soto y el de la doctora Juanita Londoño el 3 de
+agosto a las 11 y 08 minutos de la mañana y la respuesta llegaron por
+correspondencia a las 5 y 20 el día 9 y nosotros la recibimos el día 10
+o sea ayer y la otra la recibimos ayer en la tarde a las 3 y 45 p.m.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldan-avendaño" startTime="2010-08-11T10:25:30">
+							<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							<p>Gracias Señor Presidente y Señor Secretario, haber esto era
+simplemente para hacer una antelación de la necesidad de nosotros
+tener la suficiente información para el debate, hoy haber empezado la
+sesión de la Comisión aduciendo no tener la suficiente información y
+cancelar el debate pues no hubiera sido productivo, en si en aras de la
+situación de la información yo definiría que esto es como un primer
+debate, una socialización a un encuentro que va a tener la Comisión
+Nacional de Televisión con la Comisión Sexta, yo creo que de una
+manera permanente, me disculpan pues no es el hecho de hacer
+ningún tipo de regaños, ni reclamos en ese sentido, ayer cuando nos
+llego la información estábamos en Plenaria y hoy estamos a las 10 de
+la mañana, si bien es cierto en todas las respuestas se hace referencia
+a la página de la Comisión y a los diferentes medios que tiene la
+Comisión para la información era necesario escuchar las respuestas
+de manera clara y contundente, como creo que se dieron, en realidad
+en mi caso personal las leí pero con la profundidad que
+necesitábamos hacerlo para este debate.
+Nosotros hemos escuchado hablar mucho de la Comisión Nacional de
+Televisión, mucho y desgraciadamente más negativo que positivo, hoy
+nosotros que estamos integrando la Comisión Sexta tenemos una
+obligación, no la obligación de ser voceros de medios de
+comunicación, no la obligación de ser voceros de abogados que
+representan intereses de cadenas de televisión, sino que tenemos una
+obligación constitucional y legislativa de meternos en la Comisión
+Nacional de Televisión para construir, para de una forma proactiva
+hacer que las cosas funcionen, o estamos muy desinformados porque
+no están funcionando de la mejor manera o tenemos que decirle a la
+comunidad en general que la Comisión de Televisión si funciona y
+funciona bien y los primeros que tenemos que estar informados somos
+nosotros, inclusive aquí hay una pregunta y su respectiva respuesta,
+ustedes lo ven en el cuestionario de una manera como muy humilde,
+porque se dice del tema de los medios de comunicación, nosotros
+sabemos de una cadena radial de una gran audiencia que no vale la
+pena mencionarla acá, la situación que se con la Comisión Nacional
+de Televisión y cuando la escuchábamos los que llegamos por primera
+vez al Congreso, decíamos bueno que realidad hay acá y hoy que
+continúa o esa desinformación o esa realidad yo creo que estamos en
+una obligación tanto la Comisión en coordinación con nosotros el
+Congreso en Pleno y directamente con la Comisión Sexta de hacer un
+trabajo importante en ese sentido.
+Queremos expresarle a la Comisión que cuentan con la Comisión para
+hacer un trabajo, vamos a hacer un trabajo crítico desde el punto de
+vista de las cosas que están sobre la mesa, yo creo que la exposición
+que hizo el doctor Ciro Rodríguez de la Televisión digital y terrestre es
+una muestra clara de su experiencia, de la experiencia que tiene la
+Comisión, de la experiencia que tiene de estos temas, yo no me voy a
+adentrar en los temas de televisión terrestre y digital.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:25:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias doctor Roldán, haber yo quería hacer una sugerencia en aras
+de tener en cuenta sus consideraciones, si las respuestas llegaron
+solamente ayer usted hizo 37 preguntas, entonces me parece justo
+que usted tenga el tiempo suficiente para que las pueda analizar y
+poder armar el debate como usted ha querido.
+Yo le quería plantear a la Comisión que teniendo aquí presente a la
+Comisión Nacional de Televisión y dado que la gran mayoría son
+nuevos ellos hagan una presentación de que es la Comisión Nacional
+de Televisión, suspendemos el debate y lo hacemos en la próxima
+sesión, si ustedes están de acuerdo.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldan-avendaño" startTime="2010-08-11T10:25:50">
+							<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							<p>Presidente tres minutos, en este sentido yo iba a hacer la exposición
+mía más en el tercer canal e insisto en la misma argumentación
+nosotros no nos vamos a convertir aquí en los voceros ni del doctor
+Jaime Lombana, ni el doctor Nestor Humberto Martínez, pero si
+queremos acompañar este proceso, nosotros sabemos que hoy por
+medio de la resolución 2010380-760-4 está suspendida la adjudicación
+del tercer canal de televisión hasta tanto no se pronuncie la Comisión
+Tercera del Consejo de Estado, confiemos en que la providencia, la
+resolución de la Comisión Tercera del Consejo de Estado, sea en
+beneficio para el proceso, nosotros sabemos lo decía el doctor Ciro
+Rodríguez ahora este proceso ha sido un proceso supremamente
+tortuoso.
+A nosotros nos ha llamado la atención como los canales de televisión
+RCN y Caracol intervienen en la adjudicación, dilatando la
+adjudicación porque hay unos intereses supremamente claros, hoy se
+divide la pauta por dos, con el tercer canal pues se tendría que dividir
+por tres, adicionalmente que estamos privando a la Comisión Nacional
+de Televisión de unos recursos supremamente importantes.
+Ya para terminar señor Presidente y felicito la decisión que usted tiene
+su señoría de aplazar el debate de fondo y hacer una explicación de la
+Comisión Nacional de Televisión, si quiero dejar un mensaje a la
+Comisión y es que ojalá estos 113.749.9 millones de pesos y el tema
+del dinero de las frecuencias y de las compensaciones por ingresos
+brutos anuales que va a recibir la Comisión Nacional de Televisión no
+le demos la razón a los medios de comunicación y le demos la razón a
+la comunidad cuando vea que estas cantidades de dinero tan
+impresionantes la van a recibir en beneficio como lo decía el doctor
+Ciro Rodríguez, estos 260 municipios que todavía no ven ni borrosa la
+televisión. Entonces de verdad que agradecerle a la Comisión por
+haber estado acá, vamos a estar en un próximo debate de más fondo
+y ratificarles el acompañamiento del que está dispuesto la Comisión
+Sexta, gracias Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:26:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Muy bien, la propuesta no es aplazar, es suspender y le daremos
+continuidad en la próxima sesión, tiene la palabra en su orden el
+doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2010-08-11T10:26:10">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Bueno en primer lugar esperaba que el debate lo adelantáramos hoy,
+salvo criterio que usted ha presentado en sentido contrario que
+acogería, pero creo que es muy importante que la Comisión escuche
+al menos alguno de los acápites que producen preocupación para que
+en su intervención posterior cuando continúe el debate pueda darle
+alcance, me parece que es lo más adecuado.
+Yo me voy a permitir solamente referirme a dos, porque comprendo el
+espíritu de su respuesta y podría tener matices a cerca de la manera
+como se va a resolver este punto hoy, pero no quiero entorpecerlo,
+quiero sencillamente darle alcance a algunos temas que me parecen
+que son de la mayor importancia y que han motivado grandísima
+preocupación, pero que me parece que tienen una potencia enorme
+que merecerían una respuesta en este momento o posterior de la
+Comisión.
+Solo quiero empezar con lo que ha planteado mi querido Jhon Jairo
+Roldán, de una parte la oportunidad de la respuesta, porque anoche
+creo que todos trasnochamos leyendo la importancia de este debate,
+literalmente nos trasnochamos revisando punto por punto para poder
+tener una opinión conformada y se hace difícil, porque en tan breve
+tiempo, es la segunda oportunidad en la cual nos allegan las
+respuestas de manera tardía, comprendo que no por obra de la
+Secretaría sino por la presentación de las respuestas.
+En segundo lugar, la preocupación de que este debate no se ha
+presentado como una especie de toma de partido entre los distintos
+linces del capital financiero o de los grandes negocios porque
+evidentemente estamos hablando aquí de tras- nacionales de las
+comunicaciones o duopolio que opera y que tiene poderes enormes en
+uno y otro sentido, es decir aquí pretender que una intervención
+cualquiera le da la razón a uno u a otro es como tomar partido o por la
+extranjerización de un servicio estratégico en el caso de que uno
+critique la actuación de Planeta, o por la conformación y
+mantenimiento de un duopolio que también resulta supremamente
+odioso, yo quiero hacer notar que los doctores Lombana y Humberto
+Martínez han presentado reparos muy serios seguramente, pero
+ocultan algo que debería saber el país y que yo si quiero señalar, es
+que también resultaron altísimamente beneficiados de una licitación
+que ya no es para un canal sino que es para una frecuencia, 6
+megaherz ocupa el canal anteriormente de cada uno de estos
+operadores, de estos concesionarios y ahora no le encomiendan el
+canal sino la frecuencia por la cual debido al desarrollo tecnológico
+van a entrar ya no uno sino cuatro canales, lo primero que hay que
+señalar es que se están comprando 12 canales al precio de tres y esto
+es lo que omiten decir los doctores Lombana y Martínez, crítica
+supremamente grave porque en mi opinión se ha subvalorado, no se
+ha valorado suficientemente ese que es uno de los aspectos
+principales y comparto con el doctor Ciro Rodríguez, es apenas uno de
+los aspectos que merecerían valorar previo a la presentación de los
+pliegos y a la evaluación que se hizo, que entre otras cosas comparto
+la crítica que hace RCN y Caracol y quiero decir yo no tengo ningún
+propósito de acompañar a Caracol y a RCN digamos en sus
+propósitos económicos, más aún quiero también decir suscribo la
+preocupación del, Presidente de la Comisión cuando dice, quienes
+gozan de la exclusividad del negocio han manifestado oposición y a
+página 45 “ han usado indebidamente su poder informativo para
+desprestigiar el proceso adelantado por la Comisión Nacional de
+Televisión”, o lo suscribo plenamente aquí abusos del poder
+informativo es lo que vemos a granel, lo que sí quiero invitar al señor
+Presidente de la Comisión es que como servidor público no solamente
+se lo menciona la Cámara de Representantes sino que en
+cumplimiento de su función no omitiendo su función haga lo que
+corresponde ante las instancias competentes, porque si no estamos
+frente a una omisión de denuncia o peor aún a una omisión de
+incumplimiento de las funciones.
+Pero siguiendo con el tema y compartiendo la preocupación el señor
+Presidente de la Comisión debo decir que comparto la preocupación
+de RCN y Caracol y por eso me parece insuficiente una respuesta que
+es a la que me quiero aplicar Presidente, aquí no ha habido ni cambio
+en las reglas de juego y no ha habido problema ni con Cisneros, ni con
+Prisa, muy a pesar de que se reconoce la injerencia a veces indebida
+de los medios de comunicación, porque este es un asunto que ha
+estado tramitando principalmente los medios de comunicación.
+Pero quiero decir Presidente, me sumo a la preocupación de
+numerosos actores entre ellos RCN y Caracol y lo digo explícitamente
+para estar a salvo de cualquier duda con quién no comparto su
+proceder, pero me sumo a la preocupación de quienes han señalado
+no solamente objeciones al hecho de que estemos asistiendo a algo
+que es supremamente atípico una subaste de uno solo, una subasta
+donde no hay puja, una subasta donde además empieza con un precio
+supremamente bajo que fue el que Carrasquilla pudo sacar como haz
+de la manga y se le agrega solamente un 10% como valor total a la
+postre de presentarse un solo proponente cuando se ha demostrado
+cabalmente que en varias de las pujas es muy probable que se supere
+el 30% del valor por la sola presentación de las distintas propuestas,
+de suyo quiero decir que no comparto eso tampoco, tengo grandísima
+preocupación que quiero que se responda y para la preocupación de
+mis amigos citantes que tienen razón en su preocupación quiero
+agregar Presidente solamente un hecho que quiero que sea
+respondido en esta o en la siguiente oportunidad Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:26:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Para una moción de orden tiene la palabra la doctora Juana Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño" startTime="2010-08-11T10:26:30">
+							<from>H.R. Juana Carolina Londoño</from>
+							<p>Muchas gracias Señor Presidente, muy buenos días, un saludo muy
+especial para todos los compañeros, a la Mesa Directiva, a las
+personas que nos acompañan de la Comisión Nacional de Televisión,
+yo quiero citar una moción de orden Señor Presidente toda vez que los
+citantes hemos solicitado que simplemente se haga alocución por
+parte de la Comisión Nacional de televisión, nosotros no vamos a
+hacer hoy la intervención, ya que la respuestas al menos al
+cuestionario que a mí me compete, que presente, apenas me fueron
+entregadas ayer a las 4 y 50 de la tarde, a los otros compañeros de
+igual forma, entonces como moción de orden y una vez hablado con
+los demás citantes queremos que la intervención la hagan los altos
+comisionados y dejamos para hacer el estudio juicioso de las
+respuestas que nos dieron el día de ayer para la próxima sesión,
+muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:26:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Perdón yo le aclaro a la doctora Juana Londoño que llego un poco
+tarde, pero el tema ya lo habíamos abordado y aquí yo tengo una
+proposición que voy a presentar que dice así:
+Teniendo en cuenta que la gran mayoría de integrantes de la Comisión
+Sexta de la Honorable Cámara de Representantes, son nuevos en el
+Congreso, se solicita a la Comisión Nacional de televisión realizar
+una presentación consistente en su historia, función, composición y
+otros aspectos necesarios para entender su existencia y así mismo
+solicitamos se aplace la presente sesión para una fecha que
+establezca la Mesa Directiva para darle la continuidad al debate.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2010-08-11T10:26:50">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Claro que si Presidente, yo tengo conocimiento de la proposición, de
+hecho vía telefónica lo habíamos hablado, por lo tanto solicitamos, lo
+que nosotros queremos es someter a consideración la proposición
+presentada.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:27:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Sigue con la palabra el doctor Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2010-08-11T10:27:10">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Sin embargo habíamos también convenido que había una especie de
+sesión inicial que le permitiera a la comisión algunas impresiones
+preliminares por lo menos de las mayores preocupaciones de modo
+que pudieran en esta o la siguiente intervención cuando continúe el
+debate abordarlas doctora.
+Yo me voy a remitir a una más que me parece que es de la mayor
+importancia y creo que el País tiene derecho a conocer esta
+preocupación, en el mismo orden de la respuesta planteada y de las
+objeciones presentadas por alguno de los interesados subrayo que
+podemos compartir o dejar de compartir, quiero dar alcance a una que
+me parece que es de marca mayor, cuando se responde que no ha
+habido ningún tipo de problemas, en relación con la disputa que se ha
+hecho en los medios de comunicación, se omite por parte de la
+Comisión sobre lo cual yo si quiero claridad señor Presidente, dentro
+del esfuerzo me di en la tarea de buscarlo, de la demostración de la
+composición accionaria y de los intereses en juego, me encontré con
+una respuesta del doctor Juan Manuel Santos en mayo 24 donde
+sostiene y yo le creo además quiero decirlo, que ha vendido al
+consorcio español Planeta la totalidad de las acciones que eran suyas,
+esto es señor Presidente el 1.938%, me he encontrado señor
+Presidente y señores Comisionados con algo que quiero preguntar, ya
+habrá ocasión en el debate explicarlo, pero la pregunta en concreto es
+esta, si es verdad y yo le creo lo que ha dicho el doctor Juan Manuel
+Santos habría que agregar a la fecha de la presentación de la
+propuesta 23 de junio del año en curso, no solamente el 40% que en
+el documento que presentó editorial planeta en su oportunidad y el
+convocado, no solamente el 40% que alega tener en la explicación de
+los cuadros sino que habría que sumarle el 1.938% cifras más, cifras
+menos.
+Lo que le haría señor, Presidente de la Comisión una participación al
+capital extranjero del 41.9376522% que viola no solamente la norma
+sino también los documentos preliminares que convocaron este efecto,
+los pliegos correspondientes, creo que es una pregunta que nos
+hacemos todos, de hecho ha sido un asunto del dominio público,
+habrían otras preguntas que hacer, pero me limito a ellas porque si
+creo que resulta muy interesante aprovechar la presencia de la
+Comisión para que en el momento de la presentación en el próximo
+debate pudiera abordarlo, me reservo los otros Presidente en aras de
+lo planteado por mis compañeros integrantes de la Comisión, muchas
+gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:27:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Tavera para una moción de orden.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2010-08-11T10:27:30">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Para someter a consideración las tres proposiciones que están y darle
+paso a la explicación y al conocimiento que nos va a transmitir la
+Comisión Nacional de Televisión.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:27:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Ciro Rodríguez en el uso de la palabra.
+H.-R. Ciro Antonio Rodríguez Pinzón:
+Gracias Presidente, yo quiero invitar de la misma forma a quienes
+quieran participar del debate, que lo hagamos en la debida forma
+como lo plantea la Ley 5ª., que hagan llegar sus preguntas, que se le
+remitan a la Comisión Nacional de Televisión para que podamos
+realmente obtener unas respuestas que nos satisfagan a nosotros y
+podamos tener nosotros claridad y no vengamos acá en la Comisión a
+generar expectativas y sorpresas con las preguntas que se plantean,
+gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:27:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Iván Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2010-08-11T10:28:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Gracias Presidente y a todos los compañeros, yo creo que el ánimo
+siempre debe ser el de construir y de asumir posiciones reflexivas y
+constructivas y también escuchar lo que se va a plantear, yo no he
+hablado y ya me están diciendo que no puedo hablar, entonces yo si
+pido el favor de que me escuchen simplemente, es que estoy de
+acuerdo y acojo la posición de la proposición de los compañeros ni
+más faltaba, me parece un buen momento, yo tenía aquí un cuadro
+donde tengo la información, donde tenemos el análisis de cada una de
+las respuestas y se hablo con mucha profundidad y vemos que la
+mayoría son de mera información y que no debemos de perder una
+gran oportunidad como es el de un control político con una entidad tan
+representativa y que hoy está en todos los medios de comunicación,
+acogiéndome a la proposición solamente quiero plantear dos cositas si
+me lo permiten y es lo siguiente. En esta oportunidad que en la
+presentación como lo acaban de hacer no me voy a salir de la línea de
+lo que acaban de proponer mis compañeros pues qué bueno que nos
+puedan plantear el tema por ejemplo de la vocería, es un tema que
+nos interesa a todo el país, la vocería de la Comisión es una situación
+muy delicada porque muchas veces hablan todos, aquí tenemos un
+Presidente, la Cámara tiene un Presidente, el Senado tiene un
+Presidente, en la presentación es muy importante que nos hablen del
+tema de la vocería, como lo hace el Banco de la República que salga a
+hablar una sola persona y no cada uno de los comisionados porque
+eso es sumamente delicado y por eso nos avocamos a que los medios
+de comunicación todos los días le den tan duro a una institución tan
+importante y de pronto si me permiten también hablar un poco del
+tema de la composición actual de los miembros de la Comisión que
+ustedes saben que en estos momentos hay algunas dificultades,
+gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:28:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Sírvase llamar a lista Señor Secretario para poner a consideración las
+tres proposiciones que fueron leídas, se abre la discusión, anuncio que
+se va a cerrar, queda cerrada, por favor verifique la votación señor
+Secretario.</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda" startTime="2010-08-11T10:28:20">
+							<from>H.R. Jaime Sepúlveda</from>
+							<p>Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2010-08-11T10:28:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, han sido aprobadas las tres proposiciones leídas.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:28:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno entonces le damos el uso de la palabra al señor, Presidente de
+la Comisión Nacional de Televisión, doctor Eduardo Osorio Lozano.
+Dr. Eduardo Osorio Lozano,, Presidente de la Comisión Nacional
+de Televisión:
+Señor Presidente y Señores Representantes, muchas gracias por esta
+invitación a esta sesión, nosotros celebramos mucho de verdad
+compartir con ustedes esta información sobre las actividades de la
+Comisión Nacional de Televisión, sus funciones, sus miembros y
+sobretodo nuestros logros y retos que vamos a emprender para
+efectos de lograr nuestro cometido fundamental que es llevarle una
+mejor televisión a los colombianos.
+En primer término quiero agradecer a la Presidencia, a la Mesa
+Directiva y a los demás Representantes darle la bienvenida también a
+la Comisión y ofrecerle por parte de la Comisión Nacional de
+Televisión nuestra voluntad incondicional de apoyo y colaboración en
+toda la información que requieran sobre las actividades, no solamente
+que adelanta la Comisión Nacional de Televisión frente al público en
+general sino frente a los organismos de control y a los vigilados y
+obviamente al Congreso de la República.
+En primera instancia, si me parece importante aclarar un par de temas,
+las respuestas si bien es cierto llegaron el lunes y ayer se entregaron
+dentro del tiempo reglamentario, o sea fue muy corto el lapso entre la
+formulación de los cuestionarios y la citación y el debate efectivamente
+realizado, o sea la fecha de hoy, adicionalmente hubo un volumen bien
+importante, más de 50 preguntas que requerían una serie de anexos
+también y no digamos demora porque se entregaron dentro del tiempo
+reglamentario, sin embargo quiero presentarles excusas sobre este
+punto.
+Otro tema referido al tema de la vocería, la vocería de la Comisión
+Nacional de Televisión la lleva permanentemente el, director de la
+Comisión Nacional de Televisión, no obstante existen algunos
+momentos de que hay algunos Comisionados que hablan con los
+medios de comunicación, sin embargo existe un pacto dentro de la
+Junta Directiva que la vocería siempre la lleva el, director y
+precisamente en este caso, por eso yo voy a referirme a los temas de
+la Comisión Nacional de Televisión a través de una presentación que
+básicamente pretende dar a conocer a ustedes que están llegando
+pues a sus curules, que es la Comisión, como es su funcionamiento o
+más allá de esto, cuáles son los logros y los retos que emprendemos y
+de todas maneras incluir en esta presentación tres capítulos sobre las
+preguntas que se formularon relacionadas con tres proyectos muy
+importantes para nosotros como son: televisión digital terrestre, el
+proyecto de televisión satelital directo al hogar gratuito y el proyecto
+del Tercer Canal, hemos titulado así esta presentación como logros y
+retos en la construcción de una nueva televisión en Colombia.
+La agenda de esta presentación en primera instancia vamos a hablar
+de las generalidades de la Comisión Nacional de Televisión, vamos a
+hacer una breve reseña sobre el plan de desarrollo de la Comisión
+Nacional de Televisión 2010-2013, cuáles son los logros que hemos
+ya adelantado frente a la implementación de este plan y cuáles son los
+retos que tenemos adicionados para el año 2011 y a los tres temas
+gruesos que forman parte en resumen de las preguntas que ustedes
+formularon, que son la implementación de la televisión digital terrestre,
+el proceso de adjudicación del tercer canal privado y el acceso
+universal a la señal de televisión colombiana que es precisamente el
+proceso de televisión satelital directo al hogar.
+En cuanto al primer punto, la Comisión Nacional de Televisión tiene
+como características especiales, es una entidad de origen
+constitucional, es un órgano de derecho público con autonomía
+administrativa patrimonial técnica sujeta a un régimen legal propio,
+tiene como funciones básicas la dirección de la política que en
+materia de televisión determina la ley, la regulación, el fomento, la
+vigilancia y control de los servicios, la intervención y gestión en el
+control del uso del espectro electromagnético asignado a los servicios
+de televisión, el desarrollo y ejecución de los planes y programas del
+servicio de televisión, garantizar el pluralismo informativo, la
+competencia y eficiencia de la prestación del servicio y evitar con esto
+las prácticas monopolísticas que se puedan dar en el proceso
+televisivo.
+Los retos que hemos identificado básicamente son cinco en los cuales
+estamos trabajando para lograr a partir de este año y el año siguiente
+es la implementación de la televisión digital terrestre, la concesión de
+un tercer canal privado y el cubrimiento nacional, el acceso universal
+al servicio de televisión a través de la tecnología de televisión satelital
+directo al hogar, la regulación de la televisión en convergencia y
+obviamente la modernización interna de la Comisión Nacional de
+Televisión, proyecto que estamos adelantando de la mano con el
+Departamento Administrativo de la Función Pública.
+De acuerdo a estas actividades que tenemos en desarrollo, nuestros
+principales retos son: continuar con la sostenibilidad de la televisión
+pública, obviamente para la cual requerimos el ingreso de nuevos
+recursos para sostener a la televisión pública y adelantar las
+transferencias que la Comisión por ley tiene que hacer tanto a RTVC
+como a los canales regionales para el fortalecimiento tanto tecnológico
+como de sus parrillas de programación, el fomento a la competitividad
+de la industria, es decir generar nuevas fuentes de trabajo para efecto
+de que los productores nacionales tengan unas nuevas posibilidades
+de desarrollar sus talentos en materia de programación y producción
+de contenidos, regular y dirigir el sector con un enfoque más técnico,
+articulando funciones con otros órganos regulatorios,
+infortunadamente uno de los temas que ha sido objeto de mucha
+crítica para la Comisión Nacional de Televisión es una entidad
+supuestamente politizada, la idea es que teniendo unas claras
+derroteros regulatorios convirtamos a la entidad en un organismo
+técnico para que trabaje de la mano también con otros organismos
+como por ejemplo CRC la Comisión de Regulación de las
+Comunicaciones quién desarrolla unas actividades regulatorias muy
+puntuales, promover la inversión extranjera directa en el sector de la
+televisión, adecuar el marco normativo vigente a la dinámica actual del
+sector.
+Es importante conocer a grandes rasgos los aspectos presupuestales
+propiamente dichos de la Comisión Nacional de Televisión, la
+Comisión para el año 2010 tiene un presupuesto de 171 mil millones
+de pesos de los cuáles el funcionamiento de la Comisión implica el
+18%, las mesadas pensiónales de Inravisión es uno de los rubros más
+grandes y equivale al 23% del presupuesto, ustedes saben que a raíz
+de la liquidación de Inravisión la Comisión Nacional de Televisión tuvo
+que asumir en virtud de un concepto del Consejo de Estado el pago
+del pasivo pensional de Inravisión que al momento de su liquidación
+ascendía a la suma de 500 mil millones de pesos, estas mesadas
+pensiónales son casi de 40 mil millones de pesos al año, que tienen la
+obligación la Comisión Nacional de transferir en virtud a este concepto
+del Consejo de Estado.
+El presupuesto restante son las transferencias que se le deben hacer
+tanto a RTVC como a los canales regionales, a RTVC para el
+funcionamiento en virtud de las Leyes 182 y 335, la Comisión Nacional
+de Televisión debe garantizar el funcionamiento de Inravisión y debe
+hacer cada 45 días la transferencia de los recursos necesarios y
+suficientes para que esta entidad pueda desarrollar cabalmente su
+objeto y es uno de los rubros más grandes, es el 59% del presupuesto
+de la Comisión va dirigido a Inravisión.
+Básicamente todo este andamiaje y todas estas actividades apuntan a
+establecer un marco que promueve una mayor inversión, innovación y
+una mayor calidad respetando así la institucionalidad del sector.
+Es importante de todas maneras señalar la conformación de la
+Comisión, ustedes saben la conformación de la Comisión es a través
+de cinco miembros, dos delegados del, Presidente de la República, un
+delegado de los canales regionales y dos delegados que provienen de
+la sociedad civil, uno de ellos representa a los gremios de la
+producción,, directores, realizadores, libretistas, periodistas y técnicos
+de televisión y el otro representa a las universidades con facultades de
+educación y comunicación social y las ligas de padres de familia y las
+ligas de televidentes, básicamente tienen un periodo de acuerdo a la
+ley de dos años con posterioridad de prórroga de un par de años más.
+Volviendo al tema de los proyectos que adelanta la Comisión Nacional
+en este momento, aquí se detallan cada uno de ellos, el primero
+obviamente el Tercer Canal, el objeto de la adjudicación del Tercer
+Canal es obviamente la adjudicación de una concesión a una empresa
+privada para la operación y explotación de un canal de cubrimiento
+nacional, el estado actual de este proceso como ustedes lo saben está
+suspendido en virtud de una admisión de una demanda por parte del
+Consejo de Estado donde admitió la nulidad de un aparte específico
+del pliego de condiciones que prohibía en este caso, permitía la
+subasta con un micro proponente, esto fue suspendido
+provisionalmente de esta norma, en esta admisión de la demanda y en
+la audiencia de adjudicación que se iba a adelantar el pasado 29 de
+julio la Procuraduría que ha acompañado permanentemente el
+proceso de licitación recomendó a la Comisión Nacional de Televisión
+por prudencia esperar a que estuviera en firme la decisión, no
+obstante recalcó que si bien se pudo haber adelantada la adjudicación
+por el hecho de que todavía no había cobrado fuerza ejecutoria esa
+decisión del Consejo de Estado, sin embargo en virtud de que siempre
+hemos sido respetuosos durante todo el desarrollo del proceso
+licitatorio de las recomendaciones de los organismos de control
+aceptamos esta recomendación de la Procuraduría y determinamos la
+suspensión del proceso licitatorio el cual está básicamente a la espera
+del pronunciamiento del Consejo de Estado respecto de los
+aproximadamente once recursos de reposición que se interpusieron
+frente a esta decisión del Consejo de Estado.
+El reto frente a este tema, pues obviamente es culminar el proceso de
+contratación, el inicio de las operaciones y adelantar obviamente el
+seguimiento a las obligaciones contractuales que se derivarían del
+contrato de concesión, esto implicaría en cuanto a materia de
+recursos, o sea en la presentación estamos estableciendo cada uno
+de los proyectos con su objeto, estado actual, los retos que implican el
+desarrollo de esa actividad y cuáles son los recursos que ingresarían
+o que implicaría un gasto para la Comisión para la implementación de
+cada uno de estos retos.
+En materia de recursos como se ha dicho hay un precio base de la
+concesión de 103 mil millones de pesos que podría ser optimizado en
+un 10% adicional ante la existencia de un proponente único implicaría
+un ingreso de recursos por 113 mil punto 7 millones de pesos a la
+Comisión Nacional de Televisión más el 1.5% que más adelante
+explicaremos cuál son las fuentes y usos de los recursos de la
+Comisión Nacional de Televisión que entraría este último 1.5% de los
+ingresos brutos que se perciban del canal para el fortalecimiento de la
+televisión pública.
+El segundo de los proyectos, es el proyecto de acceso universal a la
+señal de televisión, ese proyecto comúnmente conocido como
+televisión satelital directo al hogar, que básicamente tiene por objeto
+garantizar el acceso universal de las señales de televisión a través de
+esta tecnología de la televisión satelital directa al hogar como lo decía
+el Representante Ciro Rodríguez, aproximadamente el 8% de la
+población colombiana no está recibiendo señal de televisión abierta
+radiodifundida, el 92% la está recibiendo, pero con esta solución que
+más adelante explicaremos en detalle, vamos a lograr un acceso
+universal de esta señal.
+En este momento en que estamos, estamos adelantando los estudios
+previos para el proceso de licitación del proveedor, es satelital que
+requerimos para efectos del empaquetamiento y la comprensión de las
+señales los canales abiertos radiodifundidos para subirlos en el satélite
+y después distribuirlos y ser recibidos por los usuarios a través de
+antenas de televisión directa al hogar y de codificadores, ¿con esto
+que pretendemos alcanzar?. Una cobertura de la televisión abierta del
+100% y obviamente una apropiación tecnológica por parte de la
+población quién tiene que adquirir en este caso los codificadores, este
+es un proyecto valorado después de haberse hecho todos los estudios
+de mercados previos en 30 millones de dólares por 10 años. Más
+adelante explicaremos en qué consiste el proyecto y cuál es el ahorro
+importante que se genera con esta solución que reemplazaría la de
+construir estaciones de baja y muy baja potencia en estas zonas de la
+geografía colombiana están muy alejadas y con esta solución
+tecnológica sería mucho más eficiente y mucho más efectiva y mucho
+más económica.
+El tercero de los retos es la regulación de la televisión en
+convergencia, infortunadamente y de acuerdo a lo que está
+establecido hoy en la ley, la televisión se ha regulado en virtud de la
+tecnología de transmisión utilizada, hoy vemos que existe una
+reglamentación a parte que reglamenta la televisión abierta, otra
+televisión cerrada, la televisión comunitaria, la televisión por
+suscripción, la televisión satelital y esto va en contravía precisamente
+de la tendencia en materia de telecomunicaciones que es a la
+convergencia, de esa manera la Comisión ha sido consciente de que
+hay que implementar un nuevo sistema regulatorio, una nueva política
+regulatoria teniendo como bases la convergencia y la digitalización
+pues como derroteros que existen dentro de las nuevas tendencias
+tecnológicas en materia de telecomunicaciones y de esa manera
+trabajar armónicamente con los organismos regulatorios también del
+servicio de telecomunicaciones que tienen a su cargo otras actividades
+u otros servicios de comunicaciones como es el caso de la Comisión
+de Regulación de Telecomunicaciones, para eso básicamente el
+objeto de esta construcción de una nueva política, de una nueva
+agenda regulatoria el objeto es analizar el impacto regulatorio de la
+digitalización y la convergencia en el sector de la televisión y
+determinar cuáles son los mercados relevantes para efectos de
+determinar cuáles están sujetos a esta regulación por parte de la
+Comisión Nacional de Televisión y definir competencias con el fin
+precisamente de no irnos a cruzar con las competencias que le
+corresponde a otros organismos regulatorios de los servicios de
+telecomunicaciones.
+El estado actual de este reto es, estamos ya socializando este
+proyecto con el gremio básicamente en el caso de la televisión cerrada
+para efectos de la convergencia con la Comisión de Regulación de
+Telecomunicaciones tuvimos también la posibilidad de presentarlo en
+el Congreso de ANDESCO de la Asociación Nacional de Servicios
+Públicos que se llevo a cabo el pasado mes en Cartagena, fue
+aprobado ya por la Junta Directiva para iniciar todo este proceso de
+regulación, la idea es iniciar una fase de consultoría en el próximo mes
+de octubre para determinar varias actividades relacionadas con la
+regulación, con la determinación de las nuevas tarifas de los contratos
+de televisión por suscripción del estudio de mercados relevantes y de
+la definición de la agenda regulatoria en conjunto con la Comisión de
+Regulación de Telecomunicaciones. Para esto básicamente el reto
+principal es definir un marco regulatorio del sector de la televisión en
+convergencia y de esta manera disminuir una cosa que hoy existe que
+son asimetrías regulatorias en el sector de la televisión. Los recursos
+estamos en este momento adelantando los estudios previos para
+definir cuál sería el valor de esta consultoría que tendríamos que
+adelantar.
+Los otros dos retos que nos quedan por explicar son la televisión
+digital terrestre, que tiene como objeto la digitalización de la red de
+televisión radiodifundida, hasta ahora se ha adelantado básicamente
+las siguientes actividades que son la definición del estándar, como
+ustedes saben se escogió el estándar europeo, se han determinado ya
+cuáles son los requerimientos mínimos de este estándar, se ha
+adelantado un proceso de pruebas con la televisión privada nacional,
+se construyo ya una estación de televisión digital que está ubicada en
+el Cerro Calatrava que irradia su señal para el norte de Bogotá y se
+han dispuesto una partida de 8.200 millones de pesos para transferir a
+RTVC para la construcción e implementación de cuatro estaciones que
+se adelantarán en los cerros del Padre Amaya que da la señal al
+departamento de Antioquia, la Zalia al departamento del Valle del
+Cauca y parte del Departamento del Cauca, Manguí que da a Bogotá,
+Boyacá y Cundinamarca y Cerro Kennedy en la Costa Atlántica, con
+esto se cubriría aproximadamente el 42% de la población que estaría
+entonces en este caso de aquí al año 2011 recibiendo esta señal
+digital.
+Los retos básicamente son: adelantar la digitalización de la televisión
+pública, articular esfuerzos entre canales públicos y privados para
+lograr estos cometidos en materia de digitalización, obviamente
+emprender todo el proceso de regulación en materia técnica, en
+materia de contenidos, en materia de capacitación y en materia de
+cooperación internacional, la planificación del espectro y el plan de
+frecuencias, de ejecución del proyecto de cooperación europea es
+importante, ya se firmo un convenio con la Comunidad Europea para
+efectos de los recursos que van a entrar en cooperación para el
+desarrollo de todas las actividades relacionadas con la implementación
+del sistema de televisión digital y obviamente un importante proceso
+de socialización que se ha venido adelantando para efectos de que
+todos los habitantes del territorio nacional estén enterados de que se
+está adelantando frente al tema de la televisión digital, más adelante
+cuando ya entremos específicamente en este capítulo vamos a contar
+en qué consiste este proyecto.
+En materia de modernización de la Comisión Nacional de Televisión
+que es nuestro quinto reto identificado, obviamente todas estas
+actividades no podrían desarrollar si no contáramos con una entidad
+moderna y sobretodo tecnificada, con perfiles técnicos importantes en
+materia de soporte a las demás áreas para ese efecto se está
+trabajando de la mano con el Departamento Administrativo de la
+Función Pública con quién ya se suscribió un convenio para adelantar
+todo este proceso de modernización de la entidad y que se tiene como
+reto básicamente la implementación de esta modernización y definir un
+mapa de procesos manuales de funciones, planta de personal, en este
+se han invertido para este proceso 280 millones de pesos como les
+digo para desarrollar esta actividad junto con el Departamento
+Administrativo de la Función Pública, eso frente a las actividades
+adelantadas por la Comisión de Televisión.
+Es importante y también está dentro del cuestionario que conozcamos
+cuáles son las distintas modalidades de la prestación del servicio de
+televisión de conformidad como está establecido en la ley, como para
+que tengamos un mapa general de cuáles son las distintas
+modalidades de prestación del servicio público de televisión de
+conformidad con la tecnología de transmisión utilizada o con la
+orientación de la programación o con el ámbito de cubrimiento.
+Básicamente la televisión se divide en dos modalidades, que son la
+televisión abierta y la televisión cerrada, frente a la televisión abierta
+esta la nacional, regional y la local y esto básicamente en virtud del
+ámbito de cubrimiento territorial de cada una de estas modalidades, la
+nacional a su vez se puede dividir de acuerdo a la orientación de la
+programación en televisión de interés público, educativo social y
+cultural y en televisión comercial como es el caso en este último del
+canal uno y de los canales privados RCN y Caracol.
+En materia de televisión local puede ser esta con y sin ánimo de lucro
+y en materia de televisión cerrada puede ser comunitaria o por
+suscripción y esta última se puede subdividir en cableada o satelitada.
+En cuanto al modelo de televisión en Colombia, existe en Colombia un
+total de 813 operadores divididos en sus dos modalidades de
+televisión abierta o radiodifundida y de televisión cerrada.
+En materia de televisión abierta o radiodifundida con que contamos,
+contamos con tres canales nacional de operación pública, que son dos
+institucionales y uno mixto, este mixto es el Canal Uno que es el canal
+operado por el Estado a través de RTVC pero se otorga en concesión
+a los particulares, los espacios para que emitan su programación y
+exploten comercialmente estos espacios, existen 8 canales regionales
+son canales públicos, dos canales nacionales de operación privada
+RCN y Caracol, existen 48 canales locales sin ánimo de lucro que son
+básicamente canales con una programación educativa, cultural y
+social que tengan una relación directa con el área de cubrimiento
+donde opera el concesionario, el licensatario en este caso, existe un
+canal local con ánimo de lucro que es el canal de Bogotá Citytv y en
+televisión cerrada existe 47 operadores de televisión por cable, dos
+operadores de televisión por suscripción satelital y 703 operadores de
+televisión comunitaria. En cuanto a los de televisión por cable hay
+algunos que ya tienen autorización para cubrir el país totalmente, hay
+unos que están reservados a una zona específica y ahí hay unos que
+son municipales que solamente cubren o cablean el municipio
+autorizado en el contrato respectivo.
+Es importante en materia del presupuesto o de los ingresos y del
+patrimonio propiamente dicho de la Comisión Nacional de Televisión
+que conozcamos cuáles son las fuentes y los usos de la Comisión
+Nacional de Televisión y obviamente de la televisión pública, porque
+casi el mayor porcentaje de los ingresos que genera la Comisión
+Nacional de Televisión tienen como destinación específica la televisión
+pública.
+En materia de televisión abierta tiene la obligación digamos esas son
+las fuentes, tiene la obligación de pagarle a la Comisión Nacional de
+Televisión el valor de las concesiones que se le otorguen a través bien
+sea de contratos o de licencias, la compensación en este caso la
+abierta nacional privada del 1.5 de los ingresos brutos recibidos por la
+explotación del servicio que como les decía están destinados al Fondo
+para el Desarrollo de la Televisión que tiene como fines específicos
+hacer las transferencias para el fortalecimiento de la televisión pública
+y obviamente se recibe también de la televisión pública el uso de las
+frecuencias del espectro electromagnético asignadas para la
+operación de los servicios.
+En cuanto a la televisión cerrada se recibe el valor de las concesiones,
+el valor de la compensación que hoy está en el 7% de los ingresos
+brutos y el valor de la compensación por la pauta publicitaria que
+emiten en los canales de producción propia que equivale al 10% de los
+ingresos brutos percibidos por esta explotación comercial.
+Los usos, la Comisión Nacional de Televisión dentro de su
+presupuesto tiene dos cuentas, una es la Unidad de Dirección General
+y otra es el fondo para el desarrollo de la televisión, ambas están
+establecidas de esta manera en la ley de televisión. La primera la
+Unidad de Televisión de Dirección General se destina básicamente a
+estos recursos que se reciben al funcionamiento interno de la
+Comisión Nacional de Televisión, que como les decía equivale al 18%
+del total de su presupuesto a proyectos de inversión y el grueso es al
+pago de las pensiones de los ex -trabajadores de Inravisión que como
+les comentaba equivale aproximadamente a la suma de 40 mil
+millones de pesos.
+En cuanto al Fondo para el Desarrollo de la Televisión que es la otra
+cuenta como les decía es también de creación legal con destinación
+específica, va básicamente al fortalecimiento de la televisión pública
+nacional es decir Señal Colombia, el Canal Institucional y la
+administración, operación y mantenimiento de toda la red pública
+nacional y también a los proyectos de expansión de la red que
+presente RTVC a la Comisión Nacional de Televisión quien apoya y
+financia todos estos proyectos, adicionalmente la Comisión Nacional
+de Televisión transfiere aproximadamente 26 mil millones de pesos a
+los canales regionales para proyectos de programación y producción
+de contenidos y para proyectos de fortalecimiento en su infraestructura
+técnica, todos los canales regionales reciben anualmente recursos a
+través de proyectos que presentan al Fondo para el Desarrollo de la
+Televisión para estos objetivos.
+Adicionalmente la Comisión Nacional de Televisión subsidia o financia
+el acceso de las señales de todos los canales públicos al satélite,
+entonces básicamente este es el manejo presupuestal de la Comisión
+Nacional de Televisión frente a la destinación a los operadores
+públicos.
+Vamos al segundo punto, después de hacer este recuento en materia
+de actividades de la Comisión Nacional de Televisión presupuesto y
+retos específicos, vamos a hablar del plan de desarrollo de la
+Comisión Nacional de Televisión 2010-2013. La Comisión Nacional de
+Televisión expidió a principio de este año su nuevo plan de desarrollo
+que está enmarcado en 4 pilares fundamentales para el logro de un
+objetivo que es llevar una más y mejor televisión tanto al televidente
+como un mayor desarrollo de la industria, en ejercicio de este plan se
+identificaron cuatro actividades fundamentales de la cual vamos a
+explicar desglosadamente en cada una de estas cuáles han sido los
+retos y cuáles han sido los logros para la implementación y logro de
+cada una de estas actividades, la primera de estas es la promoción del
+acceso universal que la vemos en uno de los pilares de esta especie
+como de casita sostenida precisamente por estas columnas
+fundamentales para nosotros en el desarrollo de nuestra actividad, la
+promoción del acceso universal; el segundo la promoción del
+desarrollo de la televisión educativa y cultural y de interés público, el
+fomento a la competitividad de la industria y la garantía en la calidad
+de los servicios.
+En cuanto a la primera, corresponde a la promoción del acceso
+universal, se ha identificado frente a este cuatro estrategias
+primordiales que son el aprovechamiento de la convergencia para la
+implementación de nuevas tecnologías, en este orden de ideas
+nuestros principales retos han sido la definición del estándar digital, la
+construcción de una estación digital en el Cerro de Calatrava y
+adicionalmente en materia de televisión por suscripción, la
+consolidación del mercado de televisión por suscripción, desde el año
+2006 con la expedición de un acuerdo, que es el acuerdo 10 de la
+Comisión se permitieron la integración de empresas de televisión por
+suscripción y la ampliación del cubrimiento nacional, eso fue
+importante porque generó unas mayores inversiones en materia
+digamos de modernizaciones de las redes y esto disminuyó el sub-
+reporte, ya a partir de estas integraciones los operadores comenzaron
+a informar la realidad de su número de usuarios y esto redunda en
+beneficio de la compensación que pagan ellos para efectos del
+sostenimiento de la televisión pública.
+Nuestro reto al 2011 como les explicaba con la implementación de las
+4 estaciones principales ubicadas en los departamentos de Antioquia,
+Costa Atlántica, Cundinamarca y el Valle del Cauca lograr un 38% de
+cobertura poblacional con la red digital y determinar los mercados
+relevantes y hacer toda la consolidación de la cooperación con la
+comunidad europea para la implementación de la televisión digital
+terrestre.
+La segunda de las estrategias para el logro del acceso universal se
+refiere a promoción y el uso eficaz del espectro, este año expedimos el
+plan único de frecuencias que implico una actualización del que estaba
+vigente anteriormente y se hace un monitoreo continuo del espectro,
+nuestros retos del 2011 son la promoción de servicios de última
+generación y la promoción de la multicanalidad, la movilidad y la
+interactividad y la mejor calidad de audio y video como una de las
+características primordiales con la implementación del sistema de
+televisión digital terrestre.
+La otra estrategia, asegurar el acceso de la población a los canales
+nacionales, esto implica la formulación del proyecto de televisión
+satelital directo al hogar que ya ha venido explicándoles y entrare un
+poquito más en detalle a continuación, con esto el principal reto es
+llegar al 100% de los habitantes del país con señal de televisión
+abierta radiodifundida de calidad.
+El fomento de minorías y poblaciones especiales la Comisión adelanto
+un programa muy importante, un proyecto muy importante de fomento
+a la televisión étnica a través del financiamiento del Canal Cancuamo
+un canal completamente realizado y desarrollado por la comunidad
+Camcuama en la Sierra Nevada de Santa Marta, permanentemente se
+adelantan actividades para fomentar la televisión infantil,
+financiamiento de programas de televisión infantil, la Comisión también
+adelanta anualmente un congreso ibeoamericano de televisión infantil
+con mucho éxito en el que vienen bastantes expertos, conocedores del
+tema a intercambiar con los productores colombianos experiencias en
+materia de producción de esta temática infantil y obviamente hay
+apoyo al acceso a personas con discapacidad y a los desplazados, la
+idea de nuestro reto para el año entrante es diseñar una política global
+para el acceso a las poblaciones especiales a los servicios de
+televisión.
+Frente al segundo pilar fundamental de nuestro plan estratégico, esta
+la promoción del desarrollo de la televisión educativa y cultural, esta es
+una de las metas y de las tareas casi que del día a día de la Comisión
+Nacional de Televisión, básicamente somos conscientes y
+conocedores de que uno de los objetivos primordiales es el
+sostenimiento de la televisión pública y de las temáticas de la
+televisión pública de interés para la comunidad, precisamente como
+una alternativa frente a la oferta comercial. Entonces básicamente las
+actividades que hemos desarrollado y las estrategias que hemos
+identificado frente a este pilar fundamental es la articulación de las
+acciones con los canales públicos regionales y nacionales que
+básicamente hace referencia al financiamiento.
+Dentro de las estrategias de este eje central del plan de desarrollo, es
+una actividad que desarrollamos de manera permanente y es una
+interacción con los operadores públicos de televisión, en la medida
+que ellos son los directos beneficiados con las transferencias y los que
+obviamente necesitan este desarrollo técnico, tecnológico y de
+producción de contenidos, tenemos reuniones permanentes a través
+de las áreas o a través del comisionado que representan los canales
+regionales que en este caso es Mauricio Samudio para escuchar de
+boca de ellos cuáles son sus necesidades permanentes con los
+canales regionales y con RTVC mantenemos permanentemente una
+relación incluso en el caso de los canales regionales vamos a sus
+Juntas Directivas y con RTVC tenemos una interacción permanente
+para saber cuáles son sus necesidades puntuales, vuelvo y digo en el
+entendido de que reconocemos como una de nuestras misiones más
+importantes el fortalecimiento de la televisión pública, de ahí que otra
+de las estrategias permanentes es el fortalecimiento del Fondo para el
+Desarrollo de la Televisión, básicamente si vemos desde el año 2002
+al 2009 había un incremento del 16% en este fondo para el desarrollo
+de la televisión y había un incremento también considerable frente a
+las transferencias que se hacen a los canales regionales.
+También dentro de nuestras actividades está la de apoyar la televisión
+comunitaria y local sin ánimo de lucro, somos conscientes de que la
+televisión comunitaria es un espacio absolutamente importante para
+que las comunidades encuentren en él un espacio donde puedan
+divulgar cuáles son sus intereses, los intereses de la comunidad que
+forma parte del ámbito de cubrimiento territorial del canal, temas
+relacionados con el entretenimiento y con la recreación, la cultura,
+pero sobretodo la información de interés para esa comunidad, la
+Comisión Nacional de Televisión reglamentó la televisión comunitaria
+desde hace mucho tiempo y permanentemente otorga, asigna
+licencias a las comunidades organizadas que con el cumplimiento de
+requisitos solicitan a la Comisión la respectiva licencia.
+Pero adicionalmente este apoyo a la televisión comunitaria no termina
+solamente en la entrega de las licencias, sino también se apoya el
+fortalecimiento de su parrilla de programación a través de la entrega
+de maletas audiovisuales como se hizo con el Ministerio de Cultura,
+con la programación más importante de los canales públicos para que
+ellos puedan difundir la programación de interés para la comunidad y
+hay un diálogo participativo permanente con la televisión comunitaria y
+hay también esquemas de capacitación en materia de producción de
+contenidos y sobretodo en elaboración de las solicitudes para efecto
+de poderles expedir la licencia.
+Frente al tercer pilar fundamental esta el fomento de la competitividad
+de la industria a la televisión, también se han definido cuatro
+estrategias puntuales frente a este eje estratégico, la primera hace
+referencia a la incorporación de nuevas tecnologías en materia del
+servicio de televisión desde el año antepasado se financio
+aproximadamente 5 mil millones de pesos a RTVC la adquisición de
+un nuevo centro de misión digital que esta incluso a la vangurdia de
+los canales, es un centro de misión con toda la tecnología que
+garantiza una excelente calidad de la televisión que se emite a través
+de RTVC, es decir los programas del Canal 1, de Señal Colombia, y
+del Canal Institucional, se han financiado y se han entregado equipos
+digitales y unidades móviles y equipos de producción al 100% de los
+canales regionales y como les decía se financia también la capacidad
+satelital es decir el acceso de los canales públicos nacionales y
+regionales al satélite con una inversión aproximada de 18 mil millones
+de pesos al año, nuestro reto frente a este eje estratégico es el
+impulso a la inversión extranjera nacional para fortalecer la migración
+de nuevas tecnologías.
+Otra de las estrategias es el impulso al desarrollo de los agentes que
+componen la cadena de valor del servicio, vamos a comenzar en esta
+tarea, incluso la Comisionada Aní Vásquez está adelantando un
+proyecto muy importante que desarrollaremos este año que es una
+especie de macro rueda de negocios para efecto de que los
+productores independientes es decir aquellos, o sea estos talentos
+colombianos que están produciendo programación para la televisión
+pública tengan la posibilidad de mostrar a clientes o productoras de
+programación del exterior su producto y generar de esta manera un
+puente que permita la salida de este material audiovisual tan
+importante que tantos premios gana en el exterior y que pueda ser
+comercializado en el exterior a través de otras operadoras de
+televisión del extranjero, esto es un tema muy importante que está
+dentro de las políticas que desarrollara la Comisión Nacional de
+Televisión y que beneficiarán obviamente a la industria y el talento de
+la producción nacional.
+Básicamente también está en fomento a la libre y leal competencia en
+el servicio de televisión, digamos los principales logros o retos que
+esta el proceso licitatorio del tercer canal, la entrada de nuevos
+operadores de televisión al mercado y la posibilidad y estamos en
+proceso de análisis de la entrada de nuevos operadores de televisión
+cerrada por suscripción o satelital y expansión de cobertura de
+televisión por suscripción; como lo decía en este momento hay
+algunos que ya tienen aprobación para operar nacionalmente, hay
+otros que están adelantando sus solicitudes para ampliar en este caso
+la cobertura lo cual redundaría en una ampliación del número de
+usuarios que a su vez beneficiaría los recursos que entran para el
+Fondo de Desarrollo de la Televisión.
+Finalmente, el cuarto eje estratégico de nuestro plan de desarrollo es
+garantiza la calidad de los servicios de televisión a través de
+estrategias tales como el control y la vigilancia del servicio,
+básicamente nuestros principales logros hacen referencia al control y
+análisis posterior de los contenidos, es la inspección, vigilancia y
+seguimiento y control de las actividades desarrolladas por los
+operadores y obviamente de los más importantes es el tema de los
+contenidos propiamente dichos para lo cual nosotros hemos
+implementado las disposiciones de la ley de infancia y adolescencia
+para tener un especial cuidado con el tratamiento de los contenidos de
+televisión infantil y trabajamos permanentemente de la mano con las
+entidades y autoridades encargadas de este tipo de temas, hemos
+implementado mecanismos para atender la población con limitaciones,
+es decir el sistema de lenguaje manual o de señas hemos dotado a
+todos los operadores públicos de los equipos y de las herramientas
+necesarias para que su programación incluya este esquema y hay una
+obligación también a través de acuerdo para que todos los operadores
+incluyan programación con estas características para que ahí ya
+puedan acceder con facilidad las personas con limitaciones auditivas.
+En materia de retos, uno de los más importantes yo creo es establecer
+y definir una metodología de medición de sintonía para la televisión
+pública, ustedes han sabido que hoy la televisión básicamente el único
+elemento de medición es el IBOPE, el IBOPE que básicamente lo que
+mide son los hábitos de consumo televisivo de una audiencia que
+básicamente va encaminada a que los anunciantes puedan digamos
+saber en qué espacios existen las mayores y mejores audiencias para
+efectos de anunciar allí y divulgar ahí las bondades de sus marcas, de
+sus productos y de servicios, básicamente el IBOPE es una
+herramienta válida para la televisión comercial, sin embargo para la
+televisión pública por su connotación y por su objetivo educativo y
+cultural muchas veces esta herramienta no es la más acertada
+sobretodo en casos como Señal Colombia o el Canal Institucional que
+no comercializan su programación, entonces el IBOPE no es la mejor
+herramienta para efectos de medir cuál es la eficiencia y la efectividad
+de los contenidos que se transmiten a través de estos canales, de ahí
+que la Comisión ha considerado la importancia de adelantar,
+comenzar desde ya y tenerlo como reto para el año entrante un
+sistema alterno de medición para los canales públicos que realmente
+determine si los están viendo y digamos con que efectividad se está
+logrando la difusión de sus contenidos y sus proyectos, básicamente
+eso en cuanto a nuestros planes de acción.
+Voy a entrar rápidamente a explicar los tres proyectos que
+básicamente hacían referencia a las preguntas formuladas, que son el
+proyecto de televisión digital terrestre, el tema del tercer canal y el
+proyecto de televisión directa al hogar. Inicialmente voy a relacionar
+cuáles fueron las actividades previas a la selección, a la determinación
+del estándar por parte de la Junta Directiva de la Comisión, eso es un
+proceso que se inicio a partir del año 2006, que culmina el pasado
+agosto del 2008 con la definición del estándar y que obviamente a
+partir de eso comienza toda la fase de implementación que es la que
+hoy estamos adelantando con el apoyo obviamente de toda la
+Comisión y de la comunidad europea y de los operadores, las
+actividades previas a la definición del estándar iniciaron con la
+realización inicial de una serie de pruebas para efectos de determinar
+las bondades y las calidades de los distintos estándares existentes,
+básicamente se determinaron como criterios para la selección del
+estándar, se adelantaron una serie de pruebas, se hizo un estudio
+socioeconómico adelantado por el Ministerio de TICs, esto lo
+adelantaron con la Universidad de Antioquia para determinar cuáles
+eran aproximadamente los rasgos de precios entre los distintos
+sistemas de televisión digital terrestre, se adelantaron también una
+serie de encuestas para determinar los rangos de inversión de
+hogares por estrato de ingreso anual por hogar, inversión de los
+operadores públicos nacionales, todas las inversiones que fueron
+necesarias para la implementación de los diversos sistemas.
+La Comisión Nacional de Televisión realizó a lo largo del país
+aproximadamente doce foros en distintas ciudades, en las cuales
+participaron no solamente personas conocedoras del tema técnico y
+tecnológico sino personas del común para que se les informara sobre
+los distintos estándares que estaban en proceso de selección y
+finalmente como les decía en agosto del 2008 se decidió el estándar,
+para efectos de ser implementado dentro de los 10 años siguientes a
+esa fecha, es un periodo de transición de 10 años con una gradualidad
+en su implementación que es lo que se ha venido dando.
+Importante establecer que para efectos de la definición del estándar se
+creó un consejo asesor en el cuál formó parte el Ministerio de
+Comunicaciones, el Ministerio de Educación y el Ministerio de Cultura,
+las Comisiones Sextas de Senado y Cámara, formaron parte también
+de este comité técnico representantes de los canales privados
+nacionales, Asociación Colombiana de Ingenieros, Asociación
+Colombiana de Medios- ASOMEDIOS, representantes de las
+universidades; básicamente este comité que sesiono a la par que se
+tomaba la decisión, fue un apoyo fundamental en el análisis de todas
+las características presentadas por cada uno de los estándares.
+Dentro de las preguntas también estaba el tema de inversiones
+requeridas para efecto de la implementación de la televisión digital,
+estas son sus cifras arrojadas por este estudio socioeconómico
+adelantado ante el Ministerio de TICs y la Universidad de Antioquia,
+básicamente allí se determino que la inversión de los canales públicos
+para la digitalización o para la implementación de la DDT sería de 95
+millones dólares, la de los canales regionales de 34 millones de
+dólares y de los canales privados 56 millones de dólares, los
+parámetros para la implementación del sistema escogido fueron el
+periodo de transición del sistema análogo digital sería máximo de 10
+años es decir debía estar finalizado, es decir lo que se llama el apagón
+analógico en año 2019, la televisión digital terrestre debe ser gratuita y
+los concesionarios de televisión abierta deben brindar sin costo los
+mismos contenidos emitidos en analógicos como en televisión fija y
+móvil digital haciendo también en este momento respuesta a una de
+las preguntas que formulaba el Representante, se prohíbe la sesión a
+terceros de la explotación de porciones del espectro, se asignara un
+total de 6 megaherz que también hacia el comentario el Representante
+Ciro Rodríguez, se adopta un sistema de comprensión de P4
+siguiendo en este caso la recomendación de la Unión Internacional de
+Telecomunicaciones y en dos años aproximadamente a finales y
+principios del 2011 el 25% de la población colombiana deberá tener
+televisión digital terrestre, digamos en este caso podríamos ser un
+poco más visionarios en el entendido que si logramos la
+implementación de las cuatro estaciones de alta potencia de las que
+hemos hablado podemos hablar incluso del 40% de la población
+cubierta con televisión digital el próximo año 2011.
+¿Cuáles son los beneficios esperados con este sistema de televisión
+digital terrestre?, siempre hemos oído que las características o los
+aspectos que fueron primordiales para que la Comisión Nacional de
+Televisión tomara una decisión sobre el estándar europeo hace
+referencia a la multicanalidad, interactividad, movilidad y la mejor
+calidad de audio y sonido. En cuanto a la multicanalidad que implica la
+posibilidad de transmitir simultáneamente varios programas en formato
+por el ancho de banda que se asigna que es de 6 megaherz.
+Interactividad implica la posibilidad de interactuar con el televidente en
+el tema de contenidos. La movilidad, la posibilidad de recibir la señal
+utilizando equipos o receptores en movimiento y obviamente mejor
+imagen y sonido es básicamente una posibilidad de transmitir
+imágenes en alta definición y la posibilidad de mejorar la calidad del
+sonido pasando del monofónico y estereofónico a una transmisión de
+una señal de sonido envolvente.
+En esta gráfica se relacionan básicamente 7 fases que son el plan que
+la Comisión Nacional de Televisión ha desarrollado, viene
+desarrollando y ha identificado para la implementación completa del
+proyecto, en primera instancia la planificación del espectro y el nuevo
+plan de frecuencias es una etapa que ya se ha desarrollado y se ha
+adelantado respecto de esta etapa, se han determinado las
+condiciones técnicas para las estaciones digitales, los límites de
+exposición a los campos electromagnéticos, medición de misiones en
+campos electromagnéticos y el registro de frecuencias de los
+operadores de televisión radiodifundida.
+La segunda fase para la implementación del sistema, es la cobertura
+para la televisión pública nacional, como les decía en esta primera
+fase las cuatro estaciones de alta potencia ubicadas en las zonas que
+les comente, este es un tema que está en proceso, si ven ya tenemos
+la partida presupuestal de aproximadamente 8 mil millones de pesos
+para transferir a RTVC para el desarrollo e implementación de esta
+fase del proceso.
+La tercera, la ampliación de cobertura de la señal de televisión, esto
+implicaría en materia de los canales privadas se determinó en las
+prorrogas por 10 años más una gradualidad en materia de porcentajes
+de cubrimiento de señal digital, básicamente en el año 2010 tendría
+que tener el 25%, en el 2011 el 38% en el 2018 estaría el 100% de la
+señal de los canales privadas en digital.
+También se adelantaron ya y se definieron cuales son los
+requerimientos técnicos mínimos tanto de los televisores como las
+cajas codificadoras que se implementarían en los televisores para
+efectos de la recepción de las señales codificadas, ya fueron
+anunciadas a finales del año pasado, cuáles eran las condiciones y los
+requisitos que debían tener estos decodificadores y dentro de esta
+fase es importante que en la socialización de esto se trabaja
+armónicamente con la Superintendencia de Industria y Comercio
+frente al tema de protección al usuario para que no sea engañado
+cuando comiencen ya dentro de los próximos meses a venderse estos
+equipos y estos televisores.
+La quinta etapa del proceso de implementación, es el tema de la
+regulación y la normatividad para operadores de televisión abierta, es
+un proyecto que estamos en estudio y que obviamente comprende
+muchos campos no solamente de la transmisión y de la operación sino
+también de la producción y realización de los contenidos que se
+emitirían digitalmente.
+El sexto paso, la cooperación de la unión europea, ya tenemos un
+convenio suscrito, básicamente hace referencia a capacitación,
+asesoría en la identificación y parámetros técnicos y el apoyo
+económico para la implementación de la televisión digital terrestre
+pública emitida por los canales públicos, se ha adelantado a lo largo
+de todo el proceso incluso previo al proceso una importante campaña,
+una importante estrategia de comunicación que como les decía incluso
+previo a la determinación del estándar se adelantaron una serie de
+foros, se emitieron comerciales por televisión para dar a conocer las
+bondades de cada uno de los sistemas y con posterioridad a la
+elección y a la determinación del sistema europeo se han venido
+también adelantando una serie de actividades de difusión, publicidad,
+en cada una de las ferias o de los foros o de los congresos
+relacionados con el tema de telecomunicaciones, se han instalado
+kioscos, información permanente con distribución de estos folletos que
+se les repartió a cada uno de los Honorables Representantes con la
+información más importante y las características de esta tecnología de
+transmisión de televisión, obviamente con miras a que toda la gente
+esté informada en este cambio de tecnología y de cuáles van a ser las
+etapas y las fases que van a implicar este cambio de tecnología.
+El proceso de adjudicación del tercer canal, básicamente les puedo
+comentar que dentro de las divisiones o clasificaciones del servicio de
+televisión está abierta radiodifundida en virtud a la orientación de la
+programación, puede ser comercial o puede ser educativa y cultural y
+de interés público y social, la televisión comercial en este caso puede
+ser también operada por programadores de naturaleza privada, es así
+como aproximadamente 12 años se adjudicaron dos concesiones que
+en ese momento se habían determinado la posibilidad de otorgar a los
+dos canales existentes RCN y Caracol, estas concesiones se
+vencieron en un tiempo inicial de 10 años, se vencieron el pasado 9 de
+enero del 2009 y fueron objeto de prórroga por 10 años más, sin
+embargo después de unos estudios previos adelantados por la
+Comisión Nacional de Televisión se determino que al mercado le cabía
+un nuevo operador de televisión, esto se hizo con base en unos
+resultados y unas bancas de inversión contratadas para la
+determinación no solamente de la posibilidad de incluir uno o dos o los
+que cupieran actores en este mercado, sino también determinar el
+valor de las prórrogas de Caracol y RCN y el valor del nuevo canal,
+dentro de los resultados de esta consultoría se determinó, que en
+efecto, que el mercado daba la posibilidad de que existiera un nuevo
+canal privado en el entendido de que ya se habían acabado los 10
+primeros años de exclusividad de los dos canales, de ahí que la
+Comisión decidió iniciar todos los procesos de selección para la
+determinación de este nuevo canal, más que ustedes nadie sabe y
+toda la opinión pública, todos los inconvenientes que ha tenido este
+proceso. Básicamente el primer proceso que se adelanto el año
+pasado fue revocado por la Procuraduría General de la Nación que
+había acompañado el proceso y digamos que la decisión de la
+Procuraduría era que frente al precio base establecido no se generaba
+una posibilidad de optimización de los recursos del Estado frente a
+este caso el otorgamiento de unas frecuencias del espectro
+electromagnético y obviamente la asignación de las mismas para su
+explotación y su uso por parte del nuevo operador.
+En ese orden de ideas las Comisión Nacional de Televisión adelantó
+unos nuevos estudios para la determinación del nuevo precio y
+obviamente se consulto de manera permanente; con los organismos
+de control quien avalaron y han avalado el proceso de manera
+permanente, aquí en esta grafica básicamente que se persigue con la
+adjudicación de un tercer canal, obviamente la adjudicación de una
+concesión para la operación, explotación de un tercer canal de
+operación privada de cubrimiento nacional y obviamente este
+otorgamiento está enmarcado dentro de unos objetivos específicos
+que están directamente relacionados con el quehacer de la Comisión
+Nacional de Televisión y con el fin de ley, el cumplimiento de los fines
+y principio del servicio de televisión en Colombia, el fomento a la
+producción vinculada al servicio de televisión y en general a la
+industria, la introducción de un mayor dinamismo en el mercado de la
+pauta publicitaria teniendo en cuenta el crecimiento del inventario de
+minutos de pauta y de la demanda insatisfecha de algunos
+anunciantes, incentivar la diversidad y la oferta de contenidos en la
+televisión colombiana, un mayor pluralismo informativo y obviamente
+esto conlleva a otro de los principios fundamentales que es el
+fortalecimiento de la democracia, la atracción de la inversión extranjera
+directa en la industria de televisión y obviamente como lo hemos dicho
+a lo largo de la presentación requerimientos de recursos para
+garantizar la sostenibilidad de la televisión pública en el entendido que
+básicamente este 5% que se percibe de los operadores privados
+tienen esta destinación específica.
+Las características del proceso, este ha sido un proceso
+independientemente de las críticas o de las distintas acciones
+judiciales que se han interpuesto ha sido un proceso transparente, ha
+sido un proceso acompañado por los organismos de control, ha sido
+un proceso participativo, ha sido un proceso que se ha realizado de
+cara al país y obviamente porque no decirlo ha sido un proceso
+bastante comentado y básicamente por los intereses que hay de por
+medio, que son los intereses, unos intereses económicos fuertes por
+parte de todos los actores del proceso como lo decía el Representante
+referente a la importancia de la pauta y de la torta publicitaria.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:28:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Perdón doctor, es que algunos miembros del Partido Conservador se
+tiene que retirar porque tienen una cita con el Señor Ministro del
+Interior, yo le pediría que redondeáramos, porque necesitamos
+aprobar dos proposiciones y como el debate lo vamos a llevar a cabo
+sobre estos mismos temas que usted está abordando, entonces por
+favor redondear.
+Dr. Eduardo Osorio Lozano, Presidente Comisión Nacional de
+Televisión:
+Básicamente lo que yo quería comentar del tercer canal son estos
+puntos específicos, el estado actual como todos sabemos está
+suspendido, se suspendió el proceso licitatorio hasta tanto el Consejo
+de Estado decida los recursos de reposición interpuestos,
+básicamente eso era lo quería comentar.
+Me faltaría simplemente un punto que lo voy a pasar muy rápido, son
+dos gráficas, es el tema de la televisión satelital directa al hogar,
+nosotros le hemos llamado a este proyecto acceso universal de las
+señales de televisión abierta mediante la transmisión satelital.
+¿Básicamente que persigue la Comisión con este proyecto que ya
+está adelantando?. Es garantizar el acceso universal de todos los
+canales de televisión abierta incluyendo obviamente el Canal del
+Congreso a través de un servicio portador de las señales, ¿cómo
+funciona esto?, básicamente el contratista que se selecciona en un
+proceso de licitación pública implementa un sistema de recepción y
+transmisión satelital empaqueta, comprime y codifica estas señales,
+las sube al satélite para que el satélite las distribuya y sean recibidas
+en cada uno de los hogares a través del decodificador y de la antena
+de televisión satelital directa al hogar, los canales que se recibirían son
+los canales públicos y privados abiertos radiodifundidos nacional y
+regionales y el Canal del Congreso para lo cual se están tramitando
+todas las solicitudes de autorización por el tema de derecho de autor
+frente a los contenidos.
+El presupuesto adicionado después de un estudio de mercado
+adelantado como les explicaba son 30 millones de dólares para ser
+pagaderos a 10 años que dura el proyecto, ya digamos adelantamos
+todo el proceso de vigencias futuras para poder adelantar este
+proyecto dentro de la Comisión Nacional de Televisión y básicamente
+ya estamos próximos a la publicación de los pre-pliegos de
+condiciones para la selección del contratista que adelantaría el
+desarrollo de este proyecto, yo les comentaba al principio que esto
+genera unos ahorros muy importantes. En qué sentido, llevar al 8% del
+País sobre todo en estas zonas apartadas de la geografía nacional y
+zonas de frontera, utilizando estaciones terrestres, radiodifundidas
+implicaría aproximadamente 200 mil millones de pesos, de inversión y
+no generaría la misma eficiencia, porque solamente cubriría el ámbito
+de cubrimiento del municipio donde se instalara la señal, con esta
+solución que valdría 60 mil millones de pesos es decir 30 millones de
+dólares, se lograría que todo el 100% del país recibiera esta señal de
+calidad y con la eficiencia que se requiere, garantizando de esta
+manera el acceso universal.
+Creo que está comprendido así a grandes rasgos todas las
+inquietudes, de todas maneras estamos prestos y dispuestos a
+absolver los comentarios y las nuevas preguntas en el debate que
+adelantaremos y que ustedes tengan a bien hacernos. Muchas gracias
+por la oportunidad.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:29:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Muchas gracias a usted doctor Eduardo Osorio, como el Reglamento
+no impide que se puedan formular nuevas preguntas, vamos a dar
+plazo hasta este próximo viernes para que las formulen, les pedimos
+muy comedidamente a la Comisión Nacional de Televisión que las
+absuelva ojalá 48 horas antes del debate que vamos a continuar el
+próximo martes 24 de agosto, señor Secretario sírvase leer las
+proposiciones que hay sobre la Mesa.</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda" startTime="2010-08-11T10:29:10">
+							<from>H.R. Jaime Sepúlveda</from>
+							<p>Proposición:
+Se solicita citar a la Comisión al gerente del proyecto doble calzada
+Bello - Barbosa, doctor Hernán Moreno para que rinde un informe
+sobre el avance de este mega-proyecto y explique retrasos y el
+incumplimiento en la ejecución de proyectos específicos.
+Se anexa cuestionario.
+Fdo:
+H.R. Jhon Jairo Roldán, Representante por Antioquia
+Iván Darío Agudelo, Representante por Antioquia
+Siguiente proposición:
+Proposición:
+La Comisión Sexta Constitucional Permanente de la Honorable
+Cámara de Representantes se permite citar a la Señora, Ministra de
+Educación Nacional doctora María Fernanda Campo Saavedra para
+que responda el siguiente cuestionario anexo ante los Congresistas de
+la Cámara de Representantes.
+Presentada por:
+H.R. Carlos Andrés Amaya Rodríguez
+Departamento por Boyacá
+Se anexa cuestionario Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:29:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>En consideración las proposiciones leídas, se abre la discusión, doctor
+Yepes tiene la palabra.</p>
+						</speech>
+						<speech by="#hr-jaime-armando-yepes-martínez" startTime="2010-08-11T10:29:30">
+							<from>H.R. Jaime Armando Yepes Martínez</from>
+							<p>Gracias señor Presidente, solamente para hacer una sugerencia a la
+Presidencia y a los amigos de la Comisión Sexta en el sentido de que
+todas estas proposiciones de citación a los diferentes funcionarios que
+nos corresponde a nosotros hacerles el control político tengamos
+nosotros como un poco de pausa, en el sentido de que no estemos
+haciendo lo que ya ha pasado desde que entramos a sesionar a la
+Comisión, por ejemplo se cito al gerente de Acuavalle, la persona
+estuvo acá a responder por su cuestionario y a los interrogantes que
+tuviera la Comisión, por parte del citante le tocó aplazar a pesar de
+que el funcionario estuvo aquí el debate, porque no tenía la suficiente
+ilustración de las respuestas que dio por parte de esta entidad para
+poder hacer el debate bien, en este sentido nos tocó exactamente
+igual con la Comisión Nacional de Televisión, las respuestas llegaron
+demasiadamente tarde, entonces para nosotros estudiarlas, porque
+ustedes saben que en estas respuestas cuando uno manda
+cuestionarios, muchas veces las respuestas son ambiguas y con la
+cual le toca a uno también tener un espacio, mirar si las respuestas
+que se están dando o las entidades que les estamos haciendo el
+control político tienen verdaderamente un asidero a la pregunta que
+nosotros estamos haciendo para así entrar a controvertir un verdadero
+debate al cual nosotros estamos esperanzados en hacerlo con mucha
+altura y con mucha responsabilidad.
+Entonces en estas proposiciones que vienen, que van haber muchas
+preguntas a las que estamos citando al futuro es que se tenga un
+espacio grande entre las preguntas que se manden para darle también
+a ellos un largo plazo para que ellos puedan investigar y dar unas
+respuestas verdaderamente acertadas a lo que estamos haciendo y
+que cuando verdaderamente lleguen a la Comisión nosotros tengamos
+una ilustración real para hacer un bonito debate no solamente para
+nosotros sino también para todos los amigos y televidentes
+nacionales.
+Lo otro es, que puede ocurrir, que citan por ejemplo para una próxima
+sesión, resulta que en esa próxima sesión de pronto muchos de esos
+funcionarios están en otras Comisiones o están citados a Presidencia
+de la República, entonces a pesar de que ellos dicen que si, pueden
+cancelar un día antes, hoy que teníamos la televisión en directo para
+toda Colombia perdimos nosotros la oportunidad de hacer un contra-
+interrogatorio a todas esas preguntas y respuestas que nosotros
+tenemos y que el doctor Prieto nos ha ilustrado muy bien en todo lo
+referente a lo que es la Comisión Nacional de Televisión, entonces le
+sugeriría no solamente a ustedes los compañeros, sino al Señor
+Presidente para que tengamos un tiempo prudencial entre los
+cuestionarios que se le mandan a los funcionarios y el día del debate,
+importante que se va a hacer con cada uno de ellos a las diferentes
+entidades que nosotros les hacemos control político, gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:29:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2010-08-11T10:29:50">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>El tema es para agregarle al Vicepresidente, yo pienso que si debería
+haber una reunión aquí con el Secretario y la Mesa Directiva, porque
+ya veo que hay proposiciones de que citemos a la, Ministra y realmente
+los vamos a traer aquí por unos cuestionarios donde no tiene sentido,
+la Comisión debe empezar a ganarse el respeto de los Ministros, yo
+por lo menos tengo una proposición para hacerle un control político al
+tema plan vial 2.500 en el Departamento de Santander y me gustaría
+que los demás Honorables Representantes se sumaran en cada una
+de las regiones y lo traemos de verdad con diapositivas, con imágenes
+que le podamos presentar al país cuál es el deterioro, cuál ha sido el
+cumplimiento y de la misma manera lo hagamos con educación, ahora
+que nos presenten el tema del Plan Nacional de Desarrollo, en cada
+una de las regiones vamos a tener aquí y con eso nos ganamos el
+respeto de los Ministros, el respeto de la audiencia y esa es la
+metodología que pienso que debemos aplicar y me gustaría que la
+Mesa Directiva tomara esa iniciativa y que nosotros estableciéramos el
+mecanismo, gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:30:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Cumplimiento al artículo 233 del Reglamento Interno del Congreso, ahí
+se establece cuáles son los procedimientos para que cada uno de
+ustedes se lo lea y lo tengamos en cuenta para las próximas
+citaciones, tiene la palabra el doctor Vásquez.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2010-08-11T10:30:10">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Primero que todo, quiero saludar al doctor Eduardo Osorio,
+agradecerle su presencia desde luego y manifestarle también la
+disponibilidad de poder seguir contando con su presencia en esta
+Comisión que va a ser muy importante para nosotros poder realmente
+desarrollar muchas inquietudes que tienen las comunidades
+especialmente el sector rural en el caso de mi departamento él Huila,
+yo creo que es un buen inicio con la presencia suya aquí y le
+agradezco inmensamente.
+Desde luego que no podemos caer en los errores que estamos
+cometiendo y que lo ha tocado el Señor Vicepresidente, doctor Yepes
+con lo que nos paso con Acuavalle, lo que nos paso hoy, debemos
+nosotros la Comisión organizarnos mucho más, tener la posibilidad de
+dialogar y socializar las diferentes citaciones que tenemos pendientes,
+doctor Tavera estoy pendiente de la citación también para aclarar el
+plan 2.500 en el Departamento del Huila y usted lo acaba de tocar y
+Santander, entonces yo creo que debemos socializar esas citaciones
+para que nos rinda más, para que actuemos como Comisión y de esa
+manera nosotros aprovechemos el espacio, el tiempo y desde luego
+también que nos mostremos muy entendidos en los temas para que de
+esa manera podamos ser participativos en los diferentes debates que
+podemos llevar a cabo y que debemos llevar la Comisión, por eso
+quería sumarme a esta inquietud señor Presidente y manifestar que es
+el momento que a través de la Presidencia y de la Secretaría muy
+ecuánime y eficientes pero que nosotros podamos realmente
+articularnos en cuanto a organización de la Comisión.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:30:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2010-08-11T10:30:30">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Primero, respaldo la opinión del doctor Tavera en cuanto a que los
+debates podamos una especie de cinergía de varias regiones y
+multicolor si se quiere, me parece que presentan un componente
+perfecto, no para invocar una especie en el sentido negativo de
+espíritu de cuerpo, sino para racionalizar y sistematizar mucho más el
+esfuerzo que todos tenemos que hacer para este empeño, de modo
+que lo saludo y acompaño la preocupación desde el Valle del Cauca e
+igualmente lo señalado por el Vicepresidente que recoge
+adecuadamente el Presidente en este caso.
+En cuanto a los términos, quedo con dos sensaciones que quiero
+manifestar aprovechando la Plenaria porque he tenido noticia de
+pronunciamientos de sectores cercanos al Gobierno en el sentido de
+iniciativas de actos para suprimir la Comisión Nacional de Televisión,
+quiero expresar en esta célula mi preocupación por la manifestación
+ya reiterada de voces cercanas al Gobierno Nacional en el sentido de
+plantearse lo que no sería en todo caso la primera vez, la supresión de
+la Comisión Nacional de Televisión mediante acto legislativo, propósito
+fallido en otras oportunidades, yo he tenido críticas y he querido
+manifestarlo con toda honradez señor Presidente, pero enterado en
+este minuto de esa manifestación no dudo en acompañar la existencia
+de la Comisión Nacional de televisión pese a las críticas que
+públicamente he comportado sobre su composición y tantas cosas
+sobre la intención del, Presidente de la República saliente de designar
+a algunos de los Comisionados representantes de los padres de
+familia por vía administrativa lo que se contradice por el carácter
+autónomo de la Comisión y con el carácter de representación que
+tienen tan importante designación, pese a ello pues lo manifiesto y
+aprovecho la ocasión para respaldar al Consejo de Estado, creo que el
+Gobierno Nacional ya que el doctor Vargas Lleras ha anunciado y
+comparto esa manifestación de verdad, el respeto a la institucionalidad
+de cada uno de los otros sectores distintos al poder ejecutivo que en
+este caso se pone a prueba en concreto para la Comisión Nacional de
+Televisión, órgano autónomo insisto, pero también a la manifestación
+del Consejo de Estado sobre el particular.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:30:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Amaya en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2010-08-11T10:30:50">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Presidente muchas gracias, yo quisiera señalar algo que pareciese
+metodológico pero creo que se vuelve sustantivo en la medida de las
+consecuencias que esto tiene, el día de ayer en una reunión informal
+con el Ministro del Interior doctor Vargas Lleras con la bancada del
+Partido Verde, escuché de manera informal insisto la iniciativa que
+tiene el Gobierno de acabar o suspender la Comisión Nacional de
+Televisión y acabo de recibir información que el doctor Roy Barreras
+ha hecho este mismo anuncio en horas de la mañana, cuando
+llegamos a este debate, un poco revisando toda la noche la
+información que allí se expresa y vemos la necesidad de dar un
+debate de cara al país sobre estos tema, yo era un joven que
+desconocía toda la política hace apenas 4 meses y que no me
+interesaba nada de eso, apenas estaba en el tema del liderazgo
+estudiantil y en ese momento yo tenía información de eso como joven
+de esa generación de lo que estaba sucediendo con la adjudicación
+del tercer canal.
+Bueno estos temas importantes y como Ingeniero Electrónico también
+de porque la Comisión Nacional de Televisión no compra un
+multiplexor de 4 canales y se ahorra como 208 billones, bueno un
+montón de temas importantes que yo creo que requieren el debate
+urgente al país.
+Hoy teníamos Presidente y colegas la televisión y había mucha gente
+interesada en dar este debate, desafortunadamente tuvo que ser
+aplazado, entonces yo digo que en lo metodológico que esto no vuelva
+a ocurrir porque este tema en este momento era crucial para el país y
+la opinión pública estaba esperando cuál era el resultado de esta
+discusión o de este debate y no fue posible presentar los argumentos
+pues por la proposición presentada.
+Sin embargo yo sugeriría que debido a la importancia y no sé como
+funcione el tema de televisión pero que intente solicitar en la próxima
+sesión que se vuelva a transmitir debido a que este debate fue
+suspendido y en ese sentido debería seguir siendo televisado por la
+audiencia y por el interés que tiene el país, eso por un lado.
+Por otro, sustentarle a la Comisión el tema de porque Carlos Amaya
+presenta una proposición para citar a la, Ministra, es un poco largo el
+cuento, pero intento reducirlo así, 8 años de Gobierno de Uribe Cecilia
+María Vélez da un informe, es condecorado el Ministerio por temas de
+calidad, sin embargo en los últimos años no ha existido desde el 91
+mayor crisis de la financiación de la universidad pública colombiana,
+se hundió un proyecto de ley por el tema de tiempos, se vuelve a
+radicar, la, Ministra antes de salir lo radica en silencio y esta una vez
+más radicado en la Comisión en la Cámara de Representantes y en el
+Senado, se aprueba una Resolución el 20 de junio, la resolución 5443
+que entre otras cosas suspende 5 programas, violentando la
+autonomía universitaria la Licenciatura en Educación Permanente, la
+Licenciatura en Educación Especial, la Educación Rural y otros temas;
+porque no esperar hasta que discutamos cuál va a ser el mecanismo,
+porque la resolución ya está siendo aplicada y esta violentando la
+autonomía en las universidades colombianas. En ese sentido creo que
+es urgente dar esa discusión con el Ministerio de Educación, aquí
+tengo el cuestionario que lo radique pues con otros temas y yo creo
+que en ese sentido también sería un buen acercamiento inicial con la
+Ministra de Educación por parte de este cuestionario.
+Yo si solicitaría a la Comisión con todo el respeto, de que pueda ser
+aprobado debido a la urgencia de que esta resolución ya está siendo
+aplicada y a la necesidad de discutir cual es el estado actual de la
+finanzas de la universidad pública, teniendo en cuenta que hay un
+proyecto de ley radicado ya acá, que fue el mismo que se hundió por
+el tema de tiempo, además que está iniciando un nuevo gobierno, yo
+creo que es necesario conocer cuál van a ser los planteamientos por
+lo menos en el tema de educación e insistir en una cosa, yo creo que
+esta Comisión tiene que estar en permanente comunicación con los
+Ministros y el hecho de que la, Ministra venga en una primera ocasión
+no contradice futuros planteamientos, muchas gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:31:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>La doctora Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2010-08-11T10:31:10">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Muchas gracias señor Presidente, agradecerle al doctor Eduardo
+Osorio y a las demás personas que nos acompañaron. Yo quisiera
+hacer una pregunta en aras de continuar con el orden del debate y es,
+nos dan un término hasta el día viernes para hacer más preguntas, los
+temas que debatiríamos el 24 serían: Televisión digital terrestre,
+adjudicación del tercer canal y televisión satelital, eso serían los tres
+temas. Es la pregunta que yo quiero hacer a Presidencia, pues porque
+aquí se añaden nuevos temas y cuando uno habla de todo termina
+hablando de nada, entonces la idea es que vayamos evacuando
+aspectos y si nos preocupan de pronto lo que se manifestó que un
+grupo cercano al gobierno va a plantear la eliminación de la Comisión
+Nacional de Televisión, pues entonces montemos un nuevo debate
+pero empecemos a separar temas, les agradezco mucho doctor, pero
+por mi parte no ampliaré las preguntas, pero si me gustaría que me
+complementarán algunas otras, gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:31:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2010-08-11T10:31:30">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Gracias Presidente, de la misma forma agradecer a los comisionados
+su presencia y la información muy importante que nos han
+suministrado, Presidente yo quisiera adicionar unas invitaciones a este
+debate ya que tenemos un mayor tiempo, que invitemos al Ministro de
+Tecnología de la Información y la Comunicación cuyo cuestionario se
+lo haremos llegar, y de la misma forma al gerente de RTVC que tiene
+que ver mucho con estos temas y le haremos llegar su cuestionario.
+Aprovechando esta oportunidad Presidente, yo con la información que
+nos han dado acá del proyecto de acto legislativo que se iría a
+presentar o que ya se presentó, seguramente sería eliminando el
+artículo 75 de la Constitución Política, ya que nosotros como Comisión
+Sexta no tendríamos la oportunidad de estar en ese debate, ni de
+participara en esas comisiones, valdría la pena que nosotros
+hiciéramos un mayor análisis y tomáramos una posición al respecto.
+Somos consientes de la convergencia tecnológica, sabemos que el
+nivel institucional en nuestro país ha existido una divergencia, que esto
+ha complicado el desarrollo del sector, pero también como se ha
+mostrado acá, hay importantes proyectos en la Comisión Nacional de
+Televisión, a mi me parece que más que una eliminación
+necesitaríamos era una reorganización, el origen de la Comisión
+Nacional de Televisión como lo han dicho los Comisionados debe ser
+más técnica, afortunadamente en este periodo quienes la conforman
+son personas que tienen unos amplios conocimientos en el tema, pero
+esto no siempre ha sido así, su periodo es muy limitado de dos años,
+proyectos de estos de largo plazo, tendríamos que evaluar el periodo y
+de la misma forma los requisitos para ser comisionados deberían ser
+mucho más estrictos.
+Entonces, que la Comisión Sexta tomara partido realmente en esta
+discusión y tomáramos una posición para debatir este proyecto de
+acto legislativo de tal forma que nosotros quienes interactuamos más
+con estos temas de televisión y de comunicaciones podamos definir y
+decidir el futuro que tenga la televisión en Colombia.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:31:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Bonilla en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-carlos-julio-bonilla-soto" startTime="2010-08-11T10:31:50">
+							<from>H.R. Carlos Julio Bonilla Soto</from>
+							<p>Muchas gracias, doctor Osorio gracias, más allá de las dificultades
+operativas que hayamos tenido para el espacio de hoy, creo que nos
+queda una información que nos permite para la próxima semana
+aportar elementos a lo que es esta gran discusión sobre los temas que
+usted ha mencionado, hay aspectos de carácter social que a mí me
+gustaría más de contenido, el tema tecnológico lo entiendo de esa
+manera, hay unos recursos, hay una oportunidad de mejorar, hay
+elementos que han aportado los colegas que tienen que ver con el
+carácter que la Comisión tiene y la representación ante los medios de
+comunicación, que creo que es un elemento hoy negativo, porque
+distorsiona mucho de la información y en ese sentido el aporte que se
+ha hecho es satisfactorio, hay un ejercicio que está por verse y es los
+costos, beneficios, términos, usuario; que es un tema donde habría
+que revisar cosas.
+Ese 8% que falta esta en los sitios más rurales del país, gente muy
+pobre, hay que mirar como construimos equidad allí, porque ese es un
+tema inequitativo que presenta el proceso, hay un tema de articulación
+más allá de la independencia de la Comisión que tiene que ver con
+educación y salud, el país pasa por temas críticos en infancia y
+juventud, no solo sobre lo que se les presenta sino utilizar el tema de
+la educación y la salud en términos de prevención, de alternativas de
+educación sexual y reproductiva, de otros programas que en televisión
+de otros países se presenta.
+Pero la idea es simplemente ratificarle que estoy seguro que esta
+Comisión lo que quiere es trabajar por el país, que entendemos las
+dificultades que hayan tenido, pero estamos dispuestos a proponer,
+estamos conociendo hoy la temática y ese elemento nos inhibe de
+tener posiciones críticas de fondo en esta instancia, pero creo que
+tampoco es la salida rápida de venir a desconocer y cambiar una
+institución sin que hayamos visto las partes positivas y propuesto las
+alternativas de crecimiento que se pueden tener.
+Hay unos recursos, no serán los mejores, pero son significativos, hay
+unos temas por construir en la televisión local y regional, el contexto
+nacional ya tiene una ganancia importante. Nosotros quienes estamos
+aquí venimos de la provincia, representamos a sectores muy
+apartados del país que siguen esperando construir televisión local y
+regional, crecer en ese sentido para hacer una política pública desde
+medios más fuertes, articulado al Gobierno Nacional.
+Hay temas ya operativos Presidente, que creo que en su sapiencia
+esta que los mejoremos y es el tema de la información interna y me
+sumo a lo del doctor Tavera, yo creo que más allá de la prioridad que
+tengan algunas citaciones aquí, es bueno que actuemos como equipo,
+porque los Ministros no van a tener todos los tiempos y vamos a
+aprovechar los momentos, me parece que esa iniciativa de temas tan
+importantes y tan prioritarios pues asumámoslos la próxima semana y
+articulamos cosas; personalmente en lo de concesiones tengo un tema
+con el INCO en Cauca, una dificultad grande, pero si lo hago por mi
+lado pues vamos a hacer 10 o 20 citaciones de ese tipo y yo creo que
+no vamos a hacer políticos en ese sentido y aquí estamos buscando
+es contribuir. Entonces Presidente agradecido del trabajo, nos
+sumamos a ese esfuerzo.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:32:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Luis Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luis-guillermo-barrera-gutiérrez" startTime="2010-08-11T10:32:10">
+							<from>H.R. Luis Guillermo Barrera Gutiérrez</from>
+							<p>Gracias señor Presidente, igualmente expresarle gratitud al doctor
+Eduardo Osorio y por su intermedio a los Comisionados, se ha tenido
+que aplazar el debate, no por capricho nuestro, ya lo han expresado
+tanto el señor Presidente como los demás compañeros, apenas se nos
+allego la información el día inmediatamente anterior sobre las 5, 5 y 30
+de la tarde por la importancia que reviste este debate, igualmente la
+exposición que usted ha hecho enriquece sin equivocó alguno el
+conocimiento nuestro y nos va a permitir adentrarnos en la próxima
+sesión, pues en un debate de cara al país que enriquezca por
+supuesto, este tema de trascendental importancia para la Nación y lo
+acaba de decir nuestro colega Representante, sobre todo cuando
+nosotros que representamos la provincia colombiana tenemos
+sectores que hoy no tienen la posibilidad de disfrutar la televisión,
+porque a esos lugares no llega ni siquiera la señal y estamos hablando
+por supuesto de disfrutar la televisión digital terrestre y nos hablan de
+que hay que conocerla, pero quiero manifestarle doctor que yo
+represento sectores de la provincia colombiana donde hoy ni siquiera
+llega la señal de televisión, va a ser muy importante y enriquecedor
+este debate, pues de cara a este tema tan importante como la
+televisión digital terrestre.
+Tratándose ya de los asuntos internos de la Comisión yo recojo la
+propuesta que hace el doctor Yepes en el entendido de planificar
+mucho más los debates señor Presidente, lo que ocurrió con
+Acuavalle, nosotros estuvimos acá presentes y desafortunadamente
+no se pudo desarrollar ese debate y lo que ha ocurrido en el día de
+hoy pues con el debate de la Comisión Nacional de televisión, nos
+llama a la reflexión y que ojalá hagamos una planificación de los
+debates. Acá se han presentado unas proposiciones importantes que
+datan de la citación al señor Ministro de Transporte,, Ministra de
+Educación, y como quiera hay temas que trascienden lo regional para
+discutir la política pública, por ejemplo en el tema de transporte, pues
+es menester que ojalá planifiquemos desde la propia Mesa Directiva
+estos debates.
+De suerte pues que no trascienda un debate en condición meramente
+regional, sino que nos acerquemos a la problemática del país, lo
+propio en educación doctor Amaya, respetuoso lo acompaño en esa
+proposición, pero pienso que la presencia de la, Ministra pues en esta
+Comisión debe aprovecharse para hacer un debate de la política
+pública especialmente lo que tiene que ver con la universidad pública,
+yo lo acompaño en esa importante proposición, pero creo que es
+menester que hagamos una planificación con la ayuda del señor
+Secretario y de la Mesa Directiva de lo que deben ser los próximos
+debates.
+Se está programando para el día martes 24 la continuación de este
+debate, sin embargo vamos a tener la posibilidad de ampliar el
+cuestionario, ojalá igualmente le solicitamos al doctor Osorio se
+alleguen las respuestas con prontitud, con celeridad, de suerte pues
+que no nos ocurra lo que hoy nos ha ocurrido, a usted señor
+Presidente muchas gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:32:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Caicedo en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2010-08-11T10:32:30">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>Muchas gracias señor Presidente, agradecerle al doctor Eduardo
+Osorio y a su equipo por tan importante ilustración, quienes venimos
+de trabajar en la provincia en mi caso acabo de dejar la Alcaldía de
+Zipaquirá en el periodo pasado y viene uno a un escenario de tanta
+importancia como este donde uno era un espectador pasivo mirando
+la disputa de dos canales privados sobre el futuro de un tercer canal
+en nuestro país y uno decía hay que llegar a hacer los grandes
+debates y a abrir el espacio para que quien determine la importancia
+de estos procesos sea precisamente la comunidad, sea el país, sea la
+gente, sea la sociedad que es la que necesita una televisión de
+calidad.
+Creo sin lugar a dudas, que hay mucho que hablar y mucho que
+aportar sobre lo que tiene que ver con la promoción del acceso
+universal a la televisión, hay que garantizar que no se quede ni uno
+solo de los colombianos sin el acceso a la televisión, ese es un
+derecho importante para todos, es una herramienta de comunicación
+fundamental de la sociedad.
+Igualmente lo que tiene que ver con la cultura y educación como dos
+elementos fundamentales para promover desde la televisión en el
+pueblo colombiano, yo creo que hay que buscar los mecanismos que
+sean posibles para garantizar bien sea desde la actual Comisión
+Nacional de Televisión o desde el organismo que se pueda crear de
+ser necesario, pero que lo importante es que se cumplan estos fines
+de la comunicación y estos fines de la televisión pública que es educar
+y generar espacios de la cultura.
+Veo relevante un elemento que ha tomado fuerza en las regiones y en
+los municipios y es donde quisiera también tener un gran aporte en
+esta Comisión Sexta y es en lo que tiene que ver con la televisión
+comunitaria, es una herramienta de absoluta comunicación, yo tengo
+un ejemplo elemental, la vida de ciudades tan cercanas a Bogotá
+como Chía, Cajicá y Zipaquirá, que nunca Cajicá sabía que pasaba en
+Zipaquirá o Chía o que pasaba en Cajicá y estaban a 5 o 10 minutos
+de distancia y a través de un canal regional que los integro a los tres
+ya sabe Zipaquirá como es Cajicá y sabe Chía como es el municipio
+vecino a través de la comunicación, a través de un canal comunitario,
+a través de un canal regional, allí me parece que hace falta fortalecer
+desde la Comisión Nacional de Televisión y desde una política pública
+una consolidación, un robustecimiento de esa televisión comunitaria
+que permita que haya cada vez más acceso de la gente, de las
+comunidades para que a través de esa televisión comunitaria la gente
+se pueda informar, se pueda expresar y por supuesto pueda crecer.
+Guardo una de las esperanzas enormes en este tema de las
+comunicaciones, para que a través de nuestro trabajo unido como lo
+han dicho los colegas, los otros Honorables Representantes, podamos
+nosotros también aportarle al país, aportarle a las regiones y aportarle
+a los municipios en materia de televisión y en materia de
+comunicación. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:32:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Antes de que se nos desbarate el quórum quisiera que siguiéramos
+discutiendo las dos proposiciones y yo con mucho gusto les doy la
+palabra si quieren seguir interviniendo, entonces continúa la discusión
+sobre las dos proposiciones de citar al gerente del proyecto de doble
+calzada Bello- Barbosa y a la señora, Ministra de Educación, continúa
+la discusión, doctor Quintero en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-quintero-trujillo" startTime="2010-08-11T10:32:50">
+							<from>H.R. Jairo Quintero Trujillo</from>
+							<p>Haber Presidente, un saludo para el doctor Osorio y todos los
+Comisionados, de verdad que estoy de acuerdo en que nosotros
+tenemos que hacer un control político con todos los funcionarios y
+demás del Estado, pero sí creo que debemos de tener mucho cuidado
+en no perder estas oportunidades, yo lamento hoy perder una
+oportunidad tan magnífica como esta, en un tema de trascendental
+importancia como es el tema de la televisión y de toda la actualidad,
+entonces yo si le sugiero a la Mesa Directiva de la Comisión que
+planifiquemos y me adhiero a todo lo que ha dicho el doctor Tavera y
+demás para que cuando citemos estemos lo suficientemente
+informados de todo el debate que se va hacer, para que seamos lo
+suficientemente profundos y lleguemos donde debemos llegar, no
+podemos seguir perdiendo oportunidades como esta para debatir un
+tema de trascendental importancia, estoy de acuerdo que se citen los
+ministros, pero primero que planifique la Mesa Directiva, es decir si
+están los cuestionarios, si se ha respondido, si se ha comunicado a
+todos los comisionados y demás para que verdaderamente tengamos
+un tema muy productivo cuando hagamos estos debates. Muchas
+gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:33:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Roldán en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldán-avendaño" startTime="2010-08-11T10:33:10">
+							<from>H.R. Jhon Jairo Roldán Avendaño</from>
+							<p>Gracias señor Presidente, en ese mismo sentido considero que es
+muy importante para la Comisión que definamos una agenda de
+ministros, de entes descentralizados, de institutos y cada región pone
+sus temas ahí, en ese orden de ideas Iván Darío Agudelo y quién les
+habla Jhon Jairo Roldán Avendaño como Representantes de Antioquia
+retiramos nuestra proposición y esperemos hacer una programación
+detallada e invito a nuestro compañero Carlos Amaya que haga lo
+propio con la, ministra y si el tema es tan rápido pues sería que
+citáramos la, ministra como la primera persona dentro de esta agenda
+de ministerios e institutos de carácter descentralizados señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:33:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Amaya en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2010-08-11T10:33:30">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Sería muy importante que también se invitara a la Comisión Sexta del
+Senado y mirar unos temas a medida de información con cada uno de
+los ministros que le competen a esta Comisión y pudiéramos integrarlo
+de manera informativa, estrecháramos esos lazos de cordialidad con
+ellos, vienen aquí y nos hacen una presentación y luego nosotros
+mismos socializamos el tema del debate y empezamos a hacer un
+verdadero cuestionario para ponerlo a consideración Señor Presidente
+y también autorizar a la Comisión de la Mesa Directiva para que haga
+lo propio en la Comisión Sexta.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:33:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>El doctor Amaya hay una propuesta de si se retira o no la proposición.</p>
+						</speech>
+						<speech by="#hr-carlos-andrés-amaya-rodríguez" startTime="2010-08-11T10:33:50">
+							<from>H.R. Carlos Andrés Amaya Rodríguez</from>
+							<p>Yo opinaría que en la medida de lo expresado por el doctor Roldán de
+organizar los debates, yo no tengo problema, estoy absolutamente de
+acuerdo con ello, lo que si le sugeriría a la Comisión es que se hiciera
+pronto ese análisis de cómo se van a citar y que se puedan adherir e
+igual yo la dejo radicada, no sé si se puede hacer lo siguiente, dejar
+aprobada la citación y que la Mesa Directiva se encargue en su
+momento de citar cuando y de citar a los demás Representantes para
+que adicionen elementos a la citación.
+O sea yo no tendría problema en que la Mesa Directiva se encargue
+de organizar cuando tiempos y momentos para que el debate se
+pueda dar de la mejor manera.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:34:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Les voy a proponer algo entonces, se retiran las dos proposiciones y el
+próximo martes nos sentemos a discutir quienes aspiran o tienen
+algún interés en que la señora, ministra responda algunas preguntas y
+algunas inquietudes.
+Yo quiero reiterar lo que dijo el doctor Barrera, esta suspensión del
+debate no se debió a que la Mesa Directiva lo hiciera de manera
+descoordinada, de hecho si no hubiéramos adelantado este proceso,
+pues no hubiéramos hecho sesión, pues porque la petición que había
+hecho el doctor Roldán y la doctora Londoño era que no se hiciera el
+debate de hoy y por eso planteé la solución intermedia y era de
+empezar y aplazarlo para una próxima reunión, por lo tanto entonces
+queda claro que se retiran las dos proposiciones, el próximo martes
+nos reunimos a las 11 de la mañana de manera informal y discutimos
+cuál es el procedimiento que le vamos a dar al control político. El
+doctor Ortega tiene la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2010-08-11T10:34:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muchas gracias, ya pensaba que el Valle no iba a participar en este
+día de sesión, precisamente mi idea era esa, retirar las dos
+proposiciones, porque lo que sucedió ayer y hoy de pronto me da a
+pesar que estamos muy a la carrera y no están dando tiempo para
+nosotros enfocarnos en el tema, trate de hacer lo posible de escuchar
+al doctor Osorio, aquí enfocarme bien en el tema, pero yo si le
+sugeriría, me acojo a todo lo que han dicho, vamos a planificar, vamos
+a mirar primero antes de y que nos llegue con tiempo para poder hacer
+un debate, por lo menos yo no sabía cómo hacerle un debate a lo que
+ha venido haciendo la Comisión Nacional de Televisión, si ha estado
+bien o no, lo que ya hizo y los próximos retos son los deben ser y son
+los convenientes y son los mejores para el país, si les pediría el favor
+que de pronto para ese día Señor Presidente a varios nos ilustren, yo
+ya me enfoque bien y profundizaré más en el tema cuando me van a
+mandar vía email, pero téngalo por seguro Presidente que aquí más
+de uno quedó en las mismas porque no le estaban poniendo cuidado,
+nos falta un poquito más de sentarnos con dos o tres funcionarios que
+conozcan bien el tema y en una hora nos enfocan bien y el martes
+podemos estar bien enfocados en el tema, y dos personas para que
+nos ilustren bien del tema.
+Abierta, cerrada, pública, privada, cuáles son los retos que han venido
+ya sentados nosotros para poder decir si está bien o no, les falta esto,
+porque no incluyen esto, lo mismo para el Valle del Cauca que hay un
+puente hace 6 o 7 años en toda la doble calzada que ahí está parado y
+esta embotellado ese desarrollo de Buga. Entonces en eso me acojo y
+muchas gracias Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:34:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Yo también tengo previsto que hagamos un debate y seguramente
+cuando coordinemos la convocatoria del Ministerio del Transporte
+sobre el tren de occidente que es un proyecto que también al Valle le
+corresponde, yo le quiero ceder por dos minutos la palabra al señor
+Presidente de la Comisión Nacional de Televisión al doctor Eduardo
+Osorio y levantamos la sesión para que se convoque para el próximo
+24 de agosto y quedan invitados a la reunión con el señor Ministro del
+Transporte el próximo miércoles a las 9 y 30 en el despacho, tiene la
+palabra el doctor Bonilla.</p>
+						</speech>
+						<speech by="#hr-carlos-julio-bonilla-soto" startTime="2010-08-11T10:34:30">
+							<from>H.R. Carlos Julio Bonilla Soto</from>
+							<p>Presidente un segundo, disculpe, están haciendo una consulta porque
+posiblemente la Comisión Sexta de Senado haya convocado a un foro
+sobre televisión y sería la semana siguiente, ese elemento nos debería
+incorporar como Cámara a ese proceso, entonces estaban
+consultando el tema a ver qué realidad había sobre eso.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:34:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Bonilla, si es un foro para información pues vale la pena que
+nos integremos, pero yo creo que debemos de tener claro la
+independencia que tiene el Senado en el control político y la
+independencia que tiene la Comisión Sexta de la Cámara en esos
+temas, doctor Osorio en el uso de la palabra.</p>
+						</speech>
+						<speech by="#dr-eduardo-osorio" startTime="2010-08-11T10:34:50">
+							<from>Dr. Eduardo Osorio</from>
+							<p>Presidente y Honorables Representantes, no me resta sino
+agradecerles a ustedes por este espacio, me parece una oportunidad
+muy importante de verdad para conocernos, para saber, para que
+ustedes se enteren lo que realmente hacemos en la Comisión
+Nacional de Televisión, somos una junta en su mayoría recién elegida
+no obstante tener conocimiento y trayectoria en el sector y lo único
+que nos mueve a nosotros es trabajar de manera incansable por el
+cumplimiento de los objetivos que relacionamos en esta presentación,
+en esa idea y en el desarrollo de esa actividad el acompañamiento
+permanente que nos hagan la Cámara y el Senado es fundamental
+para el ejercicio de nuestra función, por eso celebramos mucho estos
+debates de control político, que son fundamentales para el
+cumplimiento de nuestros deberes, obviamente sobra decirles que
+cualquier apoyo, cualquier colaboración, cualquier información
+adicional que ustedes necesiten a través de la dirección estoy seguro
+que a través de los despachos de mis compañeros estamos a su
+disposición de verdad para hacer este tipo como de ejercicios, como
+de retroalimentación sobre las cosas que adelanta la Comisión
+Nacional de Televisión, sobre el plan estratégico y sobre los proyectos
+puntuales y los retos como les digo están encaminados única y
+exclusivamente a que los colombianos puedan acceder a un mejor
+servicio de televisión y obviamente para lograr esto, el apoyo de
+ustedes es fundamental.
+Entonces cuando quieran, en el momento que quieran coordinamos
+las reuniones que ustedes consideren para hacer este ejercicio de
+conocimiento mutuo, porque también es importante para nosotros, no
+solo que ustedes conozcan que es la Comisión por dentro y que
+hacen, sino nosotros conocer también la forma como ustedes
+desarrollan su actividad yo creo que es una retroalimentación
+absolutamente válida. Mil gracias por este espacio y discúlpenos el
+tema de la entrega, vuelvo y digo, no creo que haya sido digamos
+responsabilidad de nosotros porque lo entregamos dentro del tiempo
+reglamentario, el tema estaba muy cercano, la solicitud y el envío del
+cuestionario muy cercano al tema del debate, sin embargo esto se
+aplican todos los correctivos de punta y punta entonces para la
+próxima vez yo creo que el debate será mucho mejor.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2010-08-11T10:35:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Bueno se levanta la sesión siendo la una y quince de la tarde (1:15
+p.m.) y entonces convocamos para el martes 24 de agosto, muchas
+gracias.
+DIEGO PATIÑO AMARILES         JAIME ARMANDO YEPES MARTINEZ
+Presidente                     Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

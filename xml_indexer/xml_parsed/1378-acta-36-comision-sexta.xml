@@ -1,0 +1,1842 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo-sastoque" id="hr-josé-edilberto-caicedo-sastoque" showAs="H.R. José Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera-gutiérrez" id="hr-luís-guillermo-barrera-gutiérrez" showAs="H.R. Luís Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-caicedo-sastoque" id="hr-josé-caicedo-sastoque" showAs="H.R. José Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera" id="hr-didier-tavera" showAs="H.R. Didier Tavera"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-fernel-enrique-díaz-quintero" id="hr-fernel-enrique-díaz-quintero" showAs="H.R. Fernel Enrique Díaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera" id="hr-luís-guillermo-barrera" showAs="H.R. Luís Guillermo Barrera"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-julio-bonilla-soto" id="hr-carlos-julio-bonilla-soto" showAs="H.R. Carlos Julio Bonilla Soto"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera-amado" id="hr-didier-tavera-amado" showAs="H.R. Didier Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-aurelio-iragorri" id="hr-aurelio-iragorri" showAs="H.R. Aurelio Iragorri"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez" id="hr-silvio-vásquez" showAs="H.R. Silvio Vásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-armando-yepes-martínez" id="hr-jaime-armando-yepes-martínez" showAs="H.R. Jaime Armando Yepes Martínez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-iván-márquez" id="hr-carlos-iván-márquez" showAs="H.R. Carlos Iván Márquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldán-avendaño" id="hr-jhon-jairo-roldán-avendaño" showAs="H.R. Jhon Jairo Roldán Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias" id="hr-wilson-neber-arias" showAs="H.R. Wilson Neber Arias"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-naranjo-escobar" id="hr-diego-naranjo-escobar" showAs="H.R. Diego Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo" id="hr-iván-darío-agudelo" showAs="H.R. Iván Darío Agudelo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo" id="hr-josé-edilberto-caicedo" showAs="H.R. José Edilberto Caicedo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-a" id="hr-jaime-a" showAs="H.R. Jaime A"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-sepúlveda" id="hr-jaime-sepúlveda" showAs="H.R. Jaime Sepúlveda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-aurelio-iragorri" id="dr-aurelio-iragorri" showAs="Dr. Aurelio Iragorri"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="1378-acta-36-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2011</heading>
+				<debateSection>
+					<heading>Noviembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 36 / 2011-11-27</heading>
+						<speech by="" startTime="2011-11-27T10:55:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 036
+(Bogotá, D.C., 27 de noviembre de 2011)
+A las diez y cincuenta y cinco minutos de la mañana (10:55 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JOSE
+EDILBERTO CAICEDO SASTOQUE, ordena llamar a lista y contestan
+los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Giraldo Arboleda Atilano Alonso
+Londoño Jaramillo Juana Carolina
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Quintero Trujillo Jairo</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:55:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente la, Secretaria se permite informar que tenemos
+quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:55:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy buenos días para todos los Honorables Representantes, para el
+señor, viceministro del Interior doctor Iragorri, para los funcionarios de
+su despacho; establecido el quórum señor Secretario se abre la
+sesión, proceda señor Secretario a dar lectura del orden del día para
+la presente sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:55:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2011 al 20 de junio de 2012
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2011-11-27T10:55:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 27 de septiembre de 2011
+Hora: 9:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Ponencias para Primer Debate de los siguientes Proyectos de ley:
+1. Proyecto de Ley No. 050/2011 Cámara, “POR EL CUAL SE ADOPTAN LA
+POLITICA NACIONAL DE GESTION DEL RIESGO DE DESASTRES Y SE
+ESTABELCE EL SISTEMA NACIONAL DE GESTION DEL RIESGO DE
+DESASTRES”.
+Autor: MINISTRO DEL INTERIOR Y DE JUSTICA, GERMAN VARGAS
+LLERAS
+Ponentes: H.R. JOSE EDILBERTO CAICEDO (Ponente Coordinador), JHON JAIRO
+ROLDAN
+AVENDAÑO, LUIS GUILLERMO BARRERA GUTIERREZ, DIDIER ALBERTO
+TAVERA AMADO, CIRO ANTONIO RODRIGUEZ PINZON y JUANA CAROLINA
+LONDOÑO JARAMILLO
+Publicación: P.L. 592/2011 - PPDC. Gac. 698/2011
+2. Proyecto de Ley No. 053/2011 Cámara, “POR LA CUAL SE DICTAN
+DISPOSICIONES PARA EL EJERCICIO DE LA VIGILANCIA, INSPECCIÓN
+Y CONTROL DE LA SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE
+Y OTRAS AUTORIDADES Y SE ESTABLECE EL REGIMEN
+SANCIONATORIO.”
+Autores: H.R. DIEGO NARANJO ESCOBAR, ATILANO GIRALDO A., CARLOS JULIO
+BONILLA S., LUIS GUILLERMO BARRERA G., CIRO ANTONIO RODRIGUEZ P., JAIRO
+ORTEGA S., DIEGO PATIÑO A., IVAN DARIO AGUDELO Z., JOSE EDILBERTO CAICEDO S., CARLOS
+ANDRES AMAYA R., JAIME ARMANDO YEPES, DIDIER TAVERA A., JUANA CAROLINA LONDOÑO
+J., JHON JAIRO ROLDAN, JAIRO QUINTERO TRUJILLO, SILVIO VASQUEZ V., WILSON ARIAS C.,
+WILSON GOMEZ V.,
+Ponentes: H.R. DIEGO NARANJO ESCOBAR, (Ponente Coordinador), ATILANO A.
+GIRALDO ARBOLEDA, IVAN DARIO AGUDELO Z., JAIRO ORTEGA
+SAMBONI, WILSON ARIAS CASTILLO.
+Publicación: P.L. 600/2011
+3. Proyecto del ley No. 280/2011 Cámara - 10 de 2010 Senado,
+“POR LA CUAL SE PROMUEVEN LAS FORMACIÓN DE
+HABITOS, COMPORTAMIENTOS Y CONDUCTAS EN LA
+VIA Y SE DICTAN OTRAS DISPOSICIONES.”
+Autores: H.S. CARLOS ALBERTO BAENA Y H.R. GLORIA STELLA DIAZ
+Ponente: H.R. DIEGO ALBERTO NARANJO ESCOBAR
+Publicación: P.L. Gac. 458/10 - PPDS Gac. 154/11 - PSDS. Gac. 360/11 Tex. Def. S.
+Gac.455/11
+4. Proyecto de Ley No. 285/2011 Cámara - 244/2010 Senado, “POR MEDIO DE
+LA CUAL SE DICTAN DISPOSICIONES EN MATERIA DE SERVICIOS
+PUBLICOS DOMICILIARIOS DE ENERGIA ELECTRICA, GAS NATURAL,
+ACUEDUCTO, ALCANTARILLADO Y ASEO PARA HACER FRENTE A
+CUALQUIER FENOMENO NATURAL QUE INCIDA O ALTERE
+DESASTROSAMENTE A LA POBLACIÓN NACIONAL Y SU FORMA DE
+VIDA.”
+Autores: H.S. JUAN LOZANO R., Y H.R. GLORIA STELLA DIAZ
+Ponentes: H.R. WILSON GOMEZ V., (Ponente Coordinador), LUIS GUILLERMO
+BARRERA G., JOSE EDILBERTO CAICEDO S.
+Publicación: P.L. Gac. 155/11 - PPDS Gac. 251/11 - PSDS Gac. 424/11 TEX DEF.S. Gac.
+453/11
+III.
+Anuncio de Proyectos de Ley, de conformidad con el artículo 8º. del Acto Legislativo No.
+01, del 3 de julio de 2003, los cuales se discutirán y votarán sus respectivas Ponencias
+para Primer Debate, en la próxima Sesión.
+IV.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:55:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JOSE EDILBERTO CAICEDO SASTOQUE DIEGO ALBERTO NARANJO ESCOBAR
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:56:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente antes de someter a consideración el orden del día
+hay una proposición para excluir del orden del día la discusión del
+proyecto de ley No. 053 de 2011, entonces sometamos a discusión la
+proposición primero de la exclusión y después el orden del día Señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:56:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Esta es una proposición presentada por el Representante Didier
+Tavera, Carlos Bonilla y Diego Naranjo, el proyecto de ley No.053 de
+2011 “Por el cual se dictan disposiciones para el ejercicio de la
+vigilancia, inspección y control de la Superintendencia de Puertos y
+Transportes y otras autoridades y se establece un régimen
+sancionatorio”. La solicitud se hace por parte de tres de los ponentes.
+Vamos a poner a consideración la proposición, sigue en
+consideración, aviso que se va a cerrar, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:56:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:56:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Vamos a poner en consideración con la modificación que acaba de ser
+aprobada el orden del día, se abre la discusión, continua abierta
+anuncio que se va a cerrar, queda cerrada, aprueba el orden del día
+leído.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:56:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:56:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Sigamos con el siguiente punto del orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:57:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ponencia para primer debate de los siguientes proyectos de ley:
+Proyecto de ley No. 050 de 2011 Cámara “Por el cual se adopta la
+política nacional de gestión del riesgo de desastres y se establece el
+Sistema Nacional de Gestión del Riesgo de Desastres”.
+La proposición con que termina el informe es el siguiente señor
+Presidente.
+Proposición final:
+Por lo anteriormente expuesto solicitamos a los integrantes de la
+Honorable Comisión Sexta Constitucional de la Cámara de
+Representantes aprobar en primer debate el proyecto de ley 050 de
+2011 Cámara “Por el cual se adopta la política nacional de gestión del
+riesgo de desastres y se establece el Sistema Nacional de Gestión del
+Riesgo de Desastres”, junto con el pliego de modificaciones y el texto
+que se propone para primer debate.
+De los Honorables Representantes, firmado.
+José Edilberto Caicedo, coordinador ponente
+Juana Carolina Londoño Jaramillo
+Ciro Antonio Rodríguez Pinzón
+Didier Alberto Tavera Amado
+Jhon Jairo Roldán Avendaño
+Luís Guillermo Barrera Gutiérrez
+Someta a consideración la proposición con que termina el informe
+señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-naranjo-escobar" startTime="2011-11-27T10:57:10">
+							<from>H.R. Diego Naranjo Escobar</from>
+							<p>Se pone a consideración el informe con que termina la ponencia del
+proyecto de ley No. 050 de 2011 Cámara sobre gestión del riesgo, se
+abre la discusión, anuncio que va a cerrarse. Tiene el uso de la
+palabra el doctor Wilson Neber Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias" startTime="2011-11-27T10:57:20">
+							<from>H.R. Wilson Neber Arias</from>
+							<p>Gracias Presidente, para que nos pongamos de acuerdo en un
+procedimiento, es decir se anuncia la votación del informe, yo no tengo
+inconveniente de hacerlo, salvo algunas observaciones puntuales que
+quisiera hacer, pero como se anuncia también con las modificaciones,
+yo en mis diferencias debería referirme a ellas, quisiera poder votar el
+informe sin que se someta pues al rigor de aprobar también las
+modificaciones, si pudiéramos separarlos claro, creo que es lo
+adecuado, pero se anuncio con modificaciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:57:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Esta en consideración el informe con que termina la ponencia,
+entonces anuncio que va a cerrarse, queda cerrada, aprueban los
+Honorables Representantes el informe con que termina la ponencia.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:57:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:57:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>De cuántos artículos consta el proyecto señor Secretario.</p>
+						</speech>
+						<speech by="#hr-jaime-a" startTime="2011-11-27T10:58:00">
+							<from>H.R. Jaime A</from>
+							<p>Señor Presidente el articulado consta de 99 artículos, de esos 99 han
+llegado varias proposiciones a la mesa con respecto a varios artículos,
+entonces no se si la idea es votar en bloque los que no tienen
+proposición y luego entrar a la discusión de los que tienen.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:58:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera" startTime="2011-11-27T10:58:20">
+							<from>H.R. Didier Tavera</from>
+							<p>Gracias Presidente y para solicitarle al señor Viceministro que una vez
+conocido los artículos que tienen proposiciones y se pueden poner de
+acuerdo con los asesores del Ministerio y con los asesores de los
+Honorables Representantes que tienen las modificaciones y las
+inquietudes, con eso las vamos evacuando y si llegamos a un punto
+de consenso y no abrimos la discusión aquí que la hace más
+dispendiosa, ya que no podemos estar aprobando una ley y con el
+agua encima y las carreteras derrumbándose.
+Entonces, para darle celeridad a eso señor Presidente y pudiéramos
+revisar cuales son y que con los asesores del Ministerio se pongan de
+acuerdo.</p>
+						</speech>
+						<speech by="#hr-fernel-enrique-díaz-quintero" startTime="2011-11-27T10:58:30">
+							<from>H.R. Fernel Enrique Díaz Quintero</from>
+							<p>Señor Presidente se puede votar en bloque del uno al quince o sea los
+primeros 15 artículos, del 1 al 15 son 15 artículos que hay que votar en
+bloque, el 17 serían 16 artículos, el 18, el 19, 21,23, 24,25, del 27 al
+49, del 49 al 53 y el 86.
+Entonces, mire doctor del 1 al 15 son 15 artículos, el 17, van 16, el
+18,19, 21,23, 24, 25, del 27 al 49 serían 22 artículos, del 49 al 53, 4
+artículos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:58:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T10:58:50">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Muy buenos días, un saludo muy especial a todas las personas que
+nos acompañan, al señor Viceministro que puso su trabajo, nuestros
+compañeros de la Comisión, yo le rogaría un favor al señor Secretario,
+yo creo que aquí no somos muy buenos para las matemáticas, sería
+bueno que para una mayor ilustración leamos cuáles son los artículos
+que tienen proposición, yo en la proposición que presento tengo aquí
+también el artículo 52 y usted no me lo ha mencionado ahí, inclusive lo
+tuvieron en cuenta como si no tuviera proposición, entonces si
+hacemos el ejercicio a la inversa nos daría mayor claridad, cuáles son
+artículos que tienen proposición y mucho cuidado con el artículo 52
+que si tiene proposición.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:59:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Entonces los que se irían a votar en bloque serían: 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 23, 24, 25, 27, 28, 29, 30, 31, 32,
+33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 54,
+55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73,
+74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 87, 90, 91, 92, 93, 94, 95, 96,
+97, 98, 99, estos no tienen proposición.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:59:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el señor Viceministro.</p>
+						</speech>
+						<speech by="#dr-aurelio-iragorri" startTime="2011-11-27T10:59:20">
+							<from>Dr. Aurelio Iragorri</from>
+							<p>Presidente, secretario muchas gracias, simplemente para la claridad
+del trabajo que sugería el Representante Didier Tavera, entonces se
+entiende que tiene proposición el 1, 16, 20, 22, 26, 50, 51, 52, 85, 86,
+88 y 89, estamos en lo correcto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:59:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente para informarle que los artículos que tienen
+proposiciones son 1, 16, 20, 22, 26, 50, 51, 52, 85, 86, 88 y 89,
+entonces la, Secretaria está esperando la proposición del artículo 85 y
+el 89 señor Presidente, entonces lo que se leyó podemos votar en
+bloque el resto de artículos señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T10:59:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bueno se pone en consideración los artículos que no tienen
+proposición y que han sido leídos aquí por el señor Secretario, se abre
+su discusión, queda cerrado, aprueban todos los Honorables
+Representantes los artículos leídos anteriormente que no tienen
+proposición.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T10:59:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente y así la Comisión lo quiere.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:00:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Ahora señor Secretario los artículos que tienen proposición.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:00:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>El número 1 señor Presidente.
+Proposición:
+El artículo 1 del proyecto de ley 050 de 2011 quedará así:
+Artículo 1: De la gestión del riesgo de desastres.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:00:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bien pueda doctor Barrera sustente su proposición.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2011-11-27T11:00:30">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente simplemente es adicionarle en el artículo donde
+está la antepolítica, estrategias, planes, programas y regulaciones,
+instrumentos y medidas, como quiera que estamos hablando
+precisamente de reducción del riesgo, es simplemente agregarle esos
+dos términos de instrumentos y medidas, ya también fue concertado
+con el señor Viceministro y con el señor, Director.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:00:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Léalo como queda señor Secretario y procedemos a votar el artículo
+primero con su modificación propuesta por el Representante Barrera.</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda" startTime="2011-11-27T11:00:50">
+							<from>H.R. Jaime Sepúlveda</from>
+							<p>De la gestión del riesgo de desastres. La gestión del riesgo de
+desastres, en adelante la gestión del riesgo es un proceso social
+orientado a la formulación, ejecución, seguimiento y evaluación de
+políticas, estrategias, planes, programas, regulaciones, instrumentos y
+medidas para el conocimiento y acciones permanentes.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:01:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Se le agrega la palabra después de regulaciones, instrumentos y
+medidas.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2011-11-27T11:01:10">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Reacciones permanentes para el conocimiento y la reducción del
+riesgo y para el manejo de desastres con el propósito explicito de
+contribuir en la seguridad, el bienestar, la calidad de vida de las
+personas y el desarrollo sostenible.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:01:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Se pone en consideración el artículo No. 1, se abre su discusión,
+anuncio que va a cerrarse, aprueban los Representantes el artículo
+No. 1., votación nominal, por favor señor secretario llamar a lista.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:01:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por él si los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Ha sido aprobado el artículo 1º. señor Presidente con la modificación.
+Presidente.
+Siguiente artículo que tiene proposición, señor Secretario sírvase
+leerla por favor, tiene la palabra el Representante el doctor Roldan.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldan-avendaño" startTime="2011-11-27T11:01:40">
+							<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							<p>Gracias Presidente, sería importante, se podría hacer también un
+bloque de artículos que tengan la venia del gobierno y que no tengan
+ningún problema.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:01:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo" startTime="2011-11-27T11:02:00">
+							<from>H.R. Iván Darío Agudelo</from>
+							<p>Me parece muy importante la propuesta del doctor Jhon Jairo Roldán,
+pero de pronto tiene justificación diferente, por ejemplo vamos a entrar
+a una proposición presentada donde se plantea la modificación en 5
+artículos, entonces podemos leer ese y sacamos ese bloque de 5,
+porque sería una justificación que yo tengo y ya después los otros
+compañeros que justifiquen sus modificaciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:02:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Estamos debatiendo el artículo 16, que tiene modificación, ¿Ese
+artículo quien presenta la proposición? El gobierno y el Viceministerio
+están de acuerdo, entonces señor Secretario cuáles artículos que
+tienen proposición están conciliados con el Gobierno.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:02:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Todos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:02:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces cambia la pregunta, en cuáles no hay una justificación
+definido con el Ministerio para que lo votemos por bloque separado,
+tiene la palabra el doctor Iván Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T11:02:40">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Gracias señor Presidente, yo radique en la, Secretaria la proposición
+para modificar 5 artículos, esos 5 artículos están concertados con el
+gobierno, pero yo si quisiera darle una justificación breve al porqué de
+esa modificación, por qué además siempre queremos que en cada
+actuación de los congresistas y en la Comisión tratemos de que sea
+pedagógica y que el normal de la gente puede entender que es lo que
+estamos haciendo, entonces si el Viceministro y el señor Presidente
+me permiten.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:02:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Representante cuáles son esos 5 artículos, denos los números.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T11:03:00">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Son los artículos 16, 20, 22, 26 y el 52.
+Esta proposición es para ponernos a tono con necesidades y
+actualidades mundiales, digamos que Colombia participo entre el 18 y
+22 de enero del 2005 en kobe Japón, celebrada en la prefectura de
+Yogo, adopto el marco de acción Yogo Mha para el 2005 y 2015, es
+frente al aumento de la resilencia, resilencia es “la capacidad de
+afrontar y salir de la adversión fortalecido de las naciones y las
+comunidades ante los desastres”. En ese marco de acción de Yogo se
+plantean tres objetivos estratégicos, el primero es la integración de la
+reducción del riesgo de desastres en las políticas y en la planificación
+del desarrollo sostenible.
+Segundo, el desarrollo y fortalecimiento de las instituciones,
+mecanismos y capacidades para aumentar la re silencia ante las
+amenazas; y tercero, la incorporación sistemática de los enfoques de
+la reducción del riesgo en la implementación de programas de
+preparación, atención y recuperación de emergencias, son 5
+prioridades de acción, solamente las voy a enunciar y son:
+Velar porque la reducción del riesgo de desastres constituya una
+prioridad nacional local con una solida base institucional de aplicación,
+es muy importante, eso lo estamos viendo, por eso el Gobierno
+presenta este proyecto, pero es muy claro que queden estas
+prioridades de acción como tal, identificar, evaluar y seguir de cerca el
+riesgo de desastres y potenciar la alerta temprana.
+Tercero, utilizar el conocimiento, la innovación, la educación para
+establecer una cultura de seguridad y de resilencia a todo nivel.
+Cuarto, reducir los factores subyacentes del riesgo; y quinto, fortalecer
+la preparación ante los desastres para lograr una respuesta eficaz a
+alto nivel.
+Señor Presidente, en qué sentido va señor Viceministro nuestra
+proposición, que usted gentilmente la acoge como representante del
+gobierno, es que los ejércitos del mundo moderno deben y tienen la
+obligación del manejo del orden público, no solo en los conflictos son
+también en los desastres, están formados y entrenados para ello, en
+nuestro país el ejército nacional ha avanzado en este aspecto pues
+cuenta con un entrenamiento eficiente, académico y físicamente, por
+eso en las proposiciones se planeta la presencia del Ministro de
+Defensa, es fundamental porque también tenemos la posibilidad de
+involucrar el tema de los batallones que hacen presencia en cualquier
+rincón de nuestro país y es fundamental por la capacidad que tienen
+ellos; y cuando se habla también frente al tema de la educación es que
+nosotros no podemos abrir el tema a todas las universidades como tal,
+sino universidades que realmente tengan como su misión, su visión, el
+de formar personas y en su pensum como tal el de profesiones que
+vayan direccionados al tema del desastre, porque tampoco lo
+podemos abrir a todo el mundo, sino realmente a instituciones
+directamente especializadas en el tema como tal.
+Muchas gracias señor Presidente, agradecerle al gobierno que haya
+acogido nuestras proposiciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:03:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Gracias a usted doctor Agudelo, después de escucharlo a usted se
+pone a consideración, para una aclaración señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:03:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Presidente, es para aclarar lo siguiente con respecto al artículo 22 la
+modificación que prese4nta el doctor Iván Darío Agudelo también hay
+una proposición aditiva del Representante Wilson Arias, que tiene que
+ver con el numeral 15 en la proposición del doctor Iván Darío Agudelo
+esa modificación dice:
+15. Un representante de las universidades públicas y/o privadas que
+tengan en sus programas de maestría o doctorados el manejo,
+administración y gestión del riesgo, obviamente aprobado por el
+ministerio de Educación Nacional; y la del doctor Wilson Arias es un
+representante de las universidades públicas, entonces para que la
+complementemos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:03:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:03:40">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Presidente, yo creo la que sustentación es relativamente sencilla, se
+aspira que la composición de este comité tenga en esa parte cierta
+coherencia con el anterior regulado por el artículo 20 donde además
+de un representante de las universidades públicas se encuentra el
+representante de las universidades privadas, por alguna razón se
+omite en el artículo 22 la presencia de cada una de ellas y el propósito
+de la sugerencia que he hecho, de la proposición que he presentado
+es agregar la representación de las públicas, no me resulta ni extraña
+ni distante la proposición según la cual se pretende que tenga niveles
+de especialización esa participación, pero la mía va en orden a
+restablecer la participación de la universidad pública como quiera que
+no aparece al tenor del artículo 22 señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:03:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2011-11-27T11:04:00">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Señor Viceministro, en aras de enriquecer este proyecto, sería
+importante que tanto el doctor Wilson Gómez como el doctor Wilson
+Arias y el doctor Iván Agudelo fijaran la posición, si vamos a dejar el
+espectro de universidades públicas y privadas o si lo vamos a limitar a
+universidades que tengan la especialización en temas relacionados
+con la gestión del riesgo, entonces sería importante que lográramos
+llegar a un punto de acuerdo entre los dos representantes y el
+Gobierno, porque no podemos dejarlo etéreo y abierto al tema de las
+universidades, o si nos limitamos al tema de quienes tengan la
+especialidad con la gestión de riesgo.
+Entonces Presidente, para que dirimamos eso y si no hay consenso
+pues en cuál de los dos casos y las dos proposiciones someter a
+votación y mirar la venia del gobierno para esta proposición señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:04:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Iván Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T11:04:20">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Gracias señor Presidente, no la idea no es desnaturalizar doctor
+Didier Tavera, yo creo que no hay ningún problema y de acuerdo con
+el doctor Wilson Arias pues que tenga presencia tanto en las
+universidades públicas como privadas y eso si que tenga la
+especialización, porque de todas formas es en el comité nacional,
+entonces yo creo que no hay ningún problema doctor Wilson Arias
+para poderla someter a votación.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:04:30">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Comparto la sugerencia que se ha hecho señor Presidente, creo que
+de esa manera podemos presentar una proposición común.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:04:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces, señor Secretario lea la proposición como va a quedar en el
+artículo 22.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2011-11-27T11:04:50">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Numeral 15: Un representante de las universidades públicas y
+privadas que tengan en sus programas de maestrías o doctorados en
+manejo administración, gestión y riesgo debidamente aprobados por el
+ministerio de Educación Nacional.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:05:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Así pareciera casi que cacofónico debería decirse:
+Numeral 15. Un representante de las universidades privadas que
+tengan la especialización.
+Numeral 16. Un representante de las públicas que tengan la d, la
+redacción es básicamente la misma, pero no el y/o como conector
+sino independizando el numeral.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:05:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el Representante Luís Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera" startTime="2011-11-27T11:05:20">
+							<from>H.R. Luís Guillermo Barrera</from>
+							<p>Me parece, si escuche mal, no se incluye el programa de
+especialización, estamos hablando es de doctorados y maestrías si no
+estoy mal, o sea que quedarían por fuera las universidades que tienen
+especialización especifica en ese tema, entonces no sé si es
+procedente Presidente que vuelvan a leer esa parte del artículo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:05:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Señor Secretario vuelva a leer el numeral 15.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2011-11-27T11:05:40">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Un representante de las universidades públicas y privadas, entonces
+separamos y creamos un 16.
+Un representante de las universidades públicas que tengan en sus
+programas de maestría o doctorados el manejo, administración en
+gestión del riesgo, debidamente aprobado por el Ministerio.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:05:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2011-11-27T11:06:00">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Yo considero prudente y procedente que en las universidades se
+incluya las universidades que tengan especialización, están dejando
+por fuera, están es maestrías y doctorados, universidades que pueden
+especializarse en ello, correcto, entonces le sugiero Presidente y a los
+compañeros que incluyamos los programas de especialización.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:06:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Se acoge su sugerencia señor Representante, entonces vamos a
+someter a votación en bloque los artículos 16, 20, 22, 26 y 52, anuncio
+que se abre su discusión, queda cerrada, aprueban los Honorables
+Congresistas los artículos anteriormente mencionados.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:06:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Si lo aprueba señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:06:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Sírvase llamar a lista para verificar la votación señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:06:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por el sí los siguientes Honorables Representantes.
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:06:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Han sido aprobados en bloque los artículos anunciados por usted
+señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:07:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces, se pone en consideración los artículos 50 y 51 con las
+respectivas modificaciones, tiene la palabra el doctor José Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-caicedo-sastoque" startTime="2011-11-27T11:07:10">
+							<from>H.R. José Caicedo Sastoque</from>
+							<p>Señor Presidente gracias, esa modificación corresponde a un error
+involuntario de transcripción que se presenta con dos proposiciones,
+para que quede perfectamente aclarado, subsanada la redacción de
+esos dos artículos, gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:07:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bien pueda sustente la proposición Representante Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-caicedo-sastoque" startTime="2011-11-27T11:07:30">
+							<from>H.R. José Caicedo Sastoque</from>
+							<p>Porque no me hace el favor Secretario y lee la modificación como
+queda que ahí explica perfectamente cuál fue el error de transcripción
+que se hizo cuando se paso la ponencia.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2011-11-27T11:07:40">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Artículo 50. Recursos. Los recursos del Fondo Nacional de Gestión del
+Riesgo por Desastres estarán sujetos a las apropiaciones que para el
+efecto se asignen en el Presupuesto General de la Nación y estén
+contenidos en el marco de gastos de mediano plazo, la junta directiva
+establecerá la distribución de estos dos recursos en las diferentes
+subcuentas de acuerdo con las prioridades que se determinen en cada
+uno de los procesos de la gestión del riesgo.
+Parágrafo primero: el Gobierno Nacional a través del ministerio de
+Hacienda y Crédito Público procurará en todo momento que el fondo
+nacional cuente con recursos suficientes que permitan garantizar el
+apoyo a las entidades nacionales y territoriales y sus esfuerzos de
+conocimiento del riesgo, prevención, mitigación, respuesta y
+recuperación, (rehabilitación y reconstrucción) y con reservas
+suficientes de disponibilidad inmediata para hacer frente a situaciones
+de desastre.
+Parágrafo segundo: Los recursos del fondo nacional se orientaran,
+asignaran y ejecutaran con base en las directrices que establezca el
+plan nacional de gestión del riesgo de desastres y con las previsiones
+especiales que contemple los planes de acción específicos para la
+rehabilitación, reconstrucción y recuperación.
+Parágrafo tercero: los contratos que sean de la sociedad fiduciaria
+para la administración de los bienes, derechos e intereses del fondo se
+someterán al régimen aplicable a las empresas industriales y
+comerciales del Estado.
+Fdo: H.R.
+José Caicedo Sastoque.
+Y la proposición del artículo 51, su cuenta para apoyar el
+financiamiento de la gestión de riesgo, se suprime la palabra fondos
+en los numerales uno, dos, tres, cuatro y cinco, quedando así.</p>
+						</speech>
+						<speech by="#hr-josé-caicedo-sastoque" startTime="2011-11-27T11:07:50">
+							<from>H.R. José Caicedo Sastoque</from>
+							<p>Que además quedaron en el pliego modificatorio bien redactadas, pero
+al hacer la redacción final volvió a quedar como inicialmente se había
+presentado, fue un error de transcripción fundamentalmente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:08:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:08:10">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Me queda claro y comparto la sugerencia de la proposición en relación
+con el artículo 51 tanto en la palabra fondo, no pude, discúlpeme usted
+doctor Caicedo establecer claramente porque al seguir la lectura no
+me coincidió en buena parte la que escuche contra la que tengo en mi
+mano, de modo que presumo que la modificación no fue tan de
+transcripción, creo que hay una proposición adicional al 50.
+Y adicionalmente, yo si quisiera más bien es una explicación del
+gobierno y es el siguiente señor Viceministro ¿Cuál es la razón por la
+cual adicionalmente a la subcuenta establecida en el artículo 51, se
+necesita un parágrafo del 47 para establecer una especie de
+autorización no pro tempore sino general e indeterminada para que el
+propio fondo cree otras subcuentas, porque yo leo el parágrafo del
+artículo 47 y a la letra dice:
+“El fondo podrá recibir, administrar e invertir recursos de origen estatal
+y contribuciones y aportes efectuados a cualquier título por
+instituciones públicas o privadas del orden nacional e internacional,
+tales recursos deberán invertirse en adopción de medidas de
+conocimiento y reducción de riesgo de desastre, preparación,
+respuesta, rehabilitación y reconstrucción a través de mecanismos de
+financiación dirigidas a entidades involucradas en procesos y en la
+población afectada por la ocurrencia de desastres; y sigue, el fondo
+podrá crear subcuentas para diferentes procesos de la gestión del
+riesgo. Es decir hay un artículo que entiendo no ha sido sometido a
+grandes consideraciones que establece varias 6 subcuentas, pero
+adicionalmente al artículo hay otro el cual el propio fondo podría
+establecer algunas subcuentas adicionales.
+Yo quisiera quedamos otorgando una especie de facultades generales
+e indeterminadas, porque entre otras cosas cuando se sube el andar
+se hace pro tempore y con precisas limitaciones que debe otorgar el
+legislativo. Quisiera escuchar la explicación señor Viceministro.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:08:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el señor, viceministro del interior.</p>
+						</speech>
+						<speech by="#dr-aurelio-iragorri" startTime="2011-11-27T11:08:30">
+							<from>Dr. Aurelio Iragorri</from>
+							<p>Muchas gracias Representante, la pregunta del Representante Wilson
+Arias es muy certera y este es un tema fundamental de la
+administración y del manejo de la gestión del riesgo, en este proyecto
+estamos definiendo cuál va a ser la política de gestión del riesgo y por
+ende cuáles son las actividades que dicha gestión va a realizar a nivel
+nacional, cuál ha sido el problema que tiene la cuenta del Fondo
+Nacional de Gestión del Riesgo hoy, que no se especifican esos
+recursos, si están destinados a prevención, si están destinados a
+atención o si están destinados a conocimiento del riesgo; entonces
+que es lo que ha pasado en la práctica Representante Arias, que el
+Gobierno Nacional a través del ministerio de Hacienda va asignando
+unos recursos en la medida de la prevención o conocimiento del riesgo
+si no en las medida de que la circunstancia de atención a los
+desastres ameritan el que le vayan inyectando los recursos al fondo.
+En la práctica, por ejemplo, para poner el caso especifico, cuando
+llegamos nosotros a este gobierno del año anterior el fondo tenía un
+presupuesto para atender lo que quedaba del año de 10 mil millones
+de pesos, con eso no se atendía ni un mes de la ola invernal y lo que
+no queremos al futuro y por eso están las subcuentas es que los
+recursos se destinen de manera genérica, precisamente lo que se está
+haciendo en el proyecto es lo contrario a lo que esta criticando el
+Representante que tiene toda la razón, es no aprobar unos recursos
+genéricos para el Fondo Nacional de Gestión del Riesgo, sino que
+dentro de ese fondo existan unas subcuentas y cada subcuenta
+atenderá las necesidades de:
+Primero, y es la primera subcuenta, conocimiento del riesgo que es el
+trabajo que estamos diciendo que se realizara de manera coordinada
+con las entidades territoriales, las universidades para conocer donde
+están los riesgos.
+Segundo, fondo, reducción del riesgo.
+Tercera, subcuenta, manejo en sí de los desastres o sea la atención
+como tal.
+Cuarta subcuenta, fondo de recuperación que ella una vez atendido el
+desastre como recuperamos reubicación de viviendas, etc.
+Quinta subcuenta, protección financiera, que ahora le pedimos al
+Director de Gestión del Riesgo que nos lo explique, o sea que
+básicamente lo que pretende este articulado es que no solamente el
+Ministerio establezca como ya esta establezca como ya está
+establecido hoy el Fondo Nacional de la Gestión del Riesgo que es lo
+que permite atender de manera urgente la emergencia, sino que
+además designe unos recursos específicos en cada una de las
+subcuentas porque si no lo hacemos queda genérico; y que pasa al
+quedar genérico, al quedar genérico los recursos llegan todos para la
+atención del riesgo y entonces no hay manera ni de prevenir, ni de
+conocer los riesgos porque nunca hay recursos para eso, esa es la
+justificación señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:08:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Gracias señor Viceministro, entonces sírvase señor Secretario llamar a
+lista para verificar la votación del artículo 50 y 51, tiene la palabra el
+doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:08:50">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>No me ha quedado claro la parte pertinente de la explicación, pero yo
+me he preguntado de verdad, quiero tener alcance doctor Caicedo de
+la modificación que usted propuso del artículo 50, porque la lectura
+suya no me coincidió en buena parte que tengo a la mano.</p>
+						</speech>
+						<speech by="#hr-josé-caicedo-sastoque" startTime="2011-11-27T11:09:00">
+							<from>H.R. José Caicedo Sastoque</from>
+							<p>Presidente ahí lo que hicimos fundamentalmente fue corregir el texto
+final con base en el pliego de modificaciones que se concertó entre los
+asesores de los Representantes ponentes y el Gobierno Nacional.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:09:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces, sigue el llamado a lista para la verificación de la votación
+por favor señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:09:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por el sí los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Han sido aprobados señor Presidente los artículos 50 y 51 con las
+modificaciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:09:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Falta los artículos 85, 86, 88, 89; señor Secretario sírvase informar si
+se pueden votar en bloque con las respectivas proposiciones y
+modificaciones que han sido presentadas por los Honorables
+Representantes, tiene la palabra el doctor Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2011-11-27T11:09:40">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Presidente es que lo advertí en la sesión inmediatamente anterior en
+esta Comisión, que cuando vamos a discutir los artículos 85, 86 y
+subsiguientes obligatoriamente tengo que referirme a que esos
+artículos hacen parte de un proyecto de ley que viene también
+haciendo tránsito desde el Senado de la República y que ya fue
+radicado en esta Comisión, yo soy también ponente de ese proyecto,
+al igual que el señor Presidente el doctor Caicedo y quisiéramos pues
+advertirlo a la propia Comisión, en cuanto que el contenido de ese
+articulado del 85 en adelante esta igualmente contenido en el proyecto
+de ley al que estoy haciendo referencia del cual es autor el Senador
+Juan Lozano, luego es prudente que la propia Comisión tome una
+decisión en el entendido de que si se incluye en este articulado desde
+el 85 en adelante pues entonces ahora cuando entremos en discusión
+del próximo proyecto de ley que está ahí en el orden del día que viene
+de origen Parlamentario, entonces tomemos una decisión de fondo, lo
+que no queremos aparecer nosotros con el doctor José Caicedo es
+presentando dos ponencias sobre todo en ese articulado con el mismo
+contenido, es para que la propia Comisión tome la decisión o si se le
+da tránsito a los dos proyectos simultáneamente conociendo pues de
+antemano que hacen referencia esos artículos a lo que está contenido
+en estos artículos que van a ser objeto de discusión a partir de cuando
+usted lo considere pertinente Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:09:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-11-27T11:10:00">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Muchas gracias Presidente, como coordinador ponente del proyecto al
+que se refiere el doctor Barrera que es el punto número 4 del orden del
+día, quisiera de la manera más respetuosa pedirle a la Comisión que
+mantuviéramos las dos iniciativas, una es de origen parlamentario y la
+otra es de origen gubernamental por el gobierno como el que estamos
+discutiendo hoy coinciden por supuesto en la buena intención, los
+artículos planteados algunas diferencias, pero que valdría la pena no
+excluir en principio del proyecto del Gobierno los artículos que ya han
+sido aprobados en el proyecto que se discutirá en el cuarto punto del
+orden del día por una razón, porque ese proyecto de autoría
+parlamentaria ya fue aprobado en el Senado de la República con las
+limitaciones y las dificultades que conlleva la aprobación de un
+proyecto de ley, valdría la pena aprovechar ese trámite que ya se
+surtió y permitir que el proyecto siga su curso.
+Yo le he planteado al Gobierno Nacional, que una vez avance las dos
+iniciativas y llegue el momento de tomar la decisión, la decisión se
+toma ya es al final del camino sobre cuáles artículos realmente se
+pueden dejar vigentes o no, pero mientras tanto mantengamos la
+discusión de ambos y la aprobación si así lo quiere la Comisión bajo el
+entendido que por supuesto son iniciativas totalmente distintas, una de
+origen parlamentario y la otra de origen gubernamental y que podrían
+contribuir a agilizar incluso el trámite del mismo en razón a que ya
+fueron votados en el Senado de la República.
+Así que le solicitaría a la Cámara con la aclaración que hace el doctor
+Barrera por supuesto que ellos son ponentes en la misma iniciativa,
+pues que sea entendida la situación por la que se está pasando en la
+medida que han firmado ponencias de igualdad de condiciones.
+Muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:10:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2011-11-27T11:10:20">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Presidente, el proyecto de ley que estamos tratando aquí no es nada
+menos y nada más sino que la política nacional de gestión del riesgo
+de desastres y se establece el Sistema Nacional de la Gestión del
+Riesgo, si hay que darle prioridad a un proyecto de ley es a este, yo si
+le sugeriría con el respeto del señor coordinador de ponentes el doctor
+y compañero Wilson Gómez y el doctor Barrera es que retomemos los
+artículos que están dentro del proyecto de ley No. 050 y por el
+contrario cuando le vayamos a dar debate al articulado que viene de la
+otra iniciativa del proyecto de ley excluyamos los que quedan inmersos
+y que se van a aplicar dentro de este proyecto de ley, porque es que
+esta es la ley macro y esta es la iniciativa, este es el sistema, esta es
+la política nacional de la gestión del riesgo, esta debe ser prioritaria
+frente a ese proyecto de ley, porque sé que estamos creando la
+política y el sistema y con el otro simplemente excluimos los artículos
+y le damos trámite al resto del proyecto, pero lo que tenga que ver con
+ese articulado que guarde las mismas características y similitudes, se
+le tiene que dar dentro de este proyecto. Muchas gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:10:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-caicedo-sastoque" startTime="2011-11-27T11:10:40">
+							<from>H.R. José Caicedo Sastoque</from>
+							<p>Gracias señor Presidente, lo que pasa es que el contenido de ese
+proyecto de iniciativa parlamentaria en cabeza del Senador Juan
+Lozano tiene su objetivo central en estos artículos que aparecen
+también en este proyecto de ley, yo solamente porque soy ponente en
+los dos proyectos al igual que el Representante Guillermo Barrera
+pongo sobre la mesa un poco de consideración procedimental o de
+pertinencia en el sentido de que en los dos proyectos y seguramente
+en el mismo día si le damos trámite ahora al siguiente proyecto
+estamos aprobando en dos proyectos de ley los mismos artículos con
+el mismo fin, desde luego que respeto la posición del Representante
+Didier Tavera, pero los dos proyectos son prioritarios y son
+importantes, es decir el hecho de que sea una iniciativa parlamentaria,
+que además viene más adelantada, esperamos que este avance
+también y que ojala lo saquemos a la mayor brevedad posible, pero
+me parece que tiene una importancia y tiene un trabajo muy serio en
+Senado y se hizo un gran debate alrededor de ese proyecto y no
+podemos subestimar el impacto y el alcance que tiene ese proyecto.
+Solamente me intriga el tema, por eso se lo pregunte al señor
+Viceministro, el me dice que en otras iniciativas incluyeron algunos
+artículos por distintos proyectos y finalmente lo que se buscaba era
+garantizar que en uno de los dos si se corre algún riesgo de que
+alguna de esas dos iniciativas se pueda caer, si eso no tiene ningún
+inconveniente pues nosotros lo podemos hacer, pero a uno le surge el
+interrogante de que vamos en dos proyectos a aprobar los mismos
+artículos siendo nosotros los mismos ponentes. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:10:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2011-11-27T11:11:00">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>No, es que nosotros como abogados cada vez que consultamos la
+gaceta constitucional encontramos leyes y leyes y recontraleyes y las
+mismas leyes y entonces aquí estamos hablando de una política
+nacional, si hay una ley que debe compilar todos los artículos, aquí
+estamos hablando es de la política nacional de la gestión del riesgo,
+entonces no estamos diciendo que excluyamos esa iniciativa del
+doctor Juan Lozano, es que por el contrario que hagamos un
+compendio de esas normas y que la dejemos dentro de este sistema y
+dentro de esta política dando el reconocimiento al doctor Juan Lozano,
+dándole el reconocimiento al debate que han dado en el Senado, pero
+que quede inmerso en el proyecto de ley 050 que además entra y esta
+por iniciativa del gobierno, pero tramitado ante la Cámara de
+Representantes la Comisión Sexta que es la que debe tratar y debe
+tramitar ese proyecto.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:11:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Dr. Ciro Rodríguez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-11-27T11:11:20">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Gracias señor Presidente, porque no le damos tramite a los artículos y
+una vez lleguemos al punto del nuevo proyecto pues decidimos que
+hacemos, pero tramitemos este proyecto para no enredarnos en su
+trámite. Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:11:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-11-27T11:11:40">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Para señalar que aquí estamos avocados doctor Didier Tavera si me
+regala un segundo a algo similar a lo que podría suceder con el
+proyecto de ley del ICETEX para ponerlo en un marco aquí en la
+Comisión Sexta, por ser iniciativa parlamentaria y ahora llega en el
+proyecto de ley de autoría del gobierno de educación incluyeran la
+eliminación de los intereses del ICETEX ,pues podría alguien decir,
+hay que aprobar es el del gobierno e ir en contra del nuestro, yo le que
+le solicito es la solidaridad aquí, porque el Gobierno Nacional y
+quisiera escuchar al Viceministro en ese sentido explica que no existe
+incompatibilidad alguna en que aprobemos los dos textos esta mañana
+y que sea en la mesa de unidad o al fin del camino cuando las dos
+iniciativas están listas para aprovechar lo que ha sucedido en el
+Senado de la República que han dado ya aprobación a este texto y
+garantizar de pronto más bien que ante la demora de este puedan ser
+agilizados los artículos que ya hoy avanzaríamos y pondríamos a
+consideración si ustedes nos lo permiten.
+Entonces, me gustaría que el Viceministro nos explicara que no hay
+incompatibilidad alguna en que aprobáramos estas dos iniciativas de
+manera conjunta, porque por supuesto una va mucho más adelante
+que la otra.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:11:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2011-11-27T11:12:00">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Es que afortunadamente los dos proyectos se están discutiendo hoy
+justamente en el orden del día, sería irresponsable de parte nuestra,
+los ponentes no advertirlo, porque es que pasado mañana llegan los
+dos proyectos a Plenaria y va ser peor, van a decir esos ponentes
+están locos, como así que nos presentan dos ponencias en la misma
+materia, es bueno advertirlo que este proyecto de ley, pese doctor
+Didier Tavera a que es política nacional, es bueno advertirlo que es
+política nacional, es bueno advertirlo que comienza hasta ahora su
+trámite en esta Comisión y es bueno advertirlo que el otro proyecto en
+el cual somos ponentes ya hizo tránsito en Senado, o sea llega de
+Senado a esta Comisión, por eso es que debemos tomar una decisión
+responsable y como ponentes del proyecto debemos advertirlo a la
+Comisión, para que sea la propia Comisión, para que sea la propia
+Comisión como lo está advirtiendo el doctor Ciro Rodríguez sea la
+propia Comisión la que tome la decisión, pero no podemos nosotros
+como ponentes quedarnos callados cuando hay un proyecto de igual
+naturaleza.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:12:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Dr. Yepes en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jaime-armando-yepes-martínez" startTime="2011-11-27T11:12:20">
+							<from>H.R. Jaime Armando Yepes Martínez</from>
+							<p>Presidente, solo para hacer una acotación, por ejemplo si un proyecto
+esta más adelantado que es el del Senado, que es un proyecto de
+iniciativa parlamentaria, entonces que va a hacer cuando llegue este a
+la Plenaria que va más atrasado, pues en la Plenaria van a hacer
+totalmente lo contrario, pues van a excluir estos articulados que van
+atrasados y van a dejar los que van adelantados, entonces lo que
+estamos diciendo nosotros es como este es de ley gubernamental que
+quede como el marco excepto de todo el articulado y miramos más
+adelante excluir a los otros si son iguales, para que vamos a hacer una
+ley con los mismos artículos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:12:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Iragorri.</p>
+						</speech>
+						<speech by="#dr-aurelio-iragorri" startTime="2011-11-27T11:12:40">
+							<from>Dr. Aurelio Iragorri</from>
+							<p>Gracias, me parece muy bien la advertencia que hace los señores
+ponentes, si se tratara de un tema menor la decisión de la Comisión
+sería muy sencilla y decir no pues retirémoslo de aquí porque ya está
+el otro proyecto, pero estos son algunos de los artículos que tocan
+directamente a la población afectada, a la población, al usuario del
+servicio público que después de que esta con el agua al cuello le
+llegan cuatro o tres meses de los servicios de energía y de agua
+cuando no ha tenido ni siquiera la posibilidad de utilizar dichos
+servicios y hoy no hay como eximirlos de esos cobros, yo se que el
+otro proyecto va adelantado y seguramente será aprobado, pero en la
+puerta del horno se quema el pan, yo he visto hundir proyectos en las
+conciliaciones por tiempos etc.
+Esta es la ley marco, si el otro proyecto sale aprobado y ya no es un
+proyecto de ley sino una ley cuando este proyecto vaya más adelante
+en Senado, cuando lleguemos a estos artículos simplemente ponemos
+un solo artículo que dice para los temas de subsidio se hará referencia
+a la ley tal y con eso salimos del tema, pero no dejarlos aquí cuando
+estos son digamos; yo pongo un ejemplo práctico, cuando estábamos
+discutiendo la ley de futbol en el Senado por iniciativa de la Senadora
+del Polo Democrático y del Partido Verde se quisieron incluir algunos
+artículos que hacían referencia al tema de seguridad no en los campos
+de futbol, sino en los campos deportivos en general y se incluyeron
+también en el proyecto de seguridad ciudadana, porque se incluyeron
+en los dos porque decían que por unidad de materia se podían caer de
+la ley de futbol, pero eran normas especificas para el tema de la
+seguridad en los estadios y esa fue la decisión que se tomo y así se
+tramitaron y al final quedaron aprobados en los dos textos en forma
+idéntica. Entonces eso no tiene ningún problema y creo que esta parte
+fundamental que va directamente a los usuarios de los servicios, a los
+damnificados de verdad debe quedar incluida en el proyecto y si es el
+caso más adelante pues se hace la corrección correspondiente.
+Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:12:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2011-11-27T11:13:00">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Presidente, es que para información de todos los colegas de la
+Comisión Sexta de la Cámara de Representantes, ese proyecto que
+presenta el doctor Juan Lozano sale como consecuencia cuando se
+cayó el decreto el 020, ese proyecto recoge las iniciativas que tenia la
+ministra de Ambiente, Vivienda y Desarrollo Territorial la doctora
+Beatriz Uribe, esa fue una reacción inmediata de la presentación y eso
+nació al seno de la comisión accidental de seguimiento a esos
+decretos de la cual hacíamos parte, por eso yo les decía a ustedes, a
+mi me preocupa y acogemos la decisión del señor Ministro que se vote
+tal cual como está el artículo del 85 al 89 aquí esta y se le siga dando
+trámite al tema de iniciativa legislativa, pero que como tal si tenemos
+que llegar al caso donde se diga se hace referencia pero que estar
+tramite vaya porque este es el marco, este es el compendio general y
+está realmente es la base y es la esencia y es la madre de los
+decretos y de las legislaciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:13:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces, se pone a consideración el artículo 85, 86, 88 y 89 con las
+proposiciones que fueron presentadas, entonces se abre la discusión,
+anuncio que va a cerrarse, queda cerrado, sírvase llamar a lista señor
+Secretario para verificar la votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:13:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por el sí los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Señor Presidente, han sido aprobados los artículos 85, 86, 88 y 89
+con las modificaciones.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:13:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Hay una proposición presentada por el doctor Wilson Arias, es
+necesario entonces reabrir la discusión del artículo 52 para incluir la
+proposición, entonces sometemos a votación la reapertura del artículo
+52, anuncio que va a cerrarse, queda cerrado, sírvase llamar a lista
+señor Secretario para verificar la votación.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:13:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por el sí los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Señor Presidente ha sido aprobado la reapertura del artículo 52.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:13:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Wilson Arias para que sustente su
+proposición, después de haber sido aprobado la reapertura del artículo
+52.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:14:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>El artículo 52 habla de la composición de la junta directiva del Fondo
+Nacional, frente al tema he tenido una posición política que quiero
+sustentar y que reitero porque también tiene que ver con una discusión
+general que hemos tenido sobre el manejo del desastre, saben
+ustedes lo he dicho en varias oportunidades no he sido muy amigo de
+la decisión gubernamental de encomendar algo así como las funciones
+del zar del manejo del desastre a una figura connotada procedente del
+sector financiero y explicaba en varias oportunidades, porque no lo
+considero.
+Para resumir, digo no siempre la vocación empresarial corresponde
+con el interés general y menos en momentos de desastres y suele
+ocurrir que precisamente en condiciones de desastres y de
+emergencia puede prosperar de manera bastante contraria el interés
+general, el ánimo y el oportunismo empresarista, en esta ocasión no
+veo razón por la cual dos figuras connotadas del sector financiero
+hagan parte de la junta directiva del fondo nacional, muy a pesar de
+que dentro de las funciones del fondo esta la protección financiera,
+entonces, me parece que pese a que todos son integrantes del alto
+gobierno desequilibra realmente la composición de la junta,
+participación simultanea del Superintendente Financiero y el gerente
+general del Banco de la República o de su delegado.
+Si se trata de fijar pautas gubernamentales de política pública, al
+respecto me parece que se justifica más la presencia del gerente
+general del Banco de la República que no la de la Superintendencia
+Financiera mucho más plegada normalmente al interés del sector
+especulativo.
+De modo que por esa razón he propuesto que la Junta directiva esté
+compuesta conforme lo establece el artículo 52 eliminando el que hoy
+aparece como numeral 7 el Superintendente Financiero o su delegado
+para que quede solamente el gerente general del Banco de la
+República.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:14:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Entonces, se pone a consideración la proposición presentada por el
+Honorable Representante Wilson Arias, se abre su discusión, anuncio
+que se va a cerrar, tiene la palabra el doctor Silvio Vásquez.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez" startTime="2011-11-27T11:14:20">
+							<from>H.R. Silvio Vásquez</from>
+							<p>Me gustaría que el señor Viceministro pudiera pronunciarse sobre la
+propuesta esa.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:14:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Viceministro tiene usted el uso de la palabra.</p>
+						</speech>
+						<speech by="#dr-aurelio-iragorri" startTime="2011-11-27T11:14:40">
+							<from>Dr. Aurelio Iragorri</from>
+							<p>Con la venia de la Comisión, me gustaría darle la palabra al, director de
+la Gestión del Riesgo que tiene la justificación de donde salió este
+listado que se trabajo de acuerdo con el estudio del Banco Mundial en
+el que él participo directamente Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:14:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Carlos Iván Márquez,, director de
+Gestión del Riesgo.</p>
+						</speech>
+						<speech by="#hr-carlos-iván-márquez" startTime="2011-11-27T11:15:00">
+							<from>H.R. Carlos Iván Márquez</from>
+							<p>Si señor Presidente, con base al planteamiento que se ha hecho para
+los aspectos que tienen que ver con el Fondo de la Recuperación
+Financiera, en el estudio nos recomendaron que era importante tener
+en cuenta un delegado del Superintendente Financiero o su delegado,
+eso es parte digamos para tener la armonía especial de este proyecto
+de ley, acá revisando con que existan dos, el gerente del Banco de la
+República puede hacer también ese análisis de soporte y entendiendo
+también que hay dos miembros del sector privado del Senado por el
+Presidente de la República.
+En tal sentido la armonía que se guarda es para tener un poco el
+soporte.
+De acuerdo al estudio que se ha venido realizando para esta
+conformación de la junta directiva del Fondo Nacional se plantea
+desde el esquema de tener un soporte de lo que es la parte financiera,
+ya que uno de los 5 fondos que están tiene que ver con el soporte
+financiero, de allí que la recomendación que viene en el estudio está
+planteada en ese sentido, teniendo en cuenta que el fondo y que el
+sistema tiene varios aspectos que es público, privado, comunitario,
+pero de acuerdo a la proposición que existe en estos momentos le
+hablaba yo al Viceministro y manifestaba que se tiene una
+representación hasta el momento que puede ser soporte para la junta,
+el interés de tener una representación en la junta de la
+Superintendencia Financiera es para tener el soporte en la toma de
+decisiones para uno de los 5 fondos que tiene que ver con el soporte
+financiero para el manejo integral, teniendo en cuenta que la junta
+debe de tener una representación pública, privada y comunitaria
+inclusive, ahí se habla de dos representantes que inclusive el señor
+Presidente puede cuando se habla de dos miembros del sector
+privado designado por el, Presidente de la República.
+En tal sentido queda bien de la Comisión revisar si el representante de
+la Superintendencia Financiera puede estar allí, porque también con el
+Representante del Banco de la República también se tiene el soporte
+financiero para la toma de decisiones, en tal sentido se discutió en los
+analices del proyecto de ley y sobre la base se deja esta propuesta
+que inclusive mirándolo internamente con el señor Viceministro
+revisados que de acuerdo al planteamiento que se da en este
+momento por la proposición del Honorable Representante queda bien
+ya de la Comisión definir y hablándolo acá previamente si se plantea la
+situación como esta descrita no generaría ninguna situación que
+dificulte el proceso de la junta nacional.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:15:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Iván Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T11:15:20">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Yo si quisiera que fuéramos más claros y el enfrentamiento de que
+este la Superintendencia ahí es porque esto atiende un estudio que se
+hizo, entonces yo si quiero que seamos claros y no que seamos
+dubitativos en decir que lo que diga la Comisión, yo creo que si hay un
+estudio pues que el gobierno nos diga hoy si le parece o no le parece.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:15:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el doctor Luís Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2011-11-27T11:15:40">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente, digamos que dentro de la propia sustentación que
+hace el Gobierno Nacional manifiesta que el actual Fondo Nacional de
+Calamidades se convierte en el Fondo Nacional de Gestión del Riesgo
+con algunas subcuentas especificas, que dentro de esas subcuentas
+esta la del conocimiento del riesgo, la reducción del riesgo, el manejo
+de desastres, la recuperación y la protección financiera, cuando
+estamos hablando ahí de la protección financiera, precisamente es el
+sustento mismo para que la propia superintendencia haga parte de la
+junta directiva y ahí está el sustento especifico de la subcuenta que
+maneja este Fondo Nacional de Gestión del Riesgo, de ahí que yo
+creo que si es importante que la superintendencia haga parte en la
+junta directiva por la propia protección financiera que demanda el
+fondo y el propio sistema nacional.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:15:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene la palabra el, viceministro.</p>
+						</speech>
+						<speech by="#dr-aurelio-iragorri" startTime="2011-11-27T11:16:00">
+							<from>Dr. Aurelio Iragorri</from>
+							<p>Bueno Presidente, este punto que parece menor como era menor la
+junta del fondo de calamidades, porque esa junta ya existía y yo en el
+Ministerio tal vez nos reuníamos periódicamente, pero la junta nunca
+estuvo de moda hasta que llego el tema del fenómeno de la niña,
+hasta que llego el tema de la modificación de la junta y se incluyo al
+sector privado, mientras tanto nadie le ponía atención a esa junta, lo
+que determino ese estudio del banco es que estos miembros eran
+necesarios pensando no en situaciones normales sino en situaciones
+de emergencia grave o gravísima emergencia que hasta ahora a pesar
+de las dificultades del fenómeno de la niña que se generaron pues no
+nos ha tocado vivir en Colombia, una situación de gravísima
+emergencia, gravísima que afecte todo el territorio nacional, que
+descuadre completamente la economía de un sector del país o del
+país entero, entonces la inclusión doctor Arias de este miembro
+cuando uno lo mira en términos de una situación normal no pasa nada
+si está o no esta y si lo eliminamos o no lo eliminamos, lo que el
+estudio o el resultado de ese estudio que incluyo a ese miembro
+dentro de la junta obedece a aquellas situaciones de gravísima
+calamidad a donde el papel de ese miembro en la junta puede ser
+fundamental para la estabilidad del sistema financiero y por eso se
+incluye ahí, así que esa es la explicación y lo dejo lógicamente a
+consideración de la Comisión y a consideración de la propuesta del
+Representante Arias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:16:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Dr. Arias en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:16:20">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Pues básicamente para hacer una respuesta que tiene naturaleza
+política a la que se ha planteado y para que se someta a votación,
+quiero que se someta a votación porque en lo que respecta a nosotros
+es de importancia dejar planteado nuestro criterio y nuestra votación
+contraria a esa inclusión.
+Es absolutamente normal que el Banco Mundial recomiende
+participación del sector financiero y si por el Banco Mundial fuera ojala
+solamente hubiera banqueros en este país en las juntas directivas, el
+predominio del sector del bloque financiero y militar en los Estados
+Unidos tiene expresión también en el Banco Mundial, es normal que el
+Banco Mundial recomiende quitarle la plata al pueblo para salvar
+bancos, lo acaban de hacer en los Estados Unidos, lo acaban de
+recomendar para Europa, buena parte de la crisis de Grecia y de
+Europa se está explicando en buena medida en la crisis hipotecaria de
+2008 y en el modo en que lo resuelve el sector financiero.
+De modo que a mí no me cabe duda que el Banco Mundial tiene que
+recomendar eso, el Banco Mundial también tiene que recomendar
+quitarle las regalías a los regiones para recentralizarlo de modo que
+haya liquidez para pagar la deuda y el Banco Mundial también tiene
+que recomendar regla fiscal, del mismo modo que el Banco Mundial
+también tiene que estimular que las revistas amigas le den premios
+internacionales a los ministros de hacienda que suelen tramitar en el
+Congreso de la República con tanta eficacia sus proyectos.
+De modo, lo que a mí me preocupa es lo otro, el interés general
+expresa el sector financiero, el interés general colombiano sí o no
+primero, ya está sobre representado en el Gobierno, es el zar de la
+reconstrucción en Colombia, pero adicionalmente la otra pregunta es
+qué sentido tiene que simultáneamente porque hay una cuenta que
+tiene un tufo de salvamento del sector financiero y su reacción, por la
+existencia de una cuenta se predica la importancia de que dos cacaos
+del sector financiero hagan contrapeso, me temo que adicionalmente
+por recomendación del doctor Echeverri pueden lograr que
+adicionalmente los dos miembros del sector privado puedan tener que
+ver también con el sector financiero, porque al fin y al cabo este sector
+financiero es no solamente voluminoso sino que sobre representado
+en todas las instancias, de modo que esas son las razones políticas
+por las cuales yo solicito que se someta a consideración.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:16:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2011-11-27T11:16:40">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>No, es que yo quiera hacer eco de lo que está diciendo el
+Representante Wilson Arias, pues digamos que si tengo de alguna
+manera una duda y es que quien regula o quién vigila, o quien controla
+ese Fondo Nacional de Riesgo de Desastres, la participación interna
+con voz y voto dentro de ese Fondo Nacional de Gestión de la
+superintendencia tiene el fin de tener internamente un control
+permanente de las decisiones o por formar parte de esa junta directiva
+pierde su función de control que tiene como superintendencia, me
+asalta un poco esa duda, porque pareciera que puede terminar siendo
+juez y parte, si ya está por dentro la superintendencia y toma
+decisiones esta blindando como dice el Viceministro las decisiones o
+la estabilidad financiera que es uno de los puntos importantes, cuanto
+gastamos, aquí tengo cifras, gastamos 5 billones de pesos asignados,
+se cambio el plan de desarrollo que aprobamos con la emergencia
+invernal y eso puede desbarajustar cualquier estabilidad financiera de
+un país, pero me asecha un poco esa duda, de si tener a la
+Superintendencia Financiera o su delegado en ese Fondo Nacional de
+Gestión del Riesgo no estamos quitándole su función exógena de
+control y de vigilancia.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:16:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bueno entonces, se abre la discusión sobre la proposición, anuncio
+que va a cerrarse, queda cerrada, sírvase señor Secretario llamar a
+lista y verificar la votación.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:17:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Votando si se aprueba la proposición del doctor Wilson Arias, votando
+no se niega la proposición y el artículo 52 queda igual como fue
+aprobado anteriormente.
+Tiene la palabra el doctor Roldan.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldán-avendaño" startTime="2011-11-27T11:17:10">
+							<from>H.R. Jhon Jairo Roldán Avendaño</from>
+							<p>Presidente una claridad, la mayoría de la Comisión tiene un
+compromiso en esta ley para que salga bien, ahorita lo decía el
+Representante Agudelo, que sea mas claro el Gobierno diciéndonos si
+afecta o no el desarrollo del proyecto que el superintendente este ahí
+porque vamos a entrar a votar esta proposición y no sabemos la
+exposición que hace el compañero Arias está bien, pero en lo
+particular si el Gobierno necesita la presencia del superintendente ahí,
+yo votaría la proposición negativa, si el gobierno está de acuerdo o no
+con la proposición que sean claros y nos digan porque lo queremos es
+acompañar Viceministro y no se trata de que el compañero Wilson
+Arias sea del Polo y que nosotros seamos de la Unidad Nacional, sino
+lo que se trata es de que nos salga una excelente ley que sirva para lo
+que en realidad la necesitamos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:17:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Un minuto doctor Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2011-11-27T11:17:30">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Si se le va a conceder como en efecto se solicita una posición más
+precisa, porque yo también vi, yo me entusiasme la primera parte, que
+porque hay un estudio, yo al menos reclamaría que nos digan que dice
+el estudio, porque aquí no se puede explicar, decir tengo un estudio
+que lo justifica y eso explica, no, que fue lo que dijo el Banco Mundial
+a propósito de que si no estaba ese señor se caía el fondo, yo quiero
+saber cuál es la razón por la cual debe estar el representante del
+sector financiero.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:17:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Iragorri.</p>
+						</speech>
+						<speech by="#hr-aurelio-iragorri" startTime="2011-11-27T11:17:50">
+							<from>H.R. Aurelio Iragorri</from>
+							<p>Gracias, voy a tratar de ser más claro, primer punto de claridad, si no
+está el Superintendente Financiero no se cae el fondo, o sea es una
+decisión realmente política, yo justifico porque en el proyecto venia,
+porque se incluyo a ese miembro, se incluye para que en el caso de
+grave calamidad tenga conocimiento de las decisiones que se van a
+tomar en el fondo y pueda entender, e incluso tomar parte en la
+decisión a donde su criterio puede decir ojo con esa decisión como
+estaban poniendo el ejemplo ahora que esa decisión cambia todo el
+panorama de la política nacional y puede afectarla de manera grave, él
+tampoco va a ser mayoría porque es digamos un voto entre 10 creo
+que son los miembros.
+Entonces, yo no quiero ir más allá, porque si no queda incluido pues
+tampoco es que sea grave, no quiero que se entienda que debe
+quedar incluido solamente porque lo importante en el tema sea la
+política financiera, si se vota que se excluya ese miembro realmente
+no es grave la decisión, lógico que no, ahí está el, Presidente del
+Banco de la República, entonces es realmente una decisión política
+que no afecta de manera grave el proyecto y que la decisión en
+cualquiera de los dos sentidos será acogida por el gobierno sin ningún
+problema, esa decisión ya es política, necesitamos ese miembro o no,
+es fundamental respuesta hoy en la crisis que estamos, él no está en
+la junta, no está y nunca lo hemos llamado para ninguna decisión, ni lo
+hemos necesitado hoy.
+Entonces, si se incluye o se excluye que es una decisión ya apolítica,
+yo doy los argumentos de porque está incluido, lo que no quiere decir
+que al salirse entonces se daño todo el proyecto, no si se sale es una
+decisión política que se toma en la autonomía que tiene el Congreso
+de la República y no afecta de manera grave el proyecto para
+absolutamente nada, para eso están los otros miembros.
+Yo no sé si con eso quiero ser claro, no quiero asumir una defensa
+profunda al tema porque no hay necesidad de asumirla y los
+argumentos que está dando el Representante también me parecen
+validos, los de en pro y en contra, yo defiendo el pro por el hecho de
+que venía incluido en la propuesta inicial, pero así como venían
+incluidos otros artículos que ustedes han mejorado sin consideran que
+al eliminar ese miembro queda mejor pues acogemos la decisión y no
+hay problema de que el proyecto quede peor planteado por retirar a
+ese miembro de la miembro de la junta.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:18:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Gracias señor Viceministro, tiene el uso de la palabra el doctor Iván
+Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2011-11-27T11:18:10">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Como decía mi profesor repita hasta que aprenda mijo haber si la cogí
+entonces, estoy de acuerdo con el Representante Wilson Arias, estoy
+de acuerdo con nuestro querido Presidente que hoy nos acompaña
+acá abajo y no allá en su asiento en el trono y lo que dice el doctor
+Jhon Jairo Roldán frente a la claridad, muy claro que no podemos
+permitir que una entidad de esta naturaleza coadministre y que haya
+un control previo y de todas formas por el hecho de que no se
+encuentre en la junta ella no se va a exonerar de su responsabilidad
+como Superintendente, él independiente de eso tiene que seguir
+conociendo, si es así y realmente entendí Viceministro yo voto para
+que se suprima la superintendencia de la junta.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:18:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Dr. Ciro Rodríguez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-11-27T11:18:30">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Gracias Presidente, aquí lo que hay que entender es que el
+Superintendente Financiero no es el representante del sector
+financiero, es la persona que lo controla y lo vigila y a mí me parece
+que la presencia ahí, si bien los argumentos del doctor Wilson Arias
+que pueden ser válidos es fundamental, es que no estamos hablando
+de nada menos sino el sector financiero quien sería que más podría
+aportar a una solución de este tipo de desastres, por lo tanto yo si le
+pediría a la Comisión que valdría la pena que analizáramos el tema y
+que quedara incluido el superintendente financiero.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:18:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Bueno, en ese orden de ideas entonces vamos a votar la proposición,
+votando si se excluye al superintendente, votando no el articulo queda
+tal y como esta y como fue aprobado anteriormente no se le olvide que
+este articulo fue reabierto para la votación de esta proposición, sírvase
+llamar a lista y verificar la votación señor Secretario por favor.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:18:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Votaron por el sí los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Caicedo Sastoque José Edilberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Votaron por él no los siguientes Honorables Representantes:
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Ha sido negada la eliminación del numeral 7 del artículo 52, señor
+Presidente. Queda aprobado el artículo como fue aprobado
+anteriormente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:19:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Titulo del proyecto señor Secretario y el querer de la Comisión para
+que este proyecto pase a segundo debate, sírvase llamar a lista y
+verificar la votación señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:19:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Título, por el cual se adopta la política nacional de gestión de riesgo de
+desastres y se establece el Sistema Nacional de Gestión de Riesgo de
+Desastre y se dictan otras disposiciones, someta consideración el
+título y el querer de la Comisión Sexta que el proyecto pase a segundo
+debate.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:19:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Aprueba la Comisión el título y el querer de qué el proyecto pase a
+segundo debate, anuncio que va a cerrarse, queda cerrado, lo
+aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:19:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.
+Nombramiento de ponentes señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:19:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Los mismos ponentes, me parece que sería lo más lógico y si alguien
+más requiere o quiere ser ponente pues nos lo manifiesta y será
+incluido con todo el gusto.
+Tiene el uso de la palabra el doctor Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo" startTime="2011-11-27T11:19:50">
+							<from>H.R. José Edilberto Caicedo</from>
+							<p>Gracias Presidente, como coordinador ponente debo decir un par de
+cosas al final de este importante proyecto que la Comisión Sexta
+acaba de aprobar. Primero, muy importante que el Gobierno Nacional
+lleve al nivel de una política pública la gestión del riesgo de desastres
+y se establezca el Sistema Nacional de Gestión de Riesgos de
+Desastres, le corresponde a esta Comisión Sexta y en eso pues creo
+que nos, en aras de no faltar a la verdad nos ha faltado un poco más
+de énfasis en este tema que le corresponde a la Comisión Sexta,
+como es el tema de emergencias y desastres, yo creo que aquí debe
+de venir Colombia Humanitaria a rendirnos un informe claro de todas
+las inversiones que se han hecho, de los avances por departamento,
+por regiones, para que la Comisión Sexta se entere realmente que es
+lo que se está haciendo en materia de inversión, de estos 4.9 billones
+de pesos, aquí ya hay unos reportes de asignación de recursos a
+convenios con entidades nacionales por 2.3 billones, obras mayores y
+menores 1.5 billones en ayuda humanitaria; en solo alojamientos 664.
+474 millones de pesos; en provisiones 298.730, donaciones 66.826
+millones, gastos de operación 40 mil millones; componentes 15.548
+millones, 4 millones de colombianos afectados por el fenómeno de la
+niña, 1.062 municipios afectados, es decir 40 municipios del país que
+no fueron afectados por el fenómeno de la niña, eso refleja realmente
+que esta emergencia y seguramente que la que viene sino estamos
+preparados puede ser igual o peor, pues está generando una vena
+rota de la planificación del gasto público del Estado, por eso me
+parece que este proyecto de ley 50 de 2011 fortalecido, liderado por el
+viceministro del Interior me parece que recoge una expectativa
+nacional muy importante y es garantizar que en medio de la
+improvisación que se tiene para atender las emergencias y desastres
+en este país, se pueda estructurar una gestión del riesgo que incluya
+de manera clara, de manera diferenciada la prevención, la mitigación y
+la preparación que es anterior a la ocasión del riesgo, pero también la
+atención, rehabilitación y reconstrucción que son posteriores a la
+emergencia venidera.
+De manera que esta ley que esperamos que siga su tramite ágil, a la
+mayor brevedad posible por el impacto y la importancia que tiene
+como objetivo la previsión, el control y la reducción del riesgo de
+desastres en la sociedad, pues creo que pone a la Comisión Sexta
+también como responsable de cooperar con el Gobierno Nacional en
+este importante proyecto que yo creo que como lo dijo el Viceministro
+no es un proyecto de ley improvisado, ni que aparece como
+consecuencia inmediata de lo que está sucediendo en este país en
+materia de emergencia, sino que lleva más de un año estructurándose
+y recoge las experiencias que se han tenido y que tiene un elemento
+que a mi juicio resulta estructurante y es que descentraliza de alguna
+manera decisiones, crea posibilidades de que los departamentos y los
+municipios y los alcaldes puedan tomar decisiones en materia de
+declaratoria de las emergencias y que no se espere a que una oficina
+del 5 piso o 10 piso de un ministerio al mes o mes y medio de qué
+ocurre el desastre o el siniestro declare realmente la emergencia.
+Me parece que en esa materia lo que busca el Gobierno Nacional es
+estructurar los lineamientos y unas acciones estratégicas en esa
+materia para que el control del riesgo y la atención de las emergencias
+y desastres se hagan de una manera seria, de una manera clara y que
+estén regulados por una ley marco.
+Esa es una decisión importante la que ha tomado hoy la Comisión y
+por supuesto que la Plenaria de la Cámara de Representantes
+estaremos defendiendo este proyecto con ahincó para que a la mayor
+brevedad posible sea ley de la República y garantice que el Gobierno
+Nacional tenga las herramientas y los recursos económicos
+oportunamente para prevenir y para atender las emergencias y
+desastres en este país.
+Muchas gracias al Viceministro y a su equipo de trabajo, a los
+asesores de los Representantes que estuvieron muy atentos a hacerle
+las mejoras a este proyecto y a sacarlo adelante. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:20:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Carlos Julio Bonilla.</p>
+						</speech>
+						<speech by="#hr-carlos-julio-bonilla-soto" startTime="2011-11-27T11:20:10">
+							<from>H.R. Carlos Julio Bonilla Soto</from>
+							<p>Muchas gracias, primero saludar esta importante iniciativa y el
+acompañamiento que desde el alto gobierno ha tenido en cabeza del
+equipo que hoy se hace presente, saludar el trabajo de los ponentes
+que me parece que ha sido un trabajo interesante en términos de
+retroalimentar, de mejorar lo que el proyecto como tal pretende; la
+historia de este país se parte en dos, a partir de esta iniciativa, la ola
+invernal le dejo al país una enseñanza muy grande y quizá reconstruir
+ese país y generar este proceso de planificación, de sensibilización, de
+socialización también va a requerir de un tiempo y de mucho más
+tiempo del que muchos creemos, porque este no es un tema de uno o
+dos años.
+Yo no quiero entrar en el tema de lo que ya de manera importante
+José Caicedo menciono, yo simplemente quiero hacer una referencia
+Viceministro y es el país está lleno de mucha normatividad y de muy
+buenas intenciones como en este caso sentimos que es, quienes
+hemos sido alcaldes y gobernadores como el caso del doctor Diego
+Patiño sabemos que en los entes territoriales de orden departamental
+o municipal a veces el proceso de descentralización lo que genera es
+más problemática que solución, desde ese punto de vista mi
+preocupación está en la reglamentación, en la operatividad de este
+tema y yo leí bien el proyecto de ley y hubiese querido intervenir en
+algunos artículos pero entendí que había consenso, que estábamos
+buscando acuerdos y que era posible, pero no sacamos nada con que
+la ley diga en el artículo 41 que los departamentos y los municipios en
+su Plan de Desarrollo, en su Plan de Ordenamiento Territorial crearan
+los fondos y colocaran los recursos cuando uno sabe la gran fragilidad
+de 900 municipios del país que son categorías 6 y 5 o sea que no
+cuentan realmente con una capacidad presupuestal, y el 49 creo que
+habla de los sistemas de información, tema viejo en educación, viejo
+en salud, no ha funcionado en ninguna parte.
+Entonces, mi invitación es a que en ese proceso de reglamentación
+hagamos una apuesta de enamorar a los entes territoriales, mientras
+todos entendamos que esa responsabilidad es propia y que nos
+compete mas allá de las limitaciones presupuestales, pero hagamos
+un esfuerzo porque todo municipio, todo departamento que quiera
+apostar a tener un sistema de información real tenga desde la Nación
+todo ese acompañamiento, o sea todo ese esfuerzo para que esas
+experiencias positivas, exitosas se conviertan en referentes para otros
+sitios del país, porque no va a ser fácil en el país, en el país pensamos
+cuando ya el desastre se ha causado, cuando ya tenemos las
+víctimas, cuando tenemos los daños de vivienda, cuando se han
+dañado puentes, antes no tenemos la sensibilidad.
+Entonces ,yo los invito a que ese proceso de reglamentación podamos
+ayudarlo a construir, que podamos tener incentivos para esos
+municipios, para aquellos que crean los fondos que empiezan a tener
+la conciencia y pueda que parezca maluco e incomodo tenerle que
+ponerle plata a lo que es obligación, pero es que son entes territoriales
+que no tienen la plata suficiente, que no la han tenido nunca y que
+tienen miles de necesidades que suplir para entrar en una discusión
+de la planificación y del esfuerzo de la preinversión.
+Entonces Viceministro mi saludo, mi compromiso desde el inicio como
+lo planteamos y también mi deseo de que en esa parte de
+reglamentación y operatividad podamos jugar un papel importante.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:20:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continué con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-27T11:20:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente para hacerle un recorderis a la Comisión Sexta, que
+estamos invitados mañana a la rueda de negocios para la
+estructuración de proyectos de concesiones que se llevara a cabo en
+el hotel Plaza Tequendama, carrera 10 No. 26-21 salón Monserrate en
+el horario de 9 a.m. a 12 M y esta invitación viene del gerente general
+del INCO Luís Fernando Andrade Moreno.
+Señor Presidente agotado el orden del día.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-27T11:20:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Se levanta la sesión siendo las doce y cuarenta y cinco minutos de la
+tarde (12:45 p.m.) y se cita para el próximo martes.
+JOSE EDILBERTO CAICEDO SASTOQUE    DIEGO ALBERTO NARANJO ESCOBAR
+Presidente                      Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO      JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                        Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

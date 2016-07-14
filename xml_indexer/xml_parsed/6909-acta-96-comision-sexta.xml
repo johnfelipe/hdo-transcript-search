@@ -1,0 +1,1205 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ivan-dario-agudelo" id="hr-ivan-dario-agudelo" showAs="H.R. Ivan Dario Agudelo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-taver-amado" id="hr-didier-alberto-taver-amado" showAs="H.R. Didier Alberto Taver Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-naranjo-escobar" id="hr-diego-naranjo-escobar" showAs="H.R. Diego Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-john-jairo-roldan-avendaño" id="hr-john-jairo-roldan-avendaño" showAs="H.R. John Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-miguel-angel-pinto" id="hr-miguel-angel-pinto" showAs="H.R. Miguel Angel Pinto"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vasquez-villanueva" id="hr-silvio-vasquez-villanueva" showAs="H.R. Silvio Vasquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera-amado" id="hr-didier-tavera-amado" showAs="H.R. Didier Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-rodriguez-pinzon" id="hr-ciro-rodriguez-pinzon" showAs="H.R. Ciro Rodriguez Pinzon"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="6909-acta-96-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2013</heading>
+				<debateSection>
+					<heading>Septiembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 96 / 2013-09-10</heading>
+						<speech by="" startTime="2013-09-10T10:56:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2012 - 2013
+ACTA No 096
+(Bogotá, D.C., 10 de septiembre de 2013)
+A las diez y cincuenta y seis minutos de la mañana (10:56 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Pinto Hernández Miguel Angel
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Con excusa se encuentran los siguientes Honorables Representantes:
+Londoño Jaramillo Juana Carolina
+Quintero Trujillo Jairo</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T10:56:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:56:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Señor Secretario sírvase leer el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T10:56:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013 al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<narrative>DIRECTOR</narrative>
+							<narrative>UNIDAD NACIONAL PARA LA GESTIÓN DEL RIESGO DE
+DESASTRES
+Dr. CARLOS IVAN MARQUEZ PEREZ</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								1. ¿Cuál ha sido el fortalecimiento de los instrumentos de
+coordinación con las entidades territoriales, para efectos de
+proteger los derechos constitucionales de las personas
+afectadas, como primera línea de gestión?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								2. La Ley 1523, en su artículo 1, define la Gestión del Riesgo con
+base en tres pilares fundamentales, el conocimiento y la
+reducción del riesgo y el manejo de desastres. Es importante
+que sobre este último aspecto se precise por parte de la
+UNGRD: ¿Qué políticas, estrategias, planes y programas se han
+implementado para hacer frente en caso de presentarse un
+desastre?.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								3. La gestión del riesgo se constituye en una política indispensable
+para asegurar la sostenibilidad de las regiones ¿Qué programas
+en planificación de desarrollo seguro, gestión ambiental territorial
+sostenible y de participación de la población se han diseñado?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								4. Dentro de los objetivos de la gestión del riesgo se encuentran el
+identificar los escenarios de riesgo, en ese orden de ideas:
+¿Cuáles se identificaron, que clasificación se les dio y qué tipo
+de intervención prospectiva y correctiva han recibido?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								5. Los gobernadores y alcaldes son instancias de dirección del
+Sistema Nacional en sus respectivas jurisdicciones, son
+responsables directos en la planificación, implementación y
+manejo de los procesos de gestión del riesgo, incluyendo el
+conocimiento y la reducción del riesgo, mediante los planes de
+ordenamiento territorial y demás instrumentos de gestión pública.
+¿Qué mecanismos de Control, seguimiento y sanción tiene el
+Sistema Nacional de Gestión del Riesgo para garantizar que
+dichas responsabilidades se adelanten y cumplan con la
+celeridad que el Sistema lo requiere? Tienen conocimiento de
+cuantos municipios han implementado la ley?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<narrative>CÓMO VA EL TEMA DE REGLAMENTACIÓN DE LA LEY 1523
+DE 2012</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								6. El experto en urbanismo Abhas K. Jha resalto en el año 2012, en
+una de sus publicaciones a Colombia como un país ejemplar en
+cuanto a la gestión del riesgo gracias a la gran inversión que se
+hizo para obtener y poner a disposición del público la información
+sobre las zonas más vulnerables a inundaciones ¿Qué zonas se
+han intervenido en la actualidad y que recursos se invirtieron?
+¿Cuáles son las zonas más críticas que han sido intervenidas?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								7. En Junta Directiva número 51 y 53 del 18 de mayo y 7 de julio de
+se aprobaron recursos para los convenios con el Ministerio de
+Agricultura y para el Convenio marco con el Ministerio de
+Educación por casi 17.000 millones de pesos: ¿Hoy que
+porcentaje de ejecución se tiene? ¿Qué medidas se han
+adoptado para evitar que esos dineros públicos sufran
+detrimento?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								8. Dentro de las funciones de la Junta Directiva del Fondo Nacional
+de Gestión del Riesgo se encuentran las de señalar las políticas
+de inversión, velar por la seguridad, adecuado manejo y óptimo
+rendimiento de los recursos. En ese orden de ideas: ¿Qué
+medidas preventivas y correctivas está tomando la Junta
+Directiva para evitar que los indicadores de ejecución sean
+bajos?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								9. Para 2013 y 2014 que políticas, programas y proyectos tiene
+planteado el Gobierno Nacional en los siguientes temas
+asociados con la gestión del riesgo: a) Investigación,
+conocimiento y monitoreo; b) Incorporación del riesgo en la
+planificación; c) Reducción del riesgo con acciones no
+estructurales (alertas tempranas), d) Reducción del riesgo con
+acciones estructurales (obras de reducción del riesgo,
+reubicación de viviendas); e) Educación y participación
+comunitaria en prevención y atención de desastres.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								10. Teniendo en cuenta que el riesgo es un tema transversal,
+qué estrategia de fortalecimiento institucional tiene
+implementado el Gobierno Nacional, para articular las
+competencias de los diferentes ministerios, instituciones y
+entidades en el tema de riesgo en Colombia?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								11. Tiene el Estado un mapa de la situación jurídica de
+demandas y acciones judiciales por desastres o calamidades y
+un monto cuantificado de las mismas.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								12. ¿Existe en la actualidad un censo de predios del Estado?
+Estos se encuentran asegurados? ¿en qué porcentaje?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								13. ¿Qué planes de contingencia tienen para afrontar la nueva
+ola invernal que hoy comienza?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								14. ¿Cuál es la situación actual de riesgo frente a una posible
+erupción del volcán Nevado del Ruiz y qué medidas se han
+tomado al respecto para los 68.000 colombianos damnificados
+por las lluvias desde marzo, que planes de contingencia y
+recursos se han invertido en el departamento del Choco?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<narrative>
+CIRO ANTONIO RODRIGUEZ PINZON</narrative>
+							<narrative>PROPOSICION ADITIVA A LA No. 066</narrative>
+							<narrative>DIRECTOR UNIDAD NACIONAL PARA LA GESTIÓN DEL RIESGO
+DE DESASTRES, Dr. CARLOS IVAN MARQUEZ PEREZ</narrative>
+							<question by="#hr-didier-alberto-tavera-amado">
+								1. Desde el mes de diciembre de 2012 se conoció por el diario
+Vanguardia Liberal del departamento de Santander, que en el
+municipio de Vélez - Santander se presentó una remoción
+natural de tierra en masa que provoco agrietamientos y fallas en
+diferentes zonas del municipio. Desde esa fecha según se
+informó, la alcaldesa municipal viene adelantando gestiones en
+la entidad a su cargo para obtención de recursos y búsqueda de
+soluciones a la comunidad veleña. ¿Qué actuaciones se han
+realizado por su despacho y cuál ha sido el resultado de las
+mismas?
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<question by="#hr-didier-alberto-tavera-amado">
+								2. ¿Existe algún estudio previo o posterior al mes de diciembre de
+del departamento, es decir, que permita identificar cual es el tipo
+de falla y cuál es la solución actual y a futuro para los habitantes
+del municipio de Vélez?
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<question by="#hr-didier-alberto-tavera-amado">
+								3. ¿De acuerdo con las actuaciones adelantadas por su despacho
+a la fecha, que cantidad de recursos financieros se estima,
+requiere esta zona del departamento de Santander, y cuales
+entidades tanto del orden nacional, como departamental, deben
+estar involucradas para que se lleve a feliz término las acciones
+a tomar para evitar un desastre natural y humano en el municipio
+de Vélez - Santander?
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<question by="#hr-didier-alberto-tavera-amado">
+								4. ¿Qué información se tiene en la Unidad a su cargo sobre la
+misma situación de remoción en masa y agrietamientos en
+viviendas por fallas naturales en el municipio de Jordán -
+Santander?
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<question by="#hr-didier-alberto-tavera-amado">
+								5. ¿Se tiene información oficial en su Unidad sobre otras zonas de
+Santander que presenten problemas de fallas naturales con alto
+riesgo de afectaciones? ¿Qué acciones se tomarán al respecto?
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<question by="#hr-didier-alberto-tavera-amado">
+								6. Sírvase informarnos que presupuesto se asignó y se ha
+ejecutado a la fecha dentro de la Unidad a su cargo por las
+vigencias 2012 y 2013 para atender al departamento de
+Santander, especificando de ser posible las zonas objeto.
+								<from>H.R. Didier Alberto Tavera Amado</from>
+							</question>
+							<narrative>PROPOSICION ADITIVA A LA No. 066</narrative>
+							<narrative>DIRECTOR UNIDAD NACIONAL PARA LA GESTIÓN
+DEL RIESGO DE DESASTRES
+Dr. CARLOS IVAN MARQUEZ PEREZ
+El pasado 19 de marzo se presentó una avalancha con graves
+consecuencias para la comunidad del municipio de Santa María en el
+departamento del Huila, lo que obligó la solidaridad de los estamentos
+privados y públicos entre ellos su desplazamiento en los días
+subsiguientes a este municipio donde anunció solidaridad por 3.000
+millones de pesos para obras de inversión y también ayuda en
+elementos materiales y maquinaria.</narrative>
+							<question by="#hr-silvio-vasquez-villanueva">
+								1. ¿A cuánto ascienden los recursos tanto en inversión como en
+elementos que ha hecho el Gobierno Nacional por intermedio de la
+oficina a su cargo?
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								2. ¿En cuanto a los recursos de inversión cuál ha sido la
+metodología aplicada?
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								3. ¿Cuánto dinero a la fecha se ha invertido y cómo se ha hecho
+esta inversión, y quién la ha ejecutado?
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								4. ¿Cuánto falta por ejecutar de los dineros mencionados y en
+cuánto tiempo se hará la inversión?
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								5. Relacione las obras ejecutadas o en ejecución en el municipio de
+Santa María Huila, por intermedio de la Unidad Humanitaria de
+Gestión del Riesgo a su cargo.
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								6. Relacione los elementos y demás participación remitida a la
+comunidad damnificada del municipio de Santa María después
+del desastre del 19 de marzo de este año, quién ha recibido
+estas ayudas y cómo se han distribuido las mismas, (anexar
+relación de personas atendidas, discriminando la clase de ayuda
+recibida).
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<question by="#hr-silvio-vasquez-villanueva">
+								7. De igual manera la participación humanitaria y de inversión de la
+Unidad Administrativa de Gestión de Riesgo en las emergencia
+de los municipios de Isnos, San Luis, Neiva, Acevedo y Suaza.
+Enviar relación de ayuda humanitaria e inversión.
+								<from>H.R. Silvio Vasquez Villanueva</from>
+							</question>
+							<narrative>DIRECTORA FONDO DE ADAPTACIÓN
+Dra. CARMEN AREVALO CORREA
+1. Cuadro comparativo de ola invernal 2010 - 2011 - 2012,
+Departamentos afectados, municipios afectados, proyecto en
+cada municipio y monto, estado actual del proyecto, ejecutado,
+en ejecución o liquidado, número de personas afectadas,
+número de personas fallecidas.</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								2. ¿Cuántos contratos ha celebrado la Unidad Nacional para la
+Gestión de Riesgo desde 2012 a la fecha? ¿Por qué monto?
+¿Cuántos de estos se han ejecutado y cuántos liquidado?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								3. Para los 68.000 colombianos damnificados por las lluvias desde
+marzo, ¿qué planes de contingencia y recursos se han invertido
+en el departamento del Choco?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								4. Qué planes de contingencia tienen para afrontar la nueva ola
+invernal que hoy comienza.
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								5. Si bien es cierto debe atenderse proyectos de impacto en
+regiones críticas, no menos cierto es que existen pequeñas
+obras de prevención del riesgo que de no atenderse
+oportunamente podrían generar problemas mayores y aumentar
+el monto a impactar. Las entidades territoriales presentaron
+durante el período 2010 - 2011 una serie de pequeños
+proyectos en prevención y mitigación del riesgo, de estos:
+¿cuántos fueron atendidos y a qué porcentaje equivale?
+¿Cuantos están pendientes por atender y cuál es el monto total?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+							<narrative>
+CIRO ANTONIO RODRIGUEZ PINZON</narrative>
+							<narrative>DIRECTOR</narrative>
+							<narrative>INSTITUTO DE HIDROLOGIA, METEOROLOGIA Y ESTUDIOS
+AMBIENTALES- IDEAM Dr. OMAR FRANCO TORRES</narrative>
+							<question by="#hr-juana-carolina-londoño-jaramillo">
+								1. En su función de generar conocimiento, producir y suministrar
+datos e información ambiental, ¿Qué pronósticos tienen sobre
+las condiciones hidrometeoro- lógicas ante una nueva ola
+invernal?
+								<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2013-09-10T10:56:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día Martes 10 de septiembre de 2013
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Citación a Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en
+concordancia con el artículo 233 de la ley 5ª. de 1992 y en desarrollo
+de:</p>
+						</speech>
+						<speech by="" startTime="2013-09-10T10:56:50">
+							<from>OTROS</from>
+							<p>PROPOSICIÓN N° 066 Y ADITIVAS
+(Bogotá, D.C., 4 de junio de 2013)
+Cítese a debate de Control Político al, Director de la Unidad Nacional
+para la Gestión del Riesgo de Desastres, doctor CARLOS IVÁN
+MÁRQUEZ PÉREZ, a la, Directora del Fondo de Adaptación, doctora
+CARMEN ARÉVALO y al, Director del IDEAM, doctor OMAR
+FRANCO TORRES, para que absuelvan los cuestionarios adjuntos
+sobre: “La mitigación y resultados de la ola invernal”.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T10:57:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA
+Secretario Subsecretario
+Señor Presidente antes de someter el orden del día leído por
+Secretario me permito informarle que la doctora Carmen Arévalo nos
+está acompañando desde hace rato, lo mismo el, director de IDEAM
+Omar Franco Torres y quedo aquí acompañándolo la doctora
+subdirectora de IDEAM, y hay una excusa del doctor Carlos Iván
+Márquez Pérez, proceda señor Presidente a aprobar el orden del día.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:57:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se somete a consideración el orden del día para posteriormente dar
+lectura a la excusa, se abre la discusión, aviso que va a cerrarse,
+aprueban.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T10:57:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:57:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Antes de continuar con el orden del día, señor Secretario favor leer la
+excusa presentada.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T10:57:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Bogotá, D.C.
+6 de septiembre de 2013
+Consecutivo 8288
+Doctor
+JAIRO ORTEGA SAMBONI
+Presidente Comisión Sexta Constitucional
+Cámara de Representantes
+Asunto: proposición 066 de junio de 2013.
+Respetado
+Señor Presidente
+Con oficio de fecha 5 de septiembre del 2013, remitido por correo
+electrónico a través de la, Secretaria General de la Comisión, se me
+comunico la reprogramación de la citación que se me hiciera para
+responder ante la célula legislativa sobre política estratégica, planes y
+programas frente a la emergencia de la ola invernal. En la
+comunicación referida se me informa que la citación se había fijado
+para la sesión del día 10 de septiembre de 2013, sin embargo
+honorable, Presidente debo manifestarle que para la fecha no me es
+posible asistir, en consideración que para la fecha debo asistir a la
+ciudad de Manizales para cumplir compromisos adquiridos con
+anterioridad con el señor Gobernador, Julián Gonzales Botero. Espero
+sepa comprender esta situación.
+De los Honorable Representantes,
+Cordialmente firmado;
+CARLOS IVAN MARQUEZ PEREZ.
+DIRECTOR NACIONAL UNIDAD NACIONAL PARA LA GESTION
+DEL RIESGO DE DESASTRES.
+Leída la excusa señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:57:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Secretario, se ha puesto en consideración la excusa del
+doctor CARLOS IVAN MARQUEZ PEREZ,, Director Nacional Unidad
+Nacional Para la Gestión del Riesgo de Desastres.
+Yo si quiero decir unas palabras compañeros, yo creo que es la
+tercera, bueno agradecer la presencia de la doctora Carmen Arévalo,
+muchas gracias y del, director del IDEAM Omar Franco, pero de verdad
+que debíamos de ser, ahora si yo creo que se ha rebosado la tasa
+compañeros, no dejemos de tomar una decisión frente a esta excusa,
+yo no creo que sea más importante ir a posesionar al gobernador
+Julián González Botero, del partido de la U que acaba de ser elegido,
+que venir a atender una citación que la hemos aplazado cada 8 días,
+yo no creo, si ustedes lo consideran así no hay ningún problema,
+seguiremos.
+Yo creo que unas 4 o 5 veces más aplazando el debate hasta que el
+venga, yo creo que merecemos si bien es cierto, ahora 8 días parece
+ser que vino, pero no vino, mando a alguien pero que estaba
+pendiente, no hubo pero hoy el sabia que inmediatamente se prorrogo
+para hoy, y hoy manda una excusa, que tenía una cita con el
+gobernador de Manizales, de Caldas, Julián Gonzales de mi partido,
+yo no creo, yo no sé si estaré exagerando, Vicepresidente Didier,
+verdad lo dejo en consideración, no dejemos pasar en alto, digamos
+algo, si o no, valedera la excusa, listo no hay problema, que no se ha
+conformado el quórum porque se acabaron de retirar dos compañeros,
+pero señor Subsecretario Jaime volvamos a llamar a los compañeros
+mientras tomamos una decisión, sino levantemos la sesión y sigamos
+con el debate de mañana, porque yo si les digo, como Presidente y
+ojala me apoye Vicepresidente y ustedes, yo no programo ningún
+debate a un proyecto de ley hasta que seamos respetados por estos
+funcionarios, no por todos, porque aquí ha venido la doctora Carmen,
+muy puntual, muy juiciosa, y los ministros han sido muy puntuales,
+pero hay dos o tres funcionarios que no, que no les gusta venir aquí,
+no sé que pasara, ya le mando un mensaje al gobierno a través de
+esta Presidencia y que no se programa ningún proyecto hasta que
+obligue a sus funcionarios a venir, vayan a ver si en Senado les hacen
+esto, allá no lo hacen, allá corren, saben que los martes o los
+miércoles deben estar disponibles para cualquier citación o sugerencia
+del Congreso, ellos lo saben, si, a no ser que allá en Manizales o
+Caldas allá un desastre de tal magnitud que él tenga que haberse ido,
+ahí, ojala que no, ojala que no hayan desastres en Manizales, ojala
+viniera Juanita y Jairo Quintero que son los de allá, que nos diga, que
+es allá que esta una ola invernal grandísima o ha habido un terremoto,
+no sé que abra habido allá para que el vaya, yo no tengo conocimiento
+hasta esta mañana que estaba leyendo la prensa o estaba
+escuchando noticias. Pero yo lo dejo allí, ustedes dirán, yo por lo
+menos no acepto esa excusa, tiene la palabra el Representante Miguel
+Ángel Pinto.</p>
+						</speech>
+						<speech by="#hr-miguel-angel-pinto" startTime="2013-09-10T10:58:00">
+							<from>H.R. Miguel Angel Pinto</from>
+							<p>Gracias Presidente, muy buenos días, saludar también a la doctora
+Carmen que se encuentra aquí presente, que ha estado muy diligente
+durante todas estas semanas y precisamente es reiterar hoy lo que ya
+habíamos, ese tema ya lo habíamos discutido aquí en varias
+oportunidades y especialmente en lo que acontece con este señor en
+estas excusas de manera permanente, hace exactamente 15 días
+tuvimos una excusa similar y aquí propusimos no aceptar, no aceptarle
+la excusa y darle cumplimiento al Reglamento nuestro del Congreso,
+incluso aquí habían algunos Parlamentarios que trataron de excusar
+en ese momento la no presencia de ese señor y se sometió una
+votación donde quedamos 8, 5 y no se aceptó la excusa de este
+funcionario, yo creo que hoy si vamos a someter a votación la
+propuesta yo no creo que haya alguno que se vaya a oponer es que
+ya no tiene ningún criterio de excusar a una persona de estas y
+máxime cuando lo dice en el escrito, es que se va a reunir con un
+gobernador, cuando de por Dios los gobernadores se lo pasan aquí
+en Bogotá, los gobernadores son los que vienen aquí a gestionar los
+proyectos frente a los diferentes autoridades nacionales, su
+permanencia está prácticamente acá, los gobernadores es muy poco
+lo que tienen que hacer en sus departamentos porque ni recursos
+tienen, tienen que venir a jalonar los proyectos es aquí; y que ahora
+nos salgan con la excusa de que se tienen que ir allá, con un
+gobernador recién electo, pareciera que tiene que ir a revisar el
+gabinete o estuvieran mirando otro tipo de cosas y eso lo que
+demuestra es que no se le está respetando a esta Comisión y les
+importa cinco centavos los debates que aquí se hacen y comparto su
+apreciación señor Presidente.
+Yo creo que para nosotros es tan importante los debates que
+hacemos, como el trámite de los proyectos de ley, son dos cosas que
+van de la mano y que son fundamentales para cada una de las
+Comisiones y para el Congreso de la República, y si los funcionarios
+del Gobierno Nacional, como este señor no le interesa venir a asistir a
+esta Comisión a un debate señor Presidente que le oficiemos al
+Presidente de la República que es su jefe inmediato, informándole
+esta situación, y esta Comisión yo también estoy de acuerdo en que si
+a la par los funcionarios del Gobierno no acatan las invitaciones y las
+citaciones de esta Comisión a los debates, nosotros paremos el
+trámite de todos los proyectos de ley que están en trámite en esta
+Comisión y demostremos también que si no hay interés de ellos hacia
+la Comisión, nosotros tampoco vamos a tener interés en este trámite.
+Por supuesto que hay funcionarios que no entran en esta bolsa, la
+semana pasada lo decíamos, es que a mí me parece ilógico que los
+funcionarios más importantes del Gobierno, que los ministros asistan
+cumplidamente aquí a los debates, incluso nos acompañaban a los
+debates descentralizados que hacemos en nuestras diferentes
+regiones y vayan con todo el equipo político del ministerio a
+acompañar a las provincias, a acompañar a los diferentes sectores en
+este tipo de debates y que estos funcionarios y hay dos o tres más que
+también se han excusado en la misma situación, no tengan siquiera el
+respeto de venir a presentarse a esta Comisión a una citación, entre
+otras cosas que es para responderle a la comunidad por muchos de
+las solicitudes que la gente quiere oírles plantear ese tema.
+Entonces, señor Presidente yo estoy de acuerdo que sometamos la
+proposición de aceptación o no de la excusa, yo desde ya anuncio que
+mi voto va a ser negativo de no aceptar la excusa y que
+inmediatamente también se proceda a compulsar las copias a las
+autoridades respectivas para que se adelanten las investigaciones
+pertinentes con lo que tiene que ver con este funcionario, y yo espero
+que en la Comisión esta vez sí haya unanimidad, yo creo que esta vez
+no hay ningún argumento para que alguno tenga que decir que le
+vamos a aceptar una excusa y menos una excusa tan simple como la
+que se está presentando en la mañana de hoy. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:58:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Sigue la discusión, sobre si se acepta o no la excusa del doctor Carlos
+Iván Márquez, que manifiesta que debo manifestarle que para la fecha
+no me es posible asistir en consideración que para la fecha debo
+asistir a la ciudad de Manizales para cumplir compromisos adquiridos
+con anterioridad con el señor gobernador Julián Gonzales Botero,
+sigue la discusión, tiene la palabra el Representante José Caicedo.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2013-09-10T10:58:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Gracias Presidente, pues por supuesto que estoy plenamente de
+acuerdo en lo que dice el Representante Pinto con respecto a que las
+citaciones son para cumplirlas desde luego, no, y todos hemos en ese
+sentido coincidido en que hay que hacer respetar la Comisión, y estoy
+pues de acuerdo en esa decisión, no obstante tengo entendido y yo
+lamentablemente no pude asistir tampoco hace 8 días a la Comisión,
+pero tengo entendido que estuvo el doctor Carlos Iván Márquez, pero
+finalmente no hubo quórum y no hubo sesión, entonces ahí también
+hay que establecer esa posición y ponerla sobre la mesa porque pues
+es entendible que se tienen agendas y que hay que cumplir la agenda
+del Congreso, pero pues si uno entiende que si estaba prevista una
+visita a un gobernador es decir podría estar presentando nuevamente
+una justificación valida, no, no sé el fondo de esa decisión, si era una
+cosa ya con mucha antelación o es sencillamente que apareció en
+esta semana y para no venir acá el funcionario creó esa agenda pues
+para irse para Caldas, no, pero quiero poner eso sobre la mesa porque
+también hay que tener en cuenta que él vino hace 8 días y finalmente
+no hubo sesión, no, Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:58:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Pinto.</p>
+						</speech>
+						<speech by="#hr-miguel-angel-pinto" startTime="2013-09-10T10:58:40">
+							<from>H.R. Miguel Angel Pinto</from>
+							<p>Presidente muchas gracias. Yo solamente para aclarar dos punticos
+aquí con el Representante Caicedo, la semana pasada nosotros
+estuvimos acá y el informe que nosotros tenemos es que ese
+funcionario no estuvo presente aquí en esta Comisión, estaba aquí al
+lado, estuvo esperando pero no estuvo aquí presente; segundo, esta
+es la tercera o cuarta excusa que presenta este funcionario para no
+venir; y la tercera razón, es que la citación que tiene hoy o la reunión
+que tiene hoy con el gobernador, es un gobernador que lleva dos días
+de posesionado, o sea, cual antelación puede existir en una cita previa
+con un gobernador que apenas se está posesionando, que acaba de
+ser elegido, y se posesiono la semana pasada como gobernador del
+departamento de Caldas, luego aquí no había ninguna cita con
+anterioridad a menos que la hubieran cuadrado desde que era el
+candidato si estaban en campaña.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:58:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Si yo lo dije, él fue a posesionar a mi gobernador del partido de la U,
+además Representante José, de lo que tengo entendido, los
+funcionarios, los altos funcionarios del Gobierno Nacional, por
+disposición de la Presidencia los martes y los miércoles están para
+atender inquietudes del Congreso, las citaciones, para las citas, todo
+eso, lo que tenga que ver y esta se viene programando cada 8 días, ya
+viene Arias, para someter a consideración la excusa, entonces
+mientras tanto, mientras se conforma el quórum decisorio, continúenos
+con el orden del día, que hay unas proposiciones, tiene la palabra el
+doctor Didier.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2013-09-10T10:59:00">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Gracias señor Presidente. Con un saludo cordial a la doctora Carmen
+Arévalo que siempre nos acompaña juiciosa y que además para el
+departamento de Santander nos tiene buenas noticias frente al tema
+de la estructuración de las vías que están necesitando en el
+departamento de Santander.
+Aquí se encuentra el doctor Benjamín obviamente que es un gran
+funcionario de la Dirección Nacional de Gestión Del Riesgo, pero aquí
+tenemos que reconocer el trabajo del doctor Carlos Iván Márquez en el
+país, en Santander especialmente, una provincia como la veleña; pero
+también tenemos que hacer, honrar y respetar la Comisión Sexta
+Constitucional, yo difiero mucho de las palabras del doctor José
+Caicedo, si bien es cierto el señor se ha excusado 3 veces, y el martes
+se hizo presente, yo tampoco tengo constancia de que si haya venido,
+me dice de que había un funcionario diciendo, está pendiente de
+llegar, pero que en la Comisión nunca llego, entonces no fue cierto de
+que se hubiera presentado aquí en la Comisión, y doctor Caicedo, el
+hecho de que la Comisión no se hubiera podido reunir, él hubiera
+estado aquí hoy, o sea, no podemos excusar de que porque no hubo
+hace 8 días no hubo, de 4 citaciones que haya habido, él no tiene
+porque excusarse hoy de no estar aquí so pena de una excusa
+diciendo que va a estar con un gobernador, diferente fuera si hubiera
+una calamidad, una catástrofe, cual es su función, pero yo pienso que
+la Comisión Sexta si necesita respeto, yo reconozco el trabajo del
+doctor Carlos Iván Márquez, a Santander le ha ido bien con la gestión,
+con la diligencia de él, de hecho precisamente en el cuestionario que
+yo presenté, es para ver como mas, cuando el hombre es capaz, es
+que hay que exigirle y como es buen funcionario tenemos que exigirle.
+Pero aquí también ya la Comisión Sexta no puede permitir que excusa
+tras excusa siga siendo ya hoy porque ya hoy lo que nos estamos
+sintiendo en la Comisión es burlados, aquí los que estamos y además
+es que esto no es que burlen a los Representantes aquí de la
+Comisión Sexta, es que están burlando al constituyente primario, a los
+colombianos y en el caso particular a los santandereanos que nos
+eligen para que nosotros les trasmitamos un mensaje allí a estos
+constituyentes primarios que vienen para que nosotros a través de esa
+representación, y aquí que llega el doctor Yepes también que nos
+respalda en esa posición, no podemos seguir permitiendo que estas
+células legislativas simplemente tenga respuestas a través de papeles
+diciendo, excusas inaceptables como que una cita con un gobernador,
+está bien una citación con antelación.
+Así es que señor Presidente nosotros lo respaldamos en la petición
+que usted ha hecho de que no sea aceptada, pero que también aquí
+no quede simplemente en la no aceptación, sino que realmente
+veamos cuales son las consecuencias que traen a la inasistencia a
+esta célula legislativa. Muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:59:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Si Representante Didier, yo creo que ya se conformo el quórum
+decisorio, sometamos a consideración la aceptación o no de la
+excusa del doctor Carlos Iván Márquez, solamente él le podrá decir a
+las autoridades de control disciplinario en mi criterio que allá había una
+gestión más importante que venir aquí a la Comisión Sexta y eso será
+tenido en cuenta por ellos, pero al menos en mi caso no la acepto,
+porque ahí no dice que hubo un desastre y que le tocaba ir a cumplir
+una gestión importantísima en nombre del Gobierno Nacional yo creo
+que no es una excusa. Tiene la palabra el Representante John Jairo
+Roldán.</p>
+						</speech>
+						<speech by="#hr-john-jairo-roldan-avendaño" startTime="2013-09-10T10:59:20">
+							<from>H.R. John Jairo Roldan Avendaño</from>
+							<p>Gracias Presidente, un saludo a los compañeros de la Comisión
+Sexta y todos los presentes, a la doctora Carmen Arévalo, a la doctora
+del IDEAM, al doctor Benjamín que está aquí como escudero del
+doctor Márquez, yo quisiera Presidente que el señor Secretario me
+informará, yo no tengo el conocimiento cualquiera de los compañeros
+después de no aceptada la excusa del funcionario que pasa, porque
+es que hay una cosa totalmente clara, si el funcionario se excusa legal
+y debidamente , la excusa procede? Es que hoy él está allá haciendo
+una cosa o haciendo la otra, yo no sé si el organismo del control en
+este caso la Procuraduría tiene una escala de importancia para que
+mañana la persona que esté llevando este proceso disciplinario diga:
+“no es que según este articulo hay una escala de importancia, es más,
+era más importante la asistencia a la Comisión Sexta Constitucional,
+que la asistencia a la reunión con el gobernador” si eso está contenido
+en alguna ley, en alguna norma Presidente, vale la pena, pero si la
+norma simplemente establece que si el funcionario se excusa
+debidamente como lo ha hecho aquí un funcionario y como está
+pasando en el día de hoy, la no aceptación y mi voto va encaminado
+en ese sentido, la no aceptación de la excusa, me perdona Presidente
+que no lo diga , es un saludo a la bandera, por una razón muy sencilla,
+porque no va a proceder una investigación disciplinaria, procedería en
+que caso, cuando se le demuestre al funcionario que él dijo que iba en
+este caso para la ciudad de Manizales, y esté en la casa o este en
+Cartagena de vacaciones, pero si el funcionario está en la fecha, hora
+y lugar que establece la excusa, esto va a ser una citación que se le
+va a hacer al funcionario en la Procuraduría, pero va a ser una citación
+de 5 minutos porque me imagino que en este caso Benjamín que es
+un buen, gran funcionario como lo dice nuestro Vicepresidente, pues le
+va a decir al doctor Márquez que mande el video, que se tome mas
+fotos de las acostumbradas y que adicional se traiga una certificación
+del gobernador y que la cámara debe ser con fecha y hora, que no
+sirve cámara de celular porque debe ser con fecha y hora y esta como
+lo llamamos nosotros comúnmente Presidente, esta subida de escalas
+de este funcionario va a demorar 5 minutos, porque él va a hacer sus
+descargos y el fallador no va a tener otro camino que cerrarle esa
+denuncia, o ese proceso que fue aperturado a solicitud de la Comisión
+Sexta, esa sería la forma.
+¿Cuál es el fondo Presidente?, la situación de la Comisión, usted
+propone de que no se le dé tramite a procesos pues de importancia
+hasta que proyectos de ley de origen del Gobierno hasta que no se
+define esta, o parlamentario, cualquier tipo de proyecto de ley hasta
+que no se defina la situación de este funcionario, pues yo comparto
+también esa posición Presidente, pero tampoco comparto que esta
+Comisión se pare porque un funcionario, yo no tengo muy claro el
+rango del doctor Márquez, creo que es un funcionarios de segunda
+categoría, es de segunda categoría, pues en la pirámide, pues
+nosotros tenemos, es más, perdón yo creo que es hasta de tercera
+categoría, porque es el señor Presidente que es el funcionario que
+este en la cúspide, son los señores Ministros, no sé si es el mismo
+sueldo doctor Benjamín, no es el mismo sueldo, por allí me dice con
+una gestión que es tal el doctor Benjamín entonces es un funcionario
+de tercera categoría, entonces también quedamos nosotros muy mal
+parados si vamos a parar esta Comisión porque un funcionario de
+tercera categoría no viene aquí a dar un informe cierto, yo estoy
+totalmente de acuerdo Presidente, voy a votar la no aceptación de la
+excusa del doctor Márquez, lo apoyo a usted, porque usted como
+Mesa Directiva en cabeza suya Presidente y nuestro Vicepresidente,
+el compañero Didier esta orientar esta Comisión.
+Pero el fondo es que, entonces para donde vamos y si el doctor
+Márquez que es un funcionario de tercera categoría y aspiro doctor
+Benjamín y los amigos que visitan constantemente la Gestión del
+Riesgo pues le lleven el mensaje correctamente, yo le estoy diciendo
+al doctor Márquez, funcionario de tercera categoría porque esa fue
+decisión del Presidente, no mía, de pronto hubiera sido de segunda,
+hace cuando fue, tres días, la semana pasada, hubiera sido de
+segunda, pero hoy el Presidente ha decidido que el doctor Márquez
+sea de tercera categoría. Entonces yo si dejo eso muy claro también
+Presidente que de pronto no somos, de pronto ahí corresponsales en
+este tema Didier tiene razón, nosotros traemos unas inquietudes en
+representación de Santander, de Antioquia, de Santander del Norte,
+de Caldas, de Pereira con el doctor Márquez, pero entonces de pronto
+es irnos y cuando el doctor Márquez decida que nos avise porque ese
+va a ser el parámetro de la asistencia a la Comisión cierto.
+Que yo le recomiendo Benjamín, que pena que lo haya hecho como
+tan famoso, usted que estaba por allá en ese rinconcito claro que más
+famoso lo hizo Didier cuando lo elevo a gran funcionario, llévese los
+datos de nosotros, todo para que nos haga las funciones del doctor
+Fernel y que el doctor Márquez nos diga cuando venimos a la
+Comisión, me perdona Presidente pero usted sabe que yo he
+analizado es el fondo, el fondo y esperemos lo que nos va a pasar con
+el doctor Santiago Castro, y a los funcionarios y entonces nos
+movemos en dos extremos, tenemos que felicitar los funcionarios que
+cumplen con su deber porque aquí nos demoramos un tiempo
+importante felicitando los funcionarios que cumplen con su deber y nos
+desgastamos otro tiempo muy importante criticando a los funcionarios
+que no cumplen con su deber.
+Ese era mi aporte Presidente, pero mi voto va a ser negativo a la
+excusa del doctor Márquez y de verdad que es el fondo, yo le insisto
+Presidente, es el fondo, y adicional, no en su presidencia, yo tuve la
+oportunidad de ser vicepresidente el periodo anterior y yo creo que es
+desde el mismísimo 20 de julio del 2010 señor Presidente. Muchas
+gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:59:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Si Representante, antes de darle la palabra al Representante Diego
+Naranjo, para votar, que vino, hace presencia el Representante Wilson
+Gómez, Ciro Rodríguez, Jaime Yepes y Guillermo Barrera, las
+consecuencias, nosotros aquí, pienso yo perdón, es votar si le
+aceptamos o no y se corre traslado a los órganos de control, él allá
+vera a los órganos de control, si se lo valen o no le valen, que era más
+importante venir a esta comisión, porque dentro de sus funciones es
+atender las citaciones que le hace el Congreso de la República, aquí
+debe estar; allá valoraran si era más importante irse a hablar con el
+gobernador a posesionarlo, que venir aquí a no ser que fuera por un
+desastre como lo dijo Didier de ir allá a Manizales, entonces se somete
+a consideración la excusa o no del doctor Carlos Iván Márquez, se
+abre, está en discusión, tiene la palabra Diego que me ha pedido y
+después Ciro que acaba de llegar.</p>
+						</speech>
+						<speech by="#hr-diego-naranjo-escobar" startTime="2013-09-10T10:59:40">
+							<from>H.R. Diego Naranjo Escobar</from>
+							<p>Gracias señor Presidente. No básicamente es lo que decía John Jairo,
+John Jairo, yo pienso que aquí no puede haber categorías
+dependiendo a lo que se tenga que venir a la Comisión, porque es que
+el doctor Carlos Iván Márquez cuando haya que votar el proyecto de
+gestión de riesgo se venía aquí desde las 7 de la mañana y lo
+llamaban a uno y lo buscaban y donde lo veían a uno lo atajaban,
+“camine pues lo necesitamos allá” y le mandaban a uno pues razones
+y que venga desayune, y como quiere el huevo, la carne, como quiere
+pues todo cierto, porque había que votar un proyecto importante para
+el país, entonces él ahí si se acordaba que eso era de trascendencia
+nacional; entonces también es importante venir a los debates de
+control político de igual manera, es la misma categoría diría yo.
+Pero aquí lo que está demostrado señor Presidente es que la
+Comisión Sexta es muy útil en la medida que pueda sacar avante
+proyectos de ley que el gobierno casi siempre trae con mensaje de
+urgencia, que ese es otro argumento, es mensaje de urgencia
+entonces a uno lo bajan del avión y lo están esperando para que
+venga para acá porque es mensaje de urgencia, entonces también es
+mensaje de urgencia las citaciones, porque es que aquí es la
+responsabilidad del doctor Márquez, no es ni siquiera con nosotros,
+aquí lo que está esperando es el país, como han evolucionado las
+inversiones en la reparación de la atención de la emergencia invernal
+que ha vivido el país, aquí lo que estamos esperando es cuál es la
+planeación y cuál es el presupuesto y cuál es la prevención que se
+está haciendo cuando se está acercando una ola invernal
+nuevamente, entonces que es lo que pasa, que cada que lo invitamos
+estamos en emergencia invernal, entonces eso demuestra que él
+viene cada año, porque viene cuando la emergencia para aprobar el
+proyecto de los recursos y después vuelve a decirnos otra vez que es
+que hay otra emergencia y durante el tiempo de la ejecución de las
+emergencias difícilmente uno lo puede encontrar aquí en la Comisión
+para que los ciudadanos, los alcaldes, los gobernadores y los
+habitantes de los territorios nuestros que son los que sufren
+directamente pues puedan tener conocimiento de porque las obras
+hay algunas que están atrasadas, hay algunas que no se ejecutan,
+porque otras van bien, pero sobre todo, que le contemos a los
+colombianos que el país no puede seguir que es una preocupación
+que yo permanentemente he manifestado aquí Presidente, el país no
+puede estar es atendiendo emergencias siempre, cual es la política de
+prevención de la emergencia, cual es la política de implementar
+políticas que nos permitan que las mismas emergencias no vuelvan a
+ocurrir año a año.
+Entonces, me parece que en ese orden de ideas doctor Jonh Jairo,
+pues la categoría de los empleos y algunas cosas, pero la categoría
+de la labor me parece que debe ser siempre la misma, igual de
+importante porque aquí estamos atendiendo. Con respecto a lo que
+decían la semana pasada, yo venía pues un poco retardado para la
+Comisión y pensé que él señor estaba aquí porque me dijeron que ya
+estaba aquí, me lo encontré fue en la cafetería OMA aquí de la calle
+afuera tomando tinto, yo no sé que estaba atendiendo allá, otras
+diligencias y cuando yo llegué a la Comisión me dijeron, “no es que en
+la Comisión no había quórum”, no había quórum era porque el señor
+no estaba aquí, o sea, de pronto de alguna manera el señor no estuvo
+aquí, no sé si alcance a venir hasta aquí, pero si lo vi y entonces me
+dio un poquito de tranquilidad porque dije bueno voy a llegar a tiempo
+porque el señor no ha llegado a la Comisión pero estaba era tomando
+tinto era allá en el OMA de la esquina, de pronto atendiendo asuntos
+importantes también.
+Pero queda demostrado señor Presidente y aquí hay que decirlo con
+mucha continuidad, la Comisión no se importante y yo lamento porque
+usted tiene la muy buena intención y desde el, Presidente de la
+Cámara se ha dicho que se van a hacer este año, se van a hacer
+debates de control político y nosotros de verdad no hemos podido
+hacer ni uno con la buena intención de todos y la mesa directiva y
+pues no lo hemos podido hacer, no porque los Congresistas no
+podamos, entonces si citamos a los funcionarios, si no los citamos es
+que el Congreso no hace control político, cuando los citamos los
+funcionarios no vienen y entonces que le aceptemos la excusa porque
+no vienen, a mi me parece que hay que nuevamente votar una excusa
+seguramente no servirá de mucho pero por lo menos que quede la
+constancia de que la Comisión no acepta ese tipo de excusas tan
+continuas, y seguramente a los entes de control definirán si el señor
+actuó bien o no, o actuó mal, pero si es hombre entonces para
+evitarles ese problema no volvamos a hacer debates de control político
+para que ellos no tengan que tener esas preocupaciones y que les
+tengan que mover las agendas, que pena con ellos, citándolos y
+moviéndoles las agendas, no pues muy complicado, pues nosotros
+hagamos la labor aquí que nos corresponde.
+Pero si yo le pediría señor Presidente que usted a nombre de la
+Comisión aparte de votar la excusa, me parece que se le debe enviar
+un oficio a los funcionarios que no han venido y en este caso al doctor
+Márquez donde reprobamos de manera muy respetuosa pero muy
+enérgica, que el piense que la Comisión solamente es importante para
+aprobarle los proyectos para él conseguir las partidas presupuestales
+necesarias y salir a ejecutar para que él pueda hacer la labor bien,
+porque es que lo que él hace lo ha podido hacer porque este
+Congreso y esta Comisión le aprobó el proyecto de ley de gestión de
+riesgo, entonces si ya no somos importantes entonces digámosle que
+lamentamos mucho pues tenerlo que estar molestando tanto y
+cruzándole esas agendas y que cuando él considere pertinente se
+pegue una pasadita por aquí a ver si nos cuenta cualquier cosa que le
+podamos preguntar.
+Pero me parece que la comisión no se debe seguir desgastando
+Presidente, citando aquí a funcionarios que no vienen y los que vienen
+pues les toca lamentablemente soportar la incomodidad nuestra y
+soportar que se estén toda la mañana aquí y no se pueda dar el
+debate, pero aquí pues lamentamos y nos excusamos con los
+funcionarios que vienen pero si hay que ponerle orden y disciplina al
+tema señor Presidente y en ese orden de ideas pediría que se le
+enviara un oficio muy enérgico al, director de desastres para que
+entienda que es que aquí lo necesitamos no para pedirle favores, ni
+para pedirle nada, sino para que nos explique ¿qué es lo que está
+pasando en el país?, y ¿que se está haciendo en el país? y como está
+avanzando el país y que esta previendo el país, para lo que se le
+viene, porque viene la época invernal nuevamente y hay obras que
+hay que decirlo, no han podido ser adjudicadas o ha habido obras que
+están inconclusas, o hay obras que ni siquiera han sido tenidas en
+cuenta para ser intervenidas.
+Entonces en ese orden del ideas, también manifestar que voy a votar
+la excusa negativa y que estaremos aquí Presidente acompañándolo
+a usted siempre y a su Mesa Directiva en este oficio, con el ánimo de
+solidarizarnos con la buena voluntad que ustedes tienen, pero también
+entonces que la Comisión entienda que pues hoy no somos
+respetados, ni somos tenidos en cuenta, entonces hay que darle valor
+a la Comisión y vamos a tener que inventar la forma de cómo le
+damos valor señor Presidente. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T10:59:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Representante Diego, antes de concederle la palabra a Ciro,
+los debates van a seguir y no se va a parar esta Comisión John Jairo,
+no se va a parar por la no asistencia de un funcionario, por el
+contrario, por, Secretaria como usted lo pide Representante Diego,
+esta nueva citación que va a ser para dentro de 8 días, martes y que
+ojala no tenga otro compromiso adquirido con anterioridad con otro
+gobernador, ojala que no, entonces sea más enérgico, requiriéndolo
+de que tiene una obligación según sus funciones con el Congreso de
+la República concretamente con esa Comisión Sexta. Tiene la palabra
+el Representante Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-rodriguez-pinzon" startTime="2013-09-10T11:00:00">
+							<from>H.R. Ciro Rodriguez Pinzon</from>
+							<p>Muchas gracias señor Presidente. Saludar la doctora Carmen, a los
+honorables Congresistas, Señor Presidente sería importante mirar la
+Comisión cómo se organiza de una mejor manera, yo creo que los
+martes inclusive mas es el inconveniente para nosotros mismos por
+los temas de transporte, si pudiéramos nosotros volver a organizarnos,
+que los martes se estudien proyectos de ley u otro tipo de actividades
+con los ministerios y se hicieran los debates el miércoles seguramente
+pudiéramos tener una mejor dinámica; y yo de la misma forma quiero
+dejar la constancia que el doctor Carlos Iván Márquez si estuvo acá el
+martes pasado, yo lo salude acá en la Comisión, él se fue una vez se
+levanto la sesión y la sesión se levanto porque no había el quórum
+necesario.
+Por lo tanto quisiera decirles a los miembros de la Comisión y yo voy a
+aceptar la excusa, creo que es una excusa que ha venido justificando
+y de la misma forma siempre ha mandado un funcionario como se ha
+dicho acá de altas calidades que nos puede explicar esas grandes
+inversiones que viene haciendo la Unidad Nacional de Gestión de
+Riesgo, que acá en una publicación que hace la Unidad de Gestión de
+Riesgo dice que es de un billón de pesos para la gestión del riesgo en
+nuestro país.
+De la misma forma decirle a los funcionarios del Gobierno Nacional,
+uno creo que en la medida que ellos visibilicen estas inversiones ante
+el Congreso de la República no solo en gestión del riesgo sino en
+infraestructura que tiene que ver con esta Comisión, son más de 40
+billones de pesos que invertirá el gobierno del Presidente Santos en
+toda la red vial nacional, en materia de educación, creo que este
+gobierno nunca como antes había hecho unos aumentos
+presupuestales a las universidades públicas como en estos tres años,
+un proyecto que se lidero acá en esta Comisión como es los cero
+intereses en los créditos del ICETEX, son programas que el país debe
+conocer que son obras de este Gobierno Nacional, la modernización
+tecnológica que se ha hecho a través de las tecnologías de la
+información y las comunicaciones, son las grandes obras y eso lo
+pone a uno a pensar que es lo que está pasando cuando el país no
+siente realmente una buena imagen del Presidente Juan Manuel
+Santos, si es quien más ha hecho inversión en nuestro país y qué
+decir del mismo campo en materia de vivienda rural, de todo tipo de
+inversiones.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:00:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Representante Ciro yo sé que es bueno toda esa información, pero
+estamos en la excusa, para ver si la sometemos a consideración y
+después pide la palabra, se la concedo, para hablar de todos esos
+avances que ha tenido el Gobierno Nacional.</p>
+						</speech>
+						<speech by="#hr-ciro-rodriguez-pinzon" startTime="2013-09-10T11:00:20">
+							<from>H.R. Ciro Rodriguez Pinzon</from>
+							<p>Con mucho gusto señor Presidente yo quería era simplemente dejar
+esa constancia de que él doctor Carlos Iván Márquez estuvo acá en la
+Comisión y de la misma forma acompañaré la excusa que él hoy
+presenta. Muchas gracias señor Presidente</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:00:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Buenos, como una réplica con respeto antes de someterlo a
+consideración, aquí estamos ordenados Representante Ciro, diferente
+es que algunos funcionarios nos desordenen la agenda, eso es muy
+diferente, pero aquí estamos ordenados, y no hacer el debate los
+martes por el transporte, yo no creo que aquí los ministros y los altos
+funcionarios vivan en los llanos orientales donde no hay transporte,
+donde no hay servicio aéreo, ni terrestre, yo no creo, yo creo que la
+mayoría viven aquí en Bogotá, entonces no es excusa para que ellos
+no vengan, además en la excusa no dicen que se le dificulto el
+transporte sino por una cita, entonces yo considero que los debates
+seguirán aun así no asista, se somete a consideración, tiene la palabra
+Atilano Giraldo, él ultimo para cerrar las intervenciones.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2013-09-10T11:00:40">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias Presidente. No, voy a ser lo más corto posible en mi
+intervención, el saludo a la doctora Carmen, de verdad muchísimas
+gracias, nos dan cátedra cada día más a los hombres, de verdad que
+este tipo de situaciones pues si le dan un poquito de desanimo porque
+yo creo que el doctor Carlos Iván Márquez en esta Comisión ha
+encontrado a un buen equipo y lo comprobamos de verdad cuando se
+dio ese proyecto de ley que ya es ley que lo necesitaba el país y
+acompañamiento, yo creo que esta Comisión ha demostrado desde
+una posición de ayudar que me parece que es importante, aquí
+cuando se habla de debate, no es traer a las personas al banquillo,
+que de pronto ese es lo que se creo, no, es para también reconocerle,
+yo soy uno de los que digo, el doctor Carlos Iván Márquez, hombre
+hay muchas cosas para reconocerle, es que las cosas buenas no hay
+problema para reconocerlas, no soy citante, no tengo preguntas
+especificas para este debate, pero si acompañar a los colegas y si hay
+ese tipo de preguntas pues qué bueno que él tenga la oportunidad
+aquí de darle respuestas.
+Pero también la intervención de Ciro me parece que es bien
+importante y si hay algo que criticarle hoy al equipo de trabajo que
+tiene el Presidente, es precisamente esa falta de salir a dar a conocer
+las cosas buenas que ha hecho este Presidente, porque son muchas
+cosas buenas, pero hay otras que desafortunadamente no se dan a
+conocer, mire, ese un billón de pesos en gestión del riesgo, me parece
+que es importante y este es el escenario para que él venga y le cuente
+a los colombianos que es lo que está haciendo, pero de verdad que
+aquí yo si quiero cerrar en esta parte; y la vez pasada leí y justifique su
+excusa, pero me parece que cuando las cosas ya son repetitivas ya no
+hay derecho, me parece que no, aquí lo que hay que mandarle el
+mensaje al doctor Carlos Iván Márquez es que aquí hay una Comisión
+que lo ha acompañado, que le reconoce sus cosas buenas, pero que
+no tenga temor de venir a esta Comisión, que lo necesitamos, que
+aquí es para ayudar a construir y de verdad Presidente tenga el
+respaldo de Atilano Giraldo para este tipo de debates, a diferencia de
+lo que decía Dieguito, como se le ocurre que no vamos a hacer
+debates si es que una de las funciones que tenemos nosotros como
+congresistas es la de control político y de hacer, esto es una
+herramienta que es muy valiosa y la tenemos de verdad hacer valer,
+valga la redundancia y hay que hacerla valer y si hay que llevarla a
+donde nos ha tocado llevarla porque ya lo hemos demostrado, pues
+hay que hacerla, pero yo creo que el mensaje aquí para el doctor
+Carlos Iván Márquez es que aquí lo necesitamos para reconocer las
+cosas buenas y para dar a conocer muchas cosas que no se han dado
+a conocer y que si hay dos, tres colegas que le quieran hacer unas
+reflexiones, pues este es el escenario, pero de verdad que excusas,
+sobre las excusas me parece que ya no es justo, me parece que ya
+no es, aquí es el llamado a que asista esta Comisión, que aquí no hay
+ningún temor y que aquí lo que tiene es un grupo de amigos, para las
+cosas buenas, no tenemos problema en reconocérselas y si tiene
+como todo ser humano algunas cosas que hay que criticarle y que
+hay que corregirlas pues este es el recinto, la oportunidad para
+dárselas a conocer y que tomen los correctivos necesarios, así que en
+este caso no voy a acompañar pues también negarse la excusa,
+porque me parece que ya no es justa, abra que esperar pues que siga
+su trámite.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:00:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Mientras llegan dos compañeros, gracias, doctor Atilano, leemos una
+invitación que tenemos para mañana y unas proposiciones. Se
+desbarata más el quórum Representante Jaime. Tiene la palabra Iván
+Darío Agudelo por un minuto.</p>
+						</speech>
+						<speech by="#hr-ivan-dario-agudelo" startTime="2013-09-10T11:01:00">
+							<from>H.R. Ivan Dario Agudelo</from>
+							<p>Presidente gracias, no lo mío es muy sencillo cogiendo unas palabras
+del representante Diego Naranjo, mire nosotros le ayudamos a esa
+dependencia y como dice John Jairo, de segunda, o de tercera y de
+pronto hasta menos, porque las instituciones las hacen los hombres, y
+así sea en esa jerarquización de tercera, de cuarta, él la podría tener
+de primera, y era lo que nosotros queríamos en un país con tantas
+dificultades cuando le ayudamos con la norma, podría hoy estar de
+primera sin ningún problema, pero lo que pasa es que nosotros
+tenemos una gran responsabilidad con el pueblo colombiano, que
+nosotros hicimos la norma acá, y no podemos nosotros dejar de un
+lado el control político al cual tenemos la obligación de ver que está
+sucediendo con la norma que nosotros hicimos, que le dimos toda esa
+confianza y para evitar que esa oficina de desastres se convierta en un
+desastre es muy importante que el doctor, el que representa los
+desastres de este país, al que le dimos la confianza, que venga a
+contarnos que está haciendo con la norma, porque aquí no solamente
+hacemos normas, el debate político al cual nosotros nunca nos
+vamos a sustraer es fundamental, y lo dijo el mismo, Presidente de la
+República y si lo sostuvo ahí o esperamos a ver qué pasa con él, es
+que los funcionarios del Gobierno Nacional se tienen que acercar más
+a la comunidad, que mejor manera de acercarse más a la comunidad
+que venir a hablar con 18 Congresistas que representan diferentes
+subregiones del país.
+Entonces este señor no viene, yo creo que nosotros si tenemos que
+poner las cosas muy claras y ojala estuviera aquí pues ya toda la
+gente para que pudiéramos entrar a votar señor Presidente y veo claro
+que es potestativo de ellos, que entran, salen y no quieren estar para
+la votación, sería muy bueno si hay algunos que no es tanto de
+desastre pues la verdad el mero hecho que no se encuentre aquí si es
+un verdadero desastre señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:01:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Representante. Leemos una invitación y unas proposiciones.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T11:01:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Honorable Representante
+JAIRO ORTEGA SAMBONI
+Presidente
+DIDIER ALBERTO TAVERA AMADO
+Primer Vicepresidente
+Doctor
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+Mesa Directiva Comisión Sexta Constitucional Permanente
+Cámara de Representantes
+Ciudad
+Atento y respetuoso saludo.
+El Fondo de Desarrollo de la Educación Superior FODESEP y sus
+instituciones de fundación superior, le formula una cordial invitación
+extensiva a los Honorables Representantes de esa célula legislativa
+para que nos acompañen el día miércoles 11 de septiembre del año
+en curso al desayuno que se ofrecerá a partir de las 8 a.m. en el hotel
+de la Opera, ubicado en la calle 10 # 5 - 72 de la ciudad de Bogotá.
+Es nuestro propósito que en este espacio le podamos dar a conocer
+las funciones misionales otorgadas por la ley al Fondo de Desarrollo
+de la Educación Superior FODESEP para fortalecer la oferta con
+calidad en la educación superior, siendo para ello necesario que se
+apropien las partidas asignadas en el Presupuesto General de la
+Nación de conformidad con el mandato expreso contenido en el
+artículo noveno, noventa de la Ley 30 de 1992 y en el artículo 34 de la
+Ley 161 de 1995 que permitan atender los requerimientos de
+financiamiento y cofinanciamiento de las instituciones de educación
+superior tanto públicas como privadas en todo su tipología.
+Firmado:
+EULALIA NOHEMI JIMENES RODRIGUEZ
+Gerente General.
+Señor Presidente hay dos proposiciones citando al, director de la
+Aeronáutica Civil, Santiago Castro, para que absuelva el cuestionario:
+“sobre la calidad del servicio aéreo y las constantes y diarias
+anormalidades, retrasos, en las salidas de los vuelos de Avianca”; y
+otra proposición citando a la, Ministra de Educación Nacional, para que
+informe sobre el avance o resultado de las investigaciones que cursan
+contra la universidad Santiago de Cali y el cumplimiento al pacto
+realizado en mayo del 2011 en Cali, con el acompañamiento del
+Ministerio de Educación. Señor Presidente las proposiciones están
+firmadas por los Honorables Representantes, Agudelo, Ortega,
+Giraldo, Yepes y Roldan.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:01:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se someten a consideración las proposiciones y la invitación para
+mañana, sigue la discusión, aviso que va a cerrarse, lo aprueban,.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T11:01:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:01:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Me gustaría, mañana han pedido ellos que los acompañemos, me
+parece que está conformado por rectores, si no estoy mal, por rectores
+de las universidades del país, es importantísimo que los
+acompañemos, yo quisiera que aquí quienes pueden asistir, el doctor
+Diego Naranjo, me parece Atilano que es como docente, Atilano, Iván,
+Iván Darío, a las 7 y media dicen, a las 8 en el Opera, los que han sido
+docentes, los que tienen que ver con la docencia, sería bueno
+acompañarlos y nos den un informe porque desafortunadamente ya
+tenía otro compromiso a esas horas, a las 8 de la mañana, entonces
+bueno que vamos unos 5,6 de esta Comisión, seguimos con el orden
+del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-09-10T11:02:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el tema señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-09-10T11:02:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se levanta la sesión, convocamos este debate para el próximo martes
+aquí está el Representante de la Unidad de Gestión del Riesgo, a las
+10 de la mañana, o de pronto a las 11 para que se puedan trasladar, a
+las 10 de la mañana, para mañana, está el debate con la, Ministra de
+Transporte, yo creo que ella no nos va a faltar, sobre las anomalías en
+la prórroga del contrato de la malla vial del Valle del Cauca y las
+proposiciones aditivas sobre seguridad vial en Colombia.
+Se levanta la sesión siendo las once y cincuenta y tres minutos de la
+mañana (11:53 a.m.).
+JAIRO ORTEGA SAMBONI                   DIDIER ALBERTO TAVER AMADO
+Presidente                               Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO          JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                                  Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

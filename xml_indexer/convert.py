@@ -94,6 +94,7 @@ def parse_xml(file_name):
         text = '\n'.join(map(lambda n: n.text.strip(), narratives)) + '\n' + \
                '\n'.join(map(lambda q: q.text.strip(), question_list))
 
+        dt = datetime.strptime(time, '%Y-%m-%dT%H:%M:%S')
         speech = {
             'presidents': [],
             'session': doc_title,
@@ -102,7 +103,8 @@ def parse_xml(file_name):
             'external_id': speaker_id,
             'name': speaker_name,
             'party': None,
-            'time': time,
+            #'time': time,
+            'time': mktime(dt.timetuple()),
             'text': text,
             'title': "Representante"
         }

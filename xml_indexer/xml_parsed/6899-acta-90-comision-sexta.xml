@@ -1,0 +1,1021 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-miguel-angel-pinto-hernández" id="hr-miguel-angel-pinto-hernández" showAs="H.R. Miguel Angel Pinto Hernández"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-nicolás-estupiñan" id="dr-nicolás-estupiñan" showAs="Dr. Nicolás Estupiñan"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-juan-miguel-durán" id="dr-juan-miguel-durán" showAs="Dr. Juan Miguel Durán"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-nicolás-estupiñan-alvarado" id="dr-nicolás-estupiñan-alvarado" showAs="Dr. Nicolás Estupiñan Alvarado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera-gutiérrez" id="hr-luís-guillermo-barrera-gutiérrez" showAs="H.R. Luís Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-nelson-isásiga" id="dr-nelson-isásiga" showAs="Dr. Nelson Isásiga"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-naranjo-escobar" id="hr-diego-naranjo-escobar" showAs="H.R. Diego Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera-amado" id="hr-didier-tavera-amado" showAs="H.R. Didier Tavera Amado"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="6899-acta-90-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2013</heading>
+				<debateSection>
+					<heading>Agosto</heading>
+					<debateSection>
+						<heading>ACTA NO. 90 / 2013-08-06</heading>
+						<speech by="" startTime="2013-08-06T09:40:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2012 - 2013
+ACTA No 090
+(Bogotá, D.C., 6 de agosto de 2013)
+A las nueve y cuarenta minutos de la mañana (9:40 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI, ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Pinto Hernández Miguel Angel
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Ortega Samboni Jairo
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Yepes Martínez Jaime Armando
+Con excusa se encuentra el Honorable Representante:
+Vásquez Villanueva Silvio
+No asistió a la sesión la Honorable Representante:
+Londoño Jaramillo Juana Carolina</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:40:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:40:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Señor secretario, con el quórum deliberatorio, sírvase a abrir la sesión
+y leer el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:40:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013 al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-diego-patiño-amariles">
+								 ¿El porqué de las inconsistencias, irregularidades y traumatismos que han tenido
+los colombianos al sustituir y renovar las licencias de conducción?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								 ¿El porque la desconexión del Runt del centro de reconocimiento de conductores
+(CRC), si se le cobra a los CRC por conectarse al sistema de control y vigilancia?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								 ¿Porqué, si, esta función de control y vigilancia delegada a la Superintendencia de
+Puertos y Transporte se puede delegar a un tercero?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								 ¿Qué medidas preventivas tomó la Superintendencia de Puertos y Transporte para
+solucionar el traumatismo que está actualmente perjudicando a los colombianos?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2013-08-06T09:40:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 6 de agosto de 2013
+Hora: 9:00 a.m.
+Llamado a lista y verificación del quórum
+Aprobación del Acta de Comisiones Conjuntas No. 046 del 12 de junio de 2013, y
+de la Comisión Sexta Nos. 080 del 16 de abril, 081 del 24 de abril, 082 del 8 de
+mayo y 083 del 14 de mayo de 2013.
+Anuncio proyectos de Ley, de conformidad con el artículo 8º. del Acto Legislativo
+No. 01, del 3 de julio de 2003, los cuales se discutirán y votarán sus respectivas
+ponencias para Primer Debate, el día martes 13 de agosto de 2013.
+Citación a Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en concordancia
+con los artículos 249 y 233 de la ley 5ª. de 1992 y en desarrollo de:</p>
+						</speech>
+						<speech by="" startTime="2013-08-06T09:40:50">
+							<from>OTROS</from>
+							<p>PROPOSICIÓN No. 064
+(Bogotá, 24 de julio de 2013)
+Cítese a la señora, ministra de Transporte, doctora CECILIA ALVAREZ-CORREA
+GLEN y al Superintendente de Puertos y Transporte, doctor JUAN MIGUEL
+DURAN PRIETO, para que en sesión de la Comisión Sexta de la Cámara de
+Representantes se realice el debate de control político, para que expliquen al país:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:41:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:41:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor presidente, la secretaría se permite informar con la presencia
+del Honorable Representante Barrera Gutiérrez Luis Guillermo y
+Giraldo Arboleda Atilano Alonso, tenemos quórum decisorio. Nos
+acompaña el presidente, el doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:41:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muy buenos días, se somete a consideración el orden del día.
+Continúa la discusión, aviso que va cerrarse. ¿Lo aprueba la
+Comisión?</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:41:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:41:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:41:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Segundo, aprobación del acta de comisiones conjuntas 046 del 12 de
+junio de 2013 y de la Comisión Sexta Constitucional Permanente 080
+del 16 de abril, 081 del 24 de abril, 082 del 04 de mayo y 083 del 14 de
+mayo del 2013. Someto a consideración de la Comisión Sexta las
+actas anunciadas por secretaría Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:42:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se somete a consideración las actas leídas, aviso que va a cerrarse.
+Continúa la discusión. Queda cerrada. ¿La aprueba la Comisión?</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:42:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:42:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:42:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tercero, anuncio de proyecto de ley de conformidad con el art 8, del
+Acto Legislativo No 01 del 3 de julio del 2013, los cuales se discutirán
+y votarán su respectiva ponencia para primer debate el día martes 13
+de agosto del 2013. Los proyectos que se van a discutir ese día van a
+ser:
+Proyecto de ley No. 277 de 2013 Cámara, 016 del 2012 Senado “Por
+medio de la cual se establecen medidas para la promoción e
+implementación de medios de transporte que incorporen tecnología
+limpia y sustentables”.
+Proyecto de ley No. 264 de 2013 Cámara, 138 de 2012 Senado “Por el
+cual se garantiza a las personas ciegas y con baja visión el acceso a
+la información, a las comunicaciones, al conocimiento y a la tecnología
+de la información y de las comunicaciones”.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:42:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:42:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Cuarto punto, citación a servidores públicos. Este debate de control
+político señor Presidente, esta citada la señora, Ministra la doctora
+Cecilia Álvarez Correa Glen, el Superintendente de Puertos Juan
+Miguel Durán y está invitada la señora, Contralora.
+Me voy a permitir dar lectura a las dos cartas que recibió la secretaría:
+Bogotá D.C., agosto 5 de 2013
+Doctor
+Fernel Enrique Díaz Quintero
+Secretario General
+Comisión Sexta
+Cámara de Representantes
+Asunto: Excusa y delegación funcionario.
+Respetado doctor Díaz:
+Para la, Contralora General de la República es de gran interés la
+invitación al debate de control político de la Proposición 064 de 2013,
+sobre la sustitución y renovación de la licencia de conducción que se
+llevará a cabo mañana 06 de agosto de 2013 en el recinto de sesiones
+de esa Comisión, en razón a que compromisos oficiales contraídos
+con anterioridad, le impiden asistir, la señora, Contralora General
+desea transmitirle sus más sinceros agradecimientos por la invitación y
+comunicarle que ha delegado al doctor Nelson Isásiga León,, Contralor
+Delegado para el Sector de Infraestructura, quien en su representación
+asistirá al mencionado debate.
+Cordial saludo,
+Fdo. Juan Alberto Duque García
+Jefe Unidad de Apoyo Técnico del Congreso
+Señor Presidente, así mismo la señora, ministra de Transporte delegó
+al doctor Nicolás Estupiñan Alvarado,, viceministro Transporte para
+que el día de hoy en nombre de ella atienda la citación para el día de
+hoy teniendo en cuenta que en estos momentos se encuentra en un
+consejo en Neiva.
+Señor Presidente, me permito informarle, que nos acompaña el
+viceministro, doctor Nicolás Estupiñan Alvarado y el doctor Juan
+Miguel Durán Prieto, tan pronto haga presencia el delegado de la
+contraloría, el doctor Nelson la secretaría se lo informará.
+Señor presidente en manos de usted queda este debate y ante las
+expectativas que tiene el pueblo colombiano de saber cuál es el
+resultado sobre la nueva licencia de conducción.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:43:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Iván Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2013-08-06T09:43:10">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Muchas gracias señor Presidente, un saludo muy especial a usted
+señor Presidente, a nuestro Vicepresidente, al doctor Duran Súper de
+transporte un hombre siempre muy respetuoso de esta su Comisión, a
+todos los compañero y al público que nos acompaña, a los
+colombianos.
+Señor Presidente, la señora, Ministra es amiga nuestra. Hemos tenido
+las mejores relaciones con ella, lastimosamente, es el Ministerio más
+accidentado en términos de transporte. Es el ministerio más
+accidentado de esta Comisión y de este Gobierno, es la tercera
+Ministra. Pero, hoy tenemos una situación muy compleja en todo el
+país, donde el País quiere escuchar a la, Ministra, con el respeto que
+se merece el señor Viceministro, ni más faltaba y que acude acá y
+bienvenido, siempre será bienvenido, pero el País quiere escuchar a la
+Ministra, porque la, Ministra es una mujer de talante, es una mujer
+verraca, es una mujer clara, una fiel representante de los costeños,
+digna representante de los costeños. Y yo creo que esta Comisión,
+respetuosamente le solicito a nuestros compañeros, que entendemos
+las múltiples ocupaciones de ella y que no tiene el don de la ubicuidad
+para estar en todas partes, pero si la, Ministra no está, creo que el
+debate lo debemos aplazar señor Presidente, porque este es un tema
+de alto gobierno, sin menospreciar la posición del señor Viceministro
+pero, yo creo que el País hoy quiere escuchar a la señora, Ministra y la
+Comisión Sexta también. Es un tema sumamente delicado.
+Esta madrugada en Medellín, una joven se accidentó, iba embriagada,
+le habían expedido un pase en Medellín, se lo habían suspendido y
+no sé qué fue lo que paso y en otro municipio del área metropolitana le
+habían expedido otro pase. Obviamente, el tema de la embriaguez es
+un tema de mucha profundidad porque también tenemos que generar
+una cultura familiar, no echarle toda la culpa al gobierno, a la
+institucionalidad, a la policía. Aquí hacemos ingentes esfuerzos, ni
+más faltaba para poder controlar en algo, pero nosotros no le podemos
+cerrar la boca a los colombianos para que no se tomen un trago.
+Aquí hay un tema de responsabilidad familiar, mínimo una sanción
+moral porque si los padres saben que su hijo sale en su carro y se
+vuela a tomarse una cerveza pues no se lo vuelva a prestar o haga
+algo; no solamente el gobierno es el responsable. Pero hoy debemos
+escuchar a la señora, Ministra, si no puede por sus múltiples
+ocupaciones, bien pueda lo aplazamos para otro día que el País
+entero necesita escucharla. Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:43:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Quien más quiere intervenir. Entonces le cedo la presidencia al
+Vicepresidente, porque soy uno de los citantes, para poder dar mi
+opinión a la excusa de la, Ministra y al tema que nos había convocado
+hoy al debate.
+Presidente (Didier Alberto Tavera)
+Tiene el uso de la palabra el Honorable Representante por el Valle del
+Cauca, de Palmira, el doctor Jaime Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:43:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente. Bueno, yo me uno a esa proposición del
+compañero Iván Darío Agudelo porque si bien es cierto, es de
+importancia la presencia del Viceministro, el doctor Estupiñan,
+muchas gracias por la asistencia y el Superintendente de Puertos y
+Transporte, el doctor Juan Miguel Durán, muchas gracias porque hace
+8 días también asistió, desafortunadamente el tráfico no me dio la
+oportunidad de llegar temprano y cuando llegué habían pedido
+verificación del quórum y levantaron la sesión para el debate que
+estaba programado, pero en realidad la, Ministra debe estar, yo creo
+que aquí no hay ninguno que diga que es muy querida por nosotros,
+más por mí que es de mi partido, de la U, pero, ahora hace 8 días la
+excusaron, yo no alcancé a estar y consideré prudente, pero hoy en la
+excusa no veo ninguna gestión por fuera, que ameritara aceptarle esa
+excusa. Por eso compañeros, antes de decir la importancia del debate
+yo también solicito que se aplace, porque tampoco hay quórum.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:43:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Quórum sí hay.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:43:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Dos, cuatro, seis, ocho, nueve, diez, acabó de llegar, pero hasta hace
+dos minutos no había, porque es un tema importante que tiene que ver
+con las licencias de conducción, con la gratuidad, con las CRC y la
+expedición de los exámenes médicos, para nadie es un secreto el
+traumatismo que se formó el 1 de julio y los días siguientes por unas
+directrices, por el cumplimiento de unas normas, se dieron unos
+plazos, había que cumplir unas funciones de vigilancia y control, había
+un malestar en las CRC hubo un aumento de costos de esos
+exámenes, presuntamente porque le estaban cobrando y exigiendo
+contratar con una entidad privada un sistema que los iba a vigilar y eso
+se le trasladó al usuario ese costo, eso no parecía justo, hubo un mal
+entendimiento del usuario, yo lo entiendo así, de pronto no se entendía
+bien que lo que se legisló en la sustitución de las licencias de
+conducción y la gratuidad por esa sustitución era muy diferente a la
+renovación de la licencia de conducción, eso confundió a la
+ciudadanía frente al ir a sacar los exámenes médicos y algunas CRC
+fueron desconectadas del RUN; eso generó un trauma.
+Eso hay que aclarárselo al País, pero si bien es cierto hay un
+Viceministro y hay un Superintendente aquí, la cabeza de esa cartera
+es la, ministra de Trasporte y debe estar diciéndole al País, aquí las
+claridades las he hecho, porque ya conozco los oficios aclarando esa
+mala interpretación de la norma, pero no si la ha explicado al País en
+un escrito que yo le hice al Ministerio de Transporte y al
+Superintendente, de la gratuidad que debe existir y que exige la ley
+1383 del 2010 de marzo, donde esa lámina no se le debe cobrar al
+usuario, hay que darle las instrucciones a todos los organismos de
+tránsito, que no se debe cobrar y si los organismos de transito lo
+pagan, pues están autorizados por la ley para descontarlo de lo que le
+giren al Ministerio de Transporte, a la gente hay que decirle eso, de
+esa gratuidad y también hay que decirles a las CRC que no deben de
+aumentar los costos a los usuarios, ni que tampoco están obligados a
+contratar con X o Y empresa de sistemas, ni que tampoco deben
+pagar 14, 15, 16 mil, 20 mil pesos, ni que tampoco deben pagar 4000
+o 3000 o 2000 por conectarse al sistema financiero.
+Listo compañeros, entonces aplazamos el debate para que el vice le
+diga que esas son las inquietudes que hay que decírselas al País, a
+los usuarios y que aquí nosotros los de la Comisión Sexta queríamos
+tenerla aquí para que ella nos explicara. Ya recibimos las
+contestaciones, ya sé que han salido unas circulares aclarando el
+tema para tranquilidad de todos los actores, que tiene que ver con la
+expedición de las licencias de conducción. Entonces como el que
+motivó esta citación yo también solicito a los compañeros de la
+Comisión que se aplace. Debe haber presencia de la, Ministra de
+Transporte, pidiéndoles excusas a ustedes dos funcionarios.
+Y si viene la, Contralora que me habían pedido a última hora que ella
+viniera, bienvenida, pero, para la próxima reunión señor Secretario.
+Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:44:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene el uso de la palabra el doctor Miguel Ángel Pinto, seguido del
+doctor Diego Naranjo, pero Señor Secretario yo quiero que le
+hagamos claridad al doctor Jairo Ortega que sí existe el quórum y que
+dentro de la excusa de la señora, Ministra está la rendición hoy, del
+Consejo de Ministros que tienen en la ciudad de Neiva como lo
+manifiesta en la carta que se leyó anteriormente; Señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:44:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, para informarle al doctor Jairo Ortega Samboni,
+Presidente de esta Comisión, que tenemos el quórum decisorio y
+además, la excusa de la señora, ministra dice que es porque debido a
+que se citaron con anterioridad a Consejo de Ministros en el municipio
+de Neiva y, el doctor Nicolás Estupiñan, nos ha estado acompañando
+tanto la vez pasada como hoy. Entonces señor Presidente, ya las dos
+preguntas están resueltas, usted toma la determinación.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:44:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Dr. Miguel Ángel Pinto, tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-miguel-angel-pinto-hernández" startTime="2013-08-06T09:44:30">
+							<from>H.R. Miguel Angel Pinto Hernández</from>
+							<p>Gracias Presidente. Yo también me uno a la proposición, ya la semana
+pasada también la habíamos presentado en el mismo sentido que los
+colombianos, queremos oír a la, Ministra sobre estos temas tan
+importantes pero antes de someter a votación la proposición de
+aplazamiento y que se disuelva el quórum y se levante la sesión, yo
+quería aprovechar aquí la presencia del Viceministro y del
+Superintendente a quienes saludo muy respetuosamente y
+agradeciéndoles su presencia para decirles que esta Comisión
+también tiene otro debate pendiente para el día 15 de agosto en la
+ciudad de Bucaramanga, en 8 días más o menos vamos a estar allá
+sesionando en un debate que se había aplazado desde el mes de
+mayo para hacerlo en la ciudad de Bucaramanga, entiendo que ya
+está confirmada la fecha, la, Ministra nos ha confirmado también la
+presencia, entiendo que todos los demás funcionarios, el
+superintendente de Puertos y Transporte también nos va a
+acompañar, el, director de la Aeronáutica Civil, la, directora del Fondo
+Nacional de Adaptación, el, director Nacional de INVIAS. Es bueno que
+hoy hagamos presencia nosotros para presionar el tema de la
+aprobación de los traslados a la ciudad de Bucaramanga, que
+podamos hacer este debate y no lo volvamos a aplazar más.
+Además, es un debate que lo estamos necesitando en la ciudad de
+Bucaramanga y quería aprovechar la presencia de ustedes para
+enviarle un mensaje por un lado a la, ministra a través del Viceministro
+quería hacerle llegar el mensaje a la, Ministra de Transporte, la doctora
+Cecilia Álvarez, que en la ciudad de Bucaramanga nosotros
+necesitamos que en este debate inviten, lleven, hagan ir a los
+estructuradores de las concesiones del departamento. Porque lo que
+nosotros queremos en Santander es que se nos diga realmente cómo
+va este proceso.
+Yo siempre he manifestado que yo creo en la palabra del Presidente
+Santos, creo en el tesón y en la palabra de la, ministra de Transporte
+que han estado en la ciudad de Bucaramanga en varias
+oportunidades, que nos han hecho manifestaciones de cuánto va a ser
+las inversiones en el departamento de Santander en las materias de
+las concesiones viales. Lo hicimos el año pasado en la ciudad de
+Barrancabermeja, en enero, el presidente Santos en el acuerdo de la
+prosperidad en abril, le anunció para Santander 7.1 billones de pesos
+en materias de concesiones viales y yo creo en esa palabra, en la del
+Gobierno Nacional, el gobierno que hemos venido acompañando pero
+lo que no creo es en la politiquería que hoy están haciendo los
+gobiernos locales en el departamento de Santander, que vienen
+anunciándole a Santander que porque firmaron la semana pasada el
+Contrato Plan con el, Presidente de la República, en tres meses vamos
+a dar inicio a estas grandes obras que requiere el departamento de
+Santander, porque eso es una falsa ilusión que se le está vendiendo a
+Santander.
+Por eso es que yo quiero que vayan los estructuradores para que nos
+cuenten y nos digan cómo van cada una de estas vías. Porque yo
+tengo entendido que apenas iniciamos el proceso de contratación de
+la estructuración de la vía Lebrija - Barranca, estructuración que debe
+ser entregada hasta el año entrante; que la doble calzada Zipaquirá -
+Bucaramanga ni siquiera se le ha hecho mantenimiento, mucho menos
+para empezar a decir que está estructurada hoy la vía que la vayamos
+a hacer, o la de Bucaramanga a Cúcuta en doble calzada
+Yo lo decía ayer en unos medios y lo conversábamos con el doctor
+Didier Tavera, se lo decía de manera alegre, que en el mes de octubre
+me gustaría a mí levantarme en la ciudad de Bucaramanga con el
+ruido de todas las máquinas que estaban iniciando las dobles calzadas
+que estamos requiriendo. Si eso llega a acontecer así, pues
+obviamente nuestra estadía en el Congreso habrá terminado porque
+ya el departamento de Santander había solucionado todos sus
+problemas viales.
+Pero a la gente no se le puede decir mentiras, nosotros no podemos
+generar falsas ilusiones a los santandereanos, a decirles que en tres
+meses vamos a iniciar todo este tema de las concesiones viales. Por
+eso es que quiero que la, Ministra nos aclare en esos temas de los
+procesos de inversión.
+Por otro lado, también el, Presidente de la República, el doctor Juan
+Manuel Santos en el acuerdo de la prosperidad en Bucaramanga en el
+mes de abril, anunció 7.1 billones de pesos, para inversión de
+Santander y se firma un contrato plan por la suma 6.1 billón de pesos
+y también nos gustaría que la, Ministra en Bucaramanga nos dijera qué
+pasó con ese otro billón de pesos que perdimos los santandereanos.
+Hoy se está anunciando que nos ganamos el baloto de la
+infraestructura en Santander con 6.1 pero lo que realmente esta es
+faltando un billón de pesos que fue un compromiso del gobierno del
+Presidente Santos y con el señor Superintendente, el doctor Juan
+Miguel Durán, quería pedirle también el favor en este tema de este
+debate, que el año pasado empezamos a hacer el proceso del debate
+también con el Sistema de Metrolínea, el sistema de transporte
+masivo en la ciudad que estaba en un caos, que estaba prácticamente
+ad-portas de la quiebra, que el Gobierno Nacional no había nombrado
+los miembros de la junta directiva dentro de este sistema, que los
+transportadores prácticamente se iban a retirar, estaba quebrado el
+sistema y que por fortuna gracias a ese debate, el Gobierno Nacional
+le dio el salvavidas al sistema de Metrolínea a través de la
+Superintendencia, que usted estuvo a bien entrar en un plan de
+sometimiento en su momento a esta institución.
+Tengo entendido que hoy es un modelo de recuperación, que hoy va
+siendo un ejemplo también para los demás sistemas del País y
+queremos que ese informe también mi doctor Juan Miguel nos lo
+presente en Bucaramanga, para contarle a Santander cual fue el
+resultado y cómo ha sido la ejecutoria del sistema de metro línea y que
+nos falta por hacer, porque todavía nos quedan muchas cosas
+pendientes.
+El gran debate que está esperando la ciudad de Bucaramanga es lo
+que tiene que ver con la concesión de la ZMB que toca también el
+sistema de Metrolínea porque ahí necesitamos la ampliación de la vía
+para que el sistema pueda llegar a la zona norte de la Ciudad, pero
+que ese proceso de esa concesión de la ZMB hoy está empantanado
+en un lio jurídico, en un limbo jurídico entre ellos en su conflicto con la
+Agencia Nacional de Infraestructura, yo he tratado de escuchar las dos
+partes y creo que hay muchísima responsabilidad también en este
+tema no sólo en el concesionario sino también de la Agencia Nacional
+de Infraestructura en ese tema y eso es un tema que está esperando
+la ciudad de Bucaramanga, y ya hasta el Concejo de la ciudad hizo
+hace unos días un debate en torno a esta materia y realmente es un
+gran problema que queremos tener y el Superintendente también tiene
+que ayudarnos en ese tema porque es que ese tema también tiene
+que ver con el tema del sistema Metrolínea. Esto es todo un complejo
+de situaciones y de problemáticas que estamos enfrentando y es lo
+que queremos hacer en ese debate.
+Entonces, le agradezco al señor Viceministro la presencia y que le
+haga saber a la, Ministra que es indispensable que los estructuradores
+o por lo menos que nos cuenten cuáles ya está contratadas, las
+estructuraciones de cuáles vías, de cuál están en proceso, para que
+los santandereanos de verdad conozcamos a ciencia cierta cuál va a
+ser el plan de inversión en los próximos 5 años de esta cuantía que
+hace parte del “Contrato Plan”. Gracias Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:44:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-naranjo-escobar" startTime="2013-08-06T09:44:50">
+							<from>H.R. Diego Naranjo Escobar</from>
+							<p>Gracias Señor Presidente. Un saludo para los colegas, quiero saludar
+muy especialmente al Viceministro, al doctor Nicolás Estupiñan y al
+Superintendente de Puertos, el doctor Nicolás Duran.
+Presidente, yo quiero como hacer una intervención muy puntual y
+recalcar la importancia del debate de hoy y por qué es tan
+trascendental que la, Ministra esté presente sin desconocer la
+presencia de los demás funcionarios. Los colombianos tienen que
+saber que en el País se muere más gente por accidentes de tránsito
+que por el conflicto armado y los colombianos tiene que saber
+además, que hoy en Colombia existe un problema gravísimo con las
+licencias de conducción.
+Hoy en el País, existen entre 4 y 5 modelos de licencias de conducción
+y le hemos pedido a la, Ministra desde que se posesionó, la necesidad
+de que se estructure un sistema de licencia de conducción que dé
+garantías para que la persona que la pueda portar sea una persona
+idónea para prestar un servicio de conducción particular o público.
+Yo tengo aquí una carta que le pensaba entregar a la, Ministra con el
+tema de la licencia de conducción, porque me parece que la licencia
+de conducción, la ficha técnica que se inventó el Ministerio con todo
+respeto, no cumple las características técnicas que exige el Código de
+Tránsito que se debían implementar para tener una licencia de
+conducción segura que permitiera alimentar los datos necesarios,
+acceder a la información necesaria a través de la licencia para
+identificar plenamente, día a día las novedades del portador de esa
+licencia.
+A mí me parece que se hace necesario y no hubo un estudio técnico
+importante para definir porqué esa ficha técnica que se resolvió sacar,
+me parece que en ese sentido hay que decirle a la, Ministra que ella se
+apodere del tema, señor Viceministro, yo también se lo he dicho a
+usted muchas veces, hay que ir empoderándose del tema porque hoy
+las licencias de conducción las falsifican fácilmente y hoy hay un
+negocio detrás de todos esos temas de licencias de conducción y el
+Ministerio no puede estar sacando vía resolución continuamente
+normatividades que realmente las cambiamos a los dos o tres meses y
+entonces la gente sabe que nunca debe estar dentro de una norma
+porque, tengo que decirlo aquí para el debate y se lo tengo que decir a
+la, Ministra: El Legislador, nosotros, hacemos las normas y las leyes
+aquí, pero existe un equipo de legisladores al interior del ministerio de
+Transporte que están legislando e interpretando la ley como ellos
+quieren y acomodándola a intereses que tendremos que entrar aquí a
+demostrar claramente porque hoy la buena intención de la, Ministra, la
+buena intención suya Viceministro, la buena intención suya súper,
+está siendo menoscabada porque al interior del ministerio de
+Transporte, en los mandos medios existen algunas posibilidades muy
+altas de que se saquen resoluciones convenientes para algunos
+sectores en particular.
+Este oficio que le mando a la, Ministra como para ir terminando habla
+de los temas de la licencia, habla además de la necesidad de la
+confusión que hay con los centros de reconocimiento de conductores,
+tengo que decirle a usted Viceministro y a ustedes amigos, aquí se
+está vía resolución obligando a los centros de reconocimiento a
+cumplir una normatividad que está establecida en un proyecto de ley
+que fue votado por la Comisión Segunda, que tiene que ver con temas
+de defensa y se está, vía resolución adoptando, eso para que las
+personas que saquen una licencia de conducción se sometan a las
+condiciones de un salvoconducto para armas, se lo he dicho a la
+Ministra y no se han tomado las medidas en el caso, se presentó un
+proyecto de ley para reformar esa ley para que no se pudiera incluir en
+eso y lamentablemente el ponente en la Comisión Segunda pues, por
+algunas razones no lo debatió y lo dejaron archivar.
+Hoy además, hay otro tema que tiene que ver en este oficio que le
+mando a la doctora y es que con el doctor Juan Miguel Duran, hemos
+hablado del sistema de seguridad documental, el sistema que quiere y
+le he preguntado al doctor Miguel Durán que haga unas consultas a
+ver si él tiene realmente unas facultades para reglamentar unos temas
+que él ha hecho de muy buena manera, pero que le pedí que hiciera la
+consulta jurídica para que no fuera a tener algunos inconvenientes,
+porque en el plan de desarrollo se incluyó un tema de transito que
+pensamos que no se debería haber incluido, se votó en el plan de
+desarrollo y finalmente se está reglamentando. Yo pienso que hay un
+error de interpretación en ese tema.
+Yo no quiero, no sé cómo avanzar el debate, me parece que dejar
+estos temas ahí como en la carpeta, pero si quisiera que la, Ministra
+estuviera y por eso considero que es necesario que hoy también se
+escuche y Presidente, yo pienso que en ese debate hay que dejar que
+se escuche a los centros de reconocimiento de conductores, se
+escuche a las personas que manejan los centros de enseñanza
+automotriz porque hay muchas quejas que la, Ministra no alcanza a oír
+ni usted Viceministro y por eso yo pediría que la presencia de ella es
+trascendental para que ella reciba la información de primera mano.
+Porque yo tengo que decirlo aquí, con todo respeto por los
+funcionarios del Ministerio, no confiamos en los funcionarios del
+Ministerio en alguna medida porque sabemos que la información no
+llega precisa, no se da, o se interpreta y se resuelve vía resolución de
+otra manera, por eso, exigimos aquí con todo respeto la presencia de
+la, Ministra, porque este es un tema trascendental, este un tema de
+salvar vidas, este es un tema de grandes posibilidades económicas y
+de negocios porque esta es una responsabilidad que tiene el Estado
+de garantizarle la movilidad a los seres humanos, a través de terceros
+pero tiene que ser el Estado el que vigile y controle.
+Entonces me parece que el tema es de muy alta importancia y por eso
+señor Presidente yo también considero personalmente y a nombre del
+Partido Conservador que también somos citantes, que se hace
+necesaria la presencia de la señora, Ministra y por eso es de vital
+importancia entonces que este tema se debata además con la
+presencia de la, Contraloría o algún delegado de la, Contraloría, que
+aquí lo veo presente, pero que este sea un tema muy serio, muy
+trascendental y que no pase desapercibido cuando hoy seguimos
+registrando altos indicies de personas que mueren básicamente
+porque no hay vigilancia, no hay control, porque este es un sector
+informalizado totalmente que hay que tratar de formalizar, se formaliza
+o se sanciona pero no podemos seguir permitiendo que el sector
+transportador siga siendo un sector informal. Entonces respaldamos
+la proposición suya señor Presidente, que la discusión sea aplazada
+para que en una buena coordinación de agenda con la, ministra que
+sabemos de sus ocupaciones, podamos darle la trascendencia y la
+importancia a este debate, para que los colombianos tengan claridad
+sobre lo que está pasando en el País con el tema de transporte.
+Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:45:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Registramos la presencia del doctor Nelson Isaziga,, Contralor
+delegado para la infraestructura, me gustaría antes de darle la palabra
+al Representante Guillermo Barrera que ampliáramos entonces el
+cuestionario para la, Ministra porque el tema de la embriaguez es
+diferente y yo creo que es oportuno pedir alguna información y
+estadísticas de lo que se viene haciendo en aras de controlar este
+flagelo que está causando muchas muertes.
+Entonces, le pediría el favor doctor Diego Naranjo que ampliáramos
+ese cuestionario porque únicamente lo habíamos dirigido al
+traumatismo que se formó, se generó hace unos días y que no se
+hablaba de la gratuidad para la expedición de la renovación de las
+licencias de conducción y que se confundía con la sustitución y el
+problema que había en la expedición de los certificados médicos por
+parte de los centros de reconocimientos de conductores. Tiene la
+palabra el doctor Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2013-08-06T09:45:10">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Señor Presidente, cordial saludo para el Señor
+Superintendente, al Señor Viceministro, a todos los compañeros, a los
+asistentes.
+Presidente, absolutamente de acuerdo con la proposición de
+aplazamiento del debate hasta que se haga presente en este recinto la
+señora, Ministra y sobre todo porque recuerden compañeros de la
+Comisión, el señor delegado de la, Contraloría, el doctor Isasiga, un
+cordial saludo, les decía que sobre todo recuerden compañeros que es
+en este mismo escenario donde se dio una amplia discusión
+justamente de la reforma al Código Nacional de Tránsito Terrestre y es
+en esta misma Comisión, donde el propio Gobierno en ese entonces
+representado por el Viceministro Targa manifestó una serie de micos
+que tenía el proyecto de ley y a mí me gustaría justamente que la
+Ministra esté presente, porque justamente le corresponde al propio
+ministerio de Transporte como autoridad suprema del tránsito pues
+definir todas las políticas, definir todas las materias de inspección
+también y de vigilancia en la ejecución de la política nacional de
+tránsito terrestre y creo que el debate justamente permite hablar de
+temas trascendentales que cobijaba ese proyecto de ley que cursó en
+esta Comisión, que surtió debates en esta Comisión y que no se ha
+podido discutir en plenaria justamente esperando un pronunciamiento
+del propio Gobierno en cabeza de la, Ministra.
+Creo que aquí hay que tocar temas trascendentales que tienen que
+ver con el principio de seguridad vial sobre todo; es el principio rector
+que traía inmerso el proyecto de ley, pues está muy relacionado con el
+debate Presidente así que me parece trascendental la presencia de la
+Ministra, poder discutir ampliamente porque así lo demanda el País, el
+contenido mismo de esa Resolución 623 de 2013, creo que es bien
+importante de labios de la propia, Ministra que le aclaren a los
+colombianos todo el proceso que se viene desarrollando en procura de
+efectuar esa renovación de las licencias de conducción, todo el
+proceso de cambio de las mismas; creo que le viene bien al propio
+Ministerio y al País conocer de viva voz de la máxima autoridad en
+este caso de la propia, Ministra, todo lo que va a ocurrió lo que le
+espera a Colombia en ese proceso con la expedición de esta
+Resolución 623 de 2013.
+Creo que temas como el de sistema de seguridad aquí se discutieron,
+creo que el propio, viceministro Targa, recuerden ustedes, se oponía
+representando al Gobierno y justamente las medidas que toma el
+Gobierno le dan la razón a lo que en ese momento estaba queriendo
+aprobar esta Comisión y queriendo que el propio Congreso de la
+República brindase como una política clara del Gobierno Nacional en
+materia de seguridad vial.
+Por eso Presidente, absolutamente de acuerdo con el debate, yo no
+quiero profundizar más, creo que hay temas trascendentales en ese
+debate y me parece justo Presidente igualmente que pudiésemos
+ampliar el cuestionario, porque creo que vale la presencia de la
+Ministra y de los temas que aquí se están abordando, vale la
+presencia que el debate se amplíe un poco más y podamos contarle al
+País que les espera, a Colombia en términos de tránsito y transporte y
+especialmente en el desarrollo de un principio que a grito reclaman
+los colombianos que es el principio de seguridad vial en Colombia.
+Así que Presidente bienvenido el debate y absolutamente de acuerdo
+con el aplazamiento del mismo hasta tanto no se haga presente la
+Ministra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:45:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Diego Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-08-06T09:45:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias Presidente, un saludo muy especial al señor Viceministro, al
+señor Superintendente, al delegado de la señora, Contralora, pues aquí
+ya hay consenso que el debate se debe aplazar.
+Mi intervención va en otro sentido, es que para los próximos días se
+tiene programado un debate sobre la Resolución 433, de la Agencia
+Nacional de Televisión y otro sobre la revisión de la resolución que la
+CRA debe expedir para expedir para fijar las tarifas de servicios
+públicos en acueducto y alcantarillado, como varios colegas firmaron
+conmigo esa proposición quisiera que nos hicieran llegar el
+cuestionario que quieran presentar porque este debate no se puede
+aplazar más allá dado de que la Resolución 433 ya está en vigencia y
+la resolución el CRA hay plazo hasta el 30 de agosto para su
+expedición, por lo tanto les agradecería a todos aquellos que tengan
+un cuestionario, lo hicieran llegar rápidamente a la secretaría para
+poder tender respuesta oportuna y adelantar el debate lo más pronto
+posible. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:45:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2013-08-06T09:45:50">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>Gracias señor Presidente, saludamos y exaltamos nuevamente la
+presencia del doctor Juan Miguel Duran, Superintendente de Puertos,
+el doctor Estupiñan Viceministro, al, Contralor Delegado para la
+Infraestructura, el doctor Nelson Isásiga, a toda la Comisión Sexta.
+Mire Presidente, yo quiero referirme frente a un tema muy importante
+que tocara el doctor Miguel Ángel Pinto, y es el debate que tiene que
+llevarse a cabo en la ciudad de Bucaramanga frente al tema de las
+concesiones viales, frente al tema de metro línea en la ciudad de
+Bucaramanga y yo quiero hoy comprometer a la, Contraloría, me
+gustaría que fuera en cabeza de la doctora Sandra Morelli y el doctor
+Nelson Isásiga por la dificultad que se viene teniendo allí, es el tercer
+debate que se hace en la Ciudad, se hizo un cabildo abierto, luego un
+debate de control político en el concejo de la ciudad de Bucaramanga
+y las respuestas que nos da la ANI, Agencia Nacional de
+Infraestructura y las respuestas que nos da el señor concesionario es
+que eso está en un tribunal de arbitramento, entonces que ninguno va
+a ceder y que se van a someter a lo que diga el Tribunal.
+Entonces ustedes ven que el transporte masivo de metro línea en
+Bucaramanga está en un plan de sometimiento, tiene allí unas
+medidas y nosotros no podemos estar a merced cuando tenemos ahí
+todos los pasajeros posibles para que ese transporte masivo pueda
+funcionar con la no intervención del concesionario en lo que respecta
+al tramo 6 que es de la virgen a la cemento, donde no hay ninguna
+excusa, ahí han hablado siempre frente al asentamiento Punta Betíni
+que son más de 200 familias ahí, para lo cual hay un compromiso por
+parte de la Alcaldía, además este es un tramo que no supera 300
+metros de la vía que se va intervenir, no hay ninguna excusa para que
+el señor concesionario no pueda intervenir la vía y entonces el señor
+concesionario dice: es que yo espero hasta el tribunal y el señor de la
+ANI dice: no, yo espero hasta el tribunal, yo sé que hay una dificultad
+enorme frente al tramo 5, que es el terreno, la propiedad de Bavaria
+pues claro y uno diría entonces como en algún momento dijo el señor
+ministro del Interior el doctor Londoño cuando dijo: Qué clase de
+cigarrillo estarían fumando”, yo digo lo mismo, qué estarían fumando
+los estructuradores y los concesionarios que no vieron Bavaria para
+atravesar el tramo 5, cuando es un predio que dicen que vale más de
+300 millones de dólares lo que cuesta ahí, esa si es una dificulta que
+se tiene frente a este tramo 5, pero en el tramo 6, no hay ninguna
+dificultad y sí solucionaría todo el problema de las rutas alimentadores
+de la doble calzada y del acceso del transporte masivo allí a la zona
+norte, una de las zonas pobladas más importantes de la Ciudad y que
+realmente son los estratos 0, 1, 2 y 3, que estarían allí en la
+disponibilidad de atender y de utilizar ese transporte masivo.
+Entonces, señor Viceministro para que usted tome atenta nota y con el
+señor Superintendente y aquí en cabeza de la, Contraloría para que
+podamos asistir porque eso ya no aguanta más excusas, nosotros
+hemos solicitado, miren que es que dicen que la caducidad de la
+concesión genera un traumatismo mientras se estructura pero es que
+nosotros no podemos seguir sometiéndonos cuando hay 2 años de
+incumplimiento por parte de este concesionario en el tema de un
+rebalanceo financiero que es lo que está de moda o era como se
+adjudicaban las concesiones anteriormente, simplemente vamos,
+adjudicamos y a medida que el tiempo va pasando entonces en el
+famoso rebalanceo económico vemos como adjuntamos ahí las
+cargas.
+Entonces señor Presidente, para pedir su solidaridad y a toda la
+Comisión que nos acompañen este próximo jueves 15 de agosto,
+confirmado ya por la, Ministra y todo el equipo en Bucaramanga, hoy
+con la aprobación de la Plenaria de Cámara para que la Comisión se
+pueda desplazar allí y podamos llevar a cabo este importante debate.
+Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:46:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Vicepresidente, haremos la gestión con la Presidencia de la Cámara
+para que sea posible ese desplazamiento de la Comisión a la capital
+Bucaramanga. Tiene la palabra el doctor Nelson Isásiga.</p>
+						</speech>
+						<speech by="#dr-nelson-isásiga" startTime="2013-08-06T09:46:10">
+							<from>Dr. Nelson Isásiga</from>
+							<p>Gracias Presidente, doctor Didier no conozco la agenda de la
+Contralora pero le transmitiré directamente la invitación y de todas
+maneras me comprometo a que estaremos nosotros y el equipo de
+infraestructura, que ya los hemos acompañado en está voy
+directamente yo y estaremos presente porque sabemos la
+problemática Regional que tiene esa ruta de ZMB, entonces cuente
+con la presencia de la, Contraloría.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:46:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Bueno, vamos a someter a consideración el aplazamiento y la
+ampliación del cuestionario y quiero manifestarle a los compañeros de
+la Comisión que hay 4 o 5 proyectos de ley referentes a reformas,
+artículos del Código Nacional de Tránsito, aprovecho la presencia del
+Viceministro, para que formemos un equipo de trabajo y miremos a ver
+qué es lo que ha pasado con el Código Nacional de Tránsito, la
+reforma al Código Nacional de Tránsito porque hay temas de licencia
+de conducción, hay unos temas que y los tenemos, que ya están
+aprobados; hay unos temas de endurecer, temas que ya los tenemos,
+hay unos temas de cárceles, hay un poco de temas allí, de quitar
+vehículos, de expropiar vehículos, eso ya está en ley, eso tenemos
+que mirarlo porque no podemos descubrir que el agua moja, eso ya
+está.
+Entonces, para no desgastarnos aquí y si sacar Viceministro un buen
+articulado de reforma al código, entonces vamos a pasarle por
+Secretaría los proyectos que han llegado para que los vayamos
+trabajando, pero si les pido el favor compañeros, el cuestionario para
+que hagamos un buen debate de los que está haciendo el ministerio
+de Transporte sobre el control a los temas de embriaguez que está
+haciendo para controlar la embriaguez en Colombia.
+Ayer escuchaba al general Mena, no solamente, hacer comparendos y
+hacer comparendos, miremos a ver más allá del comparendo, si el
+vehículo llegó a los patios, si pagaron las multas, si les hicieron el
+proceso para la suspensión o cancelación de las licencias de
+conducción, todo ese proceso posterior porque las normas ya están.
+Entonces miremos a ver si esos dos mil y pico que hubo este fin de
+semana, si esos dos mil y pico ya pagaron y si sus vehículos están en
+los patios y si ya iniciaron los organismos de tránsito los debidos
+procesos para aplicar la ley que ya existe, eso nos evitaría diría yo, ya
+no serían 2.300 sino que serían 1.000, y el próximo fin de semana
+serían 500 hasta que lleguemos a cero si aplicamos la norma.
+Tiene la palabra el doctor Ciro Antonio Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2013-08-06T09:46:30">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, de la misma forma saludar muy
+especialmente al Superintendente, al Viceministro y al señor delegado
+de Infraestructura de la, Contraloría.
+Presidente, yo también estoy de acuerdo en aplazar el debate,
+además estamos citados a las 12:00 del día a Congreso en Pleno y el
+espacio que hay es muy corto, pero debido a las diferentes
+inquietudes y la programación que tiene la Comisión Sexta, creo que
+este debate se debería aplazar por varias semanas, sería importante
+señor Presidente, si el señor Viceministro tiene algunas aclaraciones
+que hacerle no sólo a la Comisión sino al País en general por todas las
+inquietudes que se han presentado de acuerdo a las licencias de
+conducción, valdría la pena que se le dieran por lo menos 5 o 10
+minutos para que le informara al país las diferentes aclaraciones que
+se tendrían que dar para que de esta forma toda la población
+colombiana tuviera más tranquilidad sobre los diferentes aspectos que
+tienen que ver con las licencias de conducción. Muchas gracias señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:46:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Estupiñan, Viceministro de transporte.</p>
+						</speech>
+						<speech by="#dr-nicolás-estupiñan-alvarado" startTime="2013-08-06T09:46:50">
+							<from>Dr. Nicolás Estupiñan Alvarado</from>
+							<p>Bueno Presidente, Vicepresidente y demás Honorables miembros de
+la Comisión Sexta, Superintendente, doctor Isásiga, muchísimas
+gracias por esta invitación, de nuevo presentarles excusa por la
+ausencia de la señora, Ministra quien está hoy en Neiva con el
+Presidente en un Consejo de Ministros.
+Creo que pues, dado que el debate se ha aplazado y se ha ampliado
+favorablemente a que podamos incorporar en este debate aspectos
+contundentes, aspectos determinantes que inciden en toda la materia
+de seguridad vial, sólo quiero hacer un par de comentarios al respecto
+de lo que viene desarrollando el ministerio de Transporte, la
+Superintendencia y la Policía de Carreteras en la materia.
+Vale la pena resaltar, que este es uno de los temas cruciales para el
+Ministerio, para la administración actual y para todo el Gobierno
+Nacional. Como ustedes saben, nosotros venimos cursando un
+proyecto de ley supremamente interesante que replica la experiencia
+exitosa a nivel internacional.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:47:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Vice con el debido respeto.</p>
+						</speech>
+						<speech by="#dr-nicolás-estupiñan-alvarado" startTime="2013-08-06T09:47:10">
+							<from>Dr. Nicolás Estupiñan Alvarado</from>
+							<p>Por supuesto</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:47:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Sería bueno dejar esa exposición para la próxima reunión, para el
+debate porque para eso es que lo vamos a ampliar, porque si no lo va
+a decir ahora lo que vienen haciendo. Entonces, yo le preguntaría, sí,
+están haciendo los controles pero qué pasa si han hecho comités
+institucionales con los órganos de control para hacerle seguimiento a
+esos comparendos a ver si en realidad esos vehículos fueron a los
+patios y si en realidad pagaron la multa. Ese es un buen informe.</p>
+						</speech>
+						<speech by="#dr-nicolás-estupiñan" startTime="2013-08-06T09:47:30">
+							<from>Dr. Nicolás Estupiñan</from>
+							<p>Bueno, así será presentado entonces.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:47:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Lo de los comparendos ya lo vimos en la televisión que hicieron dos
+mil trescientos y pico en este fin de semana.
+Bueno, yo retiro mi apreciación sobre la excusa de la, Ministra porque
+no había escuchado que estaba en Consejo de Ministros.
+Por eso, él puede continuar pero no con el informe sobre lo que viene
+haciendo porque lo vamos a hacer dentro de 8 días.</p>
+						</speech>
+						<speech by="#dr-nicolás-estupiñan" startTime="2013-08-06T09:47:50">
+							<from>Dr. Nicolás Estupiñan</from>
+							<p>No presidente, yo no iba a extenderme mucho, sólo les iba a contar
+ahí pues a la gente y a la audiencia y a la Cámara todo lo que está
+haciendo el Ministerio de Transporte de manera muy sucinta, pero
+entonces si quieren, entonces dejamos el debate como ha sido
+propuesto y aprobado acá.
+Contarles que el ministerio de Transporte también viene mejorando y
+haciendo un proceso de licenciamiento, haciendo una revisión de todo
+el proceso de licenciamiento mucho más extenso, nosotros pues para
+contestarle un poco al Representante Diego Naranjo, no sólo estamos
+modificando la ficha técnica; esa ficha técnica fue adoptada incluyendo
+unos criterios de seguridad pero pues también entonces en el debate
+haremos el respectivo informe de cómo se adopta esa ficha técnica,
+por qué se eligen algunos parámetros de seguridad, por qué se
+descartan otros, por qué se establece también el RUN como un
+elemento determinante en la licencia y en todos los pasos que hay que
+tomar para el proceso de licenciamiento, me encanta saber que el
+cuestionario va a ser ampliado y que de nuevo vamos a tomar esto
+con materia mucho más amplia que vamos a revisar el proceso del
+debate sobre el proyecto de la reforma al Código de Tránsito, ahí hay
+aspectos fundamentales.
+Presidente, quería tomarle la palabra cuando usted dice que
+conformemos un equipo técnico para revisar esos proyectos de ley
+que están en curso, me parecería buenísimo si lo pudiéramos hacer,
+de una vez establecer los delegados para que empiecen esta misma
+semana a discutir esos temas. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:48:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Listo Viceministro, por la Mesa Directiva nombraremos una comisión
+para que interlocute con el ministerio de Transporte. Tiene la palabra
+el Superintendente.</p>
+						</speech>
+						<speech by="#dr-juan-miguel-durán" startTime="2013-08-06T09:48:10">
+							<from>Dr. Juan Miguel Durán</from>
+							<p>Muy buenos días para todos Honorables Representantes de la
+Comisión Sexta, señor Viceministro de transporte, doctor Isásiga,
+Contralor delegado para la Infraestructura, simplemente recalcar la
+importancia de este debate que todos ustedes han manifestado y
+añadir un comentario que no solamente estamos buscando salvar
+vidas, sino estamos buscando acabar mafias y esa es la importancia
+de los instrumentos que se han adoptado por el Gobierno Nacional
+para fortalecer un sector supremamente importante para el País y para
+la seguridad vial y poder por primera vez tomar actuaciones claras y
+así efectivamente salvar vidas.
+Por otro lado, agradezco la invitación del Representante Pinto, del
+Representante Tavera en la ciudad de Bucaramanga, ya desde este
+momento confirmo mi presencia porque es otro tema fundamental para
+mostrarle no solamente a Santander sino al País que efectivamente
+las actuaciones de transporte masivo se están fortaleciendo y que las
+actuaciones del Gobierno Nacional han sido contundentes.
+Y para terminar también mencionar que espero que podamos
+adelantar en esta legislatura algo que es fundamental para la
+Superintendencia, para el sector, para el País y que es una gran
+iniciativa de esta Comisión y es nuestro proyecto de ley de régimen
+sancionatorio, el cual nos va a ayudar a que podamos ser más
+contundentes a futuro y además, ha sido pues la iniciativa de esta gran
+Comisión respaldada por el Gobierno Nacional para poder así sacar
+mayores resultados. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:48:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-06T09:48:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente agotado el orden del día.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-06T09:48:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se levanta la sesión siendo las diez y treinta y siete minutos de la
+mañana (10:37 a.m.) y se convoca para el próximo martes para los
+proyectos de ley que se anunciaron y continuar con el debate de
+control político que estaba citado para el día de hoy y el miércoles 14,
+el tema de la regulación de televisión comunitaria con el Ministro de
+las TIC,s y el jueves 15 descentralización de la Comisión, debate de
+control político sobre las vías, concesiones en Bucaramanga.
+JAIRO ORTEGA SAMBONI                 DIDIER ALBERTO TAVERA AMADO
+Presidente                              Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO        JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                           Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

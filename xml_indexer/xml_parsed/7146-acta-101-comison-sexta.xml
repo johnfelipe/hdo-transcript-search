@@ -1,0 +1,2832 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-alexandra-rojas" id="dra-alexandra-rojas" showAs="Dra. Alexandra Rojas"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-miguel-angel-pinto-hernández" id="hr-miguel-angel-pinto-hernández" showAs="H.R. Miguel Angel Pinto Hernández"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-nicolás-estupiñan" id="dr-nicolás-estupiñan" showAs="Dr. Nicolás Estupiñan"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-nelson-izaciga" id="dr-nelson-izaciga" showAs="Dr. Nelson Izaciga"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-maría-fernanda-campo" id="dra-maría-fernanda-campo" showAs="Dra. María Fernanda Campo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-naranjo-escobar" id="hr-diego-naranjo-escobar" showAs="H.R. Diego Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-alfonso-gómez-méndez" id="dr-alfonso-gómez-méndez" showAs="Dr. Alfonso Gómez Méndez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-tavera-amado" id="hr-didier-tavera-amado" showAs="H.R. Didier Tavera Amado"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="7146-acta-101-comison-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2013</heading>
+				<debateSection>
+					<heading>Octubre</heading>
+					<debateSection>
+						<heading>ACTA NO. 101 / 2013-10-30</heading>
+						<speech by="" startTime="2013-10-30T10:46:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2013 - 2014
+ACTA No 101
+(Bogotá, D.C., 30 de Octubre de 2013)
+A las diez y cuarenta y seis minutos de la mañana (10:46 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Giraldo Arboleda Atilano Alonso
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Pinto Hernández Miguel Angel
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Gómez Velásquez Wilson Hernando
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Con excusa se encuentran los siguientes Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:46:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:46:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se abre la sesión, proceda señor Secretario a leer el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:46:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Informe si el Ministerio tiene presupuestado y cuánto para invertir en
+materia de Seguridad Vial? ¿Cuáles son los proyectos y programas para el
+año 2013 y 2014?
+, Ministra de Educación
+Dra. María Fernanda Campo Saavedra
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Informe si de acuerdo con la Ley 1503 de 2011, el ministerio ha realizado
+el trabajo coordinado con el Ministerio de Transporte, el Ministerio de Salud
+y el apoyo del Fondo se Seguridad Vial, para orientar el desarrollo de
+programas pedagógicos e implementarlos en la enseñanza en educación
+vial en las educación preescolar, básica y media?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿Informe si ha creado el Fondo de Bienestar Universitario del que trata el
+artículo 8 de la citada ley 1503 de 2011, donde el Consejo Nacional de
+Educación superior (CESU), determinará las políticas de bienestar
+universitario y prevención vial?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								3. ¿Cuáles son los programas en materia de Seguridad Vial que ha
+adelantado el Ministerio en la educación?
+Ministro de Justicia y del Derecho
+Dr. Alfonso Gómez Méndez
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Informe si el Gobierno Nacional está preparado para cumplir con la
+retención transitoria por conducción en estado de embriaguez o de
+sustancias tóxicas? ¿Si se cuenta con la infraestructura necesaria y el
+apoyo judicial, administrativo, policía y de ministerio público?
+Fiscal General de la Nación
+Dr. Eduardo Montealegre Lynett
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Informe si tiene dentro de su entidad, se hace seguimiento y control a las
+autoridades de tránsito para el debido cumplimiento y la imposición de
+sanciones a los infractores de las normas de tránsito, concretamente en lo
+que se refiere a la conducción en estado de embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿Considera que el Gobierno Nacional puede cumplir con la disposición legal
+de retención transitoria por conducir en estado de embriaguez? ¿Se tiene la
+infraestructura y el apoyo judicial, administrativo, policial y de ministerio
+público?
+, Director de Tránsito y Transporte de la Policía Nacional
+Brigadier General Carlos Ramiro Mena Bravo
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Informe cuantos comparendos por infracciones a las normas de tránsito se
+han realizado este año (2013), y comparado con el año 2012, disminuyeron
+o aumentaron?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿Cuáles fueron sus principales causas y que porcentaje tuvieron en clase
+de vehículos?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								3. ¿Porcentaje de accidentes de tránsito, sus principales causas y ¿una de
+sus causas se debe al estado de embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								4. ¿Comparado con el año 2012 han disminuido o aumentado los accidentes
+de tránsito por conductores en estado de embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								5. ¿Han aumentado o disminuido los comparendos por conducir en estado de
+embriaguez, comparado con el año 2012?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								6. ¿Informe si la Policía Nacional de Tránsito y Transporte está preparada
+para dar cumplimiento al artículo 16 del Proyecto de ley No. 090 de 2013
+Senado, en cuanto a la retención transitoria para conducir en estado de
+embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								7. ¿Considera que la Policía de Transito está cumpliendo con el control a los
+conductores en estado de embriaguez?
+Superintendente de Puertos y Transportes
+Dr. Juan Miguel Durán Prieto
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Para el cumplimiento de sus funciones, informe qué actuaciones
+administrativas y de vigilancia a realizado y a qué entidades para controlar y
+prevenir la accidentalidad vial en el país, concretamente por conducir en
+estado de embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿Informe si ha controlado que los municipios, secretarias de tránsito o
+seguridad, hayan incluido y estén ejecutando planes de seguridad vial?
+, Directora del Fondo de Prevención Vial
+Dra. Alexandra Rojas
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Cuáles son los objetivos y funciones del Fondo de Prevención Vial?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿Informe sobre los datos que tenga respecto a la accidentalidad en
+Colombia, sus principales causas y el porcentaje que tiene la causa
+referente a conducir en estado de embriaguez?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								3. ¿Cuáles son los programas y estrategias llevados a cabo para el Fondo de
+Prevención Vial para disminuir la accidentalidad?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								4. ¿Cuáles son las inversiones en materia de seguridad vial realizadas en los
+últimos 5 años? Detalle las metas definidas y los logros de cada uno.
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								5. ¿Qué acciones ha emprendido el Fondo de Seguridad Vial para disminuir
+la inseguridad vial?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								6. ¿Cuáles son los recursos y de donde provienen para la Seguridad Vial?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2013-10-30T10:46:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 30 de octubre de 2013
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Anuncio proyectos de ley, de conformidad con el artículo 8º. Del Acto Legislativo
+No. 01, del 3 de julio de 2003, los cuales se discutirán y votarán sus respectivas
+ponencias para Primer Debate en la próxima sesión.
+Citación Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política en concordancia con los
+artículos 249 y 233 de la Ley 5ª. de 1992, y en desarrollo de:</p>
+						</speech>
+						<speech by="" startTime="2013-10-30T10:46:50">
+							<from>OTROS</from>
+							<p>PROPOSICION No. 079
+(Bogotá, D.C., 10 de septiembre de 2013)
+Cítese a la, Ministra de Transporte, doctora Cecilia Álvarez - Correa Glen, a la, Ministra de
+Educación, doctora María Fernanda Campo Saavedra, al Ministro de Justicia y del
+Derecho, doctor Alfonso Gómez Méndez, al Fiscal General, doctor Eduardo Montealegre
+Lynett, al, Director de Tránsito y Transporte de la Policía Nacional, Brigadier General Carlos
+Ramiro Mena Bravo al Superintendente de Puertos y Transportes, doctor Juan Miguel
+Durán Prieto y a la, Directora del Fondo de Prevención Vial, doctora Alexandra Rojas. E
+invítese al señor Procurador General de la Nación, doctor Alejandro Ordóñez Maldonado,
+para que absuelvan los siguientes cuestionarios sobre: “Seguridad Vial”.
+, Ministra de Transporte
+Dra. Cecilia Álvarez-Correa Glen</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:47:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:47:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Señor Presidente tan pronto tengamos quórum decisorio se lo
+hacemos saber.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:47:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Registramos la excusa del Representante Wilson Arias por estar en
+una diligencia judicial, igualmente excusar a la, ministra del Transporte,
+pues los que tuvimos la oportunidad de estar ahora en la Presidencia,
+en el lanzamiento de las concesiones de cuarta generación, pues ella
+está allá ocupada y por eso envía al Viceministro, al doctor Estupiñan.
+El señor Procurador por la importancia del tema nos ha enviado a la
+doctora Marina Tello García a ver si por favor pasa acá adelante
+doctora, si es tan amable, el General Mena ya viene en camino, igual
+que la, ministra de Educación me lo han hecho saber y el ministro de
+Justicia también.
+Registramos la presencia del doctor Atilano Giraldo que le pido el favor
+que presida por cuanto voy a empezar con el debate y ya vienen los
+compañeros que son de la Comisión Legal de Cuentas, del
+Vicepresidente Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2013-10-30T10:47:30">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Muchas gracias, Secretario continúe con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:47:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Presidente con la llegada del doctor Iván Darío Agudelo tenemos
+quórum decisorio, entonces señor Presidente someta a consideración
+el orden del día leído por Secretaría.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:47:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Someto a consideración el orden del día, anuncio que va a cerrarse,
+queda cerrado, ¿aprueban el orden del día?</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:48:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:48:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:48:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Anuncio de proyectos de ley. Entonces para la próxima sesión se van
+a anunciar los siguientes proyectos de ley señor Presidente.
+Proyecto de ley No. 345 de 2013 Cámara, 223 de 2013 Senado “Por el
+cual se adoptan medidas y disposiciones para los proyectos de
+infraestructura de transporte y concede facultades extraordinarias”.
+Autora:, Ministra de Transporte, Cecilia Álvarez Correa.
+Ponentes: H.R. Jaime Armando Yepes Martínez (ponente coordinador)
+H.R. Diego Patiño Amariles (ponente coordinador)
+Además los siguientes Honorables Representantes son también
+ponentes:
+Silvio Vásquez Villanueva
+Atilano Giraldo Arboleda
+Carlos Andrés Amaya Rodríguez
+Wilson Arias Castillo
+Didier Alberto Tavera
+Ciro Rodríguez Pinzón
+Jhon Jairo Roldán Avendaño
+Así mismo se van a discutir en la próxima sesión los siguientes
+proyectos:
+Proyecto de ley No. 277 de 2013 Cámara, 016 de 2012 Senado “Por
+medio de la cual se establecen medidas para la promoción e
+implementación de medio de transporte que incorporen tecnología
+limpias y susceptibles”.
+Proyecto de ley No. 042 de 2013 “Por medio de la cual se establece
+medidas para fortalecer y formalizar el sector artesanal, se crea el
+Fondo de Promoción Artesanal y se dictan otras disposiciones”.
+Proyecto de ley No. 006 de 2013 Cámara “Por medio de la cual se
+declara el día 9 de junio como Día Nacional del Estudiante, se
+enaltece la memoria del movimiento estudiantil colombiano y se dictan
+otras disposiciones”.
+Señor Presidente están anunciados los 4 proyectos de ley.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-10-30T10:48:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Gracias Presidente muy buenos días, simplemente para pedirle a la
+Secretaría y a los colegas de esta Comisión de que para la próxima
+sesión se va a discutir el proyecto de ley de infraestructura, quisiera
+que aquellos que tienen proposiciones para modificar, o adicionar, o
+suprimir algunos artículos del proyecto de ley les pediría muy
+encarecidamente que lo radicaran en la Secretaría para que cuando
+vengamos al debate podamos haber avanzado en la discusión o
+conciliación de esas proposiciones y poder darle la celeridad que
+requiere este proyecto para que pueda pasar a la Plenaria.
+Le pido señor Secretario entonces que a los que faltan se les
+comunique telefónicamente y que si tienen alguna observación o una
+proposición fundamentalmente nos las hagan saber para que antes de
+empezar el debate pudiéramos haberlas analizado. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-didier-tavera-amado" startTime="2013-10-30T10:48:40">
+							<from>H.R. Didier Tavera Amado</from>
+							<p>A usted Diego Patiño Amariles. Señor Secretario siguiente punto del
+orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-10-30T10:48:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, el siguiente punto del orden del día es la citación a
+servidores públicos de conformidad con la proposición 079, nos
+acompaña el señor, viceministro de Transporte, nos acompaña el
+doctor Juan Miguel Durán Prieto, la doctora Alexandra Rojas, la
+delegada de la Procuraduría, entonces señor Presidente en manos de
+usted queda la suerte de este importante debate sobre seguridad vial,
+que el autor es el doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:49:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Le damos la bienvenida a la señora, ministra de Educación la doctora
+María Fernanda Campo que acaba de llegar, por favor la invitamos
+aquí a que nos acompañe.
+Entonces, vamos a desarrollar el siguiente debate escuchando al
+señor citante a este importante debate y posteriormente
+escucharemos a los funcionarios del Gobierno Nacional en cabeza de
+la señora, Ministra, en cabeza del señor, viceministro de Transporte, del
+superintendente de Puertos y Transportes y la, directora del Fondo
+Prevención Vial la doctora Alexandra Rojas quien nos acompaña,
+entonces tiene el uso de la palabra el señor, Presidente de la Comisión
+Sexta Constitucional Permanente, el doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:49:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente, muy buenos días a todos, como siempre, Ministra
+usted atenta al llamado de esta Comisión, Viceministro doctor
+Estupiñan, Superintendente doctor Luís Miguel Duran, a la, directora
+del Fondo de Prevención Vial a la doctora Alexandra Rojas, muchas
+gracias al señor Procurador por enviar su delegado, a los compañeros
+presentes y a todo el pueblo colombiano.
+Presidente quisiera como hacer una exposición muy sucinta del
+objetivo de este debate de seguridad vial para escuchar mejor a cada
+funcionario del tema de la seguridad vial en Colombia, concretamente
+la causa de la embriaguez, porque es que es cierto que en Colombia
+en estos momentos estamos viviendo unos momento de desastres, de
+siniestros fatales y muchas veces creemos que buscamos a través de
+proyectos de ley soluciones para darle a entender a los colombianos
+que estamos haciendo algo por ellos. Creemos que a través de las
+leyes podemos solucionar algún problema como el caso de los
+accidentes de tránsito por conductores embriagados, y muchas veces
+no medimos las consecuencias, lo que se nos pueda venir a ver si la
+podemos cumplir por parte del Gobierno Nacional que es el que tiene
+que cumplir las leyes que aprueba el Congreso de la República.
+Por eso se ha iniciado este debate, es cierto que en el Senado se
+están llevando otros debates de seguridad vial, han trabajado en ese
+tema, hay unos proyectos presentados para modificar el Código
+Nacional de Tránsito y también para modificar el Código Penal y el
+Código de Procedimiento Penal, entiendo para tratar de legislar en esa
+conducta de conducir en estado de embriaguez y causar lesiones o
+homicidios en estado de embriaguez y entiendo porque no he leído el
+proyecto, porque eso sufre muchas modificaciones, entiendo que se
+habla de cárcel por conducir en embriaguez, entiendo que se están
+endureciendo mas las penas por lesiones y homicidios y entiendo que
+hay hasta decomisos y remates de los vehículos.
+Nosotros hemos venido trabajando aquí en esta Comisión Sexta de
+Cámara, conformamos una subcomisión para mirar todo el Código
+Nacional de Tránsito, lo que hay actualmente, el proyecto que fue
+presentado el año pasado que se aprobó en esta Comisión Sexta en
+primer debate, las diferentes modificaciones al Código Nacional de
+Tránsito, las diferentes jurisprudencias y fallos que han salido para
+unificar uno solo, siempre dirigido a que la prioridad es la seguridad
+vial empezando desde las competencias, pasando por la expedición
+de las licencias de conducción, los requisitos para obtener las licencias
+de conducción, los centros de reconocimiento, los requisitos, los
+centros de diagnostico automotor, la educación vial, para llegar al
+tema de las sanciones. Estamos convencidos que hay que controlar
+sancionar, vigilar y educar, pero miremos a ver y queridos colegas y
+por eso quise la presencia de la Procuraduría General de la Nación si
+en realidad estamos cumpliendo con eso.
+Hay una entidad que se ha encargado de la prevención vial, por eso
+entiendo que el Fondo de Prevención Vial, hay una Superintendencia
+que debe estar coordinando con las entidades territoriales y
+gubernamentales estos temas de la seguridad vial, porque tiene al
+control todos estos actores que tienen que ver con la seguridad vial, lo
+mismo el ministerio de Transporte y el ministerio de Educación, pues
+sabemos que con la Ley 1503 del 2011 pues se dan unas pautas para
+que empecemos a trabajar en el tema de la educación vial.
+Yo quisiera Presidente que los escuchemos a ellos ¿Y que estamos
+haciendo? Porque yo le decía en esa subcomisión que siempre vemos
+en la televisión que la Policía de Tránsito realiza operativos los fines
+de semana y por colocar cualquier ejemplo inmoviliza por temas de
+conducir en embriaguez mil vehículos, mil comparendos, pero no
+sabemos si esos mil comparendos y esos mil vehículos sí en realidad
+llegaron a su destino, que deben ser unos patios oficiales o
+autorizados y no sabemos sí esos mil conductores en realidad
+cancelaron su multa y si en realidad hicieron esos cursos y sí en
+realidad están las sanciones que establece el Código; por eso cuando
+uno escucha proyectos que de buena fe presentan Congresistas
+hablan de cárcel para los conductores cuando causen lesiones y
+homicidios y uno dice pero por Dios es que eso ya esta, eso no es
+nuevo, no vamos a descubrir que el agua moja, eso ya esta, ahí están
+en las reformas que se han hecho el que cause lesiones u homicidios
+conduciendo embriagado, ahí hay unos temas y no dan ni siquiera
+libertad, cosa diferente que algún juez en su saber leer y entender
+considere que no es peligroso para la comunidad y le dé una libertad
+condicional o una domiciliaria, para que entienda la comunidad.
+Entonces, es diferente porque ya las normas están y yo estoy seguro
+señores funcionarios que si nosotros controlamos desde el primer
+momento, si nosotros hacemos cumplir las leyes, si la
+Superintendencia esta encima de esos organismos de tránsito
+coordinando con la Policía Nacional de Tránsito, que esos
+comparendos que están haciendo se están cancelando y que están
+sancionando y que el Fondo de Prevención Vial también está ahí
+articulado y que el ministerio de Educación esta como lo dice la Ley
+1503 de 2011 ya educando, prevención vial en la educación primaria
+media y en la educación superior, porque los resultados no fueran tan
+funestos como ahora.
+Yo quiero decir que hay que analizar si en realidad la cárcel o la
+retención preventiva por conducir en embriaguez es lo mejor para el
+país, si el Gobierno Nacional está preparado para albergar tanto
+borracho, si la Defensoría del Pueblo esta con la estructura, porque
+vamos a ver, le decía a los agentes de policía cuando tocamos este
+tema de la embriaguez están preparados cuando ellos le digan a un
+borracho no solamente en los operativos, sino en cualquier barrio de
+cualquier ciudad y de cualquier municipio y cualquier capital usted esta
+embriagado y el borracho le dice no y el policía le dice si y él le dice no
+y después vienen el tira y tira para cada lado y vienen los problemas
+para la Policía Nacional, no sé si la justicia no está preparada en
+Colombia para albergar, ni tenemos las cárceles para albergar a los
+conductores embriagados.
+En fin es reflexionar sobre ese tema y decirle al país haber si estamos
+cumpliendo con el tema de la seguridad vial, con los controles, con la
+vigilancia, con las sanciones, es lo mejor para minimizar y acabar con
+todas esas infracciones, esos delitos que se cometen por conducir en
+estado de embriaguez. Hemos creído los que estamos trabajando en
+esa subcomisión señor Viceministro y demás funcionarios que de
+pronto endurecer las sanciones administrativas, porque un ciudadano
+después de que cancele millón y medio por dar un ejemplo y se le
+inmovilice por un mes el vehículo, nos enredarnos con el tema del
+decomiso, como es esa tramitología para llevar adelante el
+cumplimiento esa ley del decomiso, creemos que si se cumple la Ley
+obligando a cancelar la multa e inmovilizar el vehículo ese ciudadano
+ya lo va a pensar dos veces para conducir en estado de embriaguez.
+Donde está la responsabilidad si ustedes lo han hecho como Gobierno
+de interlocutar y de trabajar con los establecimientos nocturnos que
+son los que venden bebidas alcohólicas, no es la culpa de ellos que
+vayan a beber, pero ellos también tienen una responsabilidad social y
+vial en este proceso de la seguridad vial, entonces esa es la idea de
+este objetivo, mirar que es lo mejor para el país y de pronto enviar un
+mensaje a los colombianos por esa moción que tenemos en estos
+momentos trágica de los desastres de los accidentes fatales o muertes
+violentas por conducir en estado de embriaguez y cárcel para los
+borrachos, para los que conducen embriagados resulta que no
+tenemos donde albergarlos, se nos vuelve un problema nacional y lo
+que tenemos que ser es sensatos antes de legislar.
+Pero sobretodo es mirar que hemos hecho, porque considero que si
+estuviéramos haciendo los debidos controles por cada una de las
+entidades hoy estuviéramos en un índice de porcentaje de los
+accidentes más bajo.
+Y quiero decir de los informes que me ha entregado el Fondo de
+Prevención Vial, el tema de embriaguez no es el más alto, no es la
+causa mayor de los accidentes de tránsito, esta es el exceso de la
+velocidad; y la otra es la imprudencia y esta como de tercero o cuarto;
+el ministerio de Justicia me dijo que estaba de sexto, eso no quiere
+decir que no tratemos ese tema de la embriaguez.
+Entonces señor Presidente, yo quisiera que cada uno, como unos
+llegaron apenas ahora y otros ayer en un breve tiempo nos explicaran
+que hemos hecho de pronto. El Superintendente me envió un buen
+informe pero todo dirigido al transporte, a los controles a las terminales
+de transporte, a las CRC para expedir los exámenes médicos, no
+porque cuando yo voy a expedir un examen médico de pronto no estoy
+borracho, la idea es que está haciendo como Superintendencia frente
+a esos operativos y a esas inmovilizaciones que viene haciendo la
+Policía Nacional de Tránsito y Transporte y los organismos de tránsito
+en el País, de pronto incentivar a los órganos de control de los
+municipios, ¿Que están haciendo ellos por verificar? Que si hubo 100
+inmovilizaciones por decir algo en mi querida Palmira, pues esos 100
+comparendos que dice la Policía de Tránsito pues lleguen a los patios
+y esas 100 personas pues se les inmovilice el vehículo y se les haga
+cancelar y se les sancione como debe ser, como dice la ley. Gracias
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:49:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra la doctora Juana Carolina Londoño Jaramillo.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2013-10-30T10:49:30">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias Presidente, es muy breve y yo quisiera enfocarme en un solo
+tema que quisiera me contestaran el día de hoy y tiene que ver sobre
+la problemática de la motos en Colombia, seguridad vial para las
+motos.
+Yo tengo acá unas estadísticas y se habla de que están saliendo casi
+600 mil motos al mes, donde Bogotá es la ciudad de mayor número de
+motos 332.976 motos y el departamento de Antioquia es el
+departamento con el mayor número de motos 692.694, se cree que las
+motos en nuestro país generalmente son en provincia, pero no, lo
+estamos viendo como el caso de Bogotá que es la ciudad donde
+mayor motos hay, se habla que hoy señor Viceministro hay 4 millones
+576 mil 568 motos matriculadas, puede que todas no estén rodando
+pero eso es lo que aparece dentro de las matriculas de las motos que
+se tienen en el día de hoy.
+Entonces, yo si quisiera preguntar que se está haciendo en materia de
+seguridad vial en el tema de las motocicletas y más teniendo presente
+que los colombianos están utilizando las motocicletas como el
+mecanismo de transporte permanente de acuerdo a los ingresos que
+tenemos los colombianos, ese es el transporte que más utilizan las
+personas para llevar a sus hijos a las escuelas, o para llevar a sus
+familias a transportarse.
+Hay una cifra muy preocupante y es que en el mundo se pone la
+accidentalidad en las motos, las muertes que se tienen a nivel mundial
+es del 25%, se habla que nuestro país es el 44% esos indicadores de
+mortalidad; entonces señor Viceministro es un tema preocupante,
+¿Qué estamos haciendo nosotros al respecto? porque en algunas
+ocasiones se entrega una moto con menos de 20 horas de práctica,
+personas que nunca habían manejado ningún vehículo se las están
+entregando, aquí hemos avanzado en la rigurosidad de que ya se le
+entregan herramientas como el casco, que sean cascos que realmente
+protejan la vida de las personas y no sean como cascaritas de huevo
+cuando se accidentan.
+Entonces, yo creo que estamos en mora de tener una política pública
+de seguridad vial para el tema de motocicletas en Colombia, o si ya la
+tenemos queremos que nos lo cuente, porque en el papel las cifras
+son muy preocupantes, cada vez más colombianos mueren en una
+moto, y sí necesitamos saber que se está haciendo en el tema de
+seguridad vial. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:49:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Entonces vamos a darle el uso de la palabra al señor Viceministro de
+Transporte el doctor Nicolás Estupiñan.</p>
+						</speech>
+						<speech by="#dr-nicolás-estupiñan" startTime="2013-10-30T10:49:50">
+							<from>Dr. Nicolás Estupiñan</from>
+							<p>Bueno mi doctor Tavera, muchas gracias a toda la Comisión por la
+invitación y por estar siempre tan atentos y tan preocupados con ese
+tema tan crítico, es un tema que ya lo hemos venido hablando en las
+distintas sesiones, un tema de salud pública, las cifras evidencias que
+es un tema realmente crítico, es un tema cuyas cifras se asemejan a
+una epidemia, estamos nosotros haciendo múltiples esfuerzos.
+Y quisiera entonces comentar o comenzar por el proyecto de la
+Agencia Nacional de Seguridad Vial, es un proyecto de ley que
+nosotros venimos trabajando ya, cursó sus dos debates en el Senado,
+está próximo a ser radicado en la Comisión Sexta acá de Cámara, es
+un proyecto bastante interesante que modifica la institucionalidad en el
+país, entendiendo que los esfuerzos que venimos desarrollando no
+han sido suficientes, y aquí quisiera detenerme un poco precisamente
+porque estamos encontrando que las cifras en los últimos dos o tres
+años se han mantenido estáticas, si bien las tasas de motorización
+han aumentado las cifras no bajan como nosotros esperamos que
+estuvieran bajando, nos hemos mantenido alrededor de los 5 mil, 5 mil
+600 muertos al año y precisamente es que por eso hemos venido
+nosotros trabajando en este proyecto de ley para modificar la
+institucionalidad asegurando la articulación de todos los actores. Como
+ustedes bien lo saben de aquí participa el Ministerio de Transporte, el
+ministerio de Educación, ministerio de Salud, ministerio de Hacienda
+que nos tiene que ayudar con los recursos, la Superintendencia de
+Puertos y Transportes, está el Fondo de Prevención Vial, esta por
+supuesto la Policía de Carreteras y están todos los actores locales
+donde hay una debilidad institucional supremamente fuerte y donde
+realmente ellos son los grandes acompañantes y los grandes
+colaboradores que nosotros tenemos en la implementación de la
+política pública.
+Nosotros venimos trabajando en un plan nacional de seguridad vial,
+ese plan por distintas razones tiene que ser complementado por
+pedidos de varios de ustedes hay distintas cosas que tienen que ser
+modificadas, nosotros estamos trabajando con apoyo de la banca
+internacional, con apoyo del Banco Mundial y con apoyo del Banco
+Interamericano de Desarrollo en la modificación de ese plan, pero no
+le estamos quitando cosas, sino al contrario, estamos agregándole
+recursos, agregándole herramientas, agregándole indicadores que nos
+permitan a nosotros hacerle un seguimiento muchísimo más puntual
+para ver si esa política va a ser efectiva o no.
+Entonces, esperamos en el mes de noviembre estar haciendo el
+relanzamiento de este plan nacional de seguridad vial que refuerza
+muchísimo de los temas que estamos hablando acá.
+Para contestarle directamente a la Representante Juana Carolina
+Londoño, el tema de motos, es un tema absolutamente crítico y es un
+tema crítico no solamente en Colombia, sino en el mundo, estas tasas
+de motorización de los vehículos de dos ruedas vienen aumentando
+en todos los países, tenemos nosotros obviamente experiencia de los
+países asiáticos, donde ya sufrieron esta pandemia también de
+invasión de vehículos de dos ruedas en décadas anteriores, ahora le
+toco el turno a Latinoamérica; vemos el caso nosotros como Brasil,
+México, Argentina, Venezuela, que está siendo realmente invadidos de
+motocicletas y tenemos nosotros ciudades tan críticas como por
+ejemplo Sincelejo, donde más de 60% de los viajes de transporte
+público se realizan en motos, es un tema bastante complejo porque
+por un lado nosotros como Estado no podemos coartar la movilidad de
+las personas, y todo lo contrario, tenemos que ser facilitadores,
+precisamente porque nadie consume transporte porque le gusta, el
+transporte es una demanda derivada, entonces la gente consume
+transporte simplemente para llegar a otra actividad, nadie consume
+transporte porque dentro de su función de utilidad no le genera
+ninguna satisfacción.
+Entonces, nosotros en esa medida no podemos coartar la movilidad de
+las personas y bien lo puntualizaba usted, los ingresos promedio del
+colombiano promedio le dan para comprarse una motocicleta y este es
+un problema crítico precisamente porque estamos encontrando que
+las tasas de accidentalidad a nivel mundial para motocicletas son unas
+y que en el país los límites están muy por encima de eso, nosotros
+tenemos cifras de aproximadamente el 46% de las fatalidades
+provienen de accidentes donde se ve involucrada una motocicleta;
+entonces en este tema de motos lo venimos trabajando como
+Gobierno Nacional de una manera integral, primero creemos que la
+raíz y el problema hay que atacarlo de fondo y el punto fundamental
+donde comienza esto es en el licenciamiento, usted bien lo dijo
+también el problema parte cuando uno le entrega una motocicleta y le
+entregan ahí mismo su licencia sin siquiera haber hecho un curso
+adicional, sin ni siquiera tener algún tipo de capacitación adicional
+específica para esa moto o vehículo que se pretende conducir.
+Entonces, con apoyo del Banco Mundial hemos venido nosotros
+modificando todo el proceso de licenciamiento precisamente para
+poder garantizar que las personas que están en la vía tienen las
+características y las aptitudes idóneas para conducir el vehículo bajo el
+cual pretenden sacar esa licencia, no solamente para motocicletas,
+pero si le estamos poniendo un énfasis bastante fuerte a motocicletas.
+Un punto supremamente importante acá, en el país en este momento
+no se hace ningún tipo de evaluación teórica de los conocimientos que
+se tienen para poder licenciarse con ningún vehículo y eso es algo que
+ya estamos modificando, nosotros tenemos el compromiso de entregar
+el 15 de noviembre una resolución que modifica todos los procesos de
+licenciamiento, entonces ahí ya les tenemos buenas noticias a
+aquellos que se preocupan, como el ministerio de Transporte está
+atacando estos distintos problemas, nosotros estamos de nuevo
+entonces trabajando con apoyo de la banca multilateral, con apoyo de
+expertos internacionales principalmente de España y de Francia que
+ya desarrollaron estos procesos en sus países y que tenemos la
+evidencia exitosa que lograron reducir notablemente los indicadores
+de mortalidad.
+Comenzando por el tema de licenciamiento, estamos seguros que
+vamos a empezar a atacar de raíz el fondo, estamos estudiando
+nosotros distintas estrategias y tenemos nosotros un plan que hemos
+denominado el plan de estándares de seguridad y de servicio para las
+motocicletas, estas motocicletas entonces con estos usos de las
+motocicletas vienen acompañados por dos componentes principales,
+el uso de la motocicleta como servicio particular y el uso de la
+motocicleta como servicio público, nosotros hemos venido
+adelantando unas mesas de trabajo con los distintos representantes
+de todos los gremios que tienen que ver con motocicletas,
+precisamente entendiendo que la motocicleta tiene distintos usos,
+usos particulares, usos comerciales y entre los usos comerciales
+tenemos entonces: El servicio público como el mototaxismo que
+sabemos que no es una actividad lícita, que no es una actividad que
+está formalmente aceptada dentro del Código de Tránsito y tenemos
+unos usos comerciales de repartición, de mercadería, de reparto
+principalmente urbano de productos de carga.
+Hemos entonces desarrollado nosotros una estrategia integral de ir
+recorriendo el país para saber exactamente cuáles son las
+necesidades de estos distintos grupos de actores, estamos entonces
+nosotros trabajando, ayer estuvimos en Medellín, la próxima semana
+vamos a estar en Cali y en distintas ciudades, precisamente
+entendiendo que es lo que hace tan llamativo la motocicleta, además
+de su bajo costo y de su velocidad; estamos nosotros también
+desarrollando capacitaciones adicionalmente al proceso de
+licenciamiento para poder transmitirle a las personas que utilizan la
+motocicleta todos los riesgos a los que se ven expuestos en la medida
+que continúen con el uso indebido de las motocicletas, no es ajeno
+para ninguno de nosotros ver cuatro personas en una motocicleta que
+esta el papá, la mamá y sus hijos y eso realmente a mí personalmente
+me genera angustia cada vez que veo una imagen de esas y no
+tenemos suficientes herramientas ni siquiera para controlar, sino para
+poderle entregar el mensaje a las personas que están haciendo eso,
+que están poniendo en riesgo la vida de toda su familia.
+Entonces, tenemos una estrategia integral donde estamos por un lado
+atacando el tema de licenciamiento y por otro lado distintas sesiones
+de trabajo con todos los actores para poder desarrollar un plan
+específico para las motocicletas, de nuevo buscar no coartar la
+movilidad, sino entregarles distintas herramientas para que lo hagan
+de una manera mucho más segura, para que tengan desplazamientos
+más seguros entendiendo la complejidad de este problema.
+En el caso del mototaxismo estamos nosotros propendiendo por cada
+vez más tener transporte público de calidad, tenemos nosotros en
+este momento 8 ciudades estratégicas, ciudades amables que vienen
+en el desarrollo de sus sistemas estratégicos de transporte público,
+estamos convencidos que una de las formas de disuasión para poder
+alejar a las personas de la alternativa de la motocicleta es entregarles
+transporte público de calidad y esto es que seas unos vehículos
+seguros, que sean unos vehículos eficientes, que tengamos nosotros
+unas frecuencias y unas coberturas espaciales suficientemente
+satisfactorias para que las personas no se vean avocadas a comprar
+motocicletas, sino que tengan una respuesta por parte del Estado y
+por parte de los Gobiernos locales, una respuesta satisfactoria
+entregándoles de nuevo transporte público eficiente, seguro y limpio.
+Entonces, esa es la estrategia mi Representante Juana Carolina
+Londoño, nosotros venimos trabajando en eso muy fuertemente,
+cualquier apoyo de ustedes que conocen las regiones, que trabajan de
+la mano con los alcaldes, con las autoridades locales va ser totalmente
+bienvenida.
+Nosotros ahora le vamos a hacer entrega de toda la programación de
+todas las ciudades que vamos a visitar, de todos los grupos de trabajo
+que estamos nosotros invitando a participar de estas mesas, el 5 de
+noviembre hay un evento en el ministerio de Transporte, donde
+estamos invitando a más de 100 organismos y secretarios de tránsito
+para que nos acompañen única y exclusivamente para este tema.
+En el tema local ellos han adoptado distintas medidas, unos por
+seguridad criminal por decirlo de alguna manera y otros muy
+preocupados con el tema de seguridad vial, entonces queremos
+empezar a tener experiencias cruzadas de que políticas públicas se
+han adoptado a nivel local que han servido y que experiencias
+negativas han tenido ellos; uno de los casos por ejemplo que a mí más
+me ha impactado es el caso de San Pablo, San Pablo entre los años
+2010 y 2012 desarrollo infraestructuras especializadas para las
+motocicletas y esto en vez de reducir los accidentes en los corredores
+donde se implemento duplico la tasa de mortalidad. Argentina en estos
+momentos está desarrollando como unas cajas en las líneas donde se
+estacionan los vehículos, en los semáforos y las cebras peatonales,
+están desarrollando ahí como una especie de cajas para que las
+motocicletas se ubiquen ahí y puedan tener prelación cuando
+arrancan, todavía están ellos evaluando el impacto de esa medida
+para ver si reduce la accidentalidad, por ahora está funcionando en
+temas de congestión, pero no hay evidencia empírica todavía de si eso
+está funcionando o no en materia de accidentalidad.
+Entonces, lo invitamos de nuevo, es el 5 de noviembre y les vamos a
+hacer llegar a ustedes el listado de todas las regiones y ciudades que
+vamos a visitar para que dentro de lo posible nos puedan acompañar
+para hacer de nuevo un llamado de búsqueda y soluciones en este
+problema tan complejo.
+Mi doctor Samboni usted preguntaba por el tema del proyecto de ley
+de embriaguez, usted sabe que venimos trabajando en una
+subcomisión conjunta, ministerio de Transporte, Policía de Carreteras
+y ustedes para trabajar en la reforma del Código de Tránsito, en esa
+reforma que se quedo trunca en una época pasada, que nosotros
+estamos dispuestos a renovar y a reactivar, porque entendemos que
+hay muchísimos puntos y muchísimos artículos del Código de Tránsito
+que tienen que ser revisados, yo creo que ahí tenemos que articular
+esos dos proyectos, desde la Presidencia de la República y es un
+tema que viene siendo liderado por el Alto Consejero para la seguridad
+ciudadana del doctor Francisco Lloreda, él es el que viene liderando
+este tema del proyecto de ley de la embriaguez y de la conducción
+temeraria como ha sido denominado el ministerio de Justicia también
+viene colaborando con esto, el ministerio de Transporte también
+hemos venido trabajando con esto, ahí vamos a tener posiciones
+diversas.
+Usted manifestada que no hay suficientes espacios en las
+penitenciarías y en las cárceles del país para seguir albergando y sí
+eso es uno de los temas que realmente los conductores por fin
+aprendan que es una actividad supremamente riesgosa y es la de
+conducir en estado de embriaguez.
+Es un tema complejo y es un tema que definitivamente le tenemos que
+dedicar muchísimo más tema, el Senador Velazco ha venido
+trabajando con esto, entonces lo que yo sugeriría es que tengamos
+una reunión donde podamos empezar a atar esos distintos proyectos y
+esas distintas iniciativas para que todos vayamos articulados en
+definitiva, todos buscamos lo mismo, todos lo que buscamos es poder
+reducir los índices de mortalidad, reducir los accidentes de tránsito en
+el País, entonces en la medida que podamos estar articulados
+seguramente los esfuerzos van a ser muchísimo más productivos.
+Yo creo que hay una figura que en el país no se ha explotado de una
+manera adecuada, que es la de los centros integrales de atención, en
+esos centros integrales de atención existe la posibilidad de generar
+unos espacios donde puedan ser detenidos de manera temporal a
+aquellas personas que estén conduciendo en estado de embriaguez,
+entonces de esa manera no necesariamente tenemos que ponerle
+más presión a todo el sistema carcelario, pero si podemos encontrar
+unos espacios donde esta actividad cuando se encuentra culpable por
+supuesto se tengan entonces unos espacios para hacer estos
+detenimientos preventivos.
+Pero considero que lo más provechoso y lo más útil será que todos
+trabajemos de manera articulada Representante Samboni, yo creo que
+usted tiene razón en algunos aspectos, pero creo que el país no logra
+entender y eso nos lo ha demostrado el General Mena en distintas
+oportunidades, que los números de comparendos que se imponen
+todos los fines de semana por materia de conducción en estado de
+embriaguez vienen creciendo, entonces desafortunadamente los
+conductores del País continúan con esta malas prácticas y creo que
+tenemos que hacer algo para empezar a disuadirlos, hemos trabajado
+con estrategias de comunicación, hemos trabajado con retenes, con
+inmovilización de los vehículos, pero las cifras que nos presentan nos
+demuestran que los números siguen creciendo.
+Entonces, si vale la pena que como Estado y como cuerpo legislativo
+demos un paso más allá y veamos que nos falta hacer y que tenemos
+que hacer adicional para poder empezar a reducir estos números.
+Quería entonces de nuevo volver al proyecto de la agencia de
+seguridad vial, nosotros ya tenemos entonces una cita con los distintos
+ponentes, con el doctor Atilano Giraldo para poder revisar este
+proyecto, esperemos que lo podamos radicar con todo el apoyo del
+Gobierno para poder darle trámite próximamente, es un proyecto muy
+interesante, de nuevo cuenta con todo el respaldo del Gobierno
+Nacional, precisamente para poder mejorar la institucionalidad que de
+nuevo es la articuladora de todos los esfuerzos que se vienen
+haciendo como Gobierno Nacional.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:50:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene el uso de la palabra la señora, ministra de Educación, la doctora
+María Fernanda Campo.</p>
+						</speech>
+						<speech by="#dra-maría-fernanda-campo" startTime="2013-10-30T10:50:10">
+							<from>Dra. María Fernanda Campo</from>
+							<p>Muy buenos días señor Presidente, un saludo de manera muy
+afectuosa a todos los miembros de la Cámara de Representantes y
+agradezco esta citación que me han hecho con el propósito de poder
+compartir con ustedes que hemos venido haciendo en materia
+educativa precisamente en este tema tan crucial como es lograr la
+reducción en materia de accidentalidad vial en nuestro país, que como
+bien se ha dicho se ha convertido en un problema de índole nacional y
+que por supuesto requiere que implementemos entre todos una
+política pública que nos permita reducir la segunda causa de
+mortalidad en nuestro País.
+Y no solamente compartir con ustedes lo que hemos venido haciendo,
+sino lo más importante, los retos que tenemos hacia adelante y el plan
+de trabajo que nos hemos impuesto desde el sector educativo, desde
+el ministerio de Educación Nacional con todas nuestras entidades
+territoriales.
+Pues bien, el trabajo que estamos nosotros desarrollando y que
+hemos venido desarrollando tiene como marco de referencia por
+supuesto las obligaciones que se nos generan del Código Nacional de
+Tránsito y las que nos impuso también la Ley 1503 que fue aprobada
+en el año 2011.
+¿Que hemos venido haciendo nosotros? Nosotros desde el ministerio
+de Educación y desde el sector educativo buscamos en todos los
+niveles educativos partiendo desde la educación preescolar, básica y
+media hasta llegar a la educación superior, generar toda una
+estrategia integral de educación vial, que busca principalmente
+generar conocimientos y no solamente conocimiento de los que son
+las normas, deberes y los derechos que tenemos como ciudadanos en
+materia de seguridad vial y uso responsable del espacio público, sino
+que también buscamos modificar conductas, actitudes,
+comportamientos, hábitos que nos permitan entonces tener una
+movilidad segura y al tener una movilidad segura esto debe incidir por
+supuesto en el mejoramiento de la seguridad vial en nuestro País.
+Pues bien, cuando se expiden en su momento el Código Nacional de
+Transporte lo primero que hace el ministerio de Educación Nacional
+fue expedir una directiva que fue socializada en todo el sector, la
+Directiva No. 13, que lo que básicamente hacia era instruir a los
+alcaldes, a los gobernadores y a los secretarios de educación de
+nuestras 94 entidades territoriales que son las responsables de
+administrar la educación en el territorio. Los instruía en primer lugar
+para que desde lo territorial se conformaran unos comités entre la
+secretaría de educación y la secretaría de tránsito para que
+desarrollaran acciones conjuntas que permitieran llevar entonces
+acciones de prevención y por supuesto información pertinente a
+nuestras instituciones educativas sobre lo que significa tener una
+buena seguridad vial en nuestro país y además se les decía a las
+secretarías de educación para que se promovieran proyectos
+pedagógicos en todo nuestro sector educativo, que precisamente
+promoviera la seguridad vial y se adoptara medidas de carácter
+preventivo.
+Adicionalmente y más adelante conjuntamente con el Fondo de
+Prevención Vial se editaron una serie de cartillas para todos los
+grados, cartillas como estas, en educación en tránsito y seguridad vial
+fue un tiraje de 15 mil juegos que fueron repartidos en las instituciones
+educativas, donde se daban unos lineamientos principalmente a los
+maestros sobre lo que debería ser la educación en tránsito y la
+educación para la seguridad vial, más adelante en este Gobierno en
+particular, pues ustedes saben que el énfasis de nuestra política esta
+focalizada especialmente en mejorar la calidad de la educación en
+todos sus niveles educativos y para ello hemos definido diferentes
+estrategias pedagógicas para cada uno de los niveles educativos,
+particularmente nuestra gran apuesta en materia de transformación de
+la calidad. Esta otra vez el programa “Todos a Aprender” que llega a la
+básica primaria para mejorar sus competencias básicas con formación
+docentes, con tutores especializados que son maestros de maestros,
+con entrega de textos escolares gratuitos, de matemáticas y de
+lenguaje a nivel urbano, pero también modernizamos totalmente
+nuestro principal modelo pedagógico en el sector rural a través de
+escuela nueva, hemos repartido en estos tres años de gobierno 18
+millones de textos escolares de matemáticas, lenguaje, ciencias
+sociales y dentro de esas cartilla o estos libros que hemos distribuido
+pues ya el componente de educación en seguridad vial es un
+componente importante, aquí he traído las evidencias de cómo estas
+maravillosas cartillas, que son las cartillas con las cuales hoy estudian
+nuestros niños en el sector rural y en todas las escuelas focalizadas
+dentro del programa pues ya tema de educación vial es una prioridad.
+Yo aquí les voy a mostrar algunas de las cartillas con la cuales
+aprenden los niños, los maestros tienen también sus material
+pedagógico y dentro de su material pedagógico el tema de seguridad
+vial es una prioridad, pero esto por supuesto no es suficiente, ni ha
+sido suficiente, ni podrá ser suficiente, entonces este año hicimos una
+contratación muy importante con una fundación educativa de alto
+reconocimiento para que nos elaborara todo lo que tiene que ver en
+materia de orientación pedagógica y de lineamiento para el desarrollo
+de competencias, porque básicamente lo que tenemos nosotros es
+que ser capaces de desarrollar esas competencias básicas, esas
+competencias ciudadanas en nuestros niños y en nuestros jóvenes
+que nos permita tener un comportamiento absolutamente responsable
+particularmente en lo que tiene que ver con la seguridad vial.
+Pues bien el 20 de septiembre nos será entregado al Ministerio porque
+no teníamos estos criterios orientadores que nos van a permitir
+desarrollar esas competencias básicas ciudadanas en materia de
+seguridad vial desde el grado 0 hasta el grado 11, este material será el
+que nosotros le entregaremos a todos los maestros de Colombia para
+que tengan esas guías, para que tengan esas orientaciones, esos
+estándares para poder desarrollar estas competencias de formación
+para la ciudadanía y particularmente en materia de manejo
+responsable frente a la seguridad vial.
+Igualmente tendremos ahorita en diciembre toda una metodología para
+la construcción conjunta de proyectos pedagógicos, porque ustedes
+saben que desde el ministerio de Educación nosotros no promovemos
+las cátedras, nosotros lo que promovemos son proyectos pedagógicos
+que van desde que el niño entra al colegio, desde preescolar hasta
+que se gradúe en bachillerato y a través de estos proyectos
+pedagógicos transversales se deben desarrollar esas competencias
+ciudadanas y una de ellas tiene que ver precisamente en el tema de
+educación en materia de seguridad vial, al igual que lo hay educación
+en derechos humanos, educación para la sexualidad, educación
+financiera, adicionamos una nueva competencia que tenemos que
+desarrollar, que es la educación en seguridad vial.
+Entonces, tendremos ahorita en diciembre todas estas metodologías
+que no tenían nuestros maestros, porque el eje clave y fundamental de
+todos estos proyectos pedagógicos y el desarrollo de competencias
+por supuesto son nuestros maestros, van a tener entonces la
+metodología para la construcción conjunta de estos proyectos
+pedagógicos.
+Y en tercer lugar vamos a tener ahora en diciembre una guía del
+estudiante en práctica, nuestros jóvenes en el grado 10 y en el grado
+11 antes de graduarse tiene que desarrollar lo que se denomina
+servicio social obligatoria, entonces lo que queremos es que nuestros
+muchachos del grado 10 y del grado 11 dentro de ese servicio social
+obligatorio contribuyan también desde el ámbito escolar formando
+nuestros niños y nuestros jóvenes con las guías de movilidad y de
+seguridad vial, entonces vamos a tener ya esas guías de los
+estudiantes, que se las entregaremos a nuestros muchachos de los
+grados, también esa labor en el aula en nuestras instituciones
+educativas.
+Todo este material por supuesto debe también ser llevado a la web por
+supuesto de manera virtual, esa es la forma de enseñar y la forma de
+aprender en el siglo XXI, para estos efectos entonces desde el
+ministerio de Educación hemos venido formulando una serie de
+proyectos para que queden incluidos en el plan nacional de seguridad
+vial que va a tener como fuente principal de financiamiento 10
+millones de dólares, entonces ahí nosotros hemos definido una serie
+de proyectos para que nos ayuden a ser cofinanciados para nuestro
+sector educativo para este recurso que viene de este organismo
+multilateral y que sin lugar a duda nos van a poder apalancar la
+implementación de toda esta estrategia de formación de competencias
+ciudadanas y particularmente en seguridad vial en nuestro sector
+educativo.
+Entonces, hemos formulado una serie de proyectos y sin lugar a dudas
+son uno de los más importantes, es la creación de lo que hemos
+denominado nosotros el campus virtual, donde hay que hacer todo un
+gran desarrollo desde el punto de vista de tecnología para incorporar
+entonces a través de las distintas herramientas pedagógicas pero en
+el ámbito virtual, ese desarrollo de esas competencias ciudadanas
+desde el grado 0 hasta el grado 11.
+Entonces en síntesis, si bien hemos venido avanzando lo que se ha
+hecho por supuesto no es suficiente, nos faltaba la herramienta
+pedagógica más importante que no la habíamos desarrollado en el
+sector educativo, como es todo ese marco de desarrollo de
+competencias, de lineamientos pedagógicos que deben ser
+entregados a nuestros maestros para que sepan orientar entonces
+todos esos proyectos pedagógicos insisto desde el grado 0 hasta el
+grado 11 en nuestro sector educativo.
+A nivel de educación superior, nos comprometemos nosotros
+obviamente respetando la autonomía de nuestras instituciones de
+educación superior a promover desde el bienestar universitario toda
+una serie de programas que permitieran precisamente desarrollar
+programas de prevención y de uso responsable en materia de
+seguridad vial, uso responsable en general del espacio público en
+nuestro país.
+Pues bien, ya nuestro Consejo Nacional de Educación Superior que es
+el órgano que tiene la máxima competencia de nuestro país, fue
+creado por la Ley 30, y es el órgano máximo asesor en la educación
+superior, ya emitió este año una directiva a todas las universidades de
+Colombia y a todas las instituciones de educación superior con una
+serie de lineamientos para que en sus programas de bienestar
+universitarios incorporen ese componente de educación y de
+formación en materia de seguridad vial. Igualmente estamos trabajo
+con nuestras instituciones de educación para que desarrollen
+programas a nivel de posgrado, especializaciones en seguridad vial,
+en movilidad con seguridad, porque hoy en Colombia no existen este
+tipo de programas a nivel de educación superior, a nivel de postgrado
+y consideramos que esa es una necesidad sentida, nosotros estamos
+trabajando con ellos para que en su desarrollo de su autonomía
+puedan tener esta oferta para nuestros estudiantes también a nivel de
+postgrado.
+Y por último, quiero decirles que pues hemos venido trabajando de
+manera totalmente articulada con el ministerio de Transporte, con el
+ministerio de Salud, precisamente para la reglamentación de la Ley
+1503, donde claramente se establece las competencias, las
+obligaciones que se derivan de esta ley y que nos debe permitir
+avanzar de manera muy significativa en el mejoramiento de nuestra
+seguridad vial, en el mejoramiento de la movilidad segura.
+Y un último tema muy importante, definitivamente para todos es
+angustioso y es una responsabilidad que es ver como nuestras
+políticas públicas están teniendo el impacto y los resultados deseados,
+pues bien en nuestro sistema educativo no existía ninguna medición
+de ninguna naturaleza, si nuestros niños y nuestros jóvenes tenían
+esos conocimientos básicos en materia de seguridad vial que debe
+tener un niño y de uso responsable del espacio público no existía en
+Colombia, púes bien por primera vez en un trabajo muy juicioso que
+desarrollamos con el liderazgo del Ministerio, con el ICFES y también
+con el apoyo del Fondo de Seguridad Vial realizamos por primera vez
+en Colombia, aplicamos en nuestras Pruebas Saber en este año, el
+pasado domingo, todo una batería de 120 preguntas para los niños de
+quinto grado y para los jóvenes de noveno grado para ver cuáles son
+los conocimientos en materia de seguridad vial y van mejorando sus
+competencia ciudadanas, para tener un uso responsable del espacio
+público en nuestro País y nos va a permitir saber si todas estas
+estrategias, las que hemos venido aplicando y las que vamos a aplicar
+con mayor fuerza y con mayores herramientas y mejores herramientas
+a partir del próximo año, en un programa que tenemos ya diseñado
+para los próximos cuatro años para todo el sector educativo, entonces
+vamos a ver si todas esas políticas están teniendo el resultado
+deseable en materia de desarrollo de competencias de nuestros niños
+y de nuestros jóvenes a través del sector educativo.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:50:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Le damos la bienvenida al señor ministro de Justicia, ex fiscal doctor
+Alfonso Gómez Méndez y al señor General Carlos Ramiro Mena
+director de Tránsito y Transporte de la Policía Nacional quien acaba de
+llegar. Tiene el uso de la palabra señor Ministro para que atienda la
+solicitud y el llamado de la Comisión Sexta.</p>
+						</speech>
+						<speech by="#dr-alfonso-gómez-méndez" startTime="2013-10-30T10:50:30">
+							<from>Dr. Alfonso Gómez Méndez</from>
+							<p>Muchas gracias señor Presidente, señor Vicepresidente, señora y
+señores Representantes, señora, ministra de Educación, señor
+Viceministro de Transporte, señor Superintendente de Puertos y
+Transportes, doctora Alexandra Rojas, directora del Fondo de
+Seguridad Vial, señor General Carlos Ramiro Mena.
+La verdad es que la citación al ministro de Justicia en este interesante
+debate y foro de discusión ha sido sobre un punto puntual que voy a
+leerlo: “Infórmese al Gobierno Nacional si está preparado para cumplir
+con la retención transitoria por conducción en estado de embriaguez o
+sustancias tóxicas. Si se cuenta con la infraestructura necesaria y el
+apoyo judicial administrativo, policía y de Ministerio Público.
+Yo quisiera antes de responder al aspecto concreto del cuestionario
+hacer una serie de reflexiones que las he formulado en otros
+escenarios en relación con el tema de política criminal en general, me
+ha sorprendido gratamente la exposición de la señora, ministra de
+Educación, porque me parece que en este y en otros temas el
+Gobierno del Presidente Santos está trabajando en la dirección
+correcta y es en el tema de la prevención, es decir, educando a los
+niños y a los jóvenes de hoy nos vamos a evitar los borrachitos del
+mañana conduciendo, en las cárceles de Colombia.
+Desde luego no es de mi incumbencia ocuparme de todos los factores
+que inciden en la inseguridad vial en el país, esto es de competencia
+de otras instancias del Estado y no podría yo como ministro de Justicia
+incurrir en lo que los abogados llamamos usurpación de jurisdicción,
+pero si hay una serie de aproximaciones comunes en relación con las
+cuales los colombianos tenemos cierta certeza, que en este como en
+otros ámbitos, de un lado es mucho más importante la prevención que
+la represión y que el derecho penal sancionatorio en términos
+generales debe ser la última instancia que usa un Estado en la
+resolución de las tensiones sociales y los conflictos que se presenten
+entre los ciudadanos y que afecten la convivencia.
+Yo creo que hay estudios suficientes, yo diría en el ministerio de
+Transporte sobre cuáles son las causas reales de la inseguridad vial
+en el país, seguramente aquí yo no tuve la fortuna de oír la exposición
+de la Honorable Representante Londoño cuando antes de mi llegada,
+pero yo creo aquí se debe hablar mucho de eso. ¿De cuál es el
+problema macro de la inseguridad vial del país? Coincidiendo por
+ejemplo que son más los muertos ocasionados por este tipo de
+situaciones que los que genera el conflicto armado en el país, pero
+esos estudios seguramente demostraran, estoy hablando a priori
+porque no tengo la autoridad científica para eso, pero esos estudios
+demostraran que factores tales como la extensión de nuestras
+carreteras como el sentido de nuestras carreteras, como las normas
+de previsión, como el control sobre el aparato vial del país.
+Es inconcebible que por ejemplo todavía uno encuentre que mueren
+colombianos, 20, 30 y 40 y generalmente en los sitios apartados de
+Colombia en donde no hay la incidencia mediática, como ocurre si una
+persona en estado de embriaguez mata a alguien en Bogotá, pero
+cuántas veces ha habido esta clase de sucesos en los que mueren y
+generalmente son personas de las clases humildes de este país los
+que se montan en los buses sobre los cuales no hay control, los que
+se montan en los buses en relación con los cuales no ha habido en la
+revisión técnica supervisión permanente, los que se montan en los
+buses muchas veces conducidos, no solamente por personas en
+estado de embriaguez, sino por personas inexpertas, personas que se
+encuentran dormidas, personas que no tienen la pericia suficiente para
+eso.
+Yo llamaría al Congreso de Colombia sobre esto, en este y en otros
+tópicos, que nosotros legislemos sobre cifras, sobre datos, sobre
+estudios confiables, de pronto no al vaivén o al calor del impulso que
+producen ciertos hechos que causan un gran y negativo impacto en la
+opinión, estos debates sirven muchísimo para que nosotros lleguemos
+al fondo de lo que está pasando con el tema de la seguridad vial en
+Colombia que tiene que ver con todo este tema preventivo.
+Yo creo que también lo que está haciendo el Gobierno del Presidente
+Santos en materia de ampliación, en materia de dobles calzadas,
+seguramente va a incidir mucho en que haya menos posibilidad de
+que esta clase de situaciones se presenten.
+Ahora bien, cuando aquí hablamos no solamente en el caso de las
+carreteras, sino en el caso de las ciudades, cuando hablamos de
+homicidios cometidos bajo los efectos del alcohol o bajo los efectos de
+una sustancia que produzca dependencia síquica o física, estamos
+hablando del homicidio culposo, es decir del homicidio por
+imprudencia que esta descrito en el Código Penal como el homicidio
+que se produce o bien porque el agente no prevé las consecuencias
+nocivas de su acto, o cuando previéndolas que es lo que los penalistas
+llamamos la culpa consciente, cuando previéndolas confía
+imprudentemente en poder evitarlas.
+Para precisión y ubicación del debate, el homicidio culposo siempre ha
+estado previsto como delito en el Código Penal, es decir que quién por
+imprudencia causa lesiones o muerte a otro, pues tiene la
+correspondiente sanción penal y últimamente ha venido un proceso
+sucesivo de aumento de penas en relación con el homicidio culposo,
+pero el homicidio culposo no obedece solamente a quienes por
+ejemplo conducen en estado de embriaguez en términos generales,
+por eso se habla del homicidio por imprudencia, que obedece por
+ejemplo lo que ha ocurrido en Medellín, no haber previsto que
+construir un edificio en esas condiciones podría causar la muerte de
+otras personas; el homicidio culposo se da también por violación de
+las normas de tránsito, por impericia, por imprudencia, tengo la
+sensación de que hay estadísticas que demuestran que en materia de
+delitos culposos la mayor incidencia no está tanto en los casos de
+embriaguez, son los que causan más impacto social y más reproche
+social naturalmente, pero la mayoría de los homicidios culposos o en
+otras épocas los jueces llamaban los homicidios en accidentes de
+tránsito porque creían que era la única manera como se llegaba allí,
+pero en la gran mayoría se producen por estas razones que estamos
+viendo por cuántos homicidios en carreteras se producen no porque
+las personas vayan en estado de embriaguez o bajo los efectos de
+una sustancia que produzca dependencia síquica o física, no, porque
+adelanto en curva, ¿cuántas veces? ¿Cuántos muertos hubo por
+ejemplo en las cercanías, de las personas que somos del Tolima, de
+Cundinamarca o del centro del País, llamamos la nariz del diablo?.
+Yo estoy seguro que hoy con la doble calzada que espero que la
+terminen pronto, hoy con la doble calzada hay mucho menos muertos
+alrededor de la nariz del diablo, ¿por qué? Porque ya no va a haber la
+posibilidad de sobrepasar que era por lo que se causaban los
+accidentes, o yo recuerdo muchos accidentes que se produjeron en el
+alto de las canecas en la vía Melgar, no porque estuvieran borrachos,
+sino porque estaban dormidos, o porque la conformación misma de la
+carretera, yo no soy técnico en eso, algunos dirían que por el peralte,
+el carro terminaba en el abismo y caía sobre el río Sumapaz, pero
+muchísimas muertes y muchas de esas lamentablemente 31 de
+diciembre o 24 de diciembre también.
+Y yo sí creo que el País debe hacer esos estudios, ¿cuántos muertos
+hemos tenido en accidentes de tránsito en carretera y cuáles son las
+causas? Y que ataquemos las causas, que tiene que ver por ejemplo
+con el control, como es posible que todavía hay carros en carreteras
+que incluso supera mi edad y eso ya es mucho decir y que todavía
+aparezcan destartalados en las carreteras lo que produce la muerte.
+¿Y donde están los controles? Porque ese carro no salió solito alguien
+lo dejo salir y alguien no lo detecto, lo mismo en relación con la
+imprudencia, en relación con la impericia.
+Entonces, destacando la buena intención en cuanto a que buscamos a
+que haya un mayor reproche social en estos casos y aquí me
+preguntan expresamente por el estado de embriaguez y las sustancias
+sicotrópicas, habría que decir lo siguiente: Primero, para que
+tengamos claro, hoy y siempre en el Código Penal una de las causales
+de agravación de la pena en el delito por imprudencia, esto es válido
+no solamente para quien conduce en estado de embriaguez, para el
+médico también, ha habido casos de médicos que producen lesiones o
+muertes por esta razón, o de pilotos también, en esos casos ha habido
+en la legislación penal ya una circunstancia específica de agravación
+cuando el hecho se comete en estado de embriaguez o bajo el efecto
+de sustancias sicotrópicas.
+Yo pensaría que antes de aprobar el articulado con la inclusión de las
+sustancias que producen dependencia física, se recomienda someter
+el punto a discusión, para lo cual el ministerio de Justicia y el Derecho
+está dispuesto a la liderar la conformación de una mesa de trabajo
+integrada por Medicina Legal, Policía Nacional, ministerio de Salud,
+ministerio de Justicia y del Derecho.
+Y en relación con la retención transitoria, profundicemos un poco más
+allá, cuál sería la naturaleza de esa retención transitoria, vale la pena,
+¿por cuánto tiempo, y quien la determina? Y en la medida en que
+supone una privación de la libertad tiene que estar sujeta a un juicio,
+¿Quien emite el juicio, en qué condiciones, cuáles son los requisitos,
+donde se establece los requisitos, donde se establece el
+procedimiento?
+Yo tengo que decir claramente frente a una de las preguntas que se
+me pregunta ¿Sí el Gobierno está preparado? Mal podría yo decir que
+si, cuando tenemos el problema del hacinamiento penitenciario,
+estamos tratando de salir, el Congreso nos ha estado ayudando con la
+aprobación del Código Penitenciario que tiene el último debate en la
+Plenaria del Senado, estamos tratando de encontrar formulas por
+ejemplo para flexibilizar beneficios tales como la suspensión
+condicional de la condena, o la condena condicional o la detención
+domiciliaria, flexibilizar para que personas como lo ha repetido el
+señor Presidente Santos en su discurso reciente en Bucaramanga,
+personas que no tengan un grado de peligrosidad puedan gozar de
+esos beneficios.
+Entonces, agregarle a esto General Mena, la retención de personas
+que estén conduciendo en estado de embriaguez por ese solo hecho,
+porque claro si cometen, si se produce resultados, los delitos culposos
+son delitos de resultados, si se produce el resultado pues tendrá que
+responder por homicidio culposo y las penas para el homicidio culposo
+hoy en día son yo diría bastante altas, inclusive en relación o en
+comparación con los promedios de la América Latina, pero si es el
+simple hecho de conducir en embriaguez yo pensaría que podríamos
+imaginarnos, yo he propuesto a esta Comisión para hacer un
+seguimiento y estudiar con mucho más profundidad y con base en
+estadísticas y con base en estudios científicos, si es el simple hecho
+de conducir bajo el efecto de una sustancia, porque aquí por ejemplo,
+el proyecto establece grados en la misma forma el alcoholismo, yo no
+sé científicamente, voy a utilizar una expresión popular ¿cuál puede
+ser el grado de la traba? Es decir en qué medida se puede verificar
+hasta donde va, ¿cuál es el grado de alucinación del sujeto? Son
+como reflexiones que valdría la pena hacer, que no corresponden en
+mi caso solamente opiniones frente a este proyecto, sino a una opinión
+general.
+En cuanto al tema de política criminal, este tipo de proyectos yo los
+estoy llevando en lo que tiene que ver con sanciones al Consejo de
+Política Criminal que se reestructuro recientemente con el
+restablecimiento del Ministerio de Justicia, donde tienen asiento el
+Fiscal General, el Procurador General, el, Presidente de la Sala Penal
+de la Corte Suprema de Justicia, la Policía Nacional, el Defensor del
+Pueblo y doctora María Fernanda, estoy pensando en ponerle más
+trabajo, porque estoy proponiendo en el proyecto del Código
+Penitenciario como una de las partes de reestructuración que el
+ministerio de Educación haga parte también del Consejo de Política
+Criminal en el entendido que allí se debe trabajar también el problema
+de la prevención en el tema de la comisión de delitos.
+Podría uno pensar que a la persona que se le sorprenda en las
+carreteras en estado de embriaguez más allá de no sé si llevarlo a una
+estación de policía y someterlo a una ducha de agua fría, o mantenerlo
+por cuánto tiempo, o someterlo y yo pensaría sería mucho más eficaz,
+por ejemplo trabajo comunitario el que conduzca en estado de
+embriaguez pues pongámoslo a limpiar las carreteras, creo que para
+él es mucho más, tiene un efecto de prevención mayor si una persona
+es sorprendida en estado de embriaguez en una carretera pues
+dejémoslo dos días cuidado la carretera, mucho más produce un
+efecto que evita que el sujeto pueda volver a incurrir en esto, que
+tenerlo horas o días privado de la libertad con la idea de tener centros
+especiales, se habla de las cárceles para conductores, hoy en día
+estamos teniendo problemas con esas cárceles para conductores.
+Esa es como la opinión del ministro de Justicia en la parte específica
+en relación con el proyecto, hay como observaciones muy precisas,
+muy técnicas. En el artículo 4º. del proyecto se discriminan los niveles
+de embriaguez y se contempla su equivalente para el consumo de
+sustancias psicoactivas, pero es inaplicable porque ya lo he
+mencionado, por las dificultades y dinamismo que implica una
+reglamentación particular como el caso del alcohol, si hay el
+alcolímetro, no sé si se puede dar un aparato General Mena para
+medir exactamente el grado de alucinación en que se encuentra la
+persona, porque hay aproximadamente como 500 sustancias
+identificadas que producen ese tipo de resultados, ¿Si es lo mismo
+una sustancia que otra, si es lo mismo las anfetaminas, si es lo mismo
+la cocaína, la heroína, la marihuana, las drogas sintéticas?.
+Entonces, en este aspecto la invitación del ministro de Justicia es a
+que reflexionemos un poco más y pensemos si realmente el objetivo
+válido que estamos buscamos se consigue de esta manera o mejor
+con situaciones alternativas.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2013-10-30T10:50:40">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>De verdad señor Ministro que usted pone en un punto muy alto el
+debate y que bueno tener en un mismo escenario la educación, la
+policía, la justicia, como se ha dicho a la entrada de las cárceles, en
+las vallas, educad al niño para no tener que castigar al hombre. Tiene
+la palabra el señor Superintendente el doctor Juan Miguel Durán.
+Dr. Juan Miguel Durán Prieto, Superintendente de Puertos y
+Transportes:
+Respetados Representantes de la Comisión Sexta, un saludo muy
+especial al señor ministro de Justicia, a la, ministra de Educación, al
+viceministro de Transporte, a la doctora Alexandra, a mi General
+Mena.
+Frente al tema de seguridad vial la Superintendencia efectivamente ha
+venido obteniendo no solamente una información que ha sido
+importante para el análisis y para las actuaciones que hemos venido
+realizando, sino que ha sido un eje fundamental, porque sabemos que
+la seguridad vial tiene que ver con la vida de los colombianos y para
+nosotros es el tema más delicado, es el tema más sensible de todo lo
+que nosotros manejamos frente a la infraestructura y el transporte en
+Colombia, por eso con mis funcionarios y con los mismos vigilados lo
+que siempre hemos repetido en varias oportunidades es que no
+importa si hay un muerto hay que tomar acciones y no podemos
+permitir y no podemos permitir que el día de mañana sigan existiendo
+accidentes por causas que puedan ser prevenidas con actuaciones
+fuertes, con campañas a ciudadanos y con todo los mecanismos que
+venimos realizando.
+Empiezo señalando un poco del fortalecimiento a la entidad, porque
+para obtener resultados es necesario tener entidades fortalecidas, en
+los primeros dos años del gobierno del Presidente Santos esta entidad
+tomo un vuelco importante, 206% en incremento en inspecciones, esto
+significa que hemos logrado llegar a las empresas, llegar a los
+vigilados, ver que está pasando efectivamente y obtener mayor
+información, un incremento del 194% frente a vigilancia, lo cual
+significa que hay mayor comunicación con los vigilados y esto hace
+que esa información no solamente pueda ser analizada, sino que las
+actuaciones administrativas que hoy en día son históricas llegamos a
+1.150 actuaciones frente a organismos de apoyo con 646 fallos en
+estos últimos años.
+Si nos remontamos al nacimiento de la entidad, esto efectivamente es
+algo histórico, sin embargo quiero comentarles que los esfuerzos van
+más allá, van más allá de una competencia, van más allá de las
+actuaciones que históricamente la entidad ha venido realizando en
+este sector, nos hemos inventado nuevas formas para poder combatir
+las prácticas irregulares en tránsito, en apoyo de tránsito y en
+actividades que tienen que ver con la seguridad vial.
+En esto por primera vez estamos realizando operativos con la Policía
+de Tránsito y Transporte que antes nunca se hacían, operativos en
+carretera, operativos donde yo mismo voy a realizarlos en todos los
+rincones de Colombia ¿Y con qué finalidad es que realizamos
+operativos? Para detectar si efectivamente hay conductores que no
+están cumpliendo con los requisitos legales, si hay vehículos que no
+están cumpliendo con los requerimientos técnico-mecánicos o
+cumplimiento de las normas implementadas por el ministerio de
+Transporte y hemos encontrado cifras sorpresivas y hemos realizado
+inmovilizaciones por parte de la Policía de Tránsito y Transporte a
+actividades administrativas como investigaciones por parte de los
+funcionarios de la Superintendencia.
+Nos inventamos una nueva modalidad de controlar el sector, hoy
+cuando hay un muerto en carretera no solamente le estamos abriendo
+investigaciones preliminares a la empresa de transporte público, sino
+también al centro de reconocimiento del conductor del cual el
+conductor que se encuentre en esa situación lo haya obtenido, el
+centro de diagnostico automotor que le haya entregado el certificado al
+vehículo, el centro de enseñanza automovilística que en teoría le
+enseño a ese conductor a conducir y a la concesión por temas de
+señalización, esto históricamente nunca se había hecho y el mensaje
+es muy contundente, cada una de las entidades que prestan un
+servicio conexo al tránsito podrían tener una responsabilidad y cada
+vez que sucede así sea un muerto o lesionado estamos vigilando que
+ninguno de estos haya tenido ningún tipo de irregularidades frente a su
+obligación legal.
+Por otra parte, también por primera vez, hemos tenido funcionarios
+encubiertos, una figura que nosotros mismos nos inventamos y en
+rutas nacionales estamos llevando a cabo unos operativos donde
+funcionarios sin desplegar y sin identificarse hacen la ruta completa,
+vigilan la velocidad, vigilan que no estén recibiendo pasajeros en otros
+sitios no designados por la ley, vigilan que el manejo del conductor sea
+apropiado y al final del día, al final del trayecto hacen un reporte que
+muy seguramente puede llevar a una investigación si ese es el caso,
+además de obtener una información por parte de los pasajeros frente a
+encuestas que venimos realizando.
+Por otra parte, hace poco yo mismo demande no como
+Superintendente, sino como persona natural y como abogado que soy
+el artículo 26 de la Ley 1383 de 2010, que para mí es un absurdo,
+ustedes pueden creer, ustedes pueden creer que hoy la normatividad
+de nuestro país hace que la suspensión de una licencia de conducción
+sea más gravosa que la misma cancelación, a través de este
+parágrafo. en el artículo se denota que después de tres años de
+cancelada una licencia una persona puede volver a obtener una
+licencia de conducción, entonces en Colombia no se volvió un
+privilegio la licencia de conducción sino se volvió un derecho, lo cual
+es lo más absurdo, siendo que esto es una actividad peligrosa y se
+debe equiparar al porte de armas, a todos los permisos que son
+temporales siempre y cuando las personas cumplan con los requisitos
+y efectivamente puedan dar fe que no van a ir en contra del derecho
+de la vida de ningún ciudadano.
+Esta demanda es frente a la Corte Constitucional, estamos a la espera
+que se defina de fondo y esperamos que podamos dar un golpe fuerte
+contra la mala seguridad vial en estados de embriaguez y demás que
+denota el Código de Tránsito cuando debe haber una cancelación;
+países como Estados Unidos, países en Latinoamérica, en Europa
+todos tienen una cancelación de una licencia, pero acá somos
+demasiado garantistas diciendo que no puede haber una pena
+perpetua cuando no es una pena y este debate si es importante que lo
+tengamos, porque no podemos permitir que sigan existiendo personas
+que tengan de por vida pases infringiendo normas, conduciendo
+borrachos y ejerciendo todo este tipo de actividades que colindan con
+lo ilícito.
+De igual forma, recuperamos “él como conduzco”, históricamente
+había un teléfono que no funcionaba y lo digo porque yo mismo
+tomaba el tiempo de comunicarme de cómo conduzco que existían en
+todas las empresas, adoptamos ese número, lo hicimos número único
+el #767 opción 3 que ahora si tiene dientes, ahora está conectado
+directamente con la Policía de Tránsito y Transporte y con la
+Superintendencia de Puertos y Transportes y estamos tomando
+actuaciones, hace unas semanas un Senador de la República llego y
+me llamo y me dijo lo felicito porque estaba en un vía y llame “haber
+como conduzco” y en menos de 5 minutos estaba la Policía ahí cogió
+al camión lo paro, le puso su infracción y por fin hay autoridad en las
+vías.
+Frente a las denuncias que existen por parte de los ciudadanos,
+entonces hemos logrado que los ciudadanos sean los primeros en
+denunciar, los primeros en coadyuvar a que las autoridades puedan
+ejercer esa autoridad en las carreteras y prevenir accidentes, porque
+según los informes que nosotros recibimos de la policía uno de los
+temas más delicados es que los mismos pasajeros son los primeros
+que denotan que va a haber un accidente, porque ven que el
+conductor está manejando de manera irregular, porque ve que el
+vehículo no está en óptimas condiciones y esto hace que nosotros
+podamos prevenir accidentes.
+De igual forma, quisiera comentarles de una circular que yo emití hace
+algunos meses frente a los borrachos y esto ha sido encaminado a los
+organismos de tránsito, porque descubrimos también que hay un
+tiempo desde que la policía impone este comparendo hasta que el
+organismo de tránsito sube el comparendo al RUNT y si no lo sube al
+RUNT la persona sigue manejando con licencia, no hay cancelación
+de licencia, el puede a través de cualquier organismo de tránsito volver
+a obtener una licencia de conducción y es absurdo; porque vimos el
+caso en Antioquia donde una persona que ya había sido detectada
+conduciendo en estado de embriaguez, que le pusieron el comparendo
+frente a una suspensión de 9 años y que por demorarse 9 meses para
+subir al RUNT logro volver a sacar la licencia de conducción y a los
+cuatro meses volvió a matar a una persona, eso no lo podemos
+permitir, la circular ha sido enfocada para que los organismos de
+tránsito: Primero, respeten la sentencia de la Corte Constitucional que
+dice que deben inmediatamente subir al RUNT el comparendo; y lo
+otro es que cada tres meses nos empiezan a responder a nosotros
+como vigilantes de los organismos de tránsito para ver cómo está
+funcionando este tema y que sea adecuado en el tiempo y que no
+haya demoras que puedan perjudicar la seguridad vial.
+Por otro lado hemos también incluido un nuevo registro en el
+transporte escolar, a mi modo de ver el transporte escolar es el más
+delicado, porque son los niños los que están poniendo sus vidas al
+garete, porque las actuaciones que todos tomemos en conjunto nunca
+van a ser suficientes, entonces empezamos un registro especial,
+donde todas las empresas de transporte escolar tiene que registrar a
+todos los conductores que están prestando este servicio,
+mostrándonos cual CRC y CA les dieron la posibilidad de realizar
+estas actividades y vamos a empezar a hacer un cruce con el CIMIT y
+con los comparendos de Tránsito para verificar que estén en optimas
+condiciones.
+Yo no puedo creer una cosa, en un operativo que hice a un centro de
+reconocimiento a conductor, yo mismo me di cuenta que habían
+rechazado a la persona porque no tenía la actitud física o mental para
+realizar esta actividad y ellos mismos hicieron una trazabilidad y
+encontraron que en una hora en otro CRC ya le habían dado ese
+certificado, pero para no ser eso suficiente también se hizo la
+trazabilidad que ese mismo conductor termino siendo un conductor de
+transporte escolar, entonces esa trazabilidad es fundamental, por
+obvias razones hicimos que el conductor pues no pudiera realizar esa
+actividad más, pero no podemos permitir que esto siga sucediendo.
+Frente a la respuesta del Representante Ortega Samboni, estoy
+totalmente de acuerdo, hay que ser mucho más fuertes con los
+organismos de tránsito, lastimosamente y esto es algo que venimos
+trabajando conjuntamente en esta Comisión y aprovecho pues la cuña,
+venimos tres años trabajando en un proyecto de ley de régimen
+sancionatorio, algo que yo he enfatizado en ese proyecto de ley tiene
+que ver precisamente con los organismos de tránsito, hoy la
+Superintendencia tiene una sanción que va de uno a 200 salarios
+mínimos, nosotros en repetidas ocasiones seguimos y seguimos
+sancionando a los organismos de tránsito y realmente no ha surtido un
+efecto. Lo que estamos buscando con este proyecto de ley es poder
+intervenir a los organismos de tránsito como en algún momento en los
+años 90 se podía, sino que se dejo la norma sin darle un doliente o sin
+ponerlo en cabeza de nadie y esto hizo que hoy en día no tuviéramos
+estos dientes que son tan necesarios, el día que la Superintendencia
+de Puertos y Transportes pueda remover a un secretario de tránsito e
+inhabilitarlo e imponer a una persona ese día es que va a ver un
+mensaje realmente contundente frente a los organismos de tránsito y
+la cuña es para que podamos efectivamente darle un trámite mucho
+más ágil, que podamos sacar este régimen sancionatorio que es tan
+fundamental para esta entidad como para los ciudadanos que padecen
+todas las inconsistencias frente a las actuaciones delictuosas en
+seguridad vial.
+Para reforzar este tema, quiero comentarles otra cosa preocupante,
+hoy la Corte nos tumbo el único artículo que teníamos para nosotros
+sancionar mencionar a los centros de diagnóstico automotor, hoy no
+podemos sancionar a los centros de diagnostico automotor. Otro de
+los temas que tenemos en el régimen sancionatorio, ¿Que estamos
+haciendo con el Ministerio? Logramos jurídicamente mirar cuál sería el
+plan B, lo cual significa que no quedaran impunes, pero directamente
+no hay algo que nosotros podamos hacer y poco a poco nos llevamos
+esa sorpresa, mientras vamos actuando nos van tumbando poco a
+poco las pocas sanciones que tenemos.
+Otro ejemplo, es el abandono de las rutas, empezamos a actuar desde
+el año pasado por primera vez, declarando abandono de rutas a
+empresas que no están prestando el servicio y oh sorpresa el Consejo
+de Estado hace tres meses tumbo el artículo, lo suspendió, entonces
+tampoco podemos declarar el abandono de rutas, reforzando
+nuevamente la importancia de este proyecto de ley.
+Frente al mototaxismo, lastimosamente la Representante Londoño no
+está, pero quería comentarles que el año pasado sacamos una circular
+ordenándole a todos los organismos de tránsito que primero deben de
+tener estadísticas frente al transporte ilegal; y segundo, estrategias
+que muestren resultados, nunca antes se había tratado como de
+apretar un poco las funciones de los organismos de tránsito, esa
+circular dio que el 77% de los organismos y autoridades de tránsito no
+estaban haciendo absolutamente nada empezamos con algunas
+investigaciones que dieron o están dando para algunas sanciones.
+Ya para terminar y para no ahondar mucho más, quería comentarles
+que frente a centros de reconocimiento a conductores el mensaje es
+que estamos en el proceso de acabar con las mafias que están
+alrededor de los centros de reconocimiento a conductores con la
+implementación de la vigilancia tecnológica, ya empezamos también
+con los centros de diagnostico automotor, la segunda resolución salió
+hace una semana y vamos a mandar el mismo mensaje, no vamos a
+permitir que los certificados falsos sigan en el mercado, no vamos a
+permitir que los ciudadanos obtengan de forma fraudulenta estos
+certificados.
+Quisiera comentarles, que en cuanto a concesiones hemos adelantado
+también una actuación histórica, empezamos a hacer una tarea para
+ver cuáles eran los puntos críticos de accidentalidad en los últimos dos
+años, identificamos que hay 45 que sobresalen, de estos 45 hemos
+hecho el año pasado 38 mesas con los concesionarios, este año
+llevamos 21 donde identificamos la señalización horizontal, la vertical,
+el estado de la carpeta asfáltica, la prestación y calidad de los
+servicios conexos y vemos si el concesionario aparte de sus
+obligaciones contractuales, porque el mensaje nuestro ha sido muy
+claro, para la Superintendencia de Puertos y Transportes la concesión
+vial no es un contrato de obra, es un contrato de prestación de
+servicios y si amerita mayor señalización, mayores esfuerzos por parte
+del concesionario es necesario que lo cumplan y ya hemos abierto 18
+investigaciones a los concesionarios que no han venido cumpliendo y
+tengo una grata sorpresa que ya tenemos unas estadísticas que
+logramos nosotros medir si las medidas están funcionando o no, por
+ejemplo en los tramos Bogotá- Girardot, en los tramos Silvania- Fusa
+ha habido un mejoramiento en seguridad vial del 55% en Alto Rosas-
+Silvania en un 53%, en Boquerón- Melgar un 49% y en Fusa- Chinauta
+un 47%. ¿Qué significa eso? Que estamos rompiendo estos
+esquemas de accidentalidad en puntos críticos donde siempre ha
+habido accidentes, muertos y lesionados y a través de los
+concesionarios estamos mostrando resultados que si se puede bajar,
+se puede bajar con operativos con la Policía, se puede bajar con
+puentes peatonales, se puede bajar con señalización, se puede bajar
+con un sinnúmero de cuestiones que nos han dado resultado hasta el
+momento.
+Bueno ya para terminar, el mensaje es que nos estamos inventando
+cada día más formas de poder combatir las irregularidades frente a los
+accidentes en transporte público, estamos obteniendo unos resultados
+muy contundentes, para nosotros es fundamental un régimen
+sancionatorio que nos de mayores posibilidades de ejercer una
+autoridad muy necesaria para la ciudadanía y para los usuarios del
+transporte y esperamos que este esfuerzo que además no es solo, es
+un esfuerzo mancomunado con el ministerio de Transporte, con la
+Policía de Tránsito y Transporte, con el resto del Gobierno para poder
+cerrarle la brecha a la inseguridad vial. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:50:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muchas gracias al Superintendente de Puertos y Transporte, al doctor
+Juan Miguel Durán, usted sabe que siempre ha contado con esta
+Comisión, es su Comisión y hoy indudablemente la Superintendencia
+cuenta con unos instrumentos más apropiados, que todavía nos falta,
+pero usted sabe que cuenta con nosotros, se retira el ministro de
+Justicia y la, ministra de Educación dado que tienen una agenda
+común y agradecerle el punto tan alto que han puesto y el aporte y a
+usted Ministro que es la primera vez que viene, le reconocemos el
+compromiso que tiene pues con esta Comisión y también con la
+seguridad vial de los colombianos, muchas gracias y a la, Ministra de
+Educación agradecerle, usted sabe que siempre ha estado acá
+presente, pero para despedirla no puedo perder la oportunidad ante la
+Comisión y ante los Ministros y ante el País de reconocerle en usted y
+en compañía de esta Comisión la última encuesta de Tesco sobre la
+precepción de los colombianos en los sectores y en la pregunta si
+aprueban o desaprueban el manejo, doctora María Fernanda la
+educación en Colombia es el sector que la gente más aprueba frente a
+todos los sectores, inclusive fuerzas armadas, todos los sectores es la
+educación, la felicitamos señora, Ministra, una feliz tarde.
+Tiene la palabra el doctor Pinto.</p>
+						</speech>
+						<speech by="#hr-miguel-angel-pinto-hernández" startTime="2013-10-30T10:51:00">
+							<from>H.R. Miguel Angel Pinto Hernández</from>
+							<p>Gracias Presidente, si me permite yo quisiera hacer algunas
+consideraciones con la venia de la Mesa, aprovechando que esta el
+Ministro acá para hacer una pequeña consideración con lo que él
+manifestó.
+Es aprovechar antes de que se nos retire el Ministro, yo conozco las
+obligaciones y compromisos que tiene, primero saludarlos a todos y
+felicitar al Gobierno Nacional porque yo sé que esto viene
+trabajándose de manera mancomunada a través de los diferentes
+Ministerios, yo conozco el trabajo que se viene haciendo desde el
+ministerio de Transporte para lo que va a ser Código de Tránsito, por
+supuesto la loable labor que viene adelantando el Superintendente, la
+importancia que tenemos con el ministerio de Educación en esta
+campaña de prevención que va a jugar un papel importante, hay que
+integrar aquí también al ministerio de las Tic,s para poder enlazar
+todas las funciones de los diferentes Ministerios y poder actuar de
+manera más rápida en todas las actuaciones que tienen que ver, allí
+había que diseñar un programa a través de este Ministerio para que
+nos permita tener entrelazadas todas las actividades.
+Ministro, yo quería hacer unas consideraciones en un tema, usted es
+un experto en derecho penal y para nosotros es una satisfacción que
+este en el Ministerio precisamente por manejar estos temas, para este
+tema de este debate usted ya nos dio una lección de derecho penal
+en lo que tiene que ver con el homicidio culposo, en lo que tiene que
+ver con la impericia y con la imprudencia, entonces yo quería hacer
+unas consideraciones en términos a los proyectos que vienen
+adelantando para hacerle también una solicitud en lo que tiene que ver
+con política criminal, una cosa es el tema del Código de Transporte o
+las sanciones pecuniarias en las multas que se establecen a través de
+los diferentes grados de alcoholemia que se determina a cada uno de
+los conductores que tienen que ver con efecto en las multas, aquí
+hicimos nosotros ya un proyecto que aprobamos donde se establecían
+esos parámetros, donde se agravaban las sanciones, incluso se
+estableció una sanción para aquellos que no permitían hacer la prueba
+de alcoholemia porque se tuviera como si estuviera en el grado
+máximo; y otro tema es en el tema penal, yo creo que también el tema
+como usted lo decía, el tema de los conductores ebrios causa un gran
+impacto, pero ese tema hay que regularlo también el del tema penal.
+En el homicidio culposo como usted lo dijo donde se profiere a través
+de la imprudencia o de la impericia y también de otro elemento que es
+la negligencia, en el homicidio culposo la línea que separa al homicidio
+doloso de lo que tiene que ver con el dolo eventual es una línea muy
+delgada que hoy nuestros jueces y nuestros fiscales siempre se han
+ido por la línea de que todos los accidentes de tránsito en cualquiera
+de las consideraciones son homicidios culposos y por eso la gente y la
+comunidad y la opinión pública a veces se aterra de ver como un
+conductor en alto estado de embriaguez de manera irresponsable
+causa la muerte de muchas personas y al día siguiente queda en
+libertad, por físico desconocimiento de nuestra legislación penal, la
+comunidad no entiende que en algunas ocasiones esto delitos son
+excarcelables.
+Pero yo creo que bien vale la pena Ministro que se mire como incluir el
+homicidio en estado de embriaguez, este homicidio culposo para
+aquellas personas que se sientan a tomar ebrios teniendo las llaves de
+los vehículos en sus bolsillos para después conducir, yo creo que en
+un criterio del derecho penal aquí estamos incurriendo en un homicidio
+doloso, si mi memoria no me es ingrata, en el homicidio doloso se
+determina es porque la persona conoce el resultado, pero confía en
+poder evitarlo mientras que en el dolo eventual la persona conoce
+también el resultado pero lo acepta como posible, esa es la línea tan
+delgada en la interpretación de las normas y yo creo que quien se
+sienta a tomar teniendo las llaves en el bolsillo está asumiendo y
+aceptando la responsabilidad que puede ocasionar en un accidente de
+tránsito estando manejando ebrio, es diferente aquella persona que va
+conscientemente manejando y de pronto asume un exceso de
+velocidad o pasa una curva como usted lo manifestó en cuyo caso
+estamos frente a lo que se determina como la imprudencia porque la
+persona esta confiando en que el resultado no va a ocurrir.
+Pero una cosa diferente es aquel que se sienta a ingerir bebidas
+alcohólicas o a consumir drogas alucinógenas que sabe de antemano
+desde el momento que está en su sano juicio que ese resultado puede
+ocurrir en el momento en que empiece a conducir en ese estado, por
+lo tanto está aceptando la posibilidad de que el resultado ocurra y en
+estas condiciones nosotros estamos efectivamente frente a lo que es
+un homicidio doloso y yo creo que estas actividades tienen que ser
+tipificadas de esa manera para empezar nosotros a sancionar estas
+actividades.
+Usted que maneja el tema de la política criminal o por supuesto eso no
+es materia de esta Comisión que concierne es el Código de Tránsito y
+nosotros no podemos aquí entrar a tipificar comportamientos como
+delitos, pero si le va a corresponder a ustedes manejar ese tema
+Ministro y yo creo que eso hace falta ese acompañamiento desde el
+punto de vista penal para este comportamiento acompañando los
+temas de prevención, porque una cosa es la prevención que se
+adelante, que se puede hacer a través del ministerio de educación otra
+cosa es el tema sancionatorio que se hace a través de la
+Superintendencia en materia de multas y de irregularidades con
+respecto a los funcionarios y otra cosa es el tema penal que tenemos
+que compaginar de alguna manera para evitar estas actividades.
+De igual manera hay que entrar a determinar ahí también esa otra falta
+del homicidio culposo que es el tema que usted no toco, que es la
+negligencia.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:51:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-naranjo-escobar" startTime="2013-10-30T10:51:20">
+							<from>H.R. Diego Naranjo Escobar</from>
+							<p>Gracias señor Presidente, con todo respeto por los Ministros y las
+personas que nos acompañan, yo si quiero pedir una moción de orden
+señor Presidente.
+Primero, yo quiero saber si los demás funcionarios que faltan por
+intervenir van a intervenir y se van a ir también por algún compromiso
+que tengan para ver si nosotros podemos intervenir o no, o si la
+mecánica es que como nos da susto que se van a ir entonces pedimos
+la palabra en desorden los compañeros, entonces yo si pediría que le
+diera un orden a al debate, yo también tengo algo que decir también,
+le pedí la palabra, estoy esperando y estoy escuchando a todos, yo
+entiendo que los Ministros se tengan que retirar por su agenda, pero sí
+señor Presidente le pediría a usted porque entonces yo también pido
+una moción de orden y me agarro aquí a hablar de lo que yo quiero y
+no respeto el uso del debate con el respeto por el doctor Pinto, pero si
+quería saber si los demás funcionarios nos van a escuchar, o sino
+para que nos escuchen primero a nosotros.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:51:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muchas gracias doctor Naranjo, falta por hablar el General Mena, la
+directora del Fondo, los Ministros acaban de decir que acaban de
+cancelar la agenda para quedarsen acá, uno a veces tiene que ser un
+poquito flexible y entender ciertas cosas, pero ya dijeron que habían
+cancelado la agenda doctor Naranjo.
+Tiene la palabra el doctor Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:51:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Era para eso, muchas gracias entonces a los Ministros, porque quería
+que escucharan mis opiniones frente al debate que estamos que es
+importante y si ya se quedan pues no hay ningún problema y esperar
+los turnos debidos señor Presidente, porque quiero concluir las
+apreciaciones de cada uno después de haber escuchado al Gobierno.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:51:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Usted es el que concluye el debate, porque usted es el citante doctor
+Jairo Ortega.
+Tiene la palabra el Brigadier General Carlos Ramiro Mena Bravo
+director de Transporte y Tránsito.
+Brigadier General Carlos Ramiro Mena Bravo,, director de
+Transporte y Tránsito:
+Muchas Gracias Señor Presidente, señores Honorables
+Representantes, señora, ministra de Educación, señor ministro de
+Justicia y el Derecho, señores altos funcionarios citados a esta
+Comisión, demás personas aquí presentes, a la Policía Nacional le
+han hecho llegar un cuestionario de 6 preguntas muy concretas, pero
+antes de darle respuesta a cada una de ellas, quisiera precisar lo
+siguiente, por un lado la Policía Nacional a través de la especialidad
+de Tránsito y Transporte alineara al plan nacional de seguridad vial
+cumple esta función a través de tres procesos fundamentales: el
+primero, como ya lo han hablado y creo que están digamos alineadas
+todas las instituciones, es la prevención; el segundo, la movilidad
+propiamente dicha y el tercer proceso misional es la aplicación de las
+normas, es así entonces que en este marco de funcionalidad
+cumplimos nosotros con cada una de las tareas.
+Es así que obviamente estos procesos fundamentales no podemos
+trabajarlos de manera aislada, de manera solitaria, sino a través de un
+equipo, con todas las instituciones a través de los Ministerios y con
+todas las demás entidades que tienen de manera directa o indirecta
+que ver con la seguridad vial, es así que a través de este trabajo en
+equipo también hay una corresponsabilidad no solamente de los
+Ministerios, sino también corresponsabilidad sobre los entes a quien
+controlamos decía; el señor Superintendente: los organismos de
+apoyo llámese escuelas de conducción, o estos centros de diagnostico
+automotriz cuando ocurre un accidente y a través de la investigación
+se sabe que expidieron por ejemplo una certificación de revisión
+técnico mecánica y que la causa principal sea precisamente el
+vehículo tendrá que existir una corresponsabilidad a ese organismo de
+apoyo o una escuela de conducción que certifica la idoneidad de un
+conductor y que realmente la causa principal del accidente sea por
+falta de idoneidad como ha ocurrido en muchas ocasiones,
+especialmente los de transporte escolar, pues habrá que también
+indilgar corresponsabilidad a esa escuela de conducción que certificó
+la idoneidad de alguien, por lo tanto estamos en ese propósito de
+trabajar en ese equipo y de trabajar también con ese criterio de
+corresponsabilidad.
+Hablaban ya varios de los que me antecedieron en el uso de la
+palabra, sobre la responsabilidad que tienen también los organismos
+de tránsito, y realmente pensaría que lo que tiene que ver con la
+aplicación de las normas los primeros respondientes los organismos
+de tránsito; y una de las razones fundamentales por las cuales esta
+falta de cultura en la conducción y de responsabilidad de conducción
+es porque no le pasa nada a un infractor, realmente no le tiene el
+menor temor a la norma.
+Si hablamos de accidentes ocurridos con conductores en estado de
+embriaguez, lo decía tal vez en una citación anterior, para que
+solamente les suspenda la licencia de conducción se demoran 30
+días, en esos 30 días pueden sacar a los 8 días no más en otro
+organismo de tránsito otra licencia, e incluso por negligencia por no
+verificar y estar conectado al RUNT, entonces los organismos de
+tránsito tienen mucho que ver.
+Cuando miramos nosotros la Policía Nacional y una de las estadísticas
+que me solicitan, y que me adelanto solamente en una cifra en lo que
+llevamos corrido este año la Policía Nacional ha emitido 2 millones 227
+mil 883 comparendos, de esos más de 2 millones comparendos
+quisiera verificar cuántos realmente los han hecho efectivos con las
+sanciones, pero hay más prescripciones que sanciones, entonces allí
+también habrá que mirar esa corresponsabilidad de sus funcionarios.
+Y por otro lado también y permítame manifestarlo con todo el respeto,
+que muchos de los secretarios de movilidad, que muchos de los que
+direccionan estos organismos de tránsito no tienen ni la más remota
+idea de la seguridad vial, entonces claro los procesos se interrumpen,
+los procesos se fragmentan por cuanto no hay ningún conocimiento de
+cómo direccionar el tema de la seguridad vial, ni siquiera conocen
+cuáles son los criterios, parámetros del plan nacional de seguridad vial
+y para acabar de completar en muchos municipios ni siquiera tienen
+ellos un plan de seguridad vial en su municipio y que es una
+responsabilidad de los señores alcaldes y obviamente a través de su
+secretario de movilidad, pero no tienen planes de seguridad vial a lo
+cual tendríamos nosotros que exigir esa gran responsabilidad.
+Entonces entrándome un poco ya a las preguntas que nos han
+elevado a la Policía Nacional y hablan precisamente de ¿Cuantos
+comparendos de infracciones a las normas de tránsito se han
+realizado en el transcurso de este año y comparado con el año
+inmediatamente anterior? Pues en el año 2012 se implementaron a
+esta fecha 1 millón 707 mil 294 comparendos con un aumento de por
+lo menos el 24% en los comparendos que se han emitido este año con
+la cifra que di anteriormente con más de 2 millones 227 mil en lo que
+va corrido de este año.
+De igual manera nos preguntan sobre ¿cuáles son las principales
+causas y que porcentaje tuvieron en esta clase de vehículo? En primer
+lugar que bueno y celebro de que estemos en diversos debates y que
+toda la institucionalidad está en línea para implementar normas que
+verdaderamente permitan prevenir accidentalidad, pero
+desafortunadamente hemos tenido que llegar a unas cifras muy
+preocupantes, especialmente en conductores en estado de
+embriaguez, para revisar realmente si las normas que están vigentes
+son idóneas y son eficientes o no, en lo que llevamos este año en
+accidentes con conductores en estado de embriaguez, se han
+presentado 394 muertos, solamente en accidentes en estado de
+embriaguez a la fecha, esperar esta cifra para realmente empezar a
+preocuparnos y realmente buscar las acciones y las herramientas
+jurídicas que por lo menos mitigue de alguna manera esta grave
+preocupación.
+Entonces, les decía sobre las principales causas, decirles que la
+embriaguez ocupa un 8 lugar: En primer lugar, esta en este momento
+el exceso de velocidad con 450 mil 282 accidentes en lo que lleva
+corrido de este año; el segundo esta el estacionar en sitios prohibidos
+con 287 mil; conducir motocicletas sin observar las normas,
+desafortunadamente la motocicleta es el vehículo que más ha
+ocasionado accidentes; en cuarto lugar, transitar por sitios
+restringidos; la revisión técnico mecánica; el conducir sin llevar licencia
+de conducción; en séptimo lugar, conducir sin haber obtenido licencia
+con 88 mil 518 casos y el octavo lugar, conducir en estado de
+embriaguez con 53 mil 628 comparendos que hemos emitido por parte
+de la Policía Nacional y hay otras causas solamente por mencionarlas,
+el conducir sin portar los seguros correspondientes, el no detenerse
+ante un semáforo o señal de pare, adelantar en zona prohibida o no
+acatar simplemente las señales.
+Frente a los vehículos ocupa el primer lugar la motocicleta con 872 mil
+124 accidentes, que eso representa el 39% del total de la
+accidentalidad, seguido del automóvil con 729 mil 592 con el 33%, la
+camioneta con el 8% y luego sigue ya otro tipo de vehículo como los
+camperos, los camiones, los buses, busetas, tractocamiones, etc.
+Al tercer interrogante frente al porcentaje de accidentes de tránsito con
+sus principales causas y habla nuevamente si el conducir en estado de
+embriaguez es una de las principales causas, les decía ocupa el 8
+lugar dentro de ellas y que ya se ha comentado en múltiples
+ocasiones, tengo las estadísticas también con las cifras exactas, las
+hemos hecho llegar a esta Comisión.
+Nos elevan también la cuarta pregunta que comparada con el año
+2012 si se han disminuido o aumentado los accidentes de tránsito por
+conductores en estado de embriaguez, pues en honor a la verdad les
+diría que se ha mantenido casi que en las mismas cifras con una muy
+leve disminución, solamente hablando de accidentes con una
+disminución de 3 casos frente al año 2012, es decir se mantiene, lo
+mismo que las muertes. Les decía que en este año llevamos ya 394
+muertos por causas de conductores en estados de embriaguez, el año
+pasado a esta fecha llevábamos 391 y lo mismo que en lesionados
+con 2 mil 119 en este año frente a 12 mil 097 en el año anterior,
+prácticamente con un aumento del 1%.
+La quinta pregunta que nos eleva esta Comisión dice: ¿Ha aumentado
+o disminuido los comparendos por conducir en estado de embriaguez
+comparados con el año 2012? Pues decirles que se ha aumentado en
+un 4% los comparendos emitidos por parte de la Policía Nacional, el
+año inmediatamente anterior fueron menos de 48 mil en este año
+llevamos como ya lo comente 53 mil 628 comparendos, es decir un
+aumento de 2 mil 148 para ser exactos, con un aumento del 4% que el
+año inmediatamente anterior.
+Y la última pegunta y de la cual ya se han manifestado varios de los
+funcionarios aquí citados y hablan sobre si la Policía Nacional la de
+Tránsito y Transporte específicamente está preparada para dar
+cumplimiento al artículo 16 del proyecto de ley 090 de 2013 de Senado
+en cuanto a la retención transitoria para conducir en estado de
+embriaguez, frente a ella quisiera también realizar algunas
+precisiones, la Corte Constitucional en uno de sus conceptos declaro
+inexequible la retención transitoria que estaba contemplada allá en el
+moribundo Código Nacional de Policía, anteriormente nosotros
+teníamos esa facultad de retener de manera transitoria hasta por 24
+horas, ya no la tenemos.
+Segunda precisión, frente al cambio de sistema penal desde el año
+2005, de pasar de un sistema inquisitivo o mixto a un sistema penal,
+oral, acusatorio, solamente permite que cada vez que se detenga a
+alguien o se prive de la libertad deberá colocarse de manera inmediata
+ante las autoridades judiciales competentes, en este caso a la Fiscalía
+General de la Nación, que incluso cuando se habla del término de las
+36 horas, la medición es casi que minuto a minuto para justificar del
+porque no deja esta disposición de manera inmediata y obviamente
+todas estas salas de reflexión como se denominan fueron levantadas
+por cuanto ya no tenemos en este momento esa facultad; y por otro
+lado organismos de derechos humanos a nivel nacional e internacional
+verificaron si en las estaciones de Policía o en las instalaciones de
+nuestra institución existen esas salas de reflexión y si cumplen o no
+con los parámetros de respeto por los derechos humanos y
+obviamente respeto por la dignidad humana.
+Por lo tanto, nosotros frente a ello podríamos decir que para
+implementar esta medida yo creería que estamos casi que
+retrocediendo y más aún frente al concepto de la Corte Constitucional
+habría que revisarlo muy bien si se implementaría o no.
+Segundo, como lo decía el señor ministro de Justicia, si esta medida
+sería la solución pues realmente no solamente la Policía Nacional,
+sino todos los organismos de tránsito porque decirles también que en
+más de 800 municipios la Policía Nacional no ejerce control de
+tránsito, por cuanto la Ley 769 ordena que para el control urbano de
+tránsito se debe tener un convenio a través de los alcaldes de cada
+uno de los municipios, son más de 800 municipios en que la Policía no
+ha logrado tener convenios por muchas causas que manifiestan los
+señores alcaldes y entonces qué pasa cuando no hay Policía Nacional
+en esos municipios, tendrían que retener de manera transitoria los
+guardas de tránsito y hacer un procedimiento y como decía el señor
+ministro de Justicia cuál sería el procedimiento, el protocolo, el paso a
+paso para dejar a disposición una persona que esté en estado de
+embriaguez o bajo los efectos de sustancias psicotrópicas, eso se
+dificultaría enormemente.
+Así es que creeríamos nosotros que no sería pertinente bajo nuestra
+óptica, bajo nuestro foco de retener de manera transitoria a
+conductores en estado de embriaguez y más aún cuando la
+estadística real y actual en que estamos nosotros emitiendo cerca de
+200 comparendos diarios por estado de embriaguez, diríamos
+nosotros que tendríamos entonces con esta medida que aplicar la
+medida de retención transitoria a 200 personas diariamente. Son cifras
+exorbitantes que hemos pasado en puentes festivos de más de mil
+quinientos conductores en estado de embriaguez en un solo puente
+festivo, en un fin de semana, entonces esas son cifras reales, son
+cifras importantes que consideramos analizarlas muy bien y tener en
+cuenta esta medida. Esas son las preguntas que nos han elevado a la
+Policía Nacional y aspiramos haber dado respuesta. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:52:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene el uso de la palabra la, directora del Fondo de Prevensión Vial, la
+doctora Alexandra Rojas.</p>
+						</speech>
+						<speech by="#dra-alexandra-rojas" startTime="2013-10-30T10:52:10">
+							<from>Dra. Alexandra Rojas</from>
+							<p>Gracias señor Presidente. Quiero concentrar mi intervención pues
+dado a lo que se ha hablado acá sobre los temas mencionados como
+fundamentalmente como alcohol y motos, yo quiero mencionar algo y
+es que nosotros como sociedad si hemos avanzado en el tema de
+alcohol y el hecho de que tengamos un debate como estos en el día
+de hoy realmente lo muestra, nuestras encuestas dan resultado como
+el 90% de los colombianos considera incorrecto en incurrir en la
+conducta de conducir después de haber consumido alcohol, todos
+quienes estamos acá seguramente hemos estado en algún tipo de
+eventos social donde hay conductores elegidos, conductores
+contratados por medio de las aseguradoras o incluso conductores que
+las personas contratan cuando decían consumir alcohol para evitar la
+conducta de ponerse al volante, eso si hacemos memoria reciente no
+sucedía hace muy poco tiempo y yo creo que vale la pena reconocer
+ese avance y no tenemos evidencias que muestren que la conducta es
+más frecuente, lo que si vemos como muy positivo es que ahora causa
+indignación y lo que creemos es que esa indignación hay que
+mantenerla para que esa conducta no siga sucediendo.
+Hay un tema que menciono el Representante Ortega Samboni que
+creo que también vale la pena resaltar y es que todos los eventos que
+han ocurrido recientemente, que han tenido eco en la opinión pública
+hay presencia de alcohol y de velocidad, el factor de riesgo más
+grande en la letalidad de los accidentes y que tengan consecuencia de
+por vida es realmente la velocidad, entonces digamos en esta
+discusión no podemos olvidar ese tema.
+Y voy a volver a un tema que mencionaba hace un momento el
+General Mena y quiero traer a colación la Ley 1548 del año 2012,
+nosotros en Colombia tenemos normas y tenemos normas fuertes
+para la conducta de conducir con alcohol, normas administrativas,
+Colombia es uno de los pocos países del mundo que tiene
+virtualmente una 0 tolerancia de consumo de alcohol y conducción, la
+medida de 0.2 miligramos por 100 mililitros de sangre que ya empieza
+a dar positivo en Colombia es la medida por ejemplo recomendado por
+la Organización Mundial de la Salud es 2,5 veces superior al límite que
+tenemos en Colombia, este límite el que ya tenemos equivale en la
+práctica a una sola copa de alcohol, en Colombia las personas ya dan
+positivo con una sola copa de alcohol y ese es además el límite de los
+alcoholímetros con lo se mide la incidencia de alcohol en alcohol
+expirado, entonces esa medición digamos es como lo mínimo que
+pueden captar los alcoholímetros que existen en el mundo.
+Las sanciones que plantea la ley son: Imponer un comparendo de 45
+salarios mínimos mensuales diarios vigentes que eso son más de 800
+mil pesos, la inmovilización del vehículo, la retención de la licencia y
+la suspensión de la licencia entre 6 mes y 10 años, de ahí ustedes ven
+la importancia de la demanda que introdujo el Superintendente de
+Puertos y Transporte porque las personas pedían que no les
+suspendieran las licencias a 10 años, sino que por favor se las
+cancelaran porque la ley les permitía volver a pedir la licencia a los
+tres años de haber sido cancelada de manera definitiva, entonces ese
+es un punto realmente importante, pero quiero resaltar que hay
+sanciones y el Congreso tomara las mejores decisiones, pero es
+importante que la ciudadanía sepa que hay sanciones, que las
+sanciones son fuertes y que tenemos una virtual 0 tolerancia a la
+conducción con alcohol.
+Ahora el siguiente tema, es el tema de la percepción de control y ahí
+vuelvo digamos a dos puntos, uno que acaba de mencionar el señor
+General Mena y es que en muchos municipios de Colombia no se
+ejerce ninguna autoridad de tránsito durante todo el año, en ningún
+momento en el caso urbano y como mencionaba el General Mena
+Colombia es un país descentralizado donde constitucionalmente la
+autoridad de tránsito es del alcalde, entonces la Policía Nacional sino
+media un convenio no puede ejercer autoridad en esos municipios que
+son más de 800 y adicionalmente esos municipios la gran mayoría
+coinciden con que tampoco tienen guardas de tránsito, lo que arroja
+que en la práctica ni una sola vez al año se ejerce autoridad en esos
+municipios, entonces un poco aquí el llamado es que lo único que es
+relevante no es el tamaño de las sanciones, sino que hay que tener en
+cuenta la capacidad de ejercer el control y en ese sentido también eso
+yo lo he discutido con el general Mena y lo hemos planteado en varios
+escenarios para tener una capacidad de subir la percepción en
+Colombia; nosotros también consideramos es una opinión del Fondo
+de Prevensión Vial que la Dirección de Tránsito y Transporte debería
+tener al menos 3 veces el cuerpo de hombres que tiene, porque con el
+número de hombres que hoy hay que son alrededor de 8 mil es muy
+difícil mantener autoridad en los 90 municipios con los que tienen
+convenios y adicionalmente en todos los kilómetros de las carreteras
+nacionales, eso por ejemplo significa que nosotros tengamos
+municipios con casi 300 mil habitantes en los que hay un contingente
+de 30 hombres que están prestando el servicio de autoridad en temas
+de tránsito y en ese sentido creemos que es muy importante en esta
+discusión tener en cuenta ese tema y por supuesto que reconocemos
+que es un tema que tiene un nivel jerárquico pues muy alto en la
+discusión, pero es un tema que creemos que es muy relevante, porque
+si no subimos la capacidad de que los ciudadanos tengan una alta
+percepción de control, pues es muy difícil que logremos en la práctica
+unos cambios consistentes de comportamiento.
+En relación con el tema de motos que mencionaba la Representante
+Londoño, si es uno de los temas críticos y ahí quiero mencionar una
+cosa que me parece que es muy importante tener en cuenta y es que
+la forma que tiene la accidentalidad de las motocicletas ha cambiado
+del año 2007 al año 2012, cambiamos por ejemplo, incrementamos de
+tener 519 personas que van en una motocicleta que fallecen en
+carreteras a tener 957 personas que fallecen en carreteras en el año
+2012, eso incrementa la proporción del total de personas que fallecen
+en carreteras que van en una moto del 33% al 47% y ahí hago un
+llamado porque hay una caracterización especifica de que están
+falleciendo muchos más motociclistas en las carretas y es el punto en
+el que tenemos realmente un trabajo muy grande por delante.
+En relación con las preguntas, nosotros radicamos las respuestas
+desde el día viernes y voy a dar como unas respuestas generales a
+cada una de las preguntas pues si estamos acá dispuestos a
+responder todos los detalles.
+Entonces, lo primero son los objetivos y funciones del Fondo de
+Prevensión Vial, lo que hace el Fondo de Prevensión, se encuentra
+reglamentado por el artículo 244 de la Ley 100 en su numeral 1 que
+dice que las compañías aseguradoras que operan el Soat destinaran
+el 3% de las primas que recaudan anualmente a la constitución de un
+Fondo administrado por ellas para la realización conjunta de
+campañas de prevensión vial nacional en coordinación con las
+entidades estatales que adelanten programas en ese sentido, eso es
+como la explicación exactamente de lo que la norma impone como
+obligación al Fondo de Prevensión Vial, entonces esta obligación
+nosotros la llevamos a la práctica a través de acciones en los
+siguientes frentes de trabajo: Promoviendo una infraestructura rural y
+urbana que permita reducir la letalidad de los accidentes, estimular la
+calidad de los vehículos y el equipo, estimular comportamientos
+humanos más seguros y promover una institucionalidad que proteja la
+integridad de las personas y eso son los elementos esenciales de
+nuestra planeación estratégica que son los que responden las
+preguntas 3 y 4.
+En relación con las cifras, lo que nosotros y ahí quiero hacer una
+precisión, nosotros no somos fuente de información, nosotros somos
+usuarios de información que viene del ministerio de Transporte y del
+Instituto Nacional de Medicina Legal, entonces con base en la
+información del Instituto Nacional de Medicina Legal vemos que en el
+año inmediatamente anterior hubo un total de 5 mil 917 personas que
+fallecieron en las vías y de estos el 42% fueron personas que iban en
+una motocicleta y el siguiente usuario de las vías que tiene mayor
+incidencia es el peatón.
+En relación con las causas que era una de las preguntas
+específicamente formuladas por el Representante Ortega Samboni,
+pues ahí hay un tema que hay que resaltar y es que en el 64%de los
+casos donde hay víctimas mortales no están establecidas las causas
+de ese deceso, en el otro porcentaje es donde se encuentra que el
+primer elemento es el exceso de velocidad con un 8.4% y que la
+embriaguez aparente aparece como un tercer lugar con un 2.3%.
+En relación con el financiamiento nuestro, nosotros somos financiados
+por el 3% de los recursos que reciben las aseguradoras que tiene el
+ramo del Soat y esta es la totalidad del financiamiento con el que
+nosotros hacemos nuestro trabajo; y en relación con el tipo de trabajo
+que nosotros hacemos, voy simplemente a mencionar los retos que
+son: Promover una infraestructura rural y urbana para reducir la
+letalidad de los accidentes, estimular la calidad de los vehículos y el
+equipo, estimular comportamientos humanos más seguros y promover
+una institucionalidad que proteja la integridad de las personas y esto
+como dice el mandato de la Ley 100 se hace en coordinación con las
+organizaciones del Estado que tienen responsabilidades en esto.
+Finalmente, quería resaltar que nosotros como lo menciono el Ministro,
+nosotros también consideramos que es un paso muy importante la
+discusión y esperamos que la aprobación de la Agencia Nacional de
+Seguridad Vial, esperamos que sea un instrumento que permita
+fortalecer la institucionalidad y que permita tener un liderazgo de una
+agencia pública en los temas de seguridad vial.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:52:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>De esta manera concluye la intervención de los citados al debate del
+día de hoy. Continúa con el uso de la palabra el Representante Diego
+Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-naranjo-escobar" startTime="2013-10-30T10:52:30">
+							<from>H.R. Diego Naranjo Escobar</from>
+							<p>Gracias señor Presidente. Lo primero felicitar a los citantes y
+agradecer la presencia de los Ministros y de tan distinguida Mesa hoy
+aquí en el recinto de la Comisión Sexta, si alguna vez nos habíamos
+quejado porque no asisten los Ministros, hoy si hay que decir que se
+reconoce la presencia de todos ustedes a esta citación.
+El ministro de Justicia hablaba de que era necesario hablar de algunas
+cifras, yo quiero pues como dejar algunas cifras aquí que tengo para
+que las comparemos y las concertemos porque hay veces
+acomodamos las cifras o se manejan de manera equivocada en todos
+los sectores del Gobierno y entonces necesitamos es como unificar
+para poder tomar las mejores decisiones, por ejemplo cada año se
+mueren 1.3 millones de personas en el mundo a raíz de accidentes de
+tránsito y eso está afectando el producto interno bruto, está afectando
+la capacidad de las personas, está afectando muchos temas y en el
+caso de Colombia registra 5 mil 693 personas muertas en el año 2012
+de acuerdo a unas cifras que maneja el Fondo de Prevensión Vial, un
+número bastante elevado comparado con otros países de la región en
+similares condiciones de Colombia, las causas principales que le
+mencionan ahí a nivel mundial figuran los traumatismos causados por
+tránsito, son las principales causas de defunciones; según las
+prevenciones no se adoptan medidas inmediatas y eficaces si no se
+adoptan medidas inmediatas y eficaces dichos traumatismos se
+convertirán en la quinta causa mundial de muerte, con unos 2.4
+millones de fallecimientos anuales, eso es a nivel mundial.
+Pero tengo que decir algo que me sorprende en este informe, el
+parque automotor, el crecimiento en Colombia ha sido más o menos
+de 8.4 millones de automotores rodando por las calles colombianas ¿Y
+eso que nos lleva a determinar? Que el modelo de movilidad en el país
+cambio y significa entonces que hay que desajustarnos cierto y voy a
+dar unas cifras aquí rápidas para no alargarnos mucho, la tasa de
+mortalidad en accidentes de tránsito y que involucra motocicletas
+porque es que a los motociclistas se les da muy duro y siempre se
+dice que los motociclistas y los motociclistas, pero hay que registrar
+con sorpresa ninguna muerta es buena pero el año 98 fue el año de
+mayores muertes por motociclistas y fueron 186 muertes por 100 mil
+habitantes, en el 2012 son 52 muertos por 100 mil habitantes,
+entonces queda una relación bien clara aumento el parque automotor
+de motos pero ha disminuido las muertes, eso hay que tenerlo en
+cuenta para poder hacer los análisis claros y vuelvo y repito poder
+tomar las mejores decisiones y hay que decir además que el parque
+automotor en Colombia aumento en un 78% pero las motos aumento
+en 111% en cambio el resto del parque automotor se ha mantenido
+estable en un 53%.
+Nosotros estamos por debajo en menos muertos que Chile, Argentina,
+Nicaragua, Uruguay, México, tienen ellos mayores problemas para no
+alargarme, más dejo esas cifras como para que las tengamos en
+cuenta.
+A la señora, ministra de Educación, yo fui ponente del proyecto de ley
+que hoy es Ley 1503 de 2011, que habla sobre: “Los problemas de
+hábitos, comportamientos y conductas seguras en la vía y se dictan
+otras disposiciones”, yo quería como que usted nos ayude, porque en
+el artículo 14 de esta ley dice: Enseñanza obligatoria. En todos los
+establecimientos oficiales o privados que ofrezcan educación formal es
+obligatorio los niveles de la educación preescolar, básica y media
+cumplir con: En el literal f el desarrollo de conductas y hábitos de la
+prevensión vial y la formación de criterios para evaluar las distintas
+consecuencias que para su seguridad integral tiene las situaciones
+riesgosas de las que se exponen como peatones, pasajeros y
+conductores”.
+Además dice y usted lo mencionaba ahora en un parágrafo el estudio
+de estos temas y la formación en tales valores salvo en los literales A
+y B no exige sino lectura específica, eso está claro, esta información
+debe incorporarse en el currículo y desarrollarse a través de todo un
+plan de estudios, la pregunta es: ¿Hoy nuestras instituciones
+educativas están cumpliendo con esta norma? hoy se les está
+enseñando a los niños y a las niñas en todo este nivel de educación
+los temas sobre hábitos y seguros en materia de seguridad vial, me
+parece que hay que hacer un seguimiento porque muchas veces las
+leyes se aprueban con las mejores intenciones pero nunca entran a
+operan como debiéramos y entonces es como el llamado respetuoso
+para que los Ministerios encargados pues hagamos el seguimiento a
+ver si eso nos ayuda a mejorar los indicadores.
+También estamos construyendo el Código de Tránsito señor
+Viceministro nos tienen en esa tarea y ahí yo quiero como que
+estamos avanzando muy fuertemente y quería como para información
+de los colegas, aquí se habla ahorita de la diferencia que hay entre la
+sanción de la licencia y la cancelación, o sea la suspensión, pero hay
+estamos tratando de incluir unos artículos que permita que haya
+cancelación total de la licencia, ahí se están incluyendo para que
+ustedes sepan y además estamos diciendo que sea de acuerdo a la
+causa, se da por unos plazos y se cancela una licencia por 10 años y
+si a los 10 años la persona quiere volver a iniciar tiene que sacar su
+licencia desde el nivel 0 no puede entrar a tener la misma que tenía en
+esa categoría, estamos incluyendo aspectos muy importantes.
+Pero aquí nos encontramos y qué bueno que este el ministro de
+Justicia porque hay unos temas que se están tocando ahí que no son
+del Código de Tránsito, sino que tienen que ir a la Comisión Primera
+para que sea el Código Penal que establezca, nosotros establecemos
+las conductas y los motivos y las razones para las cancelaciones, pero
+si queremos que haya una unidad de criterio con el ministerio de
+Justicia para que en ese Código Penal se establezca y se queden las
+penas establecidas en ese orden de ideas.
+También soy autor del proyecto del régimen sancionatorio de la
+Superintendencia de Puertos doctor Juan Miguel Durán, hemos
+molestado con ese proyecto desde el primer periodo de la Cámara,
+desde el 2006 estamos tratando de que ustedes entiendan, que el
+gobierno entienda, los Congresistas entiendas que se hace necesario
+un régimen sancionatorio distinto hoy al que está establecido, o si no,
+no vamos a poder lograr el objetivo que queremos; y también me
+tienen de ponente del proyecto de ley 342 que es la Agencia de
+Seguridad Vial, pues yo si quiero que como que ahí se toquen algunos
+temas: El primero yo proponía Viceministro una reunión con usted, que
+si se va a crear la Agencia Nacional de Seguridad vial pues yo
+propondría que se elimine el Fondo de Prevensión Vial, pues yo
+propondría eso, me parece a mí que si vemos el objeto de lo que
+propone la agencia de creación de seguridad vial, esa agencia, pues
+dice: La Agencia Nacional de Seguridad Vial es la máxima autoridad
+para la aplicación de las políticas y medidas de seguridad vial
+nacional, articula los organismos y entidades públicas y privadas
+comprometidas con la seguridad vial y dirige el plan de acción de
+seguridad vial del Gobierno. Su misión es reducir los accidentes de
+tránsito que están generando lesiones y muertes a muchos
+colombianos. Entonces me parece a mí que analicemos si es
+necesario que el Fondo de Prevensión Vial siga existiendo, además
+estamos proponiendo en esa ponencia que estamos haciendo con el
+doctor Atilano Giraldo, se va a disponer de los recursos del SOAT para
+poder financiar, porque el ministerio de Hacienda ya dio el visto bueno,
+porque pensó que era que le íbamos a pedir plata al ministerio de
+Hacienda para poderlo financiar, pero se le dijo es que los del SOAT
+se van 1.2 tengo entendido o uno para financiar la Agencia Nacional
+Vial y se le va a exigir que los gastos de funcionamiento de seguridad
+vial no excedan más del 1% del total del presupuesto para que no se
+vaya a generar ahí un cuerpo burocrático de intereses que después es
+peor que el Fondo de Prevensión con todo respeto.
+Y estamos pidiendo que ahí de esos recursos a los colegas que les
+interesa y que son de municipios pequeños, se asignen recursos para
+que los municipios puedan trabajar temas de prevensión vial,
+municipios de 6º. categoría, los municipios de 6º. categoría no tienen
+organismo de tránsito, entonces los alcaldes van a poner una
+señalización en un municipio no tienen con qué hacerlo, van a hacer
+una campaña y no hay con que hacerlo, entonces también estamos
+proponiendo que de ahí esos organismos de tránsito son
+departamentales, que los Gobernadores cuando reciban el recuso de
+las multas y de todas las infracciones pues le transfieran a su alcalde
+de 6ª. categoría unas partidas para poder hacer la seguridad vial
+desde los municipios.
+Y finalmente en ese tema de seguridad vial, yo si quisiera y me
+preocupa y me encanta que aquí este la, Contraloría porque tengo un
+informe pues muy preocupante de algunas acciones o algunos
+comentarios que hace la, Contraloría en donde se habla de algunos
+contratos, o algunos gastos, o algunas inversiones que se están
+manejando desde el Fondo de Prevensión Vial, me gustaría saber eso
+en que va, que podemos decir hoy, si eso es cierto o no es cierto,
+porque aquí hay un informe y para no entrar en detalles todos pueden
+acceder a él, me preocupa porque aquí hay un contrato de 8 mil 931.5
+millones, dice la, Contraloría, eso aumento un gran número de los
+gastos y fue una cosa distante de la verdadera misión para la cual fue
+creada o me parece que a la Comisión Sexta o al citante que esta hoy
+invitando a esto deberíamos de centrarnos y lo más importante del
+debate de lo que está diciendo la, Contraloría de lo del Fondo de la
+Prevensión Vial.
+Yo por ejemplo tengo una pregunta también, yo no sé si la, Contraloría
+habrá preguntado algún día ustedes conocen a un señor que es Pirry
+que es muy famoso en Colombia y sale y habla y dice que hay que
+utilizar la inteligencia vial y que no sé y que cuánto es el contrato de
+publicidad por televisión o eso o explíquenos porque es que a los
+Congresistas si nos cogen y entonces que nos digan porque ese es el
+hombre más famoso del país, ese es el hombre que todo el mundo le
+cree y si esa publicidad ha servido para reducir los indicadores, que
+indicadores de medición hay en tema de costo, beneficio con esa
+campaña publicitaria, si eso si se ha podido lograr, cuanto es el
+presupuesto y cuanto es el contrato que este señor no sé, porque esto
+son recursos, porque es que hay una preocupación final para terminar
+Presidente.
+El Fondo de Prevensión Vial fue creado por la Ley 100, entonces
+cuando se está creado por la Ley 100 quiere decir que los recursos
+que va a manejar el Fondo de Prevensión Vial son recursos públicos,
+están establecidos en el tema de la Ley 100, parece que se creó al
+interior del Fondo de Prevensión Vial un fondo adicional distinto, no
+tengo la información precisa pero si como que genera algunas
+preocupaciones en torno al tema que está pasando con el Fondo de
+Prevensión Vial.
+Entonces yo para no alargarme más y tocar muy por encima estos
+puntos pues dejar ahí el debate, me parece que es un tema
+trascendental importante y me parece además que se hace necesario
+que el país pueda disminuir las muertes por accidentes de tránsito, me
+parece que aquí la tarea es esa, me parece que no puede seguir
+siendo esta la primera causa de muerte en el país por encima del
+conflicto armado por ejemplo, sino que tiene que ser realmente una
+tarea responsable que nos permita coordinadamente entre todas las
+instituciones del Estado poder mejorar la situación de seguridad vial en
+el país.
+Y además se me olvidaba Presidente, la doctora Juana Carolina
+preguntaba ahora aquí por los temas de los motociclistas, muy bueno
+que la Comisión Sexta, tengo una información que hay una ponencia
+para primer debate del proyecto de ley 37 de 2013 Senado, no sé si ya
+está en trámite, me acaba de llegar, donde dice que se dictan
+elementos para el uso de la motocicleta en el territorio nacional y se
+dictan otras disposiciones, hay que mirar esto en que trámite va,
+porque tengo aquí un texto donde me parece extraño, porque me
+parece que ya está radicado, porque dice proyecto de ley 37 de 2013
+para que podamos nosotros trabajar desde este proyecto todas las
+inquietudes que tienen que ver con el tema de motociclistas.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:52:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene el uso de la palabra el doctor Jhon Jairo Roldán Avendaño.</p>
+						</speech>
+						<speech by="#hr-jhon-jairo-roldan-avendaño" startTime="2013-10-30T10:52:50">
+							<from>H.R. Jhon Jairo Roldan Avendaño</from>
+							<p>Gracias señor Presidente. Buenas tardes para los asistentes, señora
+Ministra, señor Ministro, señor Brigadier General del Tránsito de la
+Policía Nacional, señor Viceministro, Superintendente,, Directora del
+Fondo de Prevensión Vial, representantes de la Procuraduría,
+Contraloría, compañeros de la Comisión Sexta y demás asistentes a
+esta hora.
+Presidente yo quiero como enfocar mi intervención en tres aspectos
+importantes: Y el primero es que la percepción que tiene la comunidad
+señor Presidente es que no hay una voluntad del Gobierno Nacional y
+por ende del Congreso para legislar en este tema de accidentalidad
+vial, aquí se volvió famosa la embriaguez por el evento que hubo con
+un Senador de la República y por el evento que hubo entre ese
+insuseso entre la Policía Nacional y el Senador, hoy ya ex senador,
+por este suceso determinado por la Procuraduría General de la
+República que perdió su investidura y ha sido también de moda este
+tema señor Presidente porque cuando empecemos en la Plenaria de
+Cámara a discutir la embriaguez en conductores un sector político
+representado específicamente por el Partido MIRA salió a todos los
+medios de comunicación con una concurrencia muy grande en
+medios, que los Congresistas no queríamos jalarle al tema de
+sancionar la embriaguez en conductores que para no vernos en el
+futuro en una inhabilidad en nuestras aspiraciones políticas, lo que fue
+muy lamentable y salió en los medios de comunicación que al
+Congreso de la República me perdonan la expresión “no le dio la
+gana” por intereses casi que personales para seguir conduciendo en
+estado en embriaguez.
+Esa es la percepción que tiene la comunidad en general, que el
+Gobierno Nacional no tiene una voluntad clara en ese sentido, la
+Policía de Transportes y Tránsito está haciendo su trabajo, el Fondo
+de Prevensión Vial está haciendo su trabajo pero no hay nada efectivo
+y queda uno todavía más desorientado cuando ahora yo escuchaba
+con atención al Ministro y el Ministro hablaba que una de las fórmulas
+mágicas para solucionar este problema de embriaguez era que al
+conductor lo pusieran a cuidar la vía, yo no sé si el Ministro de pronto
+todavía estaba considerando que estaba en una locución y quisiera
+habérselo dicho aquí de frente de hora 20 de Caracol Radio o de
+verdad expresando una afirmación como Ministro de Estado, como
+Ministro de Justicia de la República mandando un mensaje que una
+muy buena solución era coger el conductor embriagado y ponerlo a
+cuidar la vía, no se señor Brigadier General si uniformado o no
+uniformado, todavía en su traba, todavía en su prenda como decimos,
+pero de verdad que queda uno más desconcertado todavía.
+El segundo aspecto señor Presidente, las cifras, lo mencionaba el
+doctor Diego Naranjo, uno queda con las cifras un poquito aquí
+desconcertado porque lo decía ahora Diego Naranjo lo primero que
+tiene que hacer el Gobierno Nacional también es ponerse de acuerdo,
+Ministerio, entes de control, transportes y tránsito y el Fondo de
+Prevensión Vial para que al menos nosotros leamos la misma
+información en todas partes.
+Directora del Fondo Prevensión Vial revisando cifras, yo veo que el
+centro aquí no es ni la embriaguez, es circunstancias del hecho, muy
+importante General que yo creo que no le mandan copia a usted de
+este informe, circunstancias del hecho en muertes y lesionados por
+accidente de transporte en el año 2012, desobedecer señales de
+tránsito, malas condiciones ambientales, malas condiciones en la vía e
+irrespeto a los semáforos, contravía, posibles fallas mecánicas,
+embriaguez aparente, violación a las normas de tránsito, exceso de
+velocidad, me salto dos ítems que hay en este cuadro señora
+Directora, violación de normas de tránsito, eso arrojo 6 mil 152
+muertos y 39 mil 440 lesionados, pero hay dos ítems aquí
+supremamente importantes, sin información el 63.8%, sin información
+de la circunstancia del hecho 63.8% y adicional otros 10% o sea que
+en este momento uno leyendo esta información en el 73% uno no
+sabe que paso, claro nos hemos detenido y en su informe señor
+Brigadier General habla: No respetar prelación, cruzar sin observar,
+desobedecer señales de tránsito, exceso de velocidad, no mantener
+distancia, embriaguez, invasión de carril, ahí está el 59.7%. Me
+pregunto yo, el otro 40% donde esta, es que es 40%.
+Y en el cuadro del Fondo de Prevensión Vial solo hay información del
+37%, hay un 73% que dicen dos palabras sin información y el otro
+ítems 4 una sola palabra otro, sale una ahora, usted señora, Directora
+usted tiene aquí responsables en sus indicadores ingeniería,
+comunicaciones, investigación y administración y finanzas, donde se
+están sustentando los gastos de 5 mil millones, 280 millones, 25 mil
+millones 300 y 4 mil 610, este es uno de los anexos que dice
+planeación estratégica 2013-2014, me parece a mí que al menos lo
+digo con mucho respeto, que esta parte de investigación pues estos
+dos ítems que dicen sin información y otros. Entonces la pregunta mía
+señor Presidente es si el 73% de las causas de muertos y lesionados
+están sustentados en una falta de información y otros, entonces no
+tiene un insumo el Fondo de Prevensión Vial para trabajar.
+Mirando aquí señor Presidente la proyección de los accidentes en el
+Fondo en el año 2012, hay una proyección de accidentes, la tabla
+número 6 Fondo de Prevensión Vial, número de accidentes de tránsito
+según año Colombia, pues estos son accidentes con lesionados, o sin
+lesionados, o con muertes, 194 mil 808 y en una tabla de la Dirección
+de Transporte y Tránsito donde habló del reporte 59.7% están
+hablando de 16 mil 351 en el 60%, me parece que si estas cifras son
+reales pues hay que salir ya a venderlas, porque aparentemente en el
+2012 nosotros tuvimos 194 mil 808 accidentes de tránsito y parece ser
+no sé si es la misma tabla 2012, si es la misma tabla 2012, es la
+respuesta a la pregunta número 3, en el 59.7% están hablando en esta
+tabla general de 16 mil 351 accidentes en una regla de tres simple es
+imposible que en 40% restante hayan entonces 170 mil accidentes,
+cuando estas son las causas más comunes.
+Entonces de verdad señor Presidente que uno con estas dos tablas al
+citante, a nuestro Presidente al doctor Jairo Ortega también hacer un
+aporte que no podemos confundir comparendos con accidentalidad
+general, es más el comparendo es una prevensión, puede ser que el
+de aquí sufre un comparendo a las dos cuadras si no fue detenido el
+vehículo pues haya un accidente o puede ser inclusive que la persona
+cuando es detenido venga de un accidente, entonces yo creo
+Presidente que hemos mezclado y de pronto por la calidad de las
+preguntas nos enfocamos mucho en el tema de embriaguez y ahora
+yo veía que con cierta tranquilidad se decía, no, no, es que la
+embriaguez es del 8%, no, no aquí es un tema Presidente y citante de
+accidentabilidad en general y es la lectura que tiene la comunidad
+Presidente y es que por innumerables causas las más citadas, la más
+publicitadas, las que más les interesa a los medios de comunicación
+es primero la accidentabilidad por embriaguez, si es un Congresista
+mejor porque ya hasta la Policía Nacional con el incidente que yo no lo
+califico porque no pertenezco hoy por hoy a ningún ente sino al
+Congreso, con el incidente del Senador Medrano le confieso
+sinceramente que si a mí me detiene la Policía como me ha detenido
+yo no digo que soy Congresista, en estos días me detuvieron los
+señores agentes pues saben hacer su trabajo, cuando cogieron la
+puerta pues ellos hacen una operación de calibración cuando ve que
+uno no baja la ventanilla total o abre la puerta y detectaron que era un
+carro blindado, me preguntan este carro es blindado y yo digo si este
+carro es de quién y les digo de una persona allegada y le saque todos
+los papeles, porque si les digo que soy Congresista prenden los
+teléfonos, sacan a filmar y sacan las grabaciones, gracias a Dios en mi
+caso personal señor Presidente en mis 48 años no sé que es una
+embriaguez y aspiro que en los que me faltan no lo sepa, pero de
+verdad que ese suceso que no lo voy a centrar al debate, pero los
+medios de comunicación son eso, los medios de comunicación
+primero si es una persona de una estrato considerable o adicional si
+es un Congresista, entonces de verdad Presidente que uno con estas
+cifras no sabe para donde coger, porque estoy seguro que si la
+Superintendencia pues diera otras cifras pues estaríamos también acá
+y seguimos en lo mismo.
+Nosotros como voceros en nuestras regiones y en las personas que
+han depositado nuestra confianza para venir aquí, seguimos
+diciéndole no tenemos cosas claras y nos siguen dando madera,
+porque aquí y lamento que no haya ningún miembro del movimiento
+MIRA, nos han dado madera, a mi me preguntaron en la casa y
+ustedes porque no apoyan eso, porque es un tema de más fondo y
+ahorita pues no sé si mañana el pueblo colombiano ve esta
+transmisión Presidente y señor General cuando escuchen al ministro
+de Justicia hablar que una de las soluciones es poner, pues me
+imagino que ya en sano juicio al conductor ebrio a cuidar la vía,
+entonces cuál es la percepción que le estamos mandando a los
+colombianos Presidente, la pelea entre el Fiscal y el Ministro, que si
+los borrachitos van a la cárcel o no van, vemos al Fondo de
+Prevensión Vial gastándose la plata pues porque para eso es, que
+puede ser cuestionable, que como eligieron a Pirry o eso fue estos
+contratos que como es esa persona y es esa y entonces no se puede
+contratar a otro, o si hicieron una convocatoria con todos los
+animadores y el perfil, no sé y de verdad doctora que no es
+competencia nuestra y no aspiro pues a que se me allegue ninguna
+respuesta en ese tema.
+La conclusión mía Presidente cuál es, que de parte del Ministerio, de
+parte de la dirección de la Policía en Transporte y Tránsito en su
+cabeza Brigadier General, de parte del Fondo de Prevensión Vial, de
+parte de la Superintendencia y ahora protagonista la, ministra de
+Educación no le estamos hablando claro al país y mañana otro
+borracho enviste un taxi y vemos en las noticias que un pobre
+muchacho que viene de su trabajo, una persona que se acabo de
+graduar, una persona humilde que vendía sus empanadas en tal o
+cual esquina y eso es una noticia que pasa y se renueva nuevamente.
+Ahora lo decía el señor Ministro, que esto está en cabeza del doctor
+Lloreda, pero en cabeza de que, haber ya, a nosotros nos dan
+mensaje de urgencia para el presupuesto, nos dan mensaje de
+urgencia para el referendo para la paz, nos dan mensaje de urgencia
+para la ley ordinaria de la reforma de la salud, pues que también nos
+den mensaje de urgencia para esto, porque Presidente, general no
+sabemos ya que decir, no sabemos qué decirle a nuestras propias
+familias cuando estamos en un noticiero y hay un borracho
+irresponsable que mata 4 o 5 personas y a la media hora vemos a
+Pirry sacando tarjetas en una cebra y nosotros no sabemos qué
+decirle. Gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:53:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene el uso de la palabra el doctor Izaciga es el Delegado para la
+Infraestructura de la, Contraloría General de la República que quiere
+responder unas inquietudes del Representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#dr-nelson-izaciga" startTime="2013-10-30T10:53:10">
+							<from>Dr. Nelson Izaciga</from>
+							<p>Gracias Presidente, un saludo a todos los asistentes y a la señora
+Ministra, a los diferentes asistentes comunes del Ministerio, del Fondo
+de Prevensión Vial y a esta Comisión nuevamente por la invitación a la
+Contraloría. Simplemente quería decirle al doctor Diego, responderle
+un poco las inquietudes relacionadas con las cifras de este informe, yo
+quiero rápidamente expresarle a la Comisión que la, Contraloría viene
+adelantando un tema de revisión a la política pública de seguridad vial
+en el País , el año pasado por primera ocasión por instrucciones de la
+Contralora, la, Contraloría encuentra que existen una serie de actores
+que tienen que ver con la seguridad vial y que estaban actuando de
+manera desarticulada, cuando se citaban en estas comisiones y en las
+comisiones de Senado a los diferentes actores era imposible ver una
+coincidencia de estos actores que si tienen un rol fundamental en el
+tema de la seguridad vial.
+Hoy en día hay que también rescatar y decir que esto ha cambiado,
+uno ve ya que los diferentes Ministros saben y conocen cual es el rol
+de esa materia y por eso rápidamente quería decir, la, Contraloría
+decidió hacer una actuación, fue la primera actuación en la historia de
+la, Contraloría que se hizo de manera intersectorial donde todas las
+delegadas de la, Contraloría que tenían un rol también con el tema de
+la seguridad vial tuvieron actuación concreta, aquí se trato de mirar el
+rol del ministerio de Comercio en el tema de seguridad vial, el rol del
+ministerio de la Salud, el rol del ministerio de Hacienda, el rol del
+ministerio de Justicia, el rol del ministerio de Transporte, el rol del
+ministerio de Educación y se tomo una actuación sobre todos estos
+Ministerios para entrar a poderle dar un análisis global al país y como
+lo pidió el Congreso de la República ¿de qué manera se veía afectado
+el tema de la seguridad vial? Ahí encontramos en materia de cifras
+temas importantes que el rector de la política pública era el ministerio
+de Transporte, pero era el que menos recursos tenía destinados al
+tema de seguridad vial, el presupuesto para seguridad vial era de mil
+500 millones de pesos, cuando la, Contraloría encuentra las cifras que
+tenían los costos abonados a la seguridad vial era de 6 millones de
+pesos al año, las cifras de mortalidad y de accidentalidad y de costos
+de la salud pues son ya cifras que ustedes manejan y están en los
+informes de la, Contraloría y encontramos una serie de actores
+adicionales, quería explicarlo rápidamente a la Comisión que se me
+hace importante que ustedes tengan esa visión, decía el Ministro cual
+es el rol del ministerio de Comercio aquí, no encontramos cual es el
+rol, decíamos los carros deben ser seguros, en el país encontramos
+que compramos carros más costosos que en Europa, pero sin frenos
+abs y estamos comprándolos por encima del valor de puesto en puerto
+de lo que se comercializa en Europa, entonces si existe una actividad
+que el ministerio de Comercio tiene un rol fundamental.
+Cuando encontrábamos esos temas de organismos de tránsito y de
+los actores que tienen que ver con esos organismos de tránsito, los
+centros de reconocimiento, los CDAS encontramos que el ministerio
+de Comercio tiene un rol fundamental a través de su presencia en una
+entidad de carácter mixto pero con una representación privada que se
+llama la UNAC, para entrar a dirimir muchas cosas que usted
+Representante decía en materia de regulación.
+En materia de habilitación de acreditación concretamente y en donde
+ellos tienen que hacer unos controles de calidad que ni siquiera
+entendía claramente el Ministerio ese rol, esta auditoría tiene todos
+esos elementos que yo se los voy a hacer llegar a todos ustedes
+donde determina claramente cuáles eran de pronto las omisiones o las
+sanciones de estos diferentes actores.
+Frente al ministerio de Salud pues el rol fundamental era el que tenia
+los principales recursos que se destinan en la cuenta del ECAT del
+Fosiga, encontramos una serie de recursos sin ejecución, recursos
+parqueados en fiducias, una cifra cercana a dos billones puestos en el
+sector financiero, cuando decimos de pronto que no hay recursos para
+atender la seguridad vial, lo que veíamos es que había un constante
+parqueo de esos recursos, de hecho un trámite legislativo llamativo
+que permitió que se retiraran 800 mil millones de pesos que tenían
+destinación específica para la seguridad vial, para destinarlos a gastos
+de funcionamiento del ministerio de Salud, fue un cuestionamiento que
+le hizo la, Contralora directamente al señor ministro de Salud en un
+debate en la Comisión Sexta de Senado, eso también está plasmado y
+puesto en evidencia en esa auditoría y esto fue objeto de una
+demanda de la ley por parte de la, Contraloría, porque esos recursos
+tienen destinación específica y mal haría permitir que en concepto de
+la, Contraloría se destinaran para gastos de funcionamiento. En ese
+mismo escenario se evidencia ahí el ministerio de Hacienda en la
+trasferencia de recursos y en la ejecución de los mismos.
+En el tema de justicia pudimos ver el rol de Medicina Legal, las cifras
+de Medicina Legal, existía un SOS de parte del, director de Medicina
+Legal diciendo que tiene una serie de procesos y procedimientos
+indispensables en el rol de seguridad vial y que no cuenta con el
+recurso suficiente para poderlos atender, eso también está en ese
+informe.
+En el tema de transporte se evidencio, pensamos que hay un cambio
+fundamental en el tema de llevarlo a la cabeza de la actual, Ministra
+quién entendió que era un tema de política pública fundamental, que
+era un tema de su cartera, que las debilidades de yo tener a cargo una
+política pública de 6 mil millones de pesos, pero destinarle solo mil 500
+millones pues ya me quiere decir que no ha entendido el rol que tengo
+frente a la política pública, eso está en el informe de la, Contraloría, la
+Contraloría empieza también a hacer una revisión del tema de las
+vías, del diseño de las vías en materia de la infraestructura actual con
+la actual locomotora de los 47 billones de pesos de infraestructura vial
+que cumplan los estándares mínimos de exigencias internacionales.
+En lo que tiene que ver con el tema de seguridad vial, es un rol
+importantísimo, el tema de la señalización, de la iluminación de las
+vías, una cantidad de elementos que también están asociados al tema
+de seguridad vial.
+Siguiendo, al ministerio de Transporte se le hizo un análisis a las
+principales concesiones viales del país a todas, en materia de
+cumplimiento de los temas de seguridad vial si los están cumpliendo la
+información, el levantamiento de la información indispensable para
+ello; en el INVIAS los llamados puntos negros.
+El tema de la defensa jurídica del Estado en el sentido de que el
+Estado es objeto de muchas reclamaciones y demandas por
+accidentabilidad repetida, lo que hablaban aquí de los peraltes, los
+niveles de riesgos enormes que se corren en las carreteras.
+Y también hicimos el análisis y lo continuamos frente al tema del
+ministerio de Educación y el rol que la, Ministra ya ha tenido la
+oportunidad en varios foros y el Ministerio explicar que tienen, con esto
+queremos significar que se miró por primera vez de manera integral el
+rol de la política pública.
+No quisiera dejar por fuera un tema fundamental, que ya la, Contraloría
+venía actuando desde tiempo atrás y son los diferentes actores que
+tiene que ver con los organismos de tránsito a nivel territorial; el tema
+del papel preponderante del RUNT como un certificador de la buena
+fe, las falencias que la, Contraloría ya tiene los procesos de
+responsabilidad fiscal por todos estos elementos, el Registro Único de
+Tránsito hay que acordarse, ahí está en el informe de la, Contraloría,
+no tuvo una acta de inicio, así opera durante 6 meses, no cumplió con
+los temas tecnológicos de inversión que obligaba a la concesión y eso
+trajo consecuencias. Un ejemplo de esas consecuencias fue que un
+día yo estando en la, Contraloría me llego una licencia de tránsito a
+nombre mío y me decían en una carta ahí está su licencia de tránsito
+que usted tramito en Magangue, presentó el examen médico en
+Bucaramanga y la reclama en Barranquilla, una cosa así y yo procedí
+a presentar la denuncia penal por ese hecho, y el resultado final fue
+que me quede sin licencia de tránsito durante 6 meses, porque se
+llevaron la licencia falsa, me bajaron la real y mientras se hacia el
+trámite, ahí se pudieron evidenciar muchos temas y eso prendió
+mucho las alarmas de la, Contraloría y pienso que también ha habido
+muchos avances.
+Por último en materia de cifras, ahí tenemos unos hallazgos y unos
+procesos de responsabilidad fiscal en el tema del RUNT de 7 millones
+de pesos y hay otros procesos que trasladamos a todas las
+contralorías territoriales porque encontramos una cifra cercana a los
+700 mil millones de pesos perdidos en tema de multas y comparendos,
+pero estos procesos que le competen a cada una de las contralorías
+territoriales porque en ellos van representados los diferentes
+organismos de tránsito municipales y distritales.
+Y frente al tema del Fondo de Prevensión Vial, la, Contraloría hizo una
+actuación sobre el Fondo de Prevensión Vial, realmente aquí
+recibimos un tema frente ya en la segundo ocasión que nos dicen de
+un contrato y es el contrato de imagen y de la justificación de que sea
+esta persona por qué fue elegida, ese contrato no fue incluido en esa
+auditoría porque fue el año pasado, pero de acuerdo a lo que ya había
+escuchado en esta Comisión, nosotros lo estamos revisando en este
+momento.
+Y el tema del Fondo de Prevensión Vial hay un tema jurídico de fondo,
+hay que decirlo, la ley lo que crea es un Fondo de Prevensión Vial y lo
+que ve la, Contraloría cuando hace la revisión es que existe una
+corporación fondo de prevensión vial, que es una corporación sin
+ánimo de lucro de carácter privada que difiere con el fondo que fue
+creado por la ley, es decir ahí hay es un tema jurídico en el tema de
+operación, por eso cuando usted dice los 8 mil 900 millones de pesos,
+son los gastos de funcionamiento de esa corporación frente a la
+justificación de que debieron ser de un fondo y no de pronto de un
+ente de una destinación privada, eso está actualmente en proceso en
+la, Contraloría ya el fondo pues se ha notificado incluso sobre unos
+hallazgos y sobre unos procesos, hay unos acercamientos con los
+representantes o apoderados para llegar a un tema de acuerdo para
+pagar y poder concluir estos procesos porque lo que a la, Contraloría le
+compete es restablecer el patrimonio público y recuperar esos
+recursos y les estaremos informando a tiempo lo que vaya pasando
+con esos recursos. Y de otro lado decirles que esa auditoría
+intersectorial fue necesario repetirla, estamos en este momento en
+ejecución y tenemos un informe final a finales del mes de noviembre.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:53:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra ya para cerrar este gran debate el, Presidente de la
+Comisión Sexta el doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:53:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muchas gracias a todos, pues a estas horas y todavía ustedes aquí
+presentes, eso indica que el tema es importante, el tema de la
+seguridad vial de todos los colombianos, a usted, Ministra reitero mis
+agradecimientos por la asistencia, al General Mena, al Viceministro
+Estupiñan, al Superintendente, a la, directora del Fondo, a los
+funcionarios de la, Contraloría, ese informe es importante y a la
+delegada de la Procuraduría General de la República, a los
+compañeros y a los presentes.
+Simplemente era despertar o no despertar, decirle al país que
+nosotros también estábamos inquietos por el tema de la seguridad vial
+en Colombia, decirles que la realidad es que no es la primera vez que
+hay muertes y lesiones por conductores borrachos, eso ha existido
+toda la vida, lo que pasa es que ahora los medios de comunicación
+pues pasan la noticia y se está volviendo algo muy trágico y
+desafortunadamente una compañera nuestra que no lo quise tocar en
+la primera intervención como lo dijo ahora Jhon Jairo, Gloria Stella
+Díaz del Mira pues nos marca tiza a todos como los que no queremos
+tocar ese tema de la embriaguez y eso no es cierto, eso es mentira y
+lo que ella propone, no vamos a descubrir que el agua moja, porque lo
+dije ahora, el proyecto de ley 090 que establece cárcel para los
+conductores ebrios, cuando lesión y causan muertes, o sea cuando
+cometen un delito, cárcel, eso ya esta, eso no es nuevo, que hay que
+endurecerlas más, listo, pero ahí está, es más, este Congreso legislo
+para quitar esos beneficios. La libertad domiciliaria, diferente que un
+juez de la República con su saber leer y entender decida cuando le
+solicitan la libertad, pues opine que no hay peligro en ese ciudadano y
+le de la libertad, le de la domiciliaria, eso no es culpa de nosotros y las
+medidas ya están también, uno como ser humano va reaccionando a
+todas los impactos negativos que hay y uno de ellos es los siniestros
+fatales de los accidentes de tránsito con borrachos y cuando hay
+lesiones o muertes ahí reacciona uno, eso es cierto, tiene toda la
+razón y de que ahí mismo nos afanemos a presentar un proyecto para
+tratar de minimizar esa conducta lesiva, eso está bien, pero nosotros
+tenemos es que mirar si hacia el futuro podemos cumplir esa norma,
+mirar las consecuencias, el impacto y como lo dijo el ministro de
+Justicia ahora, esto salió el 22 de octubre, no crea que todo se
+resuelve con cárcel, afortunadamente ya teníamos este debate para
+analizar si en realidad es la solución o no a ese tema.
+Lo otro era Jhon Jairo, es cierto que no todo lo es la embriaguez, la
+accidentabilidad y la seguridad vial, porque es un todo, que ese es el
+tema aquí también, que está haciendo el Gobierno y las entidades que
+tienen que ver con esa política de seguridad vial, si estamos vigilando,
+si estamos controlando, si estamos sancionando, todos los actores y
+entre esas causas pues la embriaguez, todas las infracciones a las
+normas de tránsito y a las normas penales y entre ellas la embriaguez,
+porque lo que ha motivado todas estas reformas ahora último, porque
+hay como 6 reformas doctor Nelson, como 6 o 7 del Mira, todas, cada
+artículo del Código Nacional del Tránsito para reformarla, entonces
+miremos a ver si en realidad eso da para estar modificando las leyes,
+por eso esta Comisión formo una subcomisión para analizar el Código
+Nacional de Tránsito, porque consideramos que en estos momentos
+no están las condiciones dadas para nosotros cumplir o exigirle al
+Gobierno que cumpla con una ley que se apruebe por la retención
+preventiva de los conductores embriagados, no estamos preparados
+para ello, máxime como lo dijo el ministro de Justicia que estamos
+tramitando un proyecto de reforma del Código Penitenciario donde
+estamos flexibilizando algunos requisitos para que salga la gente de la
+cárcel y ahora estamos legislando por otro lado para que vaya gente a
+la cárcel sin cometer delitos, sino que estamos previendo.
+Celebro lo que está haciendo el ministerio de Educación, nunca es
+tarde para iniciar esas acciones en torno a que en la educación
+primaria y educación media y la superior pues se lleven a cabo esas
+pedagogías de seguridad vial, eso hay que llevarlo y hacerle el
+seguimiento, por eso la presencia de ustedes, porque queríamos
+saber, que nos dijeran que es lo que venimos haciendo frente al
+control; el General dijo: “hemos hecho 2 millones 237 mil comparendos
+en este 2013”, eso es mucho, pero que le estamos haciendo el debido
+seguimiento y control, hay esa unidad, hay esa relación, hay ese cruce
+de información de la Policía de Tránsito con la Superintendencia, con
+el Fondo de Prevensión Vial, con el ministerio de Transporte, con los
+organismos de tránsito y los órganos de control de esas localidades,
+están exigiendo que se cumpla el pago de esos 2 millones de
+comparendos y entre esos tiene que haber un porcentaje que no es el
+más alto de embriaguez ¿Será que lo estamos cumpliendo? Por eso
+cuando le comente a usted Superintendente inmediatamente le mando
+a los organismos de tránsito, pero yo veo que cada tres meses, eso es
+mucho tiempo, controlarle cada tres meses a los organismos de
+tránsito, usted sabe que de un fin de semana a un lunes suceden
+muchas cosas y yo lo he dicho con respeto de la Policía de Tránsito,
+inmovilizan mil vehículos, un ejemplo que estoy colocando y no quiero
+ofender a la Policía ni a nadie, ni a ningún organismo, pero en el
+camino llegan 900 y después llega el lunes y llega el político o el
+tramitador y en últimas sancionan como a 20 o 50, no sancionan a
+más, pero si nosotros desde un principio por eso no veo con tristeza
+las funciones del Fondo, de la, directora, es hacer mediciones de si en
+realidad estamos reduciendo la inseguridad vial, no solamente con que
+Pirry hable mal de nosotros, no, eso no demuestra que se ha reducido
+la inseguridad vial en Colombia, es hacer mediciones si en realidad se
+está logrando eso y no solamente es en las vías nacionales, eso en
+las ciudades y en la capital, pero no se sabe que es lo que está
+pasando en las ciudades, en los municipios pequeños, si está
+controlando o no, o de pronto no se le está dando mucha publicidad.
+Es a eso que yo los motivo, a que crucemos toda la información,
+porque en realidad yo leí por allí que uno ubica la embriaguez como en
+el sexto lugar, la Policía de Tránsito la ubicó en el octavo y otro habló
+en el segundo lugar, en eso tenemos que estar coordinados para
+mandar un buen mensaje al Gobierno de la educación y prevención
+vial en el control.
+Y decirles, yo si propongo en nombre de la Comisión Sexta o de
+pronto solo, porque yo he charlado con cada uno de ellos que la cárcel
+no es la solución para controlar a los conductores, ebrios,
+consideramos que no estamos preparados en estos momentos para
+enviar a las cárceles así sean de las cárceles para conductores no
+estamos preparados, que pasaría ya leí su informe señor General
+Mena, la Policía Nacional no tiene su fuerza policial para llevar y
+controlar y para conducir a todos esos conductores ni el Poder
+Judicial, ni el Ministerio Público, ni la Defensoría del Pueblo,
+imagínese ustedes en los pueblos, un ciudadano que en las esquinas
+hay muchos, se toman sus 4 y 5 cerveza y salgan y ahí mismo la
+Policía de Tránsito allí y le diga usted esta ebrio y el señor le dice no
+yo no estoy ebrio, y le dice no usted esta borracho y le dice no yo no
+estoy borracho, se forma ese tire y coja, eso yo veo que no.
+Pero más los invito al control, al debido control, yo creo General Mena
+que si usted entrelaza esa información suya del trabajo de ustedes los
+fines de semana con la Superintendencia, con el ministerio de
+Transporte, con el RUNT y el lunes inmediatamente esos mil, dos mil o
+tres mil ciudadanos que fueron inmovilizados por conducir en estado
+de embriaguez, téngalo por seguro que las consecuencias fueran
+menores. Hay que incrementar esos controles, unir allí a los
+establecimientos nocturnos que tienen que comprometerse para este
+control para los ciudadanos que van de buena fe a departir en esos
+establecimientos nocturno, yo creo que ese es el debido control.
+Por nuestra parte tenemos que seguir trabajando, aprovecho la
+oportunidad Viceministro para que le lleve el mensaje a la Comisión
+del Senado que está trabajando este tema, al Alto Comisionado para
+la Seguridad al doctor Lloreda que tenga en cuenta estas
+consideraciones, que también estamos de acuerdo que todo no es
+cárcel, que creemos que endureciendo mas las penas, en eso
+estamos trabajando, en la reforma al Código Nacional de Tránsito en
+el tema de sanciones para los conductores ebrios y poderle dar una
+respuesta al país y es aumentando las multas e inmovilizando más el
+vehículo, porque hoy en día están pagando la multa si es que la pagan
+y los vehículos están saliendo inmediatamente, pero si los dejamos allí
+15 días o un mes más y endureciendo la sanción de dos salarios
+mínimos a millón y medio yo creo que ese ciudadano lo va pensar dos
+o tres veces para volver a hacer esta conducta de infracción al
+tránsito.
+Para terminar, invitarlos a que en los próximos debates de este tema
+de seguridad vial tengamos mejores resultados, yo sé que si hay un
+debido seguimiento a todo lo que hace la Policía de Tránsito, ahondar
+más en esos operativos, exclusivamente en los sitios, es que yo he
+visto que en las carreteras, pues si es bueno el control General, pero
+hay que llegar a los sitios, yo he escuchado aquí a alguien que hay
+que llegarle ahí a la puerta donde están tomando, ahí hay que hacer
+los controles, allí de cara, para que ese ciudadano de pronto no salga
+y si ven la policía se asustan, ahí se le pasa la borrachera, ahí
+empezamos a controlar más y todo el que se atreva pueda salir con su
+vehículo embriagado, pues que se lleve a cabo esa sanción, porque
+no lo estamos controlando, por eso, nunca es tarde.
+Y también que leí del Nuevo Siglo dice, “del afán no queda sino el
+cansancio”, porque eso opinan en el Nuevo Siglo, ayer que no es a la
+carrera, porque no vamos a cumplir con los conductores ebrios, si
+trabajamos la prevensión, si trabajamos el control, si trabajamos las
+sanciones que actualmente tenemos yo creo que vamos a obtener
+buenos resultados de aquí hoy 30 de octubre a diciembre y en
+diciembre podemos reducir la accidentabilidad vial en Colombia, la
+accidentabilidad por conductores ebrios.
+Yo le agradezco señor Presidente, ojala esto replique a nivel nacional
+y ejerzamos los controles Superintendente, los lunes se hacen
+cualquier cantidad de maniobras por los diferentes actores que están
+alrededor de las secretaría de tránsito y si controlamos que esos 2 mil,
+3 mil, 4 mil, 10 mil, 20 mil que el fin de semana trabaja la Policía están
+pagando el lunes, martes, miércoles y le hacemos el debido control, yo
+creo que empezamos a reducir esa falencia que tenemos y vamos
+mejorando la seguridad vial, no solamente las carreteras nacionales,
+sino en las localidades, municipios y en las regiones.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-10-30T10:53:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Agradecemos pues el aporte de los compañeros de la Comisión Sexta,
+el doctor Diego Naranjo, el doctor Jhon Jairo Roldan, por todas las
+personas que hoy nos acompañaron, señora, Ministra muchas gracias,
+el ministro de Justicia, el Superintendente de Puertos, el, viceministro
+de Transporte, la, directora del Fondo, la Procuradora Delegada, al
+delegado de la, Contraloría.
+De esta manera se levanta la sesión del día de hoy 30 de octubre
+siendo las dos y treinta y cinco minutos de la tarde (2:35 p.m.) y se cita
+para el miércoles a las 9 de la mañana.
+JAIRO ORTEGA SAMBONI                  DIDIER ALBERTO TAVERA AMADO
+Presidente                               Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO          JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                               Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

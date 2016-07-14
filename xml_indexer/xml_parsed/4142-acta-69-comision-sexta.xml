@@ -1,0 +1,480 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-hernando-gómez-velásquez" id="hr-wilson-hernando-gómez-velásquez" showAs="H.R. Wilson Hernando Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vasquez-villanueva-john" id="hr-silvio-vasquez-villanueva-john" showAs="H.R. Silvio Vasquez Villanueva John"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gomez-velasquez" id="hr-wilson-gomez-velasquez" showAs="H.R. Wilson Gomez Velasquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-roldan-avendaño" id="hr-jairo-roldan-avendaño" showAs="H.R. Jairo Roldan Avendaño"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="4142-acta-69-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>Octubre</heading>
+					<debateSection>
+						<heading>ACTA NO. 69 / 2012-10-03</heading>
+						<speech by="" startTime="2012-10-03T10:01:00">
+							<from>OTROS</from>
+							<p>
+RAMA LEGISLATIVA DEL PODER PÚBLICO
+CAMARA DE REPRESENTANTES
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+PERIODO LEGISLATIVO 2012 - 2013
+ACTA No. 069
+SESION ORDINARIA DEL DIA MIERCOLES TRES (03) DE OCTUBRE DE DE 2012
+Siendo las diez y un minuto de la mañana (10:01 a.m.), el, Presidente de la Comisión
+Sexta Constitucional Permanente de la Cámara de Representantes, Honorable
+Representante Silvio Vásquez Villanueva abre la sesión: Buenos días a todos los
+Representantes a la Cámara de la Comisión Sexta Constitucional de la Honorable
+Cámara de Representantes, a los señores secretarios, a todos los funcionarios de la
+Comisión, a los asistentes, un muy buenos días para todo el pueblo colombiano.
+En el día de hoy miércoles 3 de octubre del año 2012, empezamos la sesión citada
+para el día de hoy donde tenemos el debate de control político al señor, director
+nacional del SENA, doctor Luis Alfonso Hoyos Aristizabal y además tenemos unas
+proposiciones y el anuncio de los proyectos de ley para primer debate en la
+Comisión.
+En consecuencia, sírvase señor Secretario llamar a lista.
+Secretario (Dr. Fernel Enrique Díaz Quintero, Secretario de la Comisión
+Sexta):
+Verificado el llamado a lista, contestaron los siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Roldán Avendaño John Jairo
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Caicedo Sastoque José Edilberto
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Pinto Hernández Miguel Ángel
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Tenemos quórum deliberatorio señor Presidente, tan pronto tengamos quórum
+decisorio se lo haremos saber.
+EL presidente: Con quórum deliberatorio sírvase señor Secretario leer el orden del
+día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:01:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2012 al 20 de junio de 2013
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-wilson-gomez-velasquez">
+								1. ¿Cuál es el avance que ha tenido el Sena durante los últimos 3 años? Proporcione las
+cifras que demuestran ese crecimiento.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								2. Informe cuál ha sido la demanda de cupos en todos los niveles y en todos los
+programas que ha presentado en los últimos 3 años su institución. ¿Qué porcentaje
+de esa demanda cubre el Sena? Favor enviar esta información por periodos de
+inscripción, por regiones y por programas académicos durante los últimos 3 años.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								3. Relacione información de los directivos del Sena, especificando nombre de todos los
+directivos, perfiles y salarios. Favor adjunte las hojas de vida de estos funcionarios.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								4. Sírvase proporcionar una relación de todos los contratos directos, consultorías,
+licitaciones, convenios, adiciones, prórrogas, modificaciones y órdenes de servicio
+que su despacho ha suscrito desde el primero de enero de 2010 hasta la fecha;
+especificando entre otros: nombre, valor, objeto, tiempo, interventor, porcentaje de
+ejecución. Envíe información en archivo Excel.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+							<question by="#hr-wilson-gomez-velasquez">
+								5. Proporcione un cronograma de todos los procesos de contratación que su despacho
+tiene programado hasta el 31 de diciembre del año en curso.
+								<from>H.R. Wilson Gomez Velasquez</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2012-10-03T10:01:20">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 3 de octubre de 2012
+Hora: 9:00 a.m.
+Llamado a lista y verificación del quórum
+Citación Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política en concordancia con el
+artículo 233 de la Ley 5ª. de 1992, y en desarrollo de:</p>
+						</speech>
+						<speech by="" startTime="2012-10-03T10:01:30">
+							<from>OTROS</from>
+							<p>PROPOSICION No. 034
+(Bogotá, D.C., del 29 de agosto de 2012)
+“Cítese al, Director General del Servicio Nacional de Aprendizaje SENA, doctor LUIS
+ALFONSO HOYOS ARISTIZABAL, al Debate de Control Político”, para que absuelva el
+cuestionario adjunto:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:01:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+SILVIO VASQUEZ VILLANUEVA JOHN JAIRO ROLDAN AVENDAÑO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario”.
+Señor Presidente, me voy a permitir dar lectura a la excusa enviada por el, director
+general del SENA, que dice lo siguiente:
+“Doctor
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario Comisión Sexta
+Carrera 7 No. 8 - 68, segundo piso.
+Edificio Nuevo del Congreso
+Ciudad
+Asunto: Citación proposición 034 de 2012, Comisión Sexta Cámara de
+Representantes.
+Cordial saludo,
+De manera atenta me dirijo a usted para excusarme de asistir el día de hoy a la
+citación de la proposición de la referencia, debido a que el señor Ministro de Trabajo
+me ha convocado con carácter urgente a una reunión en su despacho en la Comisión
+Nacional de Concertación Laboral, de la cual fui informado el día de ayer en las horas
+de la noche.
+Quedo atento a la programación de la nueva fecha para este debate al cual con
+gusto asistiré.
+Atentamente,
+Fdo.
+LUIS ALFONSO HOYOS ARISTIZABAL
+Director General del SENA”.
+La carta que envía el, viceministro de Relaciones Laborales e Inspección es la
+siguiente.
+“Doctor
+LUIS ALFONSO HOYOS
+Director General
+Servicio Nacional de Aprendizaje SENA
+Ciudad
+Asunto: Reunión extraordinaria Comisión Permanente de Concertación de Políticas
+Salariales y Laborales.
+Respetado señor, Director:
+Con ocasión de la radicación del proyecto de ley de la reforma tributaria, el cual será
+presentado a consideración del Honorable Congreso de la República en la tarde de
+hoy, me permito invitarlo a reunión extraordinaria de la Comisión Permanente de
+Concertación de Políticas Salariales y Laborales, a celebrarse el día miércoles 3 de
+octubre de 2012 a las 8:30 a.m., en la carrera 14 No. 99 - 31, edificio REM, Sala de
+Juntas, Piso 13, sede del Ministerio de Trabajo.
+La sesión tendrá el siguiente orden del día:
+1. Instalación
+2. Verificación del quórum
+3. Análisis del proyecto de ley de reforma tributaria
+4. Varios
+Agradezco confirmar su participación al teléfono 4893900 ext. 7226, 7234 o a “nos
+correos electrónicos que anexa” .
+Cordialmente,
+Firmado
+Viceministro de Relaciones Laborales e Inspección”.
+Señor Presidente, al Honorable Representante Wilson Gómez citante también le
+enviaron las excusas.
+Señor Presidente, también la secretaría se permite aprovechar este quórum
+deliberatorio para informarle a la Comisión que de acuerdo a una invitación que
+hiciere la Cámara de Diputados de Brasil, ya la Secretaría se ha puesto en contacto
+con el diplomático Rodrigo Cardozo para que nos informe qué cobija esa invitación al
+Brasil.
+Así mismo señor Presidente, la secretaría se permite dar lectura a una proposición
+para que cuando tengamos el quórum decisorio se apruebe tanto el orden del día
+como las proposiciones y también el anuncio de los proyectos.
+Entonces, aquí está una proposición presentada y es la siguiente: “Proposición:
+Bogotá octubre 3 de 2012.
+Teniendo en cuenta que el turismo es fuente de desarrollo, crecimiento y bienestar
+social para nuestro departamento del Huila, que se erige como el centro de
+articulación de los diferentes sectores económicos sociales de comunicaciones,
+educativos, culturales y de interrelación regional con el Gobierno en el nivel central,
+en el marco de la legislación vigente en el sector del turismo y de conformidad con el
+artículo 135, numeral 8 de la Constitución Política y 233 de la Ley 5ª de 1992,
+respetuosamente solicito a la Honorable Comisión Sexta de la Cámara de
+Representantes, citar a debate de control político para sesionar en el municipio de
+San Agustín (Huila) el 29 de noviembre de 2012 a los siguientes ministros: ministro
+de Comercio, Industria y Turismo; doctor Sergio Díazgranados; el, viceministro de
+Turismo, doctor Oscar Rueda García; a la, ministra de Transporte, doctora Cecilia
+Álvarez Correa; a la, ministra de Cultura, doctora Mariana Garcés Cardona; a la
+ministra de Educación, doctora María Fernanda Campo Saavedra; y al ministro de las
+Tecnologías de la Información y las Comunicaciones; doctor Diego Molano Vega,
+para que de acuerdo a sus competencias cada una de las carteras ministeriales
+enunciadas presente las gestiones y políticas en el sur del departamento del Huila,
+especialmente en el anillo turístico conformado por los municipios de San Agustín,
+Isnos y Salado Blanco.
+Vale señalar que en relación con el Parque Arqueológico de San Agustín, en 1993 fue
+declarado monumento nacional por el Consejo de Monumentos Nacionales y en
+1995 fue declarado patrimonio de la humanidad por la Organización de las Naciones
+Unidas para la Educación la Ciencia y la Cultura UNESCO y que en el año 2013 se
+celebra el centenario del cubrimiento científico de San Agustín.
+Atentamente,
+Firmado
+SILVIO VASQUEZ VILLANUEVA
+Representante a la Cámara
+Departamento del Huila”
+“Proposición: Conforme a lo establecido en la Ley 5ª de 1992 y en los términos que
+allí se establece, cítese a debate de control político que se realizará en la fecha, lugar
+y hora que fije la Mesa Directiva de la Comisión Sexta Constitucional Permanente, al
+señor ministro de Tecnologías de la Información y las Comunicaciones, doctor Diego
+Molano; al superintendente de Industria y Comercio, doctor José Miguel de la Calle
+Restrepo; al, director general de la Agencia Nacional del Espectro, doctor Oscar
+Giovanni León Suárez; a la, directora encargada de la ANTV, doctora Sandra Milena
+Urrutia; al, director del DNP, doctor Mauricio Santamaría Salamanca; a la Asociación
+de Operadores de Telefonía Móvil, a la Asociación de Ingenieros ACIEM, a los
+operadores de telefonía y a ANDESCO, para que respondan el cuestionario sobre la
+cuarta generación de telefonía móvil 4G.
+Firmado
+JHON JAIRO ROLDAN AVENDAÑO
+Representante a la Cámara
+Departamento de Antioquia
+DIDIER ALBERTO TAVERA AMADO
+Representante a la Cámara
+Departamento de Santander”.
+También está una proposición señor Presidente, citando al alcalde de Cali y a su
+Secretario para que en la Comisión Sexta de la Cámara informe la problemática que
+se está viviendo en Cali, sobre la crisis del transporte de esa ciudad.
+Así mismo, señor Presidente, me voy a permitir dar lectura o anunciar los proyectos
+para la próxima sesión: Proyecto de ley 215 de 2012 Cámara, 74 de 2011 Senado
+“por medio de la cual se modifica la Ley 769 y se dictan otras disposiciones, Código
+Nacional de Tránsito”, autor Honorable Senadora Olga Suárez Mira, ponente
+Honorable Representante Jhon Jairo Roldán Avendaño.
+Proyecto de ley número 055 de 2012 Cámara “por la cual se reconoce la profesión de
+gerontología y se reglamenta su ejercicio en Colombia”, autor Honorable
+Representante Germán Blanco Álvarez, ponente Honorable Representante Juana
+Carolina Londoño Jaramillo.
+Proyecto de ley número 110 de 2012 “por medio de la cual se autoriza la prestación
+del servicio público de transporte de tricimóvil”, autor Honorable Representante
+Miguel Gómez Martínez, ponente Jairo Quintero Trujillo.
+Señor Presidente, es bueno que usted le solicite al Honorable Representante Wilson
+Gómez, que de acuerdo a los dos oficios leídos por Secretaría, si él está de acuerdo
+con esta excusa y usted a bien reprogramar el debate.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva-john" startTime="2012-10-03T10:01:50">
+							<from>H.R. Silvio Vasquez Villanueva John</from>
+							<p>Muchas señor Secretario de la Comisión.
+Mientras hay quórum decisorio me gustaría doctor Wilson Gómez ir conociendo su
+opinión frente a la solicitud que ha hecho el señor, Director General del tema, el
+doctor Luis Alfonso Hoyos Aristizabal sobre el debate de control político que estaba
+programado para el día de hoy y que por consiguiente, mediante comunicación
+según lo hablamos, doctor Wilson Gómez me gustaría que la Comisión conociera su
+opinión para así mismo dejar lista proposición para presentarla a consideración de la
+Comisión.
+Tiene la palabra doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-hernando-gómez-velásquez" startTime="2012-10-03T10:02:00">
+							<from>H.R. Wilson Hernando Gómez Velásquez</from>
+							<p>Muchas gracias señor Presidente, yo
+quisiera tomarme unos minutos para manifestarle a la Comisión y usted Presidente,
+gracias por haber adelantado la citación el día de hoy aún cuando no vayamos a
+hacer el debate.
+Sin embargo, dada la importancia del mismo, es un debate sumamente importante,
+sumamente importante para cada una de las regiones de Colombia toda vez que la
+institución citada que es el SENA, pues tiene una cobertura nacional y tiene un tema
+supremamente social que influye casi que en la vida directa de los colombianos. Por
+esa razón habíamos citado el día de hoy al señor, director del SENA, citación que se
+había postergado desde hace 20 días también por una situación que se había
+presentado en ese momento, que el señor, Director estaba citado en horas de la
+mañana en otra Comisión, lo cual provocaría que llegara una o dos horas más tarde a
+la citación hecha por esta Comisión, y que infortunadamente para el día de hoy
+también se ha presentado un percance, que por lo que entiendo se sale de voluntad
+y de las manos del señor, director del SENA, quien como lo decía el señor Secretario,
+ha leído una excusa que se reúne hoy una comisión encargada de evaluar unos
+temas en los cuales él debe hacer presencia.
+Por esa razón señor Presidente y manifestándole al país y a la Comisión que el tema
+SENA, no por ello vamos a dejarlo en el tintero, sino que por el contrario nos permite
+estos siete días más, preparar con mayor ahínco el debate, con la responsabilidad
+que hemos asumido en cada una de estas tareas para que los colombianos
+entiendan el sentido de la citación. Si bien el SENA es una institución supremamente
+querida por los colombianos, si bien el SENA es una institución que atiende el tema
+de educación, podría hablarse en materia de salud, casi que prioritario en este
+círculo para los colombianos, pues también es una institución a la que el Congreso
+de la República debe hacerle el seguimiento como lo ordena la Constitución y la ley,
+Reglamento Interno del Congreso.
+Y dentro del debate se pretende demostrar señor Presidente, con cifras que reitero,
+si bien la institución es una de las instituciones más queridas y más cercanas a los
+colombianos, pues también tiene mucho que hacer para poder atender a tanta
+población que hoy está excluida de una oportunidad de acceder siquiera a un título
+técnico o tecnológico que le permita ejercer un oficio en este país, y luego de más de
+cincuenta años de vida de esta institución, pues también señalar que es hora de
+plantear una transformación de esa bella institución que atiende a los jóvenes más
+pobres de Colombia. Sin embargo, tengo que decir queridos colegas, que al igual que
+sucede en la educación superior el tema del SENA infortunadamente excluye a
+muchos jóvenes, a los más pobres del país, si bien atiente a población vulnerable,
+terminan excluidos de esa posibilidad los más vulnerables de los vulnerables, en
+razón a que el examen de ingreso y acceso a la institución impide que aquellos que
+no han tenido la calidad de la educación por la que tanto luchamos en esta Comisión,
+les permita poder pasar ese examen.
+Por eso Presidente yo le pediría a usted y a la Comisión que se pueda reprogramar la
+citación lo antes posible, que se pueda adelantar el debate de control político, un
+debate, no que pretende atropellar a un funcionario, sino un debate totalmente
+constructivo, para que de él se obtenga la mejor propuesta, los mejores
+planteamientos con el aporte de cada uno de quienes integran esta Comisión, para
+que le busquemos una salida a esa situación que le manifiesto yo, impide la
+posibilidad de que muchos colombianos accedan a esa institución tan querida.
+Reprogramar el debate nos permite por supuesto, al señor, director preparar las
+respuestas que debe tenerle a esta Comisión y a través de ella al país y permitirle a
+todos los colegas también seguir empapándose del tema para que el día del debate
+podamos tener una participación mucho más activa dentro del mismo.
+Entonces, le solicitaría señor Presidente, la agenda para que nuevamente se
+programe este debate y decirle que estamos en total disposición, yo pediría por
+supuesto que se ponga a consideración la excusa que ha enviado el señor, director
+del SENA, una excusa que reitero, pues en mi consideración es una excusa válida
+para que se tenga en cuenta y el solo hecho y el gesto de haber llamado como lo
+hicieron para excusarse y haber enviando el documento oficial en el cual se
+demuestra que el señor, Director realmente estaba ocupado en esta mañana por
+imprevisto de última hora, pues vale la pena que la Comisión lo considere y si tiene a
+bien se apruebe la excusa. No lo mismo sucedía en ocasiones anteriores cuando
+otros funcionarios ni siquiera se tomaban la molestia de enviarle a la Comisión las
+excusas reglamentarias, sino que por esa vía tuvimos que incluso solicitarle a esta
+Comisión el envío de lo sucedido, a la Procuraduría General de la Nación para que
+establecieran si era válido o no lo que verbalmente manifestaba el funcionario en
+aquella ocasión, para evadir la citación de la Comisión.
+Y reitero, el funcionario en mención, el, director del SENA hoy, quien dirige los
+destinos de esa entidad, pues ha enviado sus funcionarios, ha enviado una excusa
+escrita y han hecho las llamadas del caso desde el propio ministerio de Trabajo,
+aduciendo que efectivamente el señor, director del SENA se encuentra citado, razón
+por la cual espero yo, se pueda tener en cuenta esta citación.
+Y pedir por supuesto la solidaridad de los colegas de la Comisión para que cuando a
+bien lo tenga el señor Presidente nuevamente agendar este debate, pues la
+presencia de nuestros colegas pueda darse en la Comisión, para que atendamos un
+tema tan sentido como es el de los jóvenes en Colombia que están reclamando la
+posibilidad de un acceso a la educación, si se puede por lo menos, técnica,
+tecnológica, antes de poder acceder a la profesional. Un tema que es muy
+importante ya que la educación técnica señor Presidente, todos sabemos, es la
+posibilidad fundamental para que pueda haber la posibilidad de un primer empleo
+en Colombia, muchos de nuestros jóvenes están excluidos de esa posibilidad porque
+no encuentran la oportunidad de prepararse laboralmente para ese primer empleo o
+al no acceder al conocimiento para ejercer el mismo, pues se les imposibilita tener
+acceso a un mejor salario. Y esta institución está en la capacidad y las condiciones,
+sin embargo hemos encontrado debilidades que vamos a demostrar en el debate de
+control político, la oportunidad para que estos jóvenes tengan mayores
+posibilidades.
+Yo creo señor Presidente que aquí redondeando esta introducción, le pediría que
+con su venia se someta a consideración la excusa y usted en su saber tome la
+decisión de programar nuevamente el debate de control político al SENA para que el
+señor, Director haga presencia y podamos responder todas las inquietudes que aquí
+se han suscitado, no solo el cuestionario que este Representante ha enviado, sino
+que por supuesto los colegas que tengan inquietudes en ese tema también puedan
+hacerlo luego de la intervención que por el tiempo que usted establezca yo pueda
+adelantar en los siguientes días, reitero, cuando usted así lo programe. Este un tema,
+reitero, muy importante para el país y que todas las regiones que tienen asiento en
+esta Comisión y todos los partidos políticos seguramente tendrán un interés para
+poder sacar adelante este debate de control político que sería la primera vez que se
+daría durante este periodo constitucional de 2010 al 2014 en el que nos
+encontramos en este Congreso, porque nunca antes habíamos abordado el tema
+SENA en la Comisión, donde realmente compete que es la Comisión encargada de los
+temas de educación.
+Hoy se vienen formando jóvenes para el trabajo, una formación que entre otras
+deberíamos en pensar en ya cambiarle el nombre, porque la formación para el
+trabajo como bien lo decía aquí el doctor Wilson Neber Arias, pues podría terminar
+tildándose de simplemente formar a buenos empleados y yo creo que esta
+institución tiene la obligación de no solo formar buenos empleados, sino de formar
+buenos gerentes. Por esa razón, nuestro interés muy acentuado para que el debate
+de control político no vaya a quedar en el tintero, sino que el mismo se adelante.
+Gracias Presidente, espero usted pueda tomar la decisión más sabia que
+corresponda.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:02:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, la Secretaría se permite informar que ya tenemos
+quórum decisorio, por lo tanto, primero someta a consideración el orden del día,
+después la excusa del, director del SENA y después las proposiciones y puede decirle
+a la Comisión cuál es la programación para la próxima semana.
+Así mismo, la Secretaría se permite informar que en plenaria aprobaron el traslado
+de la Comisión Sexta al Congreso de ANDIARIOS que se inicia hoy en Cartagena y al
+Congreso de Infraestructura en noviembre, señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva-john" startTime="2012-10-03T10:02:20">
+							<from>H.R. Silvio Vasquez Villanueva John</from>
+							<p>Con quórum decisorio informado por Secretaría, pongo en
+consideración el orden del día que fue leído anteriormente. Se abre la discusión,
+continúa abierta, anuncio que se va a cerrar, queda cerrada. ¿Lo aprueba la
+Comisión?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:02:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva-john" startTime="2012-10-03T10:02:40">
+							<from>H.R. Silvio Vasquez Villanueva John</from>
+							<p>Pongo en consideración la excusa presentada por el señor, director
+general del SENA, doctor Luis Alfonso Hoyos Aristizabal, con la intervención desde
+luego muy amplia, muy explícita y explicativa del Honorable Representante Wilson
+Gómez, manifestando doctor Wilson Gómez que esta presidencia de acuerdo a lo
+que habíamos hablado con usted y con los directivos del SENA fija para el próximo
+miércoles 10 de octubre el debate con el señor, director del SENA.
+Entonces, en consideración la nota de solicitud de aplazamiento o de excusa que ha
+presentado el señor, director general del SENA, doctor Luis Alfonso Hoyos Aristizabal.
+Se abre la discusión, continúa abierta, anuncio que se va a cerrar, queda cerrada. ¿Lo
+aprueba la Comisión?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:02:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva-john" startTime="2012-10-03T10:03:00">
+							<from>H.R. Silvio Vasquez Villanueva John</from>
+							<p>En consideración de la Comisión las tres proposiciones que fueron
+leídas por Secretaría. Se abre la discusión, continúa abierta, anuncio que se va a
+cerrar, queda cerrada. ¿Las aprueba la Comisión?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-10-03T10:03:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobadas señor Presidente. Señor Presidente, la Secretaría informa
+que está agotado el orden del día.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva-john" startTime="2012-10-03T10:03:20">
+							<from>H.R. Silvio Vasquez Villanueva John</from>
+							<p>Yo le quiero informar a todos los Honorables Representantes de la
+Comisión, que como lo informó la Secretaría, ha sido aprobado por la plenaria de la
+Cámara el traslado de la Comisión a participar en dos eventos muy importantes que
+tienen que ver con el Congreso de ANDIARIOS, el día de hoy, mañana jueves y
+viernes en la ciudad de Cartagena, está invitada toda la Comisión, es un evento bien
+importante donde se está dando a conocer toda la tecnología y lo relacionado con
+los últimos métodos, digamos así, últimas determinaciones en cuanto a publicidad se
+refiere.
+Y también en noviembre el foro o el evento muy importante sobre infraestructura,
+que me parece que es uno de los eventos que se realiza en el país y de suma
+importancia para que la Comisión haga la evaluación correspondiente.
+El próximo martes se cita a comisión para proyectos de ley únicamente, los tres
+proyectos de ley que se han anunciado hoy a partir de las diez de la mañana, el
+próximo martes, doctor Iván Darío Agudelo no se me vaya a ir que le voy a comentar
+una cosa para esta noche, muy importante.
+Y el próximo miércoles a partir de las nueve de la mañana se cita a debate de control
+político con el señor, director del SENA, citante el doctor Wilson Gómez, y también le
+pido a la Secretaría, informarle a los Honorables Representantes integrantes de la
+Comisión Sexta Constitucional para que si tiene a bien en estos días anexar alguna
+pregunta al señor, director general del SENA, dado el cubrimiento nacional que tiene
+esta entidad muy querida por los colombianos que lo hagamos en estos dos días
+para que podamos enviar oportunamente el informe al señor, director del SENA y a
+sus respectivos funcionarios.
+Agotado el orden del día se levanta la sesión siendo las diez y treinta minutos de la
+mañana (10:30 a.m.).
+SILVIO VASQUEZ VILLANUEVA                  JOHN JAIRO ROLDAN AVENDAÑO
+Presidente                                 Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO               JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                                 Subsecretario
+Proyectó: Asdrúbal Oviedo Cáceres</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

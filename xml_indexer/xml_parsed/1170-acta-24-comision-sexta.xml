@@ -1,0 +1,2036 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-javier-augusto-díaz-velasco" id="dr-javier-augusto-díaz-velasco" showAs="Dr. Javier Augusto Díaz Velasco"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-julio-bonilla" id="hr-carlos-julio-bonilla" showAs="H.R. Carlos Julio Bonilla"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-julio-bonilla-soto" id="hr-carlos-julio-bonilla-soto" showAs="H.R. Carlos Julio Bonilla Soto"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-javier-augusto-díaz-velazco" id="dr-javier-augusto-díaz-velazco" showAs="Dr. Javier Augusto Díaz Velazco"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-sepúlveda" id="hr-jaime-sepúlveda" showAs="H.R. Jaime Sepúlveda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dra-angela-rojas-combariza" id="dra-angela-rojas-combariza" showAs="Dra. Angela Rojas Combariza"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-javier-augusto-díaz" id="dr-javier-augusto-díaz" showAs="Dr. Javier Augusto Díaz"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-armando-yespes-martinez" id="hr-jaime-armando-yespes-martinez" showAs="H.R. Jaime Armando Yespes Martinez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo" id="hr-josé-edilberto-caicedo" showAs="H.R. José Edilberto Caicedo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="1170-acta-24-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2011</heading>
+				<debateSection>
+					<heading>Junio</heading>
+					<debateSection>
+						<heading>ACTA NO. 24 / 2011-06-07</heading>
+						<speech by="" startTime="2011-06-07T11:20:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2010 - 2011
+ACTA No 024
+(Bogotá, D.C., 7 de junio de 2011)
+A las once y veinte de la mañana (11:20 a.m.) el, Presidente de la
+Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, Honorable Representante DIEGO PATIÑO
+AMARILES, ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Arias Castillo Wilson Neber
+Bonilla Soto Carlos Julio
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Vásquez Villanueva Silvio
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Quintero Trujillo Jairo
+Tavera Amado Didier Alberto
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:20:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:20:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Sírvase entonces leer el orden del día para esta sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:20:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Legislatura del 20 de julio de 2010 al 20 de junio de 2011
+Segundo Periodo Ordinario (16 de marzo - 20 de junio)
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<question by="#hr-jairo-ortega-samboni">
+								1. ¿Considera la CREG que cumple estrictamente con los mandatos
+constitucionales y principios contenidos en las Leyes 142 y 143 de 1994?
+La Propuesta Regulatoria pretende incrementar en una semana más las garantías
+a entregar por parte de los agentes y adicionar los cargos por uso del Sistema de
+Transmisión Regional y del Sistema de Distribución Local a la base de cálculo de
+dichas garantías
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								2. ¿ha realizado la CREG los cálculos de crecimiento y montos a garantizar?
+¿Cuál es el incremento esperado de estos cálculos?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<question by="#hr-jairo-ortega-samboni">
+								3. ¿La CREG reviso su propuesta regulatoria, con respecto a la Ley de
+Facturación, la cual establece tiempos especifico de aceptación de
+facturas?
+Tiene como mandato asegurar el uso eficiente de la energía, ¿cómo explica la
+CREG que los cargos por uso del sistema de transmisión nacional, regional y
+local que hasta hace muy poco eran de tipo horario tenia valores variables de
+acuerdo a las horas del día, de tal manera que podía estimular el consumo en
+horas de menor costo y optimizar el uso de los recursos, en este momento sean
+cargos monomios (el mismo valor las 24 horas)? ¿Cuál ha sido la
+fundamentación? Teniendo en cuenta que la definición de DESCREME es captar
+los clientes de mayor consumo (pequeños y medianos industriales, grandes
+comerciales y grandes consumidores) y dejar al tradicional o incumbente los de
+menor consumo (residenciales, comerciales agrupados en centros comerciales),
+¿Cómo se explica la medida de prohibir la instalación de fronteras comerciales
+de usuarios agrupados (residenciales, comerciales agrupados, etc.) para contra
+restar el DESCREME?
+¿La CREG revisó que lo que indica en el Capitulo V respecto del retiro del
+Comercializador no vulnera el debido proceso, el derecho a la igualdad y afecta
+el derecho constitucional de libertad de empresa y libertad de competencia?
+								<from>H.R. Jairo Ortega Samboni</from>
+							</question>
+							<narrative>
+Proposición Aditiva a la No. 020
+Por medio del presente, me permito presentar ante usted la Proposición Aditiva para ser
+tenida en cuenta dentro de la Proposición N. 020 en la cual se cita por parte de la
+Comisión Sexta Constitucional Permanente a Debate de Control Político al Ministro de
+Minas y Energía y al, Director de la Comisión de Regulación de Energía y Gas (CREG), para
+que se responda el cuestionario anexo a este comunicado.</narrative>
+							<narrative>PROPOSICIÓN ADITIVA A LA PROPOSICIÓN No. 020
+CUESTIONARIO PARA EL MINISTRO DE MINAS Y ENERGÍA Y, LA COMISIÓN DE
+REGULACIÓN DE ENERGÍA Y GAS (CREG):</narrative>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								1. ¿Cómo se ha implementado la responsabilidad del Estado de proteger los DDHH en las
+políticas y prácticas en Colombia en cuanto a la prospección, exploración y explotación
+de los recursos naturales que afectan los territorios étnicos?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								2. ¿Qué mecanismos existen para garantizar y cumplir los DDHH en las zonas donde hay
+actividades del sector extractivo en Colombia en los territorios étnicos?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								3. ¿Pueden especificar ejemplos concretos de ejemplos, dónde se ha aplicado el derecho
+a la consulta y al consentimiento previo, libre e informado?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								4. ¿Qué observaciones tiene su entidad a la Consulta previa, libre e informado y el
+Consentimiento previo, libre e informado, a partir de las experiencias qué han tenido?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								5. ¿Cómo ejercer el derecho propio y/o a la participación mediante los procesos de
+consulta previa, libre e informada de los Pueblos indígenas y Afrodescendientes a
+través del ejercicio del consentimiento previo, libre e informado, cuándo prima éste
+derecho sobre los intereses de algún proyecto que responde al tipo extractivo de los
+recursos naturales?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								6. ¿Cómo puede beneficiarse la población de los territorios étnicos que pertenece a los
+municipios donde se realiza la prospección, exploración y explotación de los recursos
+naturales?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<narrative>
+Cuestionario
+Comisión de Regulación de Energía y Gas (CREG)</narrative>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								1. Por favor explique de manera simplificada cuál es la metodología para establecer
+las tarifas de energía pública en el país?
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								2. Cuál ha sido la variación de la tarifa de energía pública en el país durante los
+últimos 24 meses? Explique la razón de ello.
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								3. Debido a los fenómenos meteorológicos que se han presentado en los últimos 2
+años en el país, sírvase informar si estos han generado aumentos en la tarifas de
+energía en el territorio nacional.
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+							<question by="#hr-carlos-julio-bonilla-soto">
+								4. Porque a pesar del incremento de los niveles de agua en los embalses del país las
+tarifas del servicio de Energía van en aumento?
+Superintendendencia de Servicios Públicos
+								<from>H.R. Carlos Julio Bonilla Soto</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2011-06-07T11:20:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 7 de junio de 2011
+Hora 10:00 a.m.
+Llamado a lista y verificación del quórum
+Aprobación de las Actas Nos. 017 de marzo 23- 018 de marzo 30 y 019 de mayo 3 de 2011
+Anuncio de Proyectos de Ley, de conformidad con el Artículo 8º. del Acto Legislativo No.
+Primer Debate, en la próxima sesión.
+Citación a Funcionarios de conformidad con el Artículo 249,
+de la Ley 5ª. de 1992</p>
+						</speech>
+						<speech by="" startTime="2011-06-07T11:20:50">
+							<from>OTROS</from>
+							<p>PROPOSICION No. 020 y Aditiva
+(Bogotá, D.C., 23 de noviembre de 2010)
+Cítese a Debate de Control político al Ministro de Minas y Energía, doctor
+CARLOS RODADO NORIEGA, al, Director de la Comisión de Regulación de
+Energía y Gas, CREG, doctor JAVIER AUGUSTO DIAZ VELASCO, a la
+Superintendente de Servicios Públicos Domiciliarios, doctora ANGELA
+PATRICIA ROJAS COMBARIZA, para que respondan los siguientes
+cuestionarios:
+Cuestionario para el debate de control Político al Ministro de Minas y Energía Dr.
+CARLOS RODADO NORIEGA, y al, Director de la Comisión de Regulación de Energía y Gas
+-CRES- DR. JAVIER AUGUSTO DÍAZ VELASCO.El Articulo 4 de la Propuesta Regulatoria
+puesta en conocimiento público a través de la Resolución CREG-143/2010, denominado
+Condición para la prestación del servicio, la cual literalmente dice: “Con el objeto de
+prevenir que la continuidad en la prestación del servicio a los usuarios regulados se
+pueda ver comprometida por el cambio de
+Comercializador, en forma masiva, de aquellos que no cumplen las condiciones mínimas
+para ser considerados no regulados, a partir de la vigencia de esta Resolución no se
+permitirá el registro de Fronteras Comerciales correspondientes a usuarios finales que
+agrupen la medida de varios usuarios” con base en esto:</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:21:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+DIEGO PATIÑO AMARILES JAIME ARMANDO YEPES MARTINEZ
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:21:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Leído el orden del día señor Presidente, someta a consideración con
+la llegado del doctor Quintero Trujillo Jairo y el doctor Atilano Giraldo, y
+el doctor Wilson Arias tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:21:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Entonces, en consideración el orden del día leído, se abre la
+discusión, continúa la discusión, anuncio que va a cerrarse, queda
+cerrado, lo aprueban.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:21:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:21:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:21:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobación de las actas Nos. 017 del 23 de marzo, 018 del 30 de
+marzo y 019 del 3 de mayo de 2011. Someta a consideración las actas
+leídas señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:22:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>En consideración las actas leídas, se abre su discusión, continúa,
+anuncio que va a cerrarse, queda cerrado, las aprueban.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:22:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:22:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Continúe señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:22:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Anuncio de proyectos de ley de conformidad con el artículo octavo del
+acto legislativo 01 del 3 de julio del 2003, para su discusión y votación
+en la próxima sesión de la Comisión.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:22:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Sírvase entonces leer que proyectos de ley hay pendientes para la
+próxima sesión.</p>
+						</speech>
+						<speech by="#hr-jaime-sepúlveda" startTime="2011-06-07T11:22:50">
+							<from>H.R. Jaime Sepúlveda</from>
+							<p>Proyectos de Ley 133 de 2010; 181 de 2010; 232 de 2011; 184 de
+2011; 220 de 2011; 221 de 2011; 237 de 2011 y 211 de 2011 Señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:23:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:23:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Le vamos a dar aplicación a un debate de control político según la
+proposición 020 y las dos aditivas, la principal está firmada por el
+Representante Jairo Ortega Samboni y la otra por los Honorables
+Representantes Carlos Julio Bonilla Soto y Wilson Hernando Gómez
+Velásquez.
+Señor Presidente me voy a permitir dar lectura a la carta que nos
+envió el Secretario General del ministerio de Minas y Energía.
+Doctor
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario General
+Comisión Sexta
+Cámara de Representantes
+Ciudad
+Respetado doctor Díaz:
+Hemos recibido su citación según Proposición No. 020 del 23 de
+noviembre de 2010 para la sesión ordinaria del día martes 7 de junio
+de 2011.
+Al respecto me permito informarle que el señor ministro de Minas y
+Energía, se encontrará en una reunión citada por el señor Presidente
+de la República, Juan Manuel Santos, razón por la que no podrá
+acompañarlos como hubiese sido su deseo.
+Sin embargo dada la importancia del tema y para dar cumplimiento a
+la misma el señor Ministro ha delegado al, Director de la CREG,
+Augusto Díaz Velasco.
+Cordialmente,
+Fdo. Jorge Alberto García Calume
+Secretario General
+La Secretaría se permite informar que ordene usted este debate de
+control político señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:23:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Había hablado con dos de los citantes, porque el doctor Wilson Gómez
+no se ha hecho presente y me ha pedido el doctor Jairo Ortega
+Samboni que le dé el uso de la palabra para contextualizar el debate,
+tiene la palabra el doctor Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:23:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias señor Presidente. Bueno, agradecer la presencia del doctor
+Javier Augusto Díaz al llamado de esta Comisión Sexta, al igual que
+de la doctora Angela Patricia Rojas, Superintendente de Servicios
+Públicos (E) y deplorar como lo hemos hecho aquí la no presencia de
+algunos ministros, igualmente debíamos de hacer lo mismo que
+hicimos la vez pasada de no atender o no aceptar la delegación y
+quiero decirles que la Comisión Primera la semana pasada o hace 15
+días no sesiono hasta que asistiera el ministro de Minas, porque son
+dados a no asistir a las Comisiones y lo hicieron ir, porque interesante
+el proyecto de regalías, aquí pido que continuemos solamente no
+atender al delegado con respeto del funcionario, con respeto, porque
+no va a haber tiempo de hacer este control a una resolución
+regulatoria que ha expedido la CREG en diciembre del año pasado.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:23:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Una interpelación doctor Jairo Ortega, es que el doctor Augusto Díaz
+también está citado, el hecho de que no haya venido el ministro no
+significa de qué él esté aquí en representación solamente del ministro
+sino que él fue citado a este debate.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:23:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>El ministro no delegó a alguien.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:24:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>No.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:24:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Ah, es que yo entendí que había delegado a otra persona. Pero
+quisiera señor Presidente y compañeros de la Comisión que es un
+tema muy difícil para nosotros, máxime para los que somos abogados,
+yo quisiera que le diéramos como un norte a este debate pidiéndole al
+doctor Javier Augusto Gómez que nos dé una explicación, porque este
+tema es técnico y muy específico para que los demás compañeros
+enfoquen, a mi me la han dado, reitero que es una preocupación de mi
+municipio Palmira, porque hace parte de una comercializadora de la
+cual tiene acciones el 40% y allí se han sumado las demás
+comercializadoras del Valle que tienen esa inquietud, que de pronto si
+salen del mercado o se les restringe una libre competencia y de pronto
+creemos que se está violando a pesar de las respuestas de la CREG
+se están violando unas normas constitucionales y legales como es la
+sana asociación de los usuarios, como es la libre escogencia del
+usuario comercializador o quién le preste el servicio público; de pronto
+creo que se va a establecer un monopolio en cabeza de las
+distribuidoras y en perjuicio de estas normas que establece la libre
+asociación y la libre escogencia y la libre competencia, pero antes de
+eso doctor Javier Augusto Díaz o compañeros sí que nos explique, yo
+se que usted nos hace una redacción importante en la respuesta, nos
+hace unos antecedentes jurisprudenciales normativos, la existencia de
+los mercados, las fronteras comerciales que cualquiera no sabemos
+cuáles son las fronteras comerciales, el descreme y ya pasar a la
+respuesta de las inquietudes que elaboramos en el Valle y de las
+cuales se les remitió a ustedes para la cual ustedes dieron oportuna
+respuesta.
+Entonces, si quisiera compañeros si ustedes lo permiten, que le
+demos un espacio al doctor Javier Díaz y nos explique, porque
+ustedes tienen la respuesta, pero si uno la lee, si no tiene al técnico
+ahí al lado explicándole que esto, como es esto, como es la estructura,
+cuál es lo regulado, cuáles son los que distribuyen, uno queda en el
+aire.
+Presidente.
+Muy bien doctor Jairo Ortega Samboni, le damos la palabra al doctor
+Javier Augusto Díaz Velazco, para que nos ubique en el tema y luego
+haremos el debate con respecto a las preguntas que fueron
+formuladas, tiene la palabra entonces doctor.</p>
+						</speech>
+						<speech by="#dr-javier-augusto-díaz-velazco" startTime="2011-06-07T11:24:20">
+							<from>Dr. Javier Augusto Díaz Velazco</from>
+							<p>Muy buenos días, primero quiero agradecer por esta citación que nos
+da la oportunidad para hacer una explicación de la forma tarifaria y de
+las tarifas y para dar la oportunidad de responder cualquier inquietud
+que sobre el tema surja a lo largo de la presentación, tengo una
+presentación sencilla que busca precisamente mostrar cómo es que
+funciona el esquema de tarifas, voy a hacer un poco digamos gráfico
+en las presentaciones con el fin de que ustedes puedan captar los
+conceptos y le sirva a ustedes en el desarrollo del debate.
+Básicamente hay un factor, ustedes conocen un tema que incluso en
+alguna ocasión que me tocó asistir a una sesión de esta Corporación,
+la inquietud de la formula tarifaria, que son una cantidad de letras que
+ustedes ven allí, pero que tienen un fondo que es sencillo y que
+podemos explicar en la siguiente forma, primero tenemos dos tipos de
+usuario, hay un usuario que se llama usuario no regulado, usuario que
+acuerda las tarifas con el suministrador que puede ser un
+comercializador o un generador. Voy a explicar ¿Que es un
+comercializador? Un comercializador es el que compra la energía en el
+mercado y la vende al usuario final, básicamente lo que tenemos es un
+grupo de generadores que producen energía, un sistema de transporte
+de alta tensión, recuerdan ustedes una empresa ISA, o Transelca en
+la Costa o cualquiera de ellas que transportan niveles altos, mayores
+de 230 kilovoltios, porque tiene que transportarlas a grandes
+distancias y después esa energía pasa al distribuidor, el distribuidor la
+va bajando de nivel, hay cuatro niveles de tensión hasta llevarla al
+usuario final residencial.
+Hay algunos usuarios que se conectan a niveles altos, porque tienen
+demandas altas, y para ellos desde el punto de vista técnico es mejor
+conectarse a niveles altos de tensión, estas etapas que son cuatro que
+he mencionado, se desarrollan a través de las redes de distribución
+que es lo que nosotros vemos en las ciudades o cuando vamos por
+carretera llegando a los pueblos etc, se encarga y es la etapa que
+llamamos de distribución. Entonces, tenemos el generador, transporta,
+distribuye y lleva al usuario final, entonces lo que ustedes tienen en la
+pantalla es básicamente eso, en este caso un usuario regulado o sea
+los que básicamente, con los consumidores común y corriente
+digamos los residenciales, a ellos se les define la tarifa teniendo en
+cuenta un valor, que es un valor de referencia eficiente y lo llamamos
+costo unitario, que es el CU que aparece allí, con ese valor los
+comercializadores le cobran a todos sus usuarios regulados de tal
+forma que deben tener en cuenta unos factores que son los subsidios
+establecidos por ley, ustedes bien saben el subsidio de los usuarios de
+alto consumo a los usuarios de bajo consumo, perdón no de alto
+consumo sino de estratos altos a los usuarios de estratos altos, uno y
+dos y también hay subsidio para el estrato tres.
+Entonces lo que se cobra de más sobre este valor unitario que es la
+referencia sirve para cubrir el subsidio de los estratos bajos que
+reciben una tarifa menor que este costo unitario, esa es la tarifa que
+recibe el usuario y lo que hace el costo de referencia es decir con
+respecto a ese valor que es lo que cuesta la energía para llevársela a
+estos usuarios, ¿ cuánto subsidio le da?.
+Entonces, entremos un poquito en detalle en la fórmula, o sea ya
+teniendo en cuenta cómo funciona en cuanto a los subsidios, cómo
+entra a cada uno de los componentes, en el caso de los costos,
+entonces, tenemos el costo de la generación donde producimos la
+energía, el costo del transporte de energía, el costo de distribución y
+adicionalmente entra un costo que se llama costo de restricciones o
+precio de restricciones, pues realmente ahí esta primero el PR que son
+pérdidas, que son las pérdidas que se ocasionan para poder llevar la
+energía desde el generador hasta ese usuario, ahí debe tenerse en
+cuenta que hay que llevar la energía y todo transporte de energía
+conlleva pérdidas, nosotros digamos eso es desde el punto de vista
+definición física, tenemos que reconocer unas pérdidas; la misma
+fórmula tenemos un componente, que es el componente que llamamos
+de vida a restricciones, que es la componente de vida a restricciones,
+es una componente que aparece por sobre costos en el sistema de
+generación, causado por digamos necesidad de generar con las
+plantas que no son las optimas para generar ¿qué quiere decir eso?
+Que en algunas situaciones, requerimos de unas plantas que si no las
+operamos, aunque el despacho óptimo me de que esa plata no esté
+operando yo debo operarla o sino el sistema no funciona, un ejemplo
+clásico, tengo un sistema a red de transmisión con tres líneas y por
+alguna razón pierdo una de ellas, entonces la capacidad de
+importación del sistema que venía por esa red se disminuye, lo que
+me obliga eventualmente a generar en el punto de recibo de esa
+generación si no está dentro de los valores óptimos se considera como
+una generación obligada por las restricciones del sistema de
+transmisión, es un ejemplo, en ese caso esos costos de esa planta
+entonces se pasan a ese componente que llamamos componentes de
+restricciones.
+Adicionalmente está el CB que es el costo de la comercialización, es
+decir la empresa que se encarga de comprar la energía, vendérsela al
+usuario, facturarla o sea hacer la medición de cuánto cuesta, cuánto
+consume el usuario, hacer la factura o sea debe tener un grupo de
+gente que pase mensualmente por cada uno de los usuarios y tome la
+lectura y la envía para que le hagan la factura y el proceso de
+facturación así como el proceso de reclamos que pueda aparecer a
+esa facturación, eso es lo que llamamos costos variables.
+Y por último está una variable que se llama costos fijos, que en este
+momento es (0) cero este costo fijo se incluyo a raíz de un decreto del
+Gobierno Nacional que disponía que se incluyera el costo, dijo sin
+embargo por razón de las implicaciones de incluir este costo dentro de
+las tarifas se ha decidido mantenerlo en (0) cero y los costos variables
+incluyen todo el costo variable, estos son las componentes.
+Vale la pena que ustedes tengan en mente y tengan presente cada
+una de esos componentes ¿Qué impacto tiene? La generación es la
+producción alrededor del 34% de la tarifa entre otras, ustedes, a todos
+los usuarios, a todos nosotros como usuarios cuando nos llega la
+factura si ustedes ven con detalle en la factura, en la parte inferior de
+la factura encuentra en cada uno de los costos de estos componentes,
+o sea eso esta desagregado en la factura misma y cada usuario puede
+conocer cuánto es, en este caso el G más o menos pesa un 40%, el
+transporte pesa un 6%, la distribución que incluye los 4 niveles de
+distribución alrededor del 39,. 40%, lo que son pérdidas corresponden,
+hay que tener presente esto, corresponden a un 7% promedio de la
+tarifa, no quiere decir que el promedio sean el 7%, la pérdida son
+14.25%, son las pérdidas eficientes, pero el cobro de esas pérdidas
+comparado con la tarifa que le llega al usuario es alrededor del 7%.
+Las restricciones representan el 2%, sin embargo estas restricciones
+pueden variar, dependiendo de las situaciones, por ejemplo
+situaciones como el invierno, que sacaron muchas líneas, hubo que
+generar con algunas platas más costosas, incrementaron estos
+valores, sin embargo el porcentaje, el peso de este componente es
+alrededor del 2% y la comercialización corresponde al 12%, entonces
+esos son los pesos para que ustedes tengan órdenes de magnitud.
+Adicionalmente voy a entrar en algún detalle y es el siguiente, los
+valores de T y D el PR y el C, el T y D como es el sistema de
+transmisión, en realidad es un sistema que es un monopolio, y se
+regula como monopolio, es decir a él se le da una tarifa, que está
+definida por regulación y se regula de esta manera, o sea como un
+monopolio lo mismo la distribución; las PR que se definen como unas
+pérdidas de de eficiencia, son las pérdidas con las cuales se considera
+y se puede pasar al usuario, si algún comercializador y distribuidor
+están produciendo más pérdidas, esas pérdidas en este momento
+están pasando al comercializador que en este caso son los
+comercializadores incunbentes.
+Las restricciones son el cálculo que se hace del valor de restricciones
+mensual, básicamente, se identifica cuánto fue el exceso de costo por
+razón de estas restricciones y se calcula así y se pasa al usuario final,
+el comercializador tiene para el usuario regulado una definición de un
+margen que le permite el pasar, es una tarifa que él puede pasar al
+usuario al cual está atendiendo y el primero que no había mencionado
+que deje para lo último es básicamente los costos de generación,
+estos costos de generación están originados en los precios en el
+mercado de generación; ustedes saben que desde el año 1995, está
+operando este sistema que le ha permitido al mercado tener
+básicamente los precios más eficientes para cubrir la demanda, así
+como tener energía inclusive en condiciones en las cuales los países
+vecinos han tenido dificultad para hacerlo, entonces en esta
+generación hay dos formas, una es comprando en la bolsa, o sea
+comprando a corto plazo, pero esos precios son precios que varían
+con los aportes hidrológicos, que ustedes bien saben son bastantes
+erráticos y variables y la otra forma que es a través de contratos,
+contratos que pueden ser de uno, dos, tres o más años, esto es muy
+importante, ¿Por qué? Porque como hay variaciones en el precio en
+el mercado. ¿Hay variaciones que se presentan en qué forma?
+Cuando está lloviendo mucho como estamos ahora, que tenemos
+caudales altos, los precios son bajos en el mercado, pero cuando se
+presenta la sequía como cuando es el niño o los periodos de
+diciembre y enero los precios suben, esas variaciones y lo vamos a
+ver en una gráfica que está más adelante no son toleradas por el
+usuario por obvias razones, precios que pueden subir, llegar a dos
+veces el valor de la generación, e incluso a tres veces, porque se
+están usando recursos muchos más costoso, se están utilizando
+recursos más costosos y se está utilizando generación térmica muy
+costosa. ¿Entonces qué es lo que se hace? tanto a unos como a otros
+les interesa hacer contratos, tanto al generador le interesa cubrirse
+contra esa variación de precios y al comprador o al comercializador
+también le interesa cubrirse contra esa variación de precios, resultan
+entonces unos contratos que se definen a mediano y largo plazo,
+contratos que definen una tarifa, un valor de una tarifa que busca
+equilibrar esos riesgos que hay en la producción de la energía y eso le
+permite al usuario tener precios estables y durante los periodos muy
+secos tener precios que él no podría tolerar.
+Pero en el periodo de invierno obviamente el va a pagar un poquito
+más que lo que sería comprar en el mercado, eso es básicamente este
+punto.
+Pasemos a la segunda diapositiva, en donde básicamente mostramos
+que para los estratos uno y dos ese costo de referencia o costo
+unitario menos el subsidio es lo que le va a ir a la tarifa, subsidio que
+para los estratos 1 es hasta del 60% y 50% y para el estrato 3 es del
+15%, allí están definidas las leyes que lo establece y siguiente esta el
+estrato 4 y los usuarios oficiales que en este caso pagan el costo de
+referencia, o sea el costo unitario, no tienen subsidio, eso es lo que
+vale entregarle a un usuario esa energía y por el caso de los estratos 5
+y 6 y actualmente para industria y comercio ellos pagan una
+contribución que es en el caso de la energía eléctrica del 20%
+adicional, con estos recursos que se cobran adicionales más otros del
+presupuesto nacional se cubren los subsidios de los estratos bajos.
+Fíjense que como Comisión y como CREG le corresponde definir el
+CU y por ley están establecidos los subsidios y son las empresas que
+aplican ese subsidio, es muy importante ese aspecto, vale la pena
+notar que en el caso de la industria esta ley que establece el desmonte
+del 20% que ustedes bien conocen.
+En esta gráfica ustedes ven la variación de los precios en la bolsa, es
+totalmente afectado por las condiciones que tiene el sistema y en el
+caso que estamos mostrando aquí entre finales del 2009 principios del
+2010 los efectos del fenómeno del niño con precios que pudieron
+llegar en la bolsa hasta 300 pesos por kilovatio hora de solo la
+generación que no se le pasa a uno el usuario directamente y estos
+otros precios altos, como no se le pasan con el esquema de contratos
+y la formula tarifaria, es decir empresas que no se contrataron para
+cubrirse con respecto a este niño debieron pagar estos precios para
+poder tener la energía que necesitaba, eso es básico y va en la
+dirección de la pregunta que se nos ha planteado en este caso.
+Entonces, para el periodo después del niño aparece la niña y los
+precios de bolsa empiezan a bajar, llegando a valores de 50 pesos y
+es muy importante esto y es un elemento para que ustedes lo miren
+desde este punto de vista, suponga que hay un usuario no regulado,
+no importa, hay un usuario no regulado que decide entrar en este
+caso, voy a suponer un usuario no regulado que define la tarifa con su
+generador, el viene con unos precios que son alrededor de 100 pesos
+en los meses del año 2009, cuando ve que empieza a subir el precio
+dice no, yo ahora me quiero volver regulado, entonces cuando él dice
+yo me quiero volver regulado ¿qué pasa? Se retira del proceso y
+empieza a hacer carga para la empresa que está atendiendo los
+regulados, para el comercializador que está atendiendo los regulados.
+y cuando empieza a hacer carga cuando los precios empiezan a subir,
+entonces, eso no es posible permitirlo ¿por qué? ¿porque
+inmediatamente los que van a sufrir son los otros usuarios que están
+formando el grupo de la empresa que atiende a los regulados así de
+claro y eso digamos es el fenómeno y por eso es la norma; bueno,
+usted puede elegir, perfecto, puede elegir, pero tiene que tener
+presente que no puede afectar a los otros usuarios por su decisión, de
+esta manera se establece la reglamentación que fue antes del 2009
+que se le dice bueno usted puede pasar al usuario regulado pero ahí
+se debe mantener por lo menos tres años”, es decir va a hacer de la
+masa crítica, porque o sino estamos quitándole la posibilidad a la
+empresa que atiende los regulados a que tenga los ingresos
+suficientes para todos sus costos, así llegaría a que todos los usuarios
+podrían hacer este juego que es un juego básicamente e iría en contra
+del resto de usuarios.
+La siguiente gráfica presenta que es una solicitud también, la grafica
+que presenta los costos promedio del costo unitario de prestación del
+servicio al usuario final, este es un costo promedio, la forma estable de
+precios, son precios estables obviamente aquí estamos incluyendo
+todos las componentes, fíjense que aquí hay un valor de 360 que fue a
+principios del año 2010, como aquí estamos calculando el costo
+unitario en la prestación del servicio, aquí se está incluyendo unos
+efectos que son debido a las restricciones que se presentaban en el
+sistema y adicionalmente se está incluyendo unos costos por esas
+restricciones que produce incremento del precio, noten ustedes, aquí
+hay otro efecto que podíamos decir la variación es de 20 pesos al
+usuario final, si ustedes la comparan digamos de la gráfica que está
+allí es de 20 pesos, cuando volvemos a la gráfica anterior las
+variaciones son de 150 pesos, variaciones que el usuario obviamente
+no podría tolerar y esto se puede hacer en razón a que los agentes
+pueden utilizar los contratos de largo plazo para manejar estas
+variaciones de precio.
+Básicamente en la última presentación en esa dirección ya si ustedes
+quieren alguna ampliación para seguir en el análisis con mucho gusto
+trataré de atenderlos.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:24:30">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Dr. Jairo Ortega en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:24:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muy buena la exposición y yo creo que absuelve el cuestionario del
+compañero Wilson Gómez, tengo ahí unas inquietudes que mejor me
+reservaría porque quiero la explicación de las respuestas a mis
+inquietudes doctor Javier Augusto Díaz que muy bien lo explican aquí,
+de por lo menos no sé si los compañeros saben cuáles son los
+usuarios regulados y no regulados, yo humanamente he pedido la
+explicación si saben lo que es la frontera comercial y lo del descreme
+que es en si la citación, a pesar de lo que se acaba de explicar se vino
+en una adición que es importante porque es bueno para las
+inquietudes de la gente, que porque aumenta el precio de la tarifa de
+la energía y nunca baja, que fue la inquietud que presento Wilson
+Gómez.</p>
+						</speech>
+						<speech by="#dr-javier-augusto-díaz-velasco" startTime="2011-06-07T11:24:50">
+							<from>Dr. Javier Augusto Díaz Velasco</from>
+							<p>Atendiendo su inquietud, entonces, me voy a referir a lo que es
+usuario no regulado y usuario regulado, básicamente el usuario no
+regulado puede ser todo aquel que tenga una demanda mensual de
+más de 55 megavatios hora mes y 100 kilovatios, ese es el valor para
+usuario no regulado, son empresas medianas, no son pequeñas, son
+medianas, es una demanda más o menos importante y más o menos
+nosotros consumimos, es decir el consumo medio residencial es
+alrededor de los 250 kilovatios hora mes, estamos aquí hablando de
+55 megavatios hora mes es mucho más grande de lo que podría uno
+imaginar en este momento, esa es la referencia y que es, los usuarios
+que tengan demanda superior a este valor, pueden definir su tarifa con
+el suministrador en este caso generador o comercializador, ese es el
+primer punto.
+Segundo punto, ¿qué es la frontera? La frontera es el punto donde se
+entrega la energía y se mide, realmente hay situaciones en las cuáles
+el medidor esta a distancia de la frontera, pero la frontera es donde se
+entrega la energía, donde el usuario recibe la energía, esa es la
+frontera y se define fronteras para usuarios no regulados y para los
+comercializadores en este caso que atienden regulados. Entonces, la
+frontera es el punto de medición que permite a las partes establecer
+cuánto consumió dada la tarifa según el acuerdo que ellos hayan
+hecho de hacer la factura y de hacer el pago y hace la entrega de la
+energía correspondiente, esa es la definición de frontera.
+Ahora pasemos al tema de descreme, es el siguiente, a raíz de la
+formula que tiene el comercializador básicamente, tiene el siguiente
+comportamiento, cuando un comercializador que está asociado con
+una empresa de distribución por razones históricas, ustedes saben
+que antes del 95 las empresas electrificadoras eran las que atendían
+todas las redes de distribución y a los usuarios finales, con las Leyes
+142 y 143 se crea el comercializador que se encarga de hacer la venta
+directa al usuario final, pero la mayoría de los usuarios regulados
+están siendo atendidos por la misma empresa que es de distribución,
+o sea que se encarga de comprar en el mercado mayorista para
+venderle al usuario final, eso es importante conocerlo con el fin de
+seguir en el tema del descreme, cuando hay el descreme, cuando un
+comercializador que está afuera, que no es el incunbente que
+llamamos nosotros, el que presta el mismo servicio de distribución
+viene y atiende un usuario no regulado, ese usuario no regulado lo
+atiende él solo e incluye solamente lo que son las pérdidas eficientes e
+incluye los costos de generación, distribución etc; sin embargo los
+costos de comercialización de ese usuario le van a representar
+solamente en este caso una sola tarifa, pero un solo usuario al cual el
+va a hacer la medición, entonces le quita de la masa de usuarios de
+demanda al comercializador incunbente para atenderlo él solo, cuando
+lo atiende el distribuidor comercializador a él se le reduce la demanda
+y por lo tanto se le suben las tarifas de comercialización porque va a
+atender con menos demanda casi los mismos números de usuarios,
+entonces, el costo por tarifa le sale más caro, esto es lo que se llama
+el descreme en el sentido en que los comercializadores le retiran
+demanda buena llamémoslo así, porque es importante y ya tiene
+ciertas características de pago, etc., y le deja los costos al
+comercializador incunbente. Esto es lo que se ha denominado el
+descreme y que básicamente es un procedimiento que se viene
+usando desde principios del desarrollo del mercado específicamente
+cuando se estableció la formula de comercialización que incentivaba
+en el fondo ese mecanismo.
+¿Qué se estableció en su oportunidad para incentivar la
+comercialización como tal? o sea comercialización que no era parte
+de ninguna de las empresas, ni de generación, ni de distribución. Sin
+embargo esto lo que produjo fue este fenómeno que algunas
+empresas que son las incunbentes tendrían unos mayores costos, o
+mejor los mismos costos para distribuirlos entre menor demanda,
+razón por la cual tiene efectos sobre el usuario. Entonces ese es el
+tema del descreme que básicamente planteaba el Representante, no
+sé si quieren que haga alguna adición.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:25:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Ciro Rodríguez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:25:10">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, para saludar muy especialmente al
+doctor Javier Augusto Díaz y a la doctora Angela Patricia Rojas. Yo
+quiero aprovechar esta oportunidad para no solo hacerle unas
+inquietudes con respecto a la comercialización sino a toda la cadena
+del servicio público domiciliario de energía eléctrica, como usted lo ha
+dicho que tiene que ver con las actividades de generación,
+transmisión, interconexión, distribución y comercialización.
+Con respecto a la actividad de generación quisiera que usted nos
+dijera como ha funcionado el cargo por confiabilidad que es el nuevo
+sistema que se está utilizando en Colombia, principalmente como fue
+la experiencia en el pasado fenómeno del niño, si realmente funciono
+este cargo de confiabilidad que está hecho precisamente es para
+atacar estas condiciones críticas, yo siempre he tenido la inquietud, si
+realmente las empresas que se han comprometido con la obligación
+de la energía en firme, hay la suficiente auditoria o interventoría para
+que ellos cumplan con esta obligación de energía en firme, si siempre
+la mantienen ellos, o tuvieron ustedes en este proceso del fenómeno
+del niño algunas sorpresas que se puede estar pagando a un
+generador y no mantener esta disponibilidad de energía en firme.
+Con respecto a la distribución también ustedes avanzaron en un tema
+que tiene que ver con el cargo unificado según área de distribución,
+quisiera saber si este sistema está funcionando, si ha generado
+algunos beneficios principalmente para los usuarios.
+Y con respecto a la comercialización, como usted lo ha dicho acá que
+es la compra de energía eléctrica ya sea en bolsa o a través de
+contrato y su venta a los usuarios finales ya sean regulados o no
+regulados, aquí el doctor Jairo Ortega plantea unas inquietudes que
+me parecen que son bien justificadas, precisamente con lo que tiene
+que ver con el descreme del mercado y sabemos nosotros que esto
+ocurre por la forma como se calcula este costo de comercialización,
+este costo de comercialización se calcula dividiendo el costo base de
+comercialización por factura sobre el consumo promedio de factura, al
+tener este consumo promedio por factura como en la división, siempre
+que exista un usuario que consume más pues este costo de
+comercialización se va a disminuir y esto es lo que han venido
+utilizando, casi que han motivado a la creación de muchas
+comercializadoras y van y hacen una selección de usuarios con altos
+consumos y de una vez el atractivo para estos usuarios es que se le
+baja el costo de comercialización.
+Entonces, la pregunta que nosotros nos hacemos es ¿si esta
+regulación de la Resolución 143 ataca este problema? Uno diría,
+bueno, pero que consecuencia puede tener esto, como usted lo ha
+dicho, las consecuencias son muchas y muy graves precisamente
+para los usuarios no atractivos o usuarios de estratos uno y dos,
+aquellos usuarios que hay que subsidiarles el consumo, porque
+estamos dejando nosotros las antiguas distribuidoras-
+comercializadoras con estos usuarios que son de bajo consumo, hay
+que subsidiarlos, donde las pérdidas son mucho mayores que las
+pérdidas reconocidas, por lo tanto vamos nosotros a generar una
+inviabilidad de estas empresas distribuidoras comercializadoras,
+porque vemos nosotros que en esta resolución se ataca un solo
+problema que es la agrupación de usuarios que es otra técnica que
+diría uno han venido utilizando, agrupar usuarios para cumplir con el
+consumo y volverlos usuarios no regulados, de tal forma que ellos no
+entrarían dentro de esta tarifa regulada sino entrarían a negociar
+directamente con los generadores el consumo de la energía y por lo
+tanto se les bajaría también este consumo, vemos que atacan ese
+problema, pero veo que es de los usuarios reguladores cualesquier
+usuario de consumo medio no se está atacando con esta regulación.
+Entonces, nosotros quisiéramos saber que está pensando realmente
+la Comisión de Regulación para atacar este problema, si realmente se
+tiene pensado una nueva metodología, que realmente asegure la
+viabilidad de estas empresas; y lo más importante que no vaya a
+afectar el servicio universal de energía eléctrica. Entonces son las
+inquietudes que quisiéramos nosotros nos respondiera para pues
+tener tranquilidad y en esta función que tenemos nosotros de hacerle
+el control político principalmente a los servicios públicos domiciliarios.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:25:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Jairo Ortega en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:25:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias señor Presidente, ya entrando al tema, el doctor Javier
+Augusto Díaz me asalta una duda, esas propuestas regulatorias que
+la veo bien cuando la CREG las cuelga en su página para atender las
+inquietudes de los usuarios y en este caso nosotros que también
+somos voceros de la comunidad y de empresas, yo lo veo bien,
+porque es de las pocas entidades que veo que esta acá, primero como
+un proyecto, fuera como una propuesta de proyecto de ley para
+enriquecer el tema, o sea yo celebro que a buena hora hubo unas
+preguntas aditivas por parte del compañero Wilson Gómez, en el
+sentido de que nos explicará la metodología, lo anote juiciosamente,
+me preocupa algo para que lo tenga bien y yo creo que puede ser
+materia de debate de esta comisión que tiene que ver con los servicios
+públicos, porque por lo menos las pérdidas reconocidas, nosotros los
+usuarios porque tenemos que pagar las pérdidas reconocidas, yo no
+sé si será justo que nosotros los usuarios, el del común tengamos que
+subsidiarle a quienes generan, a quienes distribuyen y a quienes
+comercializan esas pérdidas, lo estamos subsidiando donde vemos las
+riquezas que tienen esas grandes empresas generadoras y
+distribuidoras de energía y nosotros los pobres paisanos somos los
+que estamos pagando en últimas ese costo unitario del valor de la
+tarifa.
+La pregunta tercera y cuarta hablan y usted ya lo explicó, debido a los
+fenómenos meteorológicos que se han presentado en los últimos dos
+años en el país”, sírvase informar si esto ha generado aumento en las
+tarifas de energía en el territorio nacional” Usted explico que no, que
+eran precios estables, pero uno ve con preocupación que si bien es
+cierto no serán aumentados y cuando nos explica en la gráfica el
+doctor Javier Díaz vemos como hace un año el valor del kilovatio hora
+en la bolsa valía 300 pesos y ahora por el fenómeno de la niña vale 50
+pesos, entonces, uno no se explica cómo, si antes los comprábamos a
+300 pesos ahora vale 50 pesos, porque no lo van a seguir vendiendo a
+300 pesos porque la tarifa no ha aumentado, el precio ha sido estable
+según las palabras del doctor Javier Díaz y eso lo ve uno, porque eso
+no baja, entonces sería bueno doctora Angela Rojas que usted tuviera
+en cuenta estas inquietudes que nos surgen, un tema tan espinoso,
+tan técnico, tan especifico que necesita uno varios clases y charlas
+para poder uno medio entender el tema, pero yo ya lo he ido cogiendo
+someramente ya para entrar, yo no me explico cómo si por el
+fenómeno de la niña ya el precio del kilovatio bajo bastante, más del
+50%, las tarifas de energía no bajan.
+También para que lo tenga en cuenta, no es el tema del debate ahora
+esas pérdidas reconocidas ¿Porque las tenemos que pagar los
+usuarios? El 7% ya lo demás esos porcentajes de la generación, de la
+producción, del transporte, de la distribución todo eso ojalá fuera
+objeto de control por parte de la CREG y de la Superintendencia,
+porque uno lo que se ve y lo que ha visto en toda su vida es que esto
+nunca baja, siempre aumenta.
+Pero peor aún, que tampoco es tema del debate pero yo se que va a
+ser tema del debate porque lo voy a citar más adelante doctor Javier
+Díaz y doctora Angela Rojas. Hay un proyecto de resolución, proyecto
+regulatorio que es la Resolución 184 del año 2010, que habla de la
+reducción de pérdidas no técnicas, palabras más, palabras menos
+compañeros, lo que he captado si lo he entendido mal, si de pronto al
+final de mis inquietudes, es unas pérdidas que están teniendo las
+grandes generadoras de energía, pero que se le va a distribuir un gran
+porcentaje a todos los usuarios o sea todos nosotros, o sea que quiere
+decir, que todo lo que se está perdiendo que no pudieron ir a controlar
+a los sitios más retirados cuando se cuelgan los que venden
+ambulantemente su producto por ahí en las calles entonces todos los
+usuarios los tenemos que pagar, no, yo creo que eso no es justo,
+búsquenle por donde recuperan esas pérdidas, pero no vía cobro a la
+tarifa del usuario que parece ser, van a ser como 6 pesitos, eso no
+sumara mucho, pero entre todos los usuarios de Colombia eso habla
+de millones y billones y como a 5 años, eso es un platal que van a
+recuperar estas empresas generadoras de energía, que yo no lo
+considero justo que el gobierno en cabeza de la CREG parece ser que
+esta regulando a favor de estos grandes que tienen el monopolio de la
+generación de la energía. Entonces, es bueno que lo revise doctora
+Angela Rojas, lo tengo para los próximos debates, porque voy a
+empaparme más de esta resolución compañeros, porque nos van a
+incrementar una pérdida de una energía no técnica a nosotros los
+usuarios que no sabemos de eso, pero que nos va a llegar en los
+cobros de la facturación.
+Y en el tema que me corresponde por el cual se genero esta inquietud,
+yo no me explico cómo no se va a permitir el registro de esas fronteras
+comerciales doctor Javier Díaz así lo dice el artículo cuarto, me
+preocupa porque esa Ley 142 si bien es cierto le abrió el espacio a
+empresas que se formaran para comercializar la energía, no va a tener
+una libre competencia, porque eso lo va a limitar no más a las
+distribuidoras, no permitir que las gentes de un centro comercial o de
+una urbanización, porque ya estas empresas, lo digo porque conozco
+ICEL en Cali, que en Palmira tiene el 40% de sus acciones, ya está
+entrando a las urbanizaciones, cuando se están haciendo las
+urbanizaciones los planes de vivienda, hay una libre competencia y los
+usuarios están escogiendo que más barato le vendan la energía y por
+eso en Palmira la EBSA se ve ya desplazada porque está entrando
+ICEL y de pronto otra comercializadora, uno no se explica cómo quién
+genera su energía pues la vende más cara que una comercializadora,
+si la comercializadora va a ganar por su intermediación, pero eso está
+sucediendo compañeros. Entonces, donde haya competencia doctor
+Javier Díaz y doctora Angela Rojas pues gana el usuario con calidad,
+eso está demostrado, por eso el TLC tiene que salir adelante y por eso
+donde haya competencia pues ganamos los usuarios.
+Por eso yo no me explico cómo se establezcan límites para esas
+fronteras comerciales para los conjuntos residenciales, donde ya no se
+va a poder permitir que un comercializador pues le siga vendiendo a
+no ser que esté equivocado, este interpretando mal esa resolución y
+usted me diga las comercializadoras van a continuar, no hay problema
+con las comercializadoras.
+El descreme es importante porque esa es una sana competencia de
+los empresarios, allí tenemos que obligar es a los que están perdiendo
+ese descreme que cautiven a sus usuarios, que lleguen a la población
+pobre, que lleguen allá con incentivos que no sea la energía tan
+costosa y que compitan y que los comercializadores también lleguen
+allá y yo se que ya están llegando, porque los usuarios de conjuntos
+residenciales y de centros comerciales y pequeños empresarios son
+solo los clientes, yo lo sé, que ellos ya están llegando a conjuntos
+residenciales, sino que nosotros los usuarios del común de una
+vivienda residencial no sabemos que ellos también nos podrían prestar
+el servicio y uno se queda siempre con el monopolio; con el respeto lo
+digo de EMCALI, o en Palmira de la ECSA, pero cuando entre a mi
+cuadra, a mi manzana, o a mi barrio una comercializadora a ofrecer
+unos servicios o cuando le explican es que va a ser más barato,
+téngalo por seguro que todos nos vamos para allá y esto va a ser una
+sana competencia, por eso yo no veo que esta resolución, esta
+propuesta regulatoria allí en esta resolución 143 este beneficiando a
+los usuarios, debería legislarse para que una tarifa baje, para que esos
+comercializadores se enfrenten en sana competencia con los
+distribuidores y los generadores para que la tarifa baje, pero yo no veo
+allí que los usuarios nos vayamos a beneficiar de esta resolución 143
+y menos nos vamos a beneficiar de la 184.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:25:40">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Wilson Gómez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-06-07T11:25:50">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Muchas gracias Presidente, yo quiero muy breve referirme a lo que el
+doctor Jairo Ortega Samboni hace unos minutos frente al análisis que
+hace de las preguntas que enviamos a la Comisión con el saludo
+cordial al señor, director y a la señora Superintendente y a todos los
+colegas. Quisiera pedirle señor, director que me ayude a entender un
+poco las respuestas que usted ha enviado, quiero que entienda que no
+le está hablando el experto, ni en meteorología, ni en tarifas de
+energía, sino un ciudadano común y corriente el que se puede estar
+preguntando qué sucede con las tarifas de energía en Colombia.
+Quiero tomar las palabras de muchos ciudadanos a los que he
+escuchado en distintos escenarios, que al igual que yo difícilmente
+podrían entender sus respuestas, pero entiende que tiene que darlas
+en ese sentido porque al fin y al cabo usted es un técnico en la
+materia, sin embargo en lo que uno logra analizar aquí a la brevedad
+encuentra señor, director; de antemano una pregunta, de si el clima
+afecta o no las tarifas influye en la alza o en la reducción de las
+mismas la Comisión enfáticamente hace un cuadro comparativo en el
+que nos demuestra que entre el periodo 2009 y 2010 el fenómeno del
+niño causo una sequía que de manera inmediata genero una elevación
+en las tarifas de energía, eso como simple ciudadano logro entender
+en esta respuesta. Más adelante le pregunto al señor, director, que
+debido a los fenómenos meteorológicos que se han presentado en los
+últimos dos años en el país, sírvase informar si estos han generado
+aumento en las tarifas de energía en el territorio nacional. Responde
+él, que la tarifa se incrementó como resultado del verano prolongado
+del fenómeno del niño como puede observarse en la gráfica anterior,
+señala que los precios incluso que juegan en la bolsa aumentaron y
+que por lo tanto ello lleva a que la tarifa aumente también como
+consecuencia para el bolsillo de los colombianos y entonces más
+adelante vuelvo y pregunto ¿porque a pesar del incremento de los
+niveles del agua después de esas sequías en los embalses del país
+las tarifas del servicio de energía van en aumento? Vuelvo y reitero
+como ciudadano común y corriente señor, director, quisiera entender
+que ante una sequía usted señala que el aumento es inevitable de las
+tarifas de energía, pero luego me cuestiono sobre si ante la apertura
+de las compuertas que se ven a diario por la televisión como
+consecuencia ya del fenómeno de la niña, las tarifas no debieron
+haberse reducido.
+Entonces, responde la Comisión que ya para ese caso las
+afectaciones climáticas no son válidas, es decir la afectación climática
+sirve para el aumento, pero no sirve para la reducción porque cuando
+viene la reducción entonces la fórmula cambia, la formula no funciona,
+quiere esto decir que el fenómeno de la niña nos llevo y sabe más
+usted de ello doctor Ortega en materia de tarifas cuánto nos habrá
+aumentado no tengo el dato, pero si sigo con el ejemplo para cualquier
+cristiano que nos pueda estar observando a través de la televisión
+cuando retransmitan este espacio o para cualquiera de los que
+estamos aquí que somos ignorantes en la materia, sobre el incremento
+de los embalses, que a diferencia de la sequía mantienen el aumento
+y entonces señala la Comisión que cuando el fenómeno es al contrario
+o sea saturados los embalses como consecuencia del fenómeno de la
+niña se aplica la formula que los contratos de adquisición de la energía
+son a largo plazo, por lo tanto no pueden intervenir la tarifa.
+Entonces, señor, director quisiera yo pedirle me ayude a entender esto,
+se que usted hizo un esfuerzo hace unos minutos para tratar de que lo
+entendiéramos, pero vuelvo y reitero, soy un ciudadano común y
+corriente al que usted se puede estrellar en un barrio, al que se puede
+estrellar en una vereda en este país, a alguien a quién incluso las
+inundaciones pudo haberlo afectado y que no entiende como entonces
+si se desbordan los embalses la tarifa permanece intacta o incluso
+aumente por la simple y llana razón que la formula que se aplica
+entonces viene siendo la contraria; quisiera tomarme un segundo para
+leer un párrafo de la respuesta ante la pregunta de ¿porque a pesar
+del incremento de los niveles del agua en los embalses del país las
+tarifas de servicio de energía van en aumento? Responden: Para
+proveer una señal de estabilidad en el mercado ante fluctuaciones en
+el precio en la bolsa el cual se ve afectado por diversos factores como
+la variabilidad en las hidrologías, la oferta y precios del gas y la
+percepción del riesgo que puede tener el agente sobre el
+comportamiento del mercado, las empresas prestadoras del servicio
+celebran contratos de adquisición de energía en largo plazo, es decir
+aquí si los contratos de largo plazo se respetan pero no se respetan en
+el momento en que la sequía afecta el nivel de los embalses,
+considerando de que la energía que se está entregando hoy en día
+obedece a una contratación realizada con anterioridad en donde los
+agentes vendedores definen el precio de los contratos de acuerdo con
+la competitividad del proceso y las probabilidades de las diferentes
+situaciones de aportes hidrológicos que se pueden presentar durante
+todo el horizonte del contrato, se entiende que el precio del
+componente G de la formula tarifaria no tiene necesariamente una
+corrección directa con la situación hidrológica presente, lo que se ve
+reflejado directamente en la tarifa.
+Vuelvo y reitero, si uno se detiene sin ser experto a analizar la
+respuesta por supuesto que en el papel encuentra uno una sana lógica
+de la explicación por parte de la entidad, eso en la sana lógica, pero
+en la lógica de aquellos que tienen que de su bolsillo sacar para pagar
+diariamente el bolsillo y que se sorprenden mes a mes tras el
+incremento, aunque el agua les llegue al cuello, es donde no se logra
+entender esta respuesta.
+Así que señor, Director y señora Superintendente, si he logrado
+hacerme entender en estos pocos minutos, le solicito de la manera
+más comedida y con ese mismo lenguaje sencillo nos explique porque
+razón lo uno, o porque razón lo otro.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:26:00">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Tiene la palabra el doctor Carlos Julio Bonilla.</p>
+						</speech>
+						<speech by="#hr-carlos-julio-bonilla" startTime="2011-06-07T11:26:10">
+							<from>H.R. Carlos Julio Bonilla</from>
+							<p>Muchas gracias. Yo voy a resumir mi intervención dados los
+importantes aportes que han hecho cada uno de los colegas, y voy a
+lamentar que hace mes y algo no se hubiese hecho aquí el debate de
+control político que habíamos citado para CEDELCA la Compañía
+Energética de Occidente, la Compañía Eléctrica del Cauca y la Super
+servicios y lo voy a hacer breve porque pues por un error de redacción
+nuestra terminamos pidiéndole a la CREG respuestas que no le
+competían y la respuesta de la CREG fue sencilla no tenemos como
+responderle a usted y así lo entiendo y así funciona esto, uno hubiese
+querido que se diese trámite a la entidad que le corresponde para que
+al final este tipo de escenario que sirve es para darle claridad al país,
+pues realmente se potencien y permitan generar confianza.
+Yo saludo a la doctora Angela Patricia Rojas su presencia y al doctor
+Javier Díaz por la explicación que ha dado, ese debate de control
+político que no hicimos habría dado la respuesta exacta a lo que aquí
+hoy se manifiesta, la exactitud de las fórmulas y la belleza técnica que
+se presenta y no quiere decir que este mal, está bien, no coincide en
+nada con lo que pasa en el país y no coincide en nada con el pueblo
+de Colombia, o sea lo que aquí se ha manifestado, de cómo a la hora
+de los beneficios gana los mismos y a la hora de las pérdidas pierde el
+pueblo, es una realidad y quienes hemos sido alcaldes, gobernantes
+de este país lo sabemos y como las empresas de servicios públicos de
+los municipios intermedios del país están a punto de ser quebradas
+por estas circunstancias compañeros de esas mismas formulas y
+quiero allí contar elementos sencillos.
+En la intervención de la empresa CEDELCA en el Cauca estaba esta
+misma fórmula y las mismas circunstancias que aquí se han
+planteado, algunas más de fondo y uno podría profundizar en ellas,
+pero en últimas la desazón fue la misma con el acompañamiento de la
+Super en una intervención válida, necesaria, pero con una realidad, al
+final la no defensa de las comunidades termino en una no compra de
+energía en bolsa y al final los costos de manera frutal quedaron sobre
+el pueblo caucano, sobre el comercio del Cauca, sobre la industria del
+Cauca y no son un peso, fueron cifras estruendosas durante tres
+meses que generaron paros, movilizaciones, cartas a la CREG, cartas
+a todo el mundo y al final la solución fue fría, seca, hoy el servicio es
+mejor, lo reconocemos, hoy el proceso de intervención general, un
+elemento positivo sobre la empresa que presta el servicio, pero esa
+carga que quedó en comerciantes, en industriales, en estratos uno,
+dos y tres quien respondió por eso? Nadie. En este país se subsidia
+cada que el sector privado se quiebra, cada que el sistema financiero
+se quiebra, cada que alguien que tiene todo el poder económico se
+quiebra, aparece el Estado y subsidia esa situación y cuando fueron
+ese pueblo pobre del Cauca nadie apareció; y hablamos de
+incrementos de 190 y pico a 390 y pico de pesos, y que fueron
+explicadas por la fórmula que el doctor Javier Díaz aquí ha explicado,
+no estamos discutiendo eso, pero que tiene la fría realidad de un
+Estado distante a la realidad social que el país presenta.
+Y lo digo porque es que no es la queja simple del ejercicio sencillo de
+quien recibe el servicio de energía, es de cómo en momento de buena
+cantidad de agua, de buena prestación de servicio simplemente el
+cambio de empresa genero esos costos y no se los trasladan a la
+estructura operativa administrativa que llega, se lo trasladan al pueblo,
+a la base y bueno allí están los resultados, esta la formula, están las
+reglas, pero al final pierde el mismo. Los estratos uno, dos y tres de
+este país.
+Voy a concluir porque quería ser muy breve, e incluso no iba a
+intervenir, considerada de respeto por quienes aquí técnicamente han
+defendido la posibilidad de este debate, pero miren otro elemento
+negativo y la mayoría de los que estamos aquí venimos de la
+provincia, que es que los estratos cuatro, cinco y seis subsidiaran a los
+uno, dos y tres, resulta que en la gran mayoría de municipios de este
+país lo estratos cuatro casi no existen, los cinco no existen y los seis
+no existen y al final esa carga queda sobre los recursos que le
+trasfiere la Nación a los municipios y ese es el mismo recurso con el
+que hay que generar calidad de vida, oportunidad de agua,
+oportunidad de ampliación de cobertura en energía, de alcantarillado,
+sobre la misma pobreza, cambiamos de un bolsillo a otro y esa no es
+culpa de la CREG ni es culpa de la Super, es culpa de que vamos a
+tener que legislar para el país que tenemos, en ese país la realidad es
+que la gran mayoría de la población está en estratos uno, dos y tres y
+sobre ellos como así que el subsidio lo hace el mismo municipio, o sea
+el mismo papá pobre de ese mismo pueblo saca de los pocos recursos
+que tiene y subsidia al estrato uno, dos y tres para meterse una
+mentira en el término de los subsidios, eso lo decía yo al, director de
+Planeación Nacional, al doctor Hernando José Gómez en lo del Plan
+de Desarrollo y me decía es que no se puede modificar eso
+Representante porque eso genera un hueco fiscal, ah pero allí si es
+grave que se genere un hueco fiscal, allí si es crítica la situación,
+entonces vamos a tener que legislar para ello también.
+Finalmente, creo que lamentablemente siempre le trasladamos este
+tipo de situaciones a los más débiles, la estabilidad allí si no existe, la
+estabilidad es para los grandes ejercicios económicos que ante
+cualquier síndrome de urgencia o de emergencia suben y están
+legislados, pero nosotros a quienes nos elige, el pueblo, quienes
+estamos aquí por ese tipo de población estamos y debemos modificar
+la legislación.
+Yo creo que la invitación colegas, es que trabajemos en equipo como
+lo hicimos en educación, hoy ya es una realidad que la ley de regalías
+incorpora educación y ese debate lo veníamos dando en la Sexta y
+parecía imposible y aquí nos dijo el Ministro muchas veces que era
+imposible y lo logramos, aquí doctor Quintero logramos que lo de
+subsidios de energía se ampliara, cuando parecía imposible, entonces
+más allá del importante avance y el aporte que el doctor Javier Díaz ha
+hecho y estoy seguro hablara la doctora Angela Patricia Rojas, pues
+ellos son hombres y mujeres hoy al servicio de estas instituciones,
+nosotros si tenemos una obligación y es legislar para que este país y
+este pueblo de Colombia reciba los mismos beneficios que reciben
+empresas y entidades como estas.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:26:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Caicedo.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo" startTime="2011-06-07T11:26:30">
+							<from>H.R. José Edilberto Caicedo</from>
+							<p>Muchas gracias señor Presidente. Con el cordial saludo para el doctor
+Javier Augusto Díaz,, director de la CREG y para la Superintendente,
+yo la verdad solamente quiero referirme a un tema que fue de vital
+importancia para el, Presidente de la República en el acuerdo para la
+prosperidad que se hizo en Girardot, casi qué diría que la palabra
+correcta que el Ministro conmino, el Presidente conmino al ministro a
+que resolviera un tema grave que existe frente al desequilibrio en el
+tema tarifario de Girardot -Cundinamarca; en el tema tarifario de
+Girardot- Cundinamarca y un poco lo que tiene que ver con la
+Empresa de Energía de Cundinamarca frente a las tarifas de Codensa,
+lo que tengo entendido, porque sé que de todas maneras en un tema
+complejo, es que se han demorado mucho en unos procedimientos
+que garantizarían que se pueda de alguna manera aliviar el gravísimo
+problema que se tiene en la provincia del alto Magdalena y en unos
+municipios de Cundinamarca donde prácticamente están 5, 7 veces
+más costosas de las que puede tener Codensa y eso es
+absolutamente inentendible.
+Entonces, yo aprovecho por supuesto que estén las dos personas
+indicadas aquí en ese tema para que se le haga un seguimiento al
+ministerio haber que ha pasado con ese tema, haber si realmente se
+puede o no se puede, ha habido marchas en Girardot, toda la gente,
+se han quebrado empresas, se ha quebrado gente del comercio con
+esas altísimas tarifas de energía, es que es una cosa absolutamente
+inentendible y avasalladora para con la gente.
+Entonces, yo quiero poner sobre la mesa ese tema, estoy elaborando
+un documento para hacérselo llegar al superintendente y al doctor
+Javier Augusto Díaz para ver si nos ayudan con ese tema, me parece
+que ya se ha esperado mucho tiempo en la Comisión Quinta del
+Senado, el Senador Milton Rodríguez ha estado también empujando
+ese tema y buscando salidas a ello, pero no se ve que haya una
+voluntad de revisión de ese esquema, ahí está fallando algo; y creo
+que es importante que ustedes nos den la mano, porque en
+Cundinamarca hay un desequilibrio enorme entre los usuarios que
+están en Codensa y los usuarios que pertenecen a la antigua Empresa
+de Energía de Cundinamarca cuando ya fue absorbida por Codensa
+realmente y tiene un régimen tarifario distinto, yo quisiera que nos
+dieran la mano en ese tema y le pediría y lo voy a hacer luego que nos
+diera una cita tanto el doctor Javier Díaz como la Superintendente
+para que abordemos ese tema, que me parece delicado y que los
+habitantes de Girardot y de la provincia del alto Magdalena llevan
+mucho tiempo esperando que de alguna manera se pueda aliviar ese
+problema.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:26:40">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Dr. Javier Augusto Díaz tiene la palabra para que resuelva usted
+las inquietudes.</p>
+						</speech>
+						<speech by="#dr-javier-augusto-díaz" startTime="2011-06-07T11:26:50">
+							<from>Dr. Javier Augusto Díaz</from>
+							<p>Muchas gracias. Bueno voy a tratar de resolver todas las inquietudes
+una por una, empecemos con el Representante Ciro Rodríguez, que
+hizo las primeras preguntas, las primeras inquietudes relacionadas con
+el cargo por confiabilidad, las áreas de distribución y el tema del
+usuario regulado. En este tema quiero llamar la atención en la
+siguiente dirección, primero voy a hacer una introducción para que
+ustedes entiendan lo que llamamos nosotros el cargo por confiabilidad,
+lo voy a plantear en términos realmente muy sencillos con ejemplos de
+la vida real para que lo entendamos; ya ustedes conocen la situación
+que se presenta debido al fenómeno del niño, esta situación lo que es
+claro es que su presencia, o sea la presencia del fenómeno del niño,
+puede repetirse cada 5,6, 10 años, se ha presentado cada 3 años, a
+los 3 años del anterior, es decir su periodo de recurrencia es incierto,
+totalmente incierto, como respuesta a esta situación y es por lo que
+estamos sometidos, estamos en la zona tropical y estamos sometidos
+al niño lo que no sabemos es cuando llega, cuánto dura y que
+magnitud tiene, eso es muy importante. Para poder afrontar esa
+situación el sistema requiere unas condiciones de generación que le
+permitan cubrir la generación que las plantas hidráulicas puedan
+reducir, no quiere decir que no tengan energía las plantas hidráulicas,
+también la tienen durante el niño, pero es menor; más o menos para
+darle una idea a ustedes, la generación promedio anual hidráulica en
+un año normal es alrededor del 80%, pero en estas condiciones del
+niño la generación promedio baja al 50%, ese 30% de la demanda hay
+que cubrirlo con generación térmica y el punto es que como esto se
+presenta en periodos que son 3,4,5, el último se presento 10 años
+después, nosotros tenemos que tener la capacidad instalada para
+poder responder a esas situaciones. Entonces, lo que se dijo fue,
+bueno, empezó con un proceso que está en la ley, vamos a darle un
+cargo de respaldo a las plantas térmicas y a las plantas que den
+firmeza y se creó lo que llamó inicialmente cuando empezó el
+mercado, cuando era el cargo por capacidad, sin embargo el cargo por
+capacidad no tenia previsión más allá de un año y en el año 2006,
+2007 que fue cuando se acabó el cargo de capacidad entro a
+funcionar el cargo por confiabilidad, que mira cuatro años adelante.
+Esto es muy importante, hay una razón por la cual este país no estuvo
+en la misma situación que Venezuela y Ecuador sus vecinos,
+sometidos al mismo rigor del niño, porque ya nos había sucedido en el
+año 92 y 93, capitalizando eso llegamos a una situación en la que
+teníamos y tenemos la capacidad para atender esa sequía, ¿cómo?
+Porque preveíamos 4 a 5 años antes y decíamos y hacemos y lo
+hacemos anualmente, hacemos el chequeo, hoy estamos mirando el
+año 15 y 16 para que ustedes conozcan, comparamos la demanda con
+la generación que hay disponible firme, o sea lo que pueden generar
+las hidráulicas más lo que van a generar las térmicas, eso permite que
+el sistema este equilibrado cuando se presente esa situación.
+Entonces cuando se hace la pregunta ¿Pudo funcionar el niño durante
+este periodo? La respuesta es esa, básicamente teníamos la
+capacidad para generar lo que no les paso a los países vecinos, es
+más tuvimos la posibilidad de ayudarle en este caso a Ecuador con la
+energía que nosotros no estábamos usando, tenemos plantas térmicas
+de muy alto costo que consumen líquidos y se les pudo vender a
+Ecuador, no las estábamos usando porque generar con ella era muy
+costoso y veíamos que no eran estrictamente necesarios, entonces, la
+respuesta es, este cargo nos está permitiendo tener la capacidad para
+atender esas sequías y ¿Porque lo hace? Porque el esquema esta en
+tal forma que el agente recibe el cargo primero, a cambio del cargo
+tiene que tener la planta instalada y funcionado, le hacemos chequeos,
+pruebas aleatorias para estar seguro de que el está generando y si no
+genera pierde todo el cargo desde la última vez que genero,
+supremamente importante para ellos, estar generando, poder generar,
+adicionalmente este procedimiento permite que tanto plantas que son
+de cualquier tecnología puedan participar, ya sean carbón, gas,
+líquidos, hidráulica no convencionales, como geológicas, biomasa, etc,
+es decir es un mecanismo que nos da la flexibilidad, nos permite
+adaptarnos a las condiciones que tenemos, nosotros simplemente lo
+que tenemos es que reconocer que esa es una situación y la estamos
+enfrentando y la podemos enfrentar y es muy importante los usuarios
+tienen la energía.
+En este momento y durante el niño y voy a dar unos elementos para
+responderle al Representante Gómez en este punto, tiene la energía y
+adicionalmente no es a los precios que uno diría debía costar en esos
+momentos de sequía, yo mostré en la grafica precios de 300 pesos por
+kilovatio hora la sola generación, o sea el solo componente del 40% y
+respondiendo también a otra inquietud de si eso no considera a los
+usuarios, fíjese que el cambio, desafortunadamente si hubo un cambio
+debido a las condiciones de restricción que tenía la red, que produjo
+efectos, que como se muestra en la gráfica son del orden de 20 pesos
+y no 150 o 200 pesos que al tener que pagarlos no era factible, es
+decir no estamos desconociendo nuestras condiciones. Yo quiero
+advertir, que esto se origino a raíz de comparar en otros países como
+ha funcionado, en otros países dejaron sin el cargo, simplemente que
+el usuario pagara todo cuando subía el precio lo pagaban, lo pudieron
+hacer algunos, otros no lo han podido hacer, nosotros no queríamos
+correr ese mismo riesgo y por lo tanto se creó este mecanismo que
+permite asegurarle al país a largo plazo la capacidad de energía que
+necesita para cubrir demanda.
+Ustedes oyeron la subasta del 2008, eso le da garantía al país para
+tener energía hasta el 2014, tenemos que ajustar cosas, si tenemos
+que ajustar cosas; en la experiencias del niño se presentaron cosas
+que espera uno deben ser mejoradas, por ejemplo estamos siendo
+mucho más rigurosos con la energía procedente de plantas térmicas
+que era el soporte y que suponíamos eran solidas en su desarrollo de
+algunos factores que se están modificando y que están afectando y
+que les vamos a ser más exigentes en la seguridad de que tengan sus
+combustibles, entonces en ese mecanismo estamos mejorando y les
+cuento ha sido un esquema que está siendo copiado en otros países.
+Bueno, con respecto a las áreas de distribución, las áreas de
+distribución es un mecanismo que básicamente lo que hace es
+agregar los costos de distribución que vimos en la fórmula al principio,
+agregarlo para dos mercados y los cobro a todo ese mercado
+agregado el mismo valor, ¿Qué hace?, Baja a los de costos altos de
+distribución porque tienen zonas rurales y tienen zonas en la cual la
+distribución es más costosa y si agrega a un área que tenga una
+densidad digamos más alta como una ciudad, en el caso de
+Cundinamarca y Bogotá, etc, entonces el área que tiene mayor
+densidad pues va a subir, pero va a subir en un porcentaje más
+pequeño, el resultado es que la tarifa del D, no toda la tarifa del D no
+más, la distribución no más, por eso se dice el área de distribución,
+pero este es un porcentaje grande, es el 40%, veíamos que el
+transporte es prácticamente igual para todos y las diferencias van a
+quedar en lo que es la generación y comercialización, sin embargo
+estas áreas de distribución son definidas por el ministerio de Minas o
+es definida por la Comisión, las áreas de distribución fueron creadas
+mediante un decreto del ministerio y las áreas nuevas son creadas por
+el mismo ministerio.
+Allí lo que se hace para efectos de que ustedes conozcan es que
+simplemente se les cobra la distribución a todos por igual y después
+se hace un cruce de cuentas, no muy fácil, pero se hace un cruce de
+cuentas para darle al distribuidor sus costos de distribución, o sea, a él
+se le va a pagar lo mismo, el queda indiferente a ese mecanismo.
+Con respecto a los usuarios regulados y no regulados, básicamente yo
+advertiría que como ya mencione, aunque se dice que el descreme es
+deseable porque permite la competencia, etc; el descreme puede ser
+positivo si las empresas tienen las mismas condiciones, es decir
+cuando yo voy a competir y voy a competir con alguien que tiene las
+mismas condiciones que tengo yo para competir, entonces eso hay
+que balancearlo, hay que estar seguros el esquema de lo que
+llamamos el descreme actualmente es al comercializador incunbente
+le queda la carga de todas las pérdidas y por lo tanto a los usuarios de
+ese comercializador incunbente, o sea, debemos tener en cuenta que
+ese descreme puede ser positivo si todos van en las mismas
+condiciones.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:27:00">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Quería como reiterarle la pregunta doctor, si esta resolución resuelve
+el problema del descreme del mercado regulado, que seleccionar
+usuarios de alto consumo que no llegan al consumo del mercado no
+regulado, simplemente porque el costo de comercialización se les
+reduce, al reducírsele a él pues para él es más barato, pero le deja el
+problema a las empresas que tienen precisamente estos usuarios no
+atractivos. Entonces sí, ¿realmente esta resolución resuelve este
+problema?</p>
+						</speech>
+						<speech by="#dr-javier-augusto-díaz" startTime="2011-06-07T11:27:10">
+							<from>Dr. Javier Augusto Díaz</from>
+							<p>La resolución busca es que el agente gran consumidor no se salga
+cuando espera precios altos, eso es básicamente, a él se le prohíbe,
+mejor dicho si él se va a salir debe permanecer en el mercado
+regulado, porque o si no produce un desbalance en los usuarios
+regulados; entonces, lo que busca es eso básicamente. Entonces,
+desde ese punto de vista lo que se está es favoreciendo a los usuarios
+para evitar que un uso estratégico de la herramienta no cause
+sobrecostos a los usuarios que no lo deben pagar.
+Yo quería hacer una aclaración del doctor Bonilla, que está
+relacionada con pérdidas y dice pérdidas reconocidas, yo quiero ser
+muy claro, son las pérdidas eficientes, al usuario se les carga las
+pérdidas eficientes, las pérdidas eficientes son 14.15% como máximo,
+si hay un comercializador o distribuidor que tiene unas pérdidas
+menores que el 14.25% pues cobrara las pérdidas menores, pero si
+tiene mayores 20%, 24% solamente puede pasar 14.25%.
+Ahora con relación al tema de la Resolución 184 de 2010, que
+básicamente se refiere a los planes de pérdidas aunque lo único que
+queremos comentar es lo siguiente, hay empresas que tienen niveles
+de pérdidas del orden que pueden llegar al 30% y 40%, que quiere
+decir eso, que el comercializador tiene que comprar toda la generación
+más esas pérdidas y pasarle al usuario el 14.25% y adicionalmente él
+cargar con la diferencia a largo plazo, no son viables, es necesario que
+las empresas hagan un plan de reducción de pérdidas no técnicas,
+que son aquellas pérdidas que se ocasionan por razón de consumo de
+la energía y que después o no se paga normalmente, no se paga y
+que tiene los niveles que he mencionado; entonces para el desarrollo
+de ese plan de pérdidas hay que tomar recursos y esos recursos se
+han planteado de acuerdo con la propuesta que se está haciendo al
+respecto, es claro que no es que vamos a reducir, a causarle efectos
+de una empresa, o de una zona sobre otras, en este momento es
+como lo define un decreto del ministerio, que todos los agentes que
+están en una zona son los que van a pagar esos planes, en este caso
+los comercializadores incunbentes y los distribuidores.
+Con respecto al tema de contratos, yo creo que eso también me ayuda
+en la pregunta que el Representante Gómez hacía y que me ayudo un
+poco el ejemplo, o la situación que se presentó para el caso del
+Cauca, las empresas si no se hubieran contratado puede suceder lo
+que el menciono que hay que pasarle todo el precio de bolsa, 300
+pesos al usuario final, él les debe estar pagando de esa cantidad
+alrededor de 100, 120 pesos o sea es un incremento de 200 pesos,
+entonces, usted dice yo quiero entender, ¿porque cuando bajan los
+caudales no me baja también el precio? Entonces, lo que yo quiero
+explicar es para poder tolerar los 200 pesos de su vida, para no dejar
+que el precio se le suba a 200 pesos el hace un contrato, pero un
+contrato de largo plazo, que le dice: “bueno acordemos una tarifa 100,
+120 pesos pero esa la tenemos que mantener en el futuro”. Lo que ve
+uno es que a largo plazo es preferible ir en el contrato y seguir porque
+no sabemos qué viene después, viene una niña, bajo el precio, pero
+quién le hubiera jugado a eso en diciembre del año 2009, nadie sabía
+que iba a venir una niña, entonces la variación del precio, si, le subió
+20 pesos durante el niño, porque tuvimos que usar generaciones en
+las condiciones de digamos eléctricas que eran más costosas y
+entonces usted me dice: pero no le bajo también a 30 pesos”, fue que
+no le subió los 200 pesos que le he mencionado, entonces que será
+preferible, diría uno será preferible dejar que el usuario tenga que
+pagar los 300 pesos y después pagar solamente 50, pues los cálculos
+que uno hace le demuestran que no, esa no es la mejor decisión a
+largo plazo, ve uno que el precio va a ser razonable son los 100
+pesos, no es que cuando entra el niño yo juego y cuando entra el
+invierno entonces me toca a mi pagar, el precio y nosotros podemos
+chequearlo, el precio del contrato seguramente si el comercializador
+definió en forma adecuada sus compras, porque hay unos casos como
+los que se mencionaron antes no solo en Cauca, en Cali también tuvo
+el mismo problema, no solo ellos, algunos industriales también lo
+tuvieron.
+Entonces si estos agentes hacen una previsión como es lo normal en
+el mercado, o sea el 80% de la demanda está contratada, eso le
+permite al usuario tener un precio estable en el tiempo, si lo miramos
+más a largo plazo ustedes van a ver que los precios de los veranos no
+le van a subir al usuario como le están subiendo los precios de bolsa
+que es la demostración. Para concluir eso y decir básicamente lo que
+está haciendo el agente es evitarse un incremento de 200 pesos,
+sacrificando eventualmente un beneficio de 50. También se hace la
+inquietud con relación a que no se permite el registro de fronteras.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-06-07T11:27:20">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Aprovechando antes de que pase al siguiente punto el señor, director,
+entiendo perfectamente su respuesta y reitero yo creo que en el papel
+sucede lo mismo que sucede con lo que aquí he explicado en
+reiteradas ocasiones con la venta de los predios de manera irregular
+en las autopistas de la avenida que le responden a uno en el papel y
+efectivamente están cumpliendo la normatividad.
+Pero me queda la duda en su explicación en el siguiente sentido,
+usted dice que se firma un contrato a largo plazo en el cual no se está
+previendo el fenómeno de la niña, difícilmente se puede prever lo
+acaba de señalar, pero me da la impresión que ese tipo de contratos lo
+que se prevé es aunque no se vaya a dar el fenómeno del niño, y
+entonces ello conlleva a que el aumento de la tarifa se dé en la
+eventualidad de un fenómeno del niño pero se excluye al de la niña y
+llega uno a pensar que lo que podría estar sucediendo es que las
+empresas generadoras y distribuidoras estén especulando o tal vez
+tomando una posición casi que dominante frente a los usuarios de la
+energía en el país.
+Un siguiente punto que también quisiera tocar antes de que pase
+usted al otro tocarle, Colombia como usted lo acaba de señalar hace
+unos minutos es un exportador de energía y como exportador de
+energía usted nos ha mostrado una cifra de la sostenibilidad que es
+capaz este país de tener y de sostener incluso a países extranjeros en
+momentos de crisis, pero no será que también la exportación de la
+energía termina generándole unos costos a la tarifa que termina
+siendo trasladada al bolsillo de los colombianos, quisiera que me
+respondiera eso señor, director.</p>
+						</speech>
+						<speech by="#dr-javier-augusto-díaz" startTime="2011-06-07T11:27:30">
+							<from>Dr. Javier Augusto Díaz</from>
+							<p>En el último punto quiero ser totalmente claro, uno de los principios
+con los que se ha negociado la energía en este caso con Ecuador y en
+un futuro con Panamá, es que los costos, los precios, las
+exportaciones no afecten el precio del mercado doméstico, eso es
+fundamental, es un principio con el cual se están armonizando la
+reglamentación con esos países ¿cómo se hace? Se calculan los
+precios con los cuales puede generar Colombia, se toma la demanda,
+de Colombia y ese es el precio para Colombia, de ahí para adelante
+que los precios suben porque se necesitan recursos más caros para
+cubrir esa demanda se cubren las exportaciones, eso es un principio
+fundamental, se pueda implementar y es el que está funcionando con
+el caso de Ecuador, entonces, desde ese punto de vista uno dice en
+realidad no hay un incentivo.
+Usted si toca un punto que si es muy importante, que es la
+sostenibilidad del mercado y de las posibilidades que tiene Colombia
+de energía, es válido, yo no lo mencione, pero podemos mencionarlo
+en este momento la generación hidroeléctrica es del orden de 8 mil
+megavatios y los potenciales que fueron calculados en un estudio
+antiguo de los años 80 que llama el estudio del S estaba en 90 mil
+megavatios, digamos que sea 50 mil, no llevamos ni el 20% del
+potencial energético de este país desarrollado y que esta por
+desarrollar, obviamente tenemos que desarrollarlo en forma
+equilibrada y de acuerdo con los costos, o sea no a cualquier precio
+vamos a generar y muy seguramente lo debemos hacer, por eso el
+mecanismo de subasta que hay en el cargo nos permite seleccionar
+cuál son los más baratos que hay en el momento; entre otras ya la
+Comisión ya hizo una convocatoria para una subasta que esperamos
+hacer el 2015 como mencione antes para la energía del 2015, 2016.
+Y volviendo al tema del contrato, tenga en cuenta que estos contratos
+de mediano plazo, un año, generalmente se realizan con uno o dos
+años de anticipación, o sea, no es que normalmente se sienten los
+agentes en diciembre para definir el año siguiente, eso no es
+deseable, ¿Por qué? Porque en diciembre ya sabe uno si viene el niño
+o no y si viene el niño nadie hace contratos, entonces esos contratos
+se hacen con anticipaciones de uno, dos años, hay más, hay uno de
+30, pero hay de 2,3 años en promedio, son alrededor de 2 años y los
+agentes lo que hacen, porque eso es mecanismo de contratación
+natural de mercado que hacen los mismos agentes y ellos van
+incrementando año a año el porcentaje de cubrimiento de su propia
+demanda hasta llegar a porcentajes bastantes altos, 80%, con
+excepción de algunas empresas como ya se había comentado,
+entonces al ser de dos años antes es difícil decir que hay una posición
+dominante; y no quiero entrar en ese detalle porque no me
+corresponde calificar eso, le corresponde a la Super Industria y
+Comercio, pero lo que hay es un mecanismo que les permite con
+condiciones de mercado hacer estabilizar el precio, eso es
+fundamental, entonces los precios que tenemos hoy, fueron precios
+definidos hace dos o tres años.
+Bueno, quería seguir en los otros temas que ustedes han planteado
+dice: “no permitir registro de fronteras básicamente”, en realidad no es
+que no se permita el registro de fronteras, los agentes tienen la
+libertad pero hay unas condiciones, porque si no se cumplen esas
+condiciones, lo que se va a afectar es el mercado, entonces lo que uno
+está diciendo aquí es, mire esa frontera que usted saca y después
+vuelve y entra pues hombre tiene que cumplir una condición, debe
+permanecer aquí, porque nosotros nos damos cuenta que si no lo
+hace así va a afectar a los otros usuarios produciendo un problema en
+el mercado, si un usuario hace eso y se le permite hacerlo pues
+cualquiera lo hará y entonces, cuando ven los precios que suben todos
+se retiran, separa como carga al comercializador incunbente causando
+un problema de altas tarifas a ese usuario, ¿Por qué?, Porque ese
+queda expuesto al mercado, entonces que tiene que hacer él salir a
+comprarlo en la bolsa, ¿a qué precios? A los precios de bolsa y esos
+precios altos los va tener que sumarlos a sus contratos y a sus otras
+combinaciones pasárselo al usuario, esto le produce un efecto final
+que es negativo para los usuario.
+Tiene otro factor que son estrategias, que no se pueden permitir,
+porque el agente lo que está haciendo es comprometiéndose a correr
+un riesgo y dice bueno yo voy a correr el riesgo, pero cuando ve que
+no es capaz de hacerlo, de cubrirlo, se retira, entonces por este
+mecanismo básicamente le dice señor usted tiene que pasarse a bolsa
+y por eso es en esta dirección que esto se plantea.
+El incremento del niño, espero que este más claro con esta
+explicación, tengo aquí una nota del Representante Bonilla en la que
+dice “incremento de tarifas para usuarios regulados”.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:27:40">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>De pronto la pregunta es la que yo le he insistido al hacer este
+descreme en el sector regulado, el consumo promedio por factura a la
+empresa incunbente de una vez se le sube, por lo tanto el costo de
+comercialización aumenta para estos usuarios, es mirar que se está
+haciendo para evitar esto y como más sencillo porque se ha
+mantenido dentro de la formula tarifaria el costo fijo en ceros.
+Dr. Javier Augusto Díaz,, director de la Comisión de Regulación de
+Energía y Gas, CRES.
+Efectivamente, usted toca el punto, que es, llegamos al costo fijo,
+nosotros hicimos una propuesta calculando el costo fijo, al incluir el
+costo fijo lleva a que el usuario de estrato dos pague por el costo fijo lo
+mismo que el estrato 6, ese fenómeno llevaba a incrementar los
+subsidios para poder darle manejo a esa situación que no está en el
+resorte de la Comisión, es resorte del Gobierno, entonces se hizo la
+evaluación de que representaba financieramente y fiscalmente
+introducir ese cargo fijo con subsidios, porque al usuario 1 y 2 no se le
+podía pagar ese cargo fijo igual al 6, entonces el Gobierno Nacional en
+su vocación recomendó hasta no tener el respaldo fiscal no incluir ese
+procedimiento y esa metodología, eso se definió en una comisión y
+que el mismo Gobierno Nacional lo planteo en el año 2008, eso es la
+razón, el efecto es un efecto fiscal importante que no permitió seguir.
+Estamos trabajando en este tema de comercialización, le estamos
+buscando digamos, haciendo la valoración, que corresponde a la
+valorización tarifaria para los costos de comercialización.
+En cuanto a subsidio y legalización, realmente la CREG no le
+compete los subsidios directamente, pues yo me abstengo ya de
+entrar en esos detalles, porque básicamente los subsidios y el manejo
+de subsidios no está dentro de nuestra resorte, obviamente nosotros
+los mecanismos que hemos definido son mecanismos de referencia,
+formulas de referencia que les permite en caso al ministerio establecer
+cuánto es lo que queda el subsidio a las empresas, cuánto es el
+subsidio que deben aplicar a cada uno de los usuarios de acuerdo con
+lo que establezca la ley como subsidio, porque el subsidio es de este
+Congreso, los subsidios solamente se pueden establecer por ley.
+El tema de asociación de usuarios, en realidad es un tema netamente
+jurídico, está pasando lo siguiente y creo que ustedes ya lo conocen,
+que las urbanizaciones el mismo urbanizador se convierte en el
+comercializador de la urbanización, cuando está vendiendo la vivienda
+y de esa forma inmediatamente captura al usuario, porque usted va a
+comprar su vivienda y usted se fija cuántas alcobas tiene, el piso como
+está, etc, pero muy pocas veces pregunta, bueno cuál es el
+comercializador que me va a vender, yo creo que no lo hace uno,
+entonces cuando le entregan la urbanización, dice, bueno, aquí el que
+entrega la comercialización, es el que va a hacer la comercialización
+de energía es tal y quedo el usuario amarrado. ¿, por qué? Porque
+además de eso para poder salir tiene que poner un contador
+independiente para poder hacer las desagregaciones. Entonces, son
+unos problemas que se están presentando, que tenemos que tener
+sumo cuidado en el desarrollo de eso, ahí los comercializadores deben
+tener iguales condiciones y ustedes mismos plantean y de libre
+escogencia del usuario.
+Entonces, cuando llega el usuario pues le queda difícil ya escoger,
+porque esa vivienda con ese comercializador, eso es básicamente el
+fenómeno que se está presentando y en ese aspecto nosotros
+estamos trabajando con el fin de dar claridad para que el usuario si es
+el mismo comercializador que hace la urbanización que lo tenga claro,
+que el sepa y haya podido escogerlo, no estamos diciendo que no lo
+haga, perfecto que sea el mismo que lo desarrollo, pero que también
+haya tenido en ese momento la opción de decir: “no yo quiero que sea
+este otro”, para darle la opción a la libre escogencia.
+El otro tema es con relación al tema Cundinamarca, lo que decimos es
+lo siguiente, nosotros hemos tenido inclusive reuniones con el
+Ministerio, con el Ministro y representantes de la comunidad e
+iniciamos a partir de diciembre unos estudios con miras a integrar
+estos dos mercados, inicialmente hicimos un proceso administrativo
+para que las empresas se integraran en un mercado, sin embargo las
+dos empresas en este caso Codensa y Electrificadora de
+Cundinamarca nos advirtieron que ellos no estaban interesados, razón
+por la cual nosotros tuvimos que suspender ese procedimiento, sin
+embargo en forma paralela y por ley nosotros podemos aplicar esa
+metodología si las partes están de acuerdo.
+Adicionalmente, entonces nosotros iniciamos un proceso en el cual
+busca aplicar lo que está establecido en la ley en la cual la Comisión
+puede ordenar la fusión de dos empresas, sin embargo para ordenar
+la fusión de dos empresas debemos encontrar una situación en la cual
+la sociedad tiene beneficio que es que como está establecido en la ley,
+dice que si hay un beneficio para los usuarios la CREG podrá de oficio
+ordenar una fusión, entonces, para poder llegar a este punto
+tendríamos nosotros que calcular y sustentan técnicamente que al
+integrar dos mercados eso se pueda hacer, lo que hicimos y lo que
+hemos hecho hasta la fecha es el desarrollo de la metodología que
+nos permite evaluar si hay o no un beneficio, o sea, en coger las dos
+empresas sus características y hacer una fusión y encontrar que la
+fusión es mejor para el usuario que las dos empresas trabajando
+independientemente.
+¿Qué podemos decir? Nosotros estamos, hemos recibido y hemos
+trabajado con la universidad Tecnológica de Pereira en este desarrollo
+netamente académico, en el sentido teórico del tema y esperamos
+muy pronto poder llevarlo a la Comisión para tomar una decisión en la
+Comisión sobre este tema, Entonces digamos para responder la
+inquietud del Representante Caicedo, tenemos la voluntad y no hemos
+parado de trabajar en el tema que se nos ha planteado sobre la
+integración y la fusión de estas dos empresas.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:27:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Antes de dar mis opiniones modestas en dos o tres minutos, antes de
+dar mis apreciaciones jurídicas de lo poco que he entendido del tema,
+quiero hacerle una pregunta doctor Días, porque sí considero que se
+está violando la Constitución y la ley, modestamente creo que esa libre
+asociación se está violando, porque no va a permitir que los que de
+pronto vivamos en un conjunto residencial, o que sigamos con la
+libertad de escoger al operador del servicio, yo quisiera pregunta si
+teniendo en cuenta el consumo de energía en el mercado como
+ustedes lo estipulan, pone en riesgo la prestación del servicio, porque
+lo que yo veo es que se va a legislar para el monopolio; hay unos
+porcentajes de los consumos regulados y no regulados y quienes
+tienen esa prestación del servicio las grandes empresas generadoras
+y distribuidoras de energía y las pequeñas comercializadoras que se
+han formado a través de la Ley 142 y que hoy en día generan más de
+300, 400 empleados en Colombia y que pagan impuestos, pues se van
+a ver afectadas, lo reitero porque como palmirano mi municipio de
+Palmira hace parte del 40% de las acciones de ISEL, de una empresa
+comercializadora de energía y esas acciones y esa platica se está
+viendo afectada parece ser por una legislación de ustedes, que creo
+yo que el Gobierno Nacional en cabeza de ustedes deberían de
+legislar a favor de los ciudadanos, si usted me dice señor, Director y
+aquí está la Superintendente también que esa propuesta de resolución
+143 y la que viene la 184 es de beneficio para todos los colombianos y
+que les va a rebajar la energía vaya y venga bienvenida sea, porque
+para eso estamos, el interés general, pero que no se crea por lo
+menos que está legislando para defender unos pulpos, por lo menos
+yo no comparto con respeto lo digo, que se reduce la demanda de los
+distribuidores y por eso como usted tiene todo este pulpo, el ciento por
+ciento y entro yo a competir, le quito el 20% porque es el según las
+cuentas que tengo es no más como el 7% del mercado que tiene las
+comercializadoras.
+Entonces para atender la misma demanda, ya no es la misma, eso no
+es cierto, porque es que yo le he quitado el 20 y usted entonces tiene
+que atender con la misma plata y por eso es que los costos suben, eso
+no es cierto, yo me semejo a algo que está sucediendo en mi gremio
+el transporte, yo soy un transportador y entonces no podrán entrar las
+otras empresas a competir si ahí han salido favorecidos todos los
+usuarios por lo menos entre Palmira y Cali ¿qué cuánto vale un pasaje
+urbano? como 1.700 cobramos 2.000 porque han entrado las otras
+empresas y el pasaje vale 4.000 según los costos tarifarios y que
+hemos tenido que hacer, mejorar la prestación del servicio, mejores
+vehículos, atención al usuario, para subirlo bien hay que cargarlo,
+porque los otros lo cargan y a 2.000 pesos, no va valer a 4.000, no
+señor el otro me lleva a 3.000, no el otro me lleva a 2.000, ahí quién
+ha ganado, el usuario, con mejores vehículos y nos hemos tenido que
+modernizar, atenderlo bien.
+Por eso yo no comparto de que pobrecito, de que hay que darle el
+descreme, que los grandes generadores o distribuidores, que le están
+llevando el descreme los comercializadores, que mejoren, que le den
+incentivo a los usuarios para que vuelvan y se los ganen, o para que
+se ganen la clientela que han ganado los comercializadores con
+incentivos, ahí quiénes van a ganar, pues los que vivimos en un
+conjunto residencial, pero yo no creo que el urbanizador se haya
+vuelto comercializador, no, de lo que yo he visto en mi tierra, cuando el
+urbanizador está ofreciendo sus viviendas de interés social está el
+comercializador ahí también y no solamente él sino las otras,
+compitiendo, entonces el que venda con mejores costos, con mejores
+tarifas, todos los usuarios allí nombran unos representantes pues con
+ese nos vamos a ir, pero no va ser.
+Por eso mi pregunta es al señor, director antes de terminar y darle
+paso a la superintendente, si se pone en riesgo la prestación del
+servicio, que porcentaje es de estos comercializadores que tiene
+porque está legislando es para controlarlos a ellos, para que no
+crezcan y como usted lo dice que es que tiene haber los incunbentes
+con los mismos costos, no, porque ella no va a atender los mercados
+que le quito la comercializadoras.
+Aparte que tengo la otra inquietud, que es el plan de pérdidas de
+energía, porque eso es grave para todos los colombianos y que
+nosotros en esta Comisión Sexta vayamos a permitir que se legisle por
+parte del Gobierno en cabeza de la CREG y la Superintendencia y el
+ministerio de Minas, que esas pérdidas de energía no técnicas la
+tengamos que pagar los colombianos, eso sí es grave, eso nos lo
+tienen que explicar clarito, eso no es nada ni lo vamos a ver, ni lo
+vamos a notar, 6 pesos parece ser que por kilovatio, pero súmelo,
+cuánto sumara, 30, 40 mil por casa, pero a nivel de Colombia que es
+lo que estamos legislando a favor de estas empresas, generadoras de
+energía, yo con respeto lo digo, espero esa respuesta, director, a ver si
+se afecta, porque si peligra y se pone en riesgo la prestación del
+servicio vaya y venga, controlémoslos, pero si no se pone en riesgo y
+que porcentaje es de todo el mercado que se está consumiendo
+kilovatio mes.
+Dr. Javier Augusto Díaz,, Director Comisión de Regulación de
+Energía y Gas CREG.
+Yo solamente voy a adicionar dos cosas con respecto a las pérdidas,
+yo hago la pregunta, es preferible que una empresa tenga unas
+pérdidas del 40% y eventualmente o tenga que pasárselas a los
+usuarios por un efecto de su problema de pérdidas mismas y
+eventualmente al futuro tener un problema financiero y perder una
+empresa, o tener niveles de pérdidas eficientes que permitan a todos
+los usuarios pagar, es decir debemos pensar siempre en un largo
+plazo, porque en estas condiciones pues lo hemos hecho y podemos
+seguir así y tranquilos, corregir las pérdidas es necesario.
+Con respecto al tema de los comercializadores, realmente el tema es
+de principios, no es de cantidad, no es si son poquitos dejémoslos o si
+son mayores no, el tema es de principios en el sentido en que si
+alguien está en un proceso de competencia, debe tener unas
+condiciones similares, si similares que le permitan competir, eso es lo
+que estamos mirando y por eso sacamos nosotros esta resolución
+para que los agentes lo miren, todo el mundo lo mire y haga los
+comentarios que considere sean necesarios para entrar ya a tomar
+una decisión, pero lo importante allí es que allá igualdad; en cuanto a
+principios no está bien por el simple hecho de atender a un solo
+usuario, yo tengo un cálculo de comercialización que es mucho más
+bajo y así capturo al mercado con otro que no lo puede hacer,
+solamente cubrir sus usuarios, sino todos los regulados, ese es el
+fenómeno que básicamente se presenta, ahora de nuevo no es un
+problema de tamaño, pues realmente los comercializadores que hacen
+esto, que los llamamos comercializadores puros, pues tienen un
+porcentaje de la demanda que es apenas el 3% de la demanda total, o
+sea son comercializadores que están empezando, pero ya llevamos
+10, años. Entonces, en esa dirección no y la regulación no trata,
+debemos ser claros, no trata de acabar con un tipo de
+comercialización de ninguna manera, nosotros estamos es buscando
+que cuando se entra en la competencia, en la venta de energía al
+usuario hayan condiciones similares para todos los que puedan
+prestar ese servicio de comercialización, eso es lo que nosotros
+buscamos en el sentido de que el usuario salga beneficiado en últimas
+por esa opción.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:28:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dra. Angela Rojas en el uso de la palabra.
+Dra. Angela Patricia Rojas Combariza, Superintendente de
+Servicios Públicos Domiciliarios (E).
+Buenas tardes Honorables Representantes, a las competencias que
+tiene la Superintendencia en el presente debate, se dividen en dos
+puntos, uno son las peticiones, quejas y reclamos que atendemos de
+los usuarios y otra respecto al control tarifario que se hace a través de
+la Superintendencia Delegada de Energía y Gas.
+Respecto al primer punto y en atención al cuestionario, se tiene que
+durante el año 2009 y 2010 se presentaron quejas por 1.911 usuarios,
+respecto a una aplicación de tarifas incorrecta y lo que llevamos del
+año 2011 es aproximadamente de 300, estas peticiones de quejas y
+reclamos, hay unas que se han resuelto a favor de los usuarios y otras
+se ha mantenido la decisión de la empresa toda vez que no ha habido
+una aplicación incorrecta de la tarifa.
+En cuanto a la segunda parte que es el control tarifario que hace la
+superintendencia a las empresas de servicios públicos, es con el fin de
+verificar que efectivamente den aplicación a la metodología tarifaria
+que ha explicado ampliamente el, director de la CREG en la presente
+sesión, al respecto en el año 2009 y 2010 se han impuesto sanciones
+que están en firmes por indebida aplicación tarifaria a empresas como
+CEDENAR, BAYELSI, CASANARE, COMUNIDAD DEL CAFÉ, al
+departamento del Vaupés que es un prestador directo y a DISELES en
+el año 2010.
+En cuanto a una de las preguntas que hacían sobre la pertinencia o no
+de que las organizaciones sociales prestaran servicios públicos
+domiciliarios, especialmente en energía en lo que tiene que ver con las
+urbanizaciones, la Superintendencia ha hecho un llamado de atención
+a estas urbanizaciones porque generalmente tanto en el servicio de
+energía como en el servicio de acueducto y alcantarillado ella se
+convierte en prestadores, pero no acorde con lo que dice la Ley 142 y
+es que debe transformarse en una empresa de servicios públicos
+domiciliarios especialmente en materia de acueducto y alcantarillado,
+cuando se trata de energía lo que se tiene que verificar, es si tiene o
+no la característica de un productor marginal y en ese evento no exige
+que se convierta en una empresa de servicios públicos domiciliarios,
+pero lo que si exige es que debe prestar el servicio en condiciones,
+calidad y eficiencia que manda la regulación y que lo especifica en la
+misma.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:28:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Tiene la palabra el doctor Ciro Rodríguez.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2011-06-07T11:28:20">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Señor Presidente es una preguntica para la Superintendente sobre
+todo que el doctor Wilson Gómez realmente nos deja aquí
+preocupados con la vigilancia en lo que tiene que ver con la tarifas de
+generación, como dice él que a pesar de que haya oferta o sobreoferta
+el precio sigue siendo lo mismo, yo quisiera saber como la
+Superintendencia vigila esta tarifas para que cuando se le cobre el
+generador no diga que está cobrando o por el contrato que tiene o
+porque lo compro en bolsa, teniendo la oportunidad de escoger que
+cuando el precio de una u otra sea más costosa, pues sería el que
+entra a cobrar, como entra la Superintendencia a vigilar este aspecto y
+que nosotros pues quisiéramos que siempre el costo o lo que se le
+cobre al usuario debería ser el menor valor, si en bolsa esta menor
+pues él debería comprar en bolsa y cobrara ese valor y si compro a
+largo plazo a través de un contrato y la bolsa esta mayor pues que
+cobre a través de ese contrato.
+Y la otra pregunta tiene que ser con el mismo cargo por confiabilidad,
+¿cómo están supervisando las generadoras para que ellas la
+generación que tienen disponible mantengan tanto lo que ellos están
+comprometidos a través de los contratos, como la energía en firme
+que están comprometiendo a tener? ¿Cómo están vigilando realmente
+que esos dos montos lo tengan a disposición? Para evitar que con la
+misma energía estén respaldando estos dos componentes.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:28:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Wilson Gómez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-06-07T11:28:40">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Es que quiero aprovechar que la señora Superintendente está
+interviniendo en ese mismo sentido, necesitamos de la
+Superintendencia una respuesta mucho más acertada, sobre todo lo
+que aquí se ha tratado para que la Superintendente que no se ciña
+solamente al cuestionario sobre unas preguntas respecto de quejas y
+reclamos, sino cuál es el papel de la Superintendencia en ese sentido;
+porque vuelvo y reitero, entendí la respuesta del señor, director aunque
+por supuesto no es que quede satisfecho uno con una respuesta que
+más se refleja lo que sucede en un mercado, en un papel, pero que en
+nada se considera con los usuarios de Colombia.
+Entonces, señora Superintendente el rol de la Superintendencia, cómo
+la Superintendencia vigila que realmente el bolsillo del colombiano
+este siendo protegido ante lo que yo llamaba una especulación en
+mercado, que el señor, director dice en un chiste, pero que en mi
+concepto podría estarse dando y de paso por supuesto invito a los
+colegas para que escudriñemos un poco más en este tema y
+avancemos en el cuestionario en ello.
+Yo voy señor, director a empaparme más del tema para que encuentre
+usted un interlocutor aquí en la próxima al que no tenga que citarle
+ese tipo de ejemplos que por supuesto se los pedí, sino para que
+hablemos de manera técnica y pienso hacerlo, pero pienso que la
+Superintendencia tiene un papel fundamental y no quisiera
+desaprovechar la oportunidad de tener aquí a la Superintendente para
+que nos explique como ella puede proteger un poco al usuario en
+medio de este; claro yo podría decir que hace usted para garantizar
+que no especule con precios en la bolsa, pero me va a decir que el
+mercado es el que fija los precios, pero alguien tiene que tener la
+posibilidad de ayudar a regular los precios en Colombia y creo que esa
+es su tarea y entiendo que usted es una mujer que está encargada en
+el cargo desde el mes de octubre y si está encargada es porque lleva
+tal vez tiempo en la Superintendencia y eso da bagaje para que aquí
+nos ilustre.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:28:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dra. Angela Rojas en el uso de la palabra.</p>
+						</speech>
+						<speech by="#dra-angela-rojas-combariza" startTime="2011-06-07T11:29:00">
+							<from>Dra. Angela Rojas Combariza</from>
+							<p>Considero oportuna hacer primero delimitar cuales son las
+competencias de la Superintendencia de Servicios Públicos, la
+Superintendencia lo que hace es vigilar y controlar la prestación del
+servicio; en lo que tiene que ver con la metodología tarifaria la
+Superintendencia lo que hace es velar por que las empresas de
+servicios públicos apliquen esta metodología tarifaria y en ningún
+momento la Superintendencia puede entrar a establecer o decirle a las
+empresas de servicios públicos que utilicen X o Y contrato, o que se
+vayan a la bolsa para obtener, o comprar la energía conforme van a
+prestar el servicio, esta actividad es propia de la empresa está dentro
+de su autonomía.
+La empresa de servicios públicos tiene dos formas de comprar la
+energía, una por contratos de largo plazo, como ya lo había dicho el
+director de la CREG o otra por la bolsa de energía, la empresa es la
+que tiene que tomar la decisión de cuál de las dos formas es la que va
+a adoptar para brindar y prestar el servicio, las empresas de Servicios
+Públicos han mantenido una constante y es que en algunas
+oportunidades hacen los contratos de suministro de energía de largo
+plazo y no obstante dejan un remanente también para comprar en
+bolsa de energía.
+Estas decisiones de cuáles de los contratos o de la bolsa utilizan es
+potestad de las empresas de servicios públicos, la Superintendencia
+no tiene facultad legal, la misma ley dice que no podemos entrar a
+verificar o revisar contratos que hagan las empresas de servicios
+públicos y por lo tanto la primera parte de la que hablamos que son los
+contratos de suministros de energía la Superintendencia no tiene
+capacidad legal para poder entrar y verificar si se hicieron bien, si
+están negociando los precios que son porque no tiene esa
+competencia y en bolsa lo que se verifica es que efectivamente el
+mercado es el que da el precio y en ese momento es que la empresa
+que compro a determinado precio en bolsa lo esté llevando a la
+metodología tarifaria y este cobrando eso al usuario en el costo final,
+eso es lo que hace la Superintendencia de Servicios Públicos.
+En cuanto al cargo por confiabilidad, la misma resolución del cargo por
+confiabilidad establecer, cuál es la metodología para hacer ese control
+y lo hacen en cuanto que la térmica esté en condiciones de operación
+en un momento determinado conforme a la misma regulación, la
+Superintendencia de Servicios Públicos entra en el momento en que
+ella no va, o no cumple con los contratos y eso genera una falla en la
+prestación del servicio entra a verificar la falla en la prestación del
+servicio más no si cumplió o no el contrato lo cual ya es competencia
+de otra jurisdicción más no de la Superintendencia.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:29:10">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-06-07T11:29:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>No quisiera ser ave de mal agüero señor, director, no quisiera pensar
+lo que estamos pensando con un debate que estamos haciendo de
+control al tema de las concesiones de Colombia donde se han venido
+haciendo unas prorrogas en beneficio de unos particulares y en
+detrimento de los ciudadanos de Colombia, los que utilizamos las vías,
+no quisiera pensar y por eso pediría por parte de la mesa directiva que
+en estas propuestas regulatorias, en estas resoluciones que estamos
+mencionando la 143 y la 184 nos acompañemos del organismo de
+control con respeto lo digo, porque ellos también pueden opinar, de la
+Defensoría del Pueblo para que ellos opinen, haber si estas
+propuestas se está regulando a favor de los usuarios o a favor de un
+solo sector, porque aparentemente están en desigualdades, el 3% de
+un mercado del 100% lo tienen las grandes empresas, los pulpos,
+entonces, yo no veo porque se legisle para ellos, para irle poniendo
+trabas a los pequeños comercializadores en pro de otras personas
+pero no en beneficio de los ciudadanos, por eso reitero señor, Director
+y señora Superintendente que de pronto no es función de la
+Superintendencia de mirar a como compra o no compran, a qué costo
+la energía, pero de pronto usted si puede mirar el costo unitario, o por
+lo menos eso de las pérdidas técnicas o las pérdidas reconocidas,
+porque las tenemos que pagar los usuarios, yo eso no lo entiendo, o
+sea técnicamente me lo pueden explicar de cualquier manera, yo creo
+que nadie lo va a entender, a que es justo las pérdidas y que hay que
+corregir las pérdidas dice el, director, claro corrígelas, que es justo que
+una empresa no pierda, es justo, que no pierda, él vera a quién se las
+cobra pero no a los usuarios, eso si no nos cabe a ninguno, y yo creo
+que la labor de la Superintendencia si es velar para que esas tarifas
+sean correctas, cuando la formula la Comisión de Regulación y ojala
+no estén legislando para unos intereses particulares de buena fe que
+lo pueden hacer, pero se nota que están legislando para unos
+intereses particulares y no para los usuarios en general que somos
+todos los colombianos, los niveles de pérdida háganlo pero que lo
+pague quién, no sé, pero no los usuarios y tampoco creo que una
+comercializadora que compre, tiene que comprar pérdidas de energía
+también eso lo copie del señor, director, pues a quién le cobra esas
+pérdidas de energía por dios, pues a los usuarios, si le obligamos a
+traer de esas resoluciones que saca la CREG de pronto asesorado por
+las grandes generadores de energía y distribuidores pues lógicamente
+ellos no van a querer tener pérdidas, pues que la compren los
+comercializadores y si los obligamos a traer de esas resoluciones pues
+a quién se la trasladan pues a los usuarios.
+Entonces, yo creo que eso tenemos que revisarlo señora
+Superintendente y señor, Director con respeto lo digo, porque esto va a
+haber tema para largo, esa resolución de propuesta regulatoria la 184
+donde hay un plan de pérdidas, donde usted a buena hora está
+recogiendo de todos los ciudadanos y de esta Comisión y de los
+usuarios en general los actores del tema que está recogiendo ideas,
+eso no lo vaya a colocar que lo paguemos los usuarios, ni tampoco
+algunos comercializadores porque nos los traslada a nosotros, o ellos
+van a comprar pérdidas, desde ya compro 100 pesos un producto,
+pero resulta que yo no lo puedo vender en 100 pesos, lo tengo que
+vender en 80 porque ya hay 20 de pérdida, eso no cambia en ningún
+negociante, porque un empresario compra es para ganar, pero no
+compra para perder y que la pérdida entonces se la trasladó al pobre
+usuario, eso no me cabe, pero vamos a tener que debatir un poquito
+más señor, director.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:29:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Dr. Wilson Gómez en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2011-06-07T11:29:40">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Yo solo quiero hacer una pregunta y es que sucede queridos
+compañeros si llegáramos a establecer que entre las empresas existe
+un acuerdo entre ellas mismas para pegarse al tope de las tarifas que
+se autoriza, que podría suceder en una eventualidad de ello, no será
+que de pronto se está configurando aquí un posible acuerdo
+maquiavélico y perverso en contra de los usuarios, porque lo que
+están haciendo las empresas es hoy simplemente acogerse al tope
+tarifario que es lo que legalmente están autorizados pero que jamás
+por debajo de ello.
+Entonces, en conclusión por supuesto Presidente agradezco,
+agradeciendo el minuto de tiempo, manifestarle que esto y que por lo
+menos en lo que a mí concierne espero establecer un nuevo
+cuestionario para resolver todas estas inquietudes y poder tener
+nuevamente con la presencia de la CREG y la Superintendencia
+seguir dilucidando este asunto en beneficio de los colombianos.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:29:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Le damos la palabra a la doctora Angela Patricia Rojas.
+Dra. Angela Patricia Rojas, Superintendente de Servicios
+Públicos:
+Respecto al último punto planteado es conveniente decir que la
+competente para verificar todo este tipo de situaciones o de presuntas
+irregularidades en ese tema de prácticas restrictivas, la competencia
+desleal es la Superintendencia de Industria y Comercio para tenerlo en
+cuenta para futuros debates si así lo tienen a bien.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:30:00">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Agradecemos la presencia del doctor Javier Augusto Díaz en calidad
+de, director de la Comisión de Regulación de Energía y Gas y a la
+doctora Angela Patricia Rojas Superintendente de Servicios Públicos
+Domiciliarios (E), desde luego que quedamos en puntos suspensivos
+en este tema tan importante para Colombia. Le pedimos al señor
+Secretario que continué con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-06-07T11:30:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2011-06-07T11:30:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Se levanta la sesión siendo la una y cincuenta y ocho minutos de la
+tarde (1:58 p.m.) y se cita para mañana a las 10 de la mañana para
+aprobación de proyectos.
+DIEGO PATIÑO AMARILES          JAIME ARMANDO YESPES MARTINEZ
+Presidente                     Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

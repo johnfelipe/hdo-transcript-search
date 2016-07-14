@@ -1,0 +1,738 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-patiño-amariles" id="hr-diego-patiño-amariles" showAs="H.R. Diego Patiño Amariles"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez-villanueva" id="hr-silvio-vásquez-villanueva" showAs="H.R. Silvio Vásquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias-castillo" id="hr-wilson-neber-arias-castillo" showAs="H.R. Wilson Neber Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-atilano-giraldo-arboleda" id="hr-atilano-giraldo-arboleda" showAs="H.R. Atilano Giraldo Arboleda"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="6901-acta-93-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2013</heading>
+				<debateSection>
+					<heading>Agosto</heading>
+					<debateSection>
+						<heading>ACTA NO. 93 / 2013-08-21</heading>
+						<speech by="" startTime="2013-08-21T10:52:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2012 - 2013
+ACTA No 093
+(Bogotá, D.C., 21 de agosto de 2013)
+A las diez y cincuenta y dos minutos la mañana (10:52 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Patiño Amariles Diego
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Caicedo Sastoque José Edilberto
+Londoño Jaramillo Juana Carolina
+Pinto Hernández Miguel Angel
+Quintero Trujillo Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto
+Con excusa se encuentra el Honorable Representante:
+Barrera Gutiérrez Luís Guillermo</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:52:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:52:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se abre la sesión, proceda señor Secretario a dar lectura al orden del
+día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:52:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013 al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<questions>
+							<heading>CUESTIONARIO</heading>
+							<narrative>CUESTIONARIO
+COMISION DE REGULACION DE AGUA POTABLE
+Y SANEAMIENTO BASICO - CRA
+, Directora Ejecutiva, doctora SILVIA JULIANA YEPES</narrative>
+							<question by="#hr-diego-patiño-amariles">
+								1. ¿Porqué se consideran los costos y gastos extralegales que se encuentran
+pactados en Convenciones Colectivas de Trabajo como INEFICIENTES?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								2. ¿pretende la Comisión Reguladora de Agua CRA, desconocer el derecho
+constitucional de negociación ratificado por Colombia en los tratados
+internacionales y convenios con O.I.T.?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								3. ¿En la segmentación para realizar eficiencias comparativas se pretende penalizar
+a las empresas en la modelación de su tarifa por presentar indicadores bajos?,
+¿No sería mejor proponer u obligar mesas de trabajo para lograr cooperación y
+ayuda interistitucional por ser el estado mayoritariamente el prestador del servicio
+público de acueducto y alcantarillado?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								4. ¿Cuántos kilómetros de redes se ampliarían en los municipios del país con la
+aplicación de la nueva estructura?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								5. ¿Cuántas empresas del país incluyendo las de los municipios más pequeños, al
+acatar el modelo tarifario propuesto mejorarían sus utilidades?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								6. ¿Podrían ustedes señalar si la nueva estructura tarifaria propuesta pretende
+desalojar a los municipios del servicio oficial de acueducto y alcantarillado?, ¿En
+otras palabras se está regulando para privatizar el servicio público de acueducto y
+alcantarillado?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								7. ¿Al pretender trasladar un porcentaje de las utilidades según el nuevo modelo
+tarifario no se afectaría la caja de las empresas?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								8. ¿Al incluir un límite mínimo de recaudo que aplique como factor en la tarifa, se
+condenaría doblemente a las empresas una por el no pago de los usuarios y
+otra por castigar la tarifa?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								9. ¿Existen en el país empresas con rezagos tarifarios?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								10. ¿Porqué la exclusión contable de activos, si sobre las empresas de acueducto
+recaen anualmente el crecimiento de los mismos?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								11. ¿La exclusión de los activos en el nuevo modelo tarifario en su opinión hace
+viables en el tiempo las empresas?, ¿Porqué?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								12. ¿La nueva estructura tarifaria propuesta busca concentrar el servicio público de
+agua potable en unos pocos operadores?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								13. ¿Porqué la CRA no ha invitado al Ministerio de Trabajo a participar del proceso, si
+existen temas laborales que se reflejan en la nueva estructura tarifaria propuesta?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								14. ¿Consideran que los Sindicatos y sus Convenciones Colectivas hacen inviables
+las empresas de acueducto?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								15. ¿Considera el Ministerio de Trabajo que puede la CRA en su nuevo modelo
+tarifario impedir o negar el derecho de Asociación y de Negociación?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								16. ¿Conoce el Ministerio de Trabajo la Resolución 632 de 2013 emanada por la
+CRA?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								17. ¿Qué opinión le merecería al MINISTERIO el posible cierre de las empresas de
+acueducto a nivel nacional y las simultáneas masacres laborales por hacerse
+inviables tarifariamente dichas empresas?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<narrative>
+ORTEGA SAMBONI, IVAN DARIO AGUDELO ZAPATA, ATILANO GIRALDO
+ARBOLEDA, JAIME ARMANDO YEPES MARTINEZ, CIRO ANTONIO RODRIGUEZ
+PINZON, MIGUEL ANGEL PINTO HERNANDEZ, DIDIER ALBERTO TAVERA AMADO,
+JOSE EDILBERTO CAICEDO SASTOQUE.
+CUESTIONARIO ADITIVO A LA PROPOSICION No. 068
+COMISIÓN DE REGULACIÓN DE AGUA POTABLE Y SANEAMIENTO BÁSICO
+, Directora Ejecutiva
+Dra. SILVIA JULIANA YEPES</narrative>
+							<question by="#hr-wilson-neber-arias-castillo">
+								1. La segmentación propuesta para los prestadores de servicios es por número de
+usuarios. Algunos estudios técnicos opinan que no es la variable más adecuada
+para segmentar el mercado. ¿Cuál es la razón técnica para no contemplar otra
+variable de segmentación?
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								2. ¿Se tuvo en cuenta algún o algunos estudios socioeconómicos para sustentar la
+propuesta tarifaria contenida en la resolución 632/2013 que dieran cuenta del
+porcentaje de los ingresos que los usuarios, según su estrato, destinan para pagar
+la tarifas de acueducto y alcantarillado? Es decir, estudios de impacto en el costo
+de vida de la población. Si es así, favor remitirlos.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								3. ¿Favor suministrar los resultados cuantitativos de los estudios empíricos de escala
+minima eficiente y tamaño medio de las empresas en m3/año, habitantes servidos
+y clientes que sustentan la propuesta tarifaria.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								4. ¿Cuál es la literatura técnica que sustento la propuesta tarifaria? Referenciarla y
+adjuntarla.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								5. ¿Cuál es el impacto del indicador de eficiencia en la gestión de cartera sobre las
+empresas operadoras que tienen plazo para cobrar hasta dos meses?
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<question by="#hr-wilson-neber-arias-castillo">
+								6. A finales del 2011 el gobierno anuncio el fin de los planes departamentales de
+agua (PDA) y manifestó que pasarían a manos de las empresas de servicios
+públicos. ¿Qué beneficio tarifario implicaría este cambio?
+7. Como afectaría - si lo hace - la nueva regulación tarifaria en la implementación
+de los mínimos vitales de agua para la población de los estratos 1,2 - e incluso 3 -
+de acuerdo a la resolución 64/292 del 28 de Julio de 2010 de la Asamblea General
+de las Naciones Unidas parte del bloque de constitucionalidad.
+								<from>H.R. Wilson Neber Arias Castillo</from>
+							</question>
+							<narrative>
+ASOCIACION NACIONAL DE EMPRESAS DE SERVICIOS PUBLICOS
+Y COMUNICACIONES - ANDESCO
+Presidente, doctor GUSTAVO GALVIS HERNANDEZ</narrative>
+							<question by="#hr-diego-patiño-amariles">
+								1. ¿ANDESCO, está de acuerdo con el nuevo modelo tarifario propuesto?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+							<question by="#hr-diego-patiño-amariles">
+								2. ¿Qué opinión le merece a ANDESCO el nuevo modelo tarifario propuesto?
+								<from>H.R. Diego Patiño Amariles</from>
+							</question>
+						</questions>
+						<speech by="" startTime="2013-08-21T10:52:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 21 de agosto de 2013
+Hora: 10:00 a.m.
+Llamado a lista y verificación del quórum
+Citación a Servidores Públicos
+De conformidad con el artículo 135-8 de la Constitución Política, en concordancia
+con los artículos 249 y 233 de la ley 5ª. de 1992 y en desarrollo de:</p>
+						</speech>
+						<speech by="" startTime="2013-08-21T10:52:50">
+							<from>OTROS</from>
+							<p>PROPOSICIÓN No. 068 y aditiva
+(Bogotá, D.C., 24 de julio de 2013)
+Citar a la, Directora Ejecutiva de la CRA, doctora SILVIA JULIANA YEPES SERRANO,
+para que responda el cuestionario adjunto sobre: “El Proyecto de resolución que
+establece el marco tarifario de los servicios públicos de acueducto y alcantarillado.”
+Así mismo citar al señor ministro de Trabajo, doctor RAFAEL PARDO RUEDA, a la
+Superintendente de Servicios Públicos Domiciliarios, doctora PATRICIA DUQUE CRUZ,
+al Viceministro de Aguas y Saneamiento Básico, doctor IVAN FERNANDO MUSTAFA,
+para que se pronuncien sobre dicho proyecto. Invitar al Subdirector del Sindicato
+SINTRAEMSDES, doctor HECTOR GARCIA RAMIREZ, y al, Presidente de ANDESCO,
+doctor GUSTAVO GALVIS HERNANDEZ para que absuelvan el cuestionario adjunto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:53:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:53:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Someta a consideración el orden del día leído por, Secretaria señor
+Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:53:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se somete a consideración el orden del día leído, se abre la discusión,
+continúa la discusión, aviso que va a cerrarse, lo aprueban.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:53:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:53:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Silvio Vásquez.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2013-08-21T10:53:50">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Señor Presidente, iba a intervenir al principio de la sesión y antes de
+aprobarse el orden del día para no interferir, pero mal haría yo en
+copiar a la doctora Juana Carolina y en día de ayer acusó y señaló a la
+anterior Mesa Directiva en la incapacidad y en el mal nombre de la
+Comisión según ella, entonces voy a abstenerme de hacer esta
+intervención, porque voy a esperar que ella esté presente, porque no
+acostumbro a hablar mal de nadie a espaldas de esa persona, ni a
+atacar a los colegas, yo creo que es bueno dejar en claro las cosas,
+porque ante la opinión pública no se puede ser tan irresponsable,
+entonces señor Presidente quiero dejar esta constancia mientras viene
+la doctora Juana Carolina para tomar la palabra y manifestarme frente
+a la intervención que se hizo ayer en mi ausencia, dado que me toco
+desplazarme como le dije a usted y al señor Secretario antes de
+terminar la sesión.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:54:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Siguiente punto del orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:54:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Citación a servidores públicos.
+Señor Presidente la doctora Silvia Juliana Yepes Serrano envió una
+carta donde se excusa por estar ausente, fuera del país, el doctor
+Gustavo Galvis Hernández delego al doctor Juan Pablo Fonseca
+Director de Acueducto y Alcantarillado, Aseo de ANDESCO, del
+ministerio de Trabajo no hay excusa, no hay ninguna comunicación; la
+doctora Patricia Duque Cruz Superintendente de Servicios Públicos
+estuvo puntual y el doctor Diego Patiño da fe de eso, lo mismo el
+doctor Yepes, ella estuvo hablando con los citantes y de SINTRAENS
+también está un delegado.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:54:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Leamos la excusa señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2013-08-21T10:54:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Doctor
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+Comisión Sexta
+Cámara de Representantes
+Asunto: Rad. CRA 2013-321-0037-162 del 15 de agosto de 2013,
+proposición 068 del 2013 y aditiva a la proposición número 068 del
+2013.
+Respetuosamente me dirijo a ustedes con el fin de informarle que
+mediante Resolución 436 del día 13 de agosto de 2013 del ministerio
+de Vivienda se me confirió comisión al exterior entre los días 18 y 24
+de de agosto del presente año, razón por la cual no pobre asistir a la
+proposición del asunto programada para el día miércoles 21 de los
+corrientes, no obstante lo anterior asistirá y atenderá el cuestionario
+objeto de la proposición 068 de 2013 el doctor Alejandro Iván Guali
+Guzmán en su calidad de, Director Ejecutivo encargado de la Comisión
+de Regulación de Agua Potable y Saneamiento Básico CRA, durante
+los días en los que no estaré en el país, queda esta entidad atenta a
+cualquier información adicional que requiera o consideren necesaria
+los Honorables Representantes.
+Atentamente,
+SILVIA JULIANA YEPES SERRANO
+Directora Ejecutiva
+El doctor Alejandro Iván Guali Guzmán, nos está acompañando desde
+las 10 de la mañana señor Presidente, leída la excusa y la delegación
+de la persona encargada.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:54:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Atilano Giraldo.</p>
+						</speech>
+						<speech by="#hr-atilano-giraldo-arboleda" startTime="2013-08-21T10:54:50">
+							<from>H.R. Atilano Giraldo Arboleda</from>
+							<p>Gracias señor Presidente, básicamente este control político es para la
+Comisión de Regulación de Agua Potable y Saneamiento Básico y si
+la doctora Silvia Juliana Yepes quien mando una excusa no está, yo le
+pediría más bien a la Comisión que aplazáramos este debate hasta
+que la doctora Silvia Juliana Yepes pueda asistir a la Comisión, yo
+creo que esta Comisión de verdad ya debe tomar posiciones estrictas
+digámoslo así, porque excusas sobre las excusas me parece que no
+son buenas, entonces yo si, ya lo hemos hecho con otros ministerios,
+entonces yo si les pido a mis colegas que me acompañen en esta
+proposición de aplazamiento de este debate hasta que la doctora
+Silvia Juliana Yepes nos pueda acompañar.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:55:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Representante Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2013-08-21T10:55:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Gracias Presidente, acompañando la solicitud del doctor Atilano
+siempre y cuando haciendo una claridad, digamos que las excusas
+como aquí lo hemos sabido en ocasiones anteriores nos han generado
+unas discusiones supremamente altas en torno a que algunas deben
+aceptarse o no, en este caso pues manifiesta la funcionaria estar fuera
+del país, sin embargo como lo decía el doctor Atilano Giraldo aquí
+también es importante lo que se discute y debate y hay que sopesar
+entre si nos vamos a una comisión a nivel internacional o se atiende
+definitivamente los intereses del orden nacional que son los de la
+propia Comisión Sexta y dejar claridad que como bien lo señalaba tal
+vez usted Presidente pues aquí hizo presencia la señora
+Superintendente de Servicios Públicos que digamos no se excusa
+porque vino y cumplió en el horario, solo que debió ir a atender otros
+asuntos, razón por la cual también debe quedar claridad sobre el acta
+en ese sentido de que una funcionaria citada asistió mientras que la
+otras se excusa y en mi concepto, pues una excusa que si sigue
+redundando habrá que tomar las cartas en el asunto, porque esta
+Comisión tiene que hacerse respetar señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:55:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Diego Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-08-21T10:55:30">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Este debate es de una trascendencia importante, no se trata
+simplemente de fijar una tarifa, una fórmula que le dé a los operadores
+como definir las tarifas de los servicios públicos de acueducto y
+alcantarillado, si no que hay que revisar a fondo los modelos y los
+criterios y las variables que las Comisión de Regulación está teniendo
+en cuenta para darle esos elementos a las operadoras.
+Yo esperaba que las respuestas llegaran a tiempo, pero apenas
+llegaron ayer, la de ANDESCO la recibo en este momento y todos los
+que conocemos a ANDESCO saben que es la entidad que agrupa a
+todas las empresas de servicios públicos en este caso de acueducto y
+alcantarillado y en su última parte permítame les leo dice:
+“Manifestamos nuestra preocupación con el plazo de entrada de la
+nueva fórmula debido a que consideramos necesario que se
+armonicen los tiempos de implementación con los esquemas de
+vigilancia y control adopte los Superservicios para garantizar que la
+aplicación en esa tarifa es la correcta y no se generen incertidumbres
+en el mediano y largo plazo”.
+Que quiero decir con esto, que ANDESCO ni siquiera ha tenido el
+tiempo de analizar a fondo este modelo que está planteando la CRA y
+me parece que es necesario que esta entidad se pronuncie a fondo,
+porque en uno de sus apartes dice: “que podrá estar en riesgo la
+suficiencia financiera de estas entidades”.
+Me parece importante que acojamos la solicitud del Parlamentario
+Atilano Giraldo, en el sentido de que más que por la presencia aquí del
+funcionario responsable, es el tiempo que debemos de tener como
+Comisión de analizar más en detalle las respuestas, que entre otras
+cosas cuando uno las lee genera más incógnitas y por lo tanto señor
+Presidente vuelvo y reitero, más que la presencia de los funcionarios,
+a mi me preocupa es por el análisis profundo que deben de hacer las
+empresas de servicios públicos asociadas en ANDESCO y por
+supuesto el análisis que cada uno de nosotros hagamos al respecto.
+Muchas de las preocupaciones que llevaron a que yo participara en la
+citación de este debate, en las respuestas que me dan algunas de
+ellas pues resuelven en parte las inquietudes y tienden a que
+efectivamente eso que planteamos sea tenido en cuenta en la
+discusión por parte de la Comisión de Regulación de Agua Potable y
+Saneamiento Básico, que eso nos genero en principio tranquilidad de
+que ha habido interés por parte de la CRA de ser escuchados, tal
+como lo establece el mismo fallo de la Corte Constitucional.
+Pero me preocupa señor Presidente, es que los plazos se nos están
+agotando, tengo entendido que hasta el 30 de agosto de acuerdo al
+cronograma establecido se pueden hacer este tipo de aportes para
+que la CRA pueda recoger todas las inquietudes y en un mes o mes y
+medio pueda expedir la respectiva resolución.
+Si logramos que este debate se pueda dar antes de esa fecha pues
+sería muy importante, yo le pediría a los compañeros citantes que
+analicen muy a fondo el proyecto de resolución y que miremos cuáles
+apartes de esa resolución son necesarios debatir aquí, porque vuelvo
+y reitero, parece muy sencillo que simplemente sea definir unos
+criterios para fijar unas tarifas, pero si esos criterios no se tienen en
+cuenta para poner ejemplo las convenciones colectivas de los
+trabajadores, si esos criterios no se tienen en cuenta, algunos activos
+que hacen parte de la prestación del servicio, si la segmentación que
+se está planteando es la correcta o no, si las metas que establece la
+misma CRA y lo que se ha establecido en las metas del milenio son
+posibles alcanzarlas o no, porque para lograr ello no solamente es vía
+tarifa sino, tienen que haber recursos de las entidades territoriales,
+recursos de la Nación y recursos de las mismas empresas.
+Por lo tanto, yo les pido el favor a mis colegas de que hagamos un
+análisis juicioso porque esto tiene una gran incidencia en el futuro de
+las empresas de servicios públicos domiciliarios y acueducto y
+alcantarillado y me refiero a las empresas del Estado que son en su
+gran mayoría las que hoy prestan el servicio, una mala aplicación de
+criterios o una concepción neoliberal en la aplicación de estos criterios
+podría llevarnos a una privatización más IVA de las empresas de
+servicios públicos hoy en Colombia, por eso es importante que
+analicemos en detalle este tema, porque no es de poca monta.
+Presidente (Diego Naranjo)
+Tiene la palabra el doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:55:40">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Yo me sumo a esa solicitud del Representante Atilano Giraldo, pero no
+estoy de acuerdo Atilano hasta que pueda asistir, yo no quiero que
+aquí si vamos a seguir con esa tónica, pues nos seguirán aplazando
+los debates y es lo mínimo que podemos hacer como de nuestras
+funciones, este tema que yo también lo corroboré para firmar esa
+proposición de Diego Patiño y muchos la firmamos, pues estamos
+preocupados de cuál es la realidad de ese nuevo marco tarifario,
+cuáles son esos criterios, si se aplican o no; hoy han venido desde la
+ciudad de Pereira señores del sindicato donde ellos nos enviaron un
+escrito atendiendo unas inquietudes de que no se iban a tener en
+cuenta, por eso la importancia de este debate, máxime si ya se vence
+un término este 30 de agosto, que pasara de allí para allá si se van a
+acoger las solicitudes, las inquietudes de los sindicatos; no estoy de
+acuerdo tampoco que no haga presencia ni siquiera un delegado del
+ministerio de Trabajo, yo creo que es una falta de respeto con esta
+Comisión, toda vez que allí supuestamente se van a tocar cuestiones
+laborales de personas que están laborando en las empresas de
+servicios públicos y que si no se tienen en cuenta unos beneficios
+ganados en convenciones colectivas no van a ser tenidas en cuenta
+para los criterios y fijar el marco tarifario pues van a tener unos roces
+esas empresas de servicios públicos y no van a fijar las metas que va
+a colocar la CRA.
+Entonces, no estoy de acuerdo con la excusa de la doctora Silvia
+Yepes, porque es que esta citación no es de ahora ocho días, esta
+citación fue con mucho tiempo y yo creo que ella debió haber enviado
+al Brasil o a la China a otro funcionario, al que delego, al que está
+encargado de la dirección, al doctor Iván Guali, él es él que debió irse
+para el Brasil no ella, porque es que este tema es importante, es lo
+que nos va a marcar hacia el futuro, porque nos van a decir en
+nuestras regiones, ustedes se confabularon con unas tarifas costosas,
+ustedes ayudaron a violentar los derechos laborales de las gentes que
+trabajan allá, por ayudarle a las empresas de servicios públicos y ahí
+vamos a quedar marcados, yo no estoy de acuerdo con la excusa, ni
+con la Comisión que le envía el ministro de Vivienda, sabiendo que
+había aquí una citación, yo creo que era de más importancia, pero le
+importó nada la Comisión.
+Por eso propongo señor Presidente que esto se aplace para dentro de
+ocho días, no para dentro de 15 o 20, yo tenía un debate importante
+para dentro de 8 días, que era el de la concesión de la malla vial del
+Valle, de las irregularidades que hemos anunciado tres años, voy a
+traer una torta con tres velas, ni los órganos de control se han
+pronunciado, pero prefiero aplazar ese tema porque este es más
+importante a no ser que no haya venido del Brasil, pero aquí está el
+delegado que la puede llamar; y lo mismo hagamos un llamado de
+atención al ministro de Trabajo, escucho a la doctora Patricia Duque
+porque aquí esta, dispuesto a la hora que venga, porque creo no va a
+haber debate, para que la hacemos salir de allá, lo mismo al
+Viceministro de Agua que esta por acá en otra Comisión, son
+personas que se excusas, pero me preocupa con los que asisten y los
+que vienen de otras partes como el sindicato al doctor Alejandro
+Herrera y también el delegado de ANDESCO Juan Pablo Fonseca, yo
+reitero que nos pronunciemos como lo hicimos ayer por la inasistencia
+del, director Nacional de Gestión del Riesgo el doctor Carlos Iván
+Márquez y no queremos llevar más a fondo esas inasistencias de
+estos altos funcionarios del Gobierno Nacional, por desatender unos
+debates que son urgentes y de prioridad para el país.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:55:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2013-08-21T10:56:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Gracias Presidente, saludo a mis compañeros de comisión, al doctor
+Eugenio Prieto que se ha hecho presente y al doctor Oscar de Jesús
+Marín, más allá de la hilaridad que pueda producir un gesto frecuente
+de la Mesa Directiva al designar como reemplazo en ausencia de sí
+misma a cualquier otro de mis colegas y no respetar el orden
+alfabético, sabe usted doctor Naranjo que le tengo altísimo aprecio y a
+mis compañeros, si registro un problema de cultura democrática, creo
+que no hace bien su Mesa en enviar ese mensaje y se lo reitero, no
+suelo silenciarme frente a estos temas y supera cualquier asunto
+personal de la Comisión.
+En segundo lugar, registrar algo que se ha hecho, pues bueno
+estamos empezando periodo, pero también fue casi que lo que hizo
+carrera en la oportunidad anterior señor Presidente y es que pareciera
+ser que cuando la Comisión le hace fiero al Gobierno por sus
+ausencias, el Gobierno nos ve como ciertas prácticas de los caballeros
+de Medioevo en la edad media apreciado Presidente había un
+ejercicio de caballero con armas, pero en ciertos entrenamientos se
+hacía armas que no producían heridas, no producían absolutamente
+nada, es decir que yo con frecuencia, que yo a mi Comisión, a los
+integrantes de la Unidad Nacional en la Comisión, los veo con
+frecuencia en esa actitud frente al gobierno, es decir cuando escucho
+algunos de mis colegas hacer fieros, decir, los funcionarios del
+Gobiernos vienen o vienen, yo los veo como exhibiendo espadas de
+papel y la realidad monda y lironda es que hemos tenido varias
+convocatorias los cuales los funcionarios no se dignan asistir señor
+Presidente y lo registro con preocupación, inclusive Presidente por su
+propio éxito y por el éxito de esta Comisión, una voz solitaria de la
+oposición pidiendo tomar medidas en estos casos y en las escasas
+oportunidades en las cuales se pone de acuerdo la Comisión dizque
+por consenso para proceder en relación con estos funcionarios no
+tienen ninguna eficacia, lo quiero señalar Presidente, digamos que
+hizo carrera y se instalo la costumbre de que esta Comisión es
+digamos poco atendida por decir lo menos por los funcionarios del
+Gobierno.
+Y en tercer lugar, el contenido mismo del debate, estamos frente a una
+premura, tenemos unos tiempos que son perentorios, digo son
+perentorios para el pueblo y los trabajadores de las áreas, yo no me
+apoyaría tanto y desde luego que los he elegido, los he estudiado y en
+el debate vamos a ver que tenemos preocupaciones frente al tema,
+pero al fin y al cabo aquí los casi siempre ganadores de estas
+ejercicios son en general las empresas privadas, de otra manera no se
+harían al poder de estas empresas, pero aquí estamos frente a un
+trance y quiero llamar a los trabajadores de la rama del área y a los
+Parlamentarios.
+Si bien se dice en algunas de las respuestas que se tendrá en cuenta,
+que se intentará, que se esforzarán por la participación ciudadana y de
+los trabajadores el tema de los costos, de las convenciones colectivas
+esta remitida a un comité de expertos comisionados de la unidad
+administrativa especial CRA y al propio tiempo ellos rendirán informe
+de la Comisión de Regulación de Agua Potable y Saneamiento Básico,
+es decir señor Presidente su participación sigue intacta, aquí no está
+claro que ya se halla incluido el tema de los derechos convencionales
+para mencionar apenas uno de los que son objeto de preocupación.
+Insisto a los trabajadores este llamado, quisiera poder compartirles el
+texto concreto en el cual en mi opinión no está claro que se le haya
+redimido su derecho a la convención colectiva.
+Le agrego Presidente, he recibido alguna comunicación muy
+entusiasmada de alguno de los sindicatos de mi región diciendo que al
+reunirse con el alto Gobierno el asunto estaba superado y permítame
+redundar tantas veces cuantas sea necesaria más aún a primera
+página, en la primera pregunta me informan que el criterio de la
+eficiencia sigue prevaleciendo sobre cualquier otra razonabilidad en
+busca, en lo que presuntamente denominan equilibrio entre los
+derechos de los usuarios, los trabajadores y los empresarios.
+En segundo lugar, Presidente casi que para puntear lo que son los
+principales temas de preocupación, espero no a modo de una
+constancia histórica, sino con la finalidad de que el Gobierno atienda
+estas preocupaciones, está el tema del mínimo vital, Colombia a
+suscrito convenios, Colombia es responsable ante las Naciones
+Unidas, que ha decidido reconocer el derecho mínimo vital del agua
+como un derecho muy importante, se accede no solamente con ello a
+un bien económico, sino social y cultural que bien vale la pena discutir
+en la Comisión, yo se que el doctor Eugenio Prieto ha tenido la feliz
+iniciativa de presentar un proyecto de ley al respecto.
+Colombia se hace responsable, se hace cargo de estos derechos
+principales de la humanidad a cargo de las Naciones Unidas y no hay
+posibilidad que el Congreso de la República legisle sobre la materia,
+porque el Gobierno no acompaña esa legislación, de nuevo el
+Congreso exhibiendo espadas de papel frente al gobierno, yo celebro
+doctor Prieto por hecho su presencia y la ocasión que tenemos de
+públicamente facilitar que su iniciativa cuente con nuestro
+acompañamiento para ella, es democrática, justa, es necesaria, la
+gente no se puede morir por falta de agua, no es posible que en
+Colombia ocurra eso, ya se está ensayando, ya se ve que es posible
+en algunas ciudades del país, debería ser generalizado, pero este
+tema y el tema de los planes departamentales de agua que en efecto
+en los periódicos, en la prensa el Gobierno declara se acaban los
+planes departamentales de agua, las respuestas gubernamentales
+remiten unas y otras sencillamente a las vigencias futuras, grandísima
+preocupación sobre ese tema, yo creo que lo comparte la Comisión y
+bueno habrá ocasión de referirme en otros aspectos. Solamente digo
+esto a guisa de llamar la atención de la Comisión sobre la urgencia del
+debate.
+Pero finalmente señor Presidente referir lo siguiente, quiero que se
+considere las circunstancias ayer señalada por mí en esta Comisión
+de haber solicitado un debate sobre el tema del SENA con mucha
+antelación, hoy averigüé con el señor Secretario, usted me había
+remitido a hablar con él y me dice que no me tiene respuesta señor
+Presidente, yo le agradecería mucho que en breve pudiéramos
+concertar ese tema, porque el país esta expectante sobre esa
+discusión, tengo la capacidad de demostrar grandísimas falencias del
+SENA y prefiero hacerlo en presencia de la, directora General del
+SENA para que podamos dirimir estos asuntos.
+Le agradecería Presidente que usted en cuanto sea posible agende
+este debate.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:56:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Si Representante, si no que estamos tratando de concertar con
+algunos de los compañeros que tienen ya unas fechas fijadas, pero
+como usted entenderá esta inasistencia de estos funcionarios nos ha
+obligado a aplazar ya dos debates, ahora 8 días, el de ayer y el de hoy
+y ojala no sigamos con un llamado fuerte por escrito, de pronto por
+ahora no lo hacemos a los órganos de control como es la
+Procuraduría, pero que no nos obliguen llegar hasta allá para que ellos
+puedan asistir y no nos dañen la agenda, la agenda que traemos,
+porque traemos una agenda importantísima.
+Tiene la palabra el doctor Diego Patiño.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-08-21T10:56:20">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Yo quiero anotar tres cosas, lo primero, es que si queremos llamar a
+esto un debate político o una participación de la Comisión en hacerle
+aportes a la discusión de la resolución, yo diría que con la presencia o
+sin la presencia de los funcionarios la Constitución y el fallo de la Corte
+es clara, de que debemos de ser escuchados y yo creo que lo que
+aquí toquemos en el momento que usted señor Presidente lo defina
+deberá ser remitido a esa Comisión para que sea considerado por
+parte nuestra, bien sea como ciudadanos o bien sea como
+Parlamentarios de esta Comisión.
+Lo segundo, es que yo le pediría a los representantes de ANDESCO
+que la respuesta fuera mucho más explícita, mucho más profunda,
+porque vuelvo y reitero, ellos representan a las empresas que se
+benefician o se afectan por parte de esta resolución que se expida y
+pedirle excusas a los amigos de Pereira que vinieron hoy y algunos
+sindicatos de otros sitios, pero yo les pediría el favor que la semana
+entrante nos acompañaran para que aquí en presencia ojala del señor
+Ministro del Trabajo tengamos respuestas muy concretas sobre el
+tema fundamental de la parte de las convenciones colectivas.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:56:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra Wilson Arias.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2013-08-21T10:56:40">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Infortunadamente creo que se nos están cruzando varios debates,
+quiero informar que ha sido citado un debate muy importante en la
+Comisión Sexta sobre el tema presupuestal del SENA y comprenderá
+doctor Diego Patiño que también tengo la responsabilidad, intentare
+estar en ambos pero lo anuncio para que se sepa de las premuras en
+que nos ponen y más aún Presidente me angustia escuchar que mi
+debate pedido hace tantos meses se siga aplazando en función de
+que se repitan estos, imagínese usted que la Comisión convoque
+nuevamente vuelva a insistir como ha sido la constante el último
+periodo y nosotros digamos no tengamos ocasión de realizar el
+debate, de verdad Presidente digno de preocupación de esta
+Comisión, patético lo que le está ocurriendo a esta Comisión.</p>
+						</speech>
+						<speech by="#hr-diego-patiño-amariles" startTime="2013-08-21T10:56:50">
+							<from>H.R. Diego Patiño Amariles</from>
+							<p>Para terminar Presidente, simplemente esos tres puntos, primero que
+lo que aquí aportemos sea tenido en cuenta por parte de la CRA,
+estén o no estén los funcionarios; segundo, el tema de que
+ANDESCO profundice mucho más su opinión sobre las dos preguntas
+que hemos hecho y por supuesto reiterarle la invitación a los
+representantes del Sindicato que representan a estas empresas a
+nivel nacional.
+Quiero también manifestar que la señora Superintendente de Servicios
+Públicos estuvo presente, pidió que la excusara porque tenía una cita,
+también el Presidencia, pero que estaba dispuesta a llegar en el
+momento que la Comisión así lo requiriera, por eso quiero que quede
+constancia de que ella estuvo acá.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2013-08-21T10:57:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se aplaza este debate para dentro de 8 días a las 9 de la mañana, se
+levanta la sesión siendo las once y treinta y siete minutos de la
+mañana (11:37 a.m.).
+JAIRO ORTEGA SAMBONI           DIDIER ALBERTO TAVERA AMADO
+Presidente                         Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO   JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                     Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

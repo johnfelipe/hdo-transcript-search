@@ -1,0 +1,826 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-josé-edilberto-caicedo-sastoque" id="hr-josé-edilberto-caicedo-sastoque" showAs="H.R. José Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-miguel-ángel-pinto-hernández" id="hr-miguel-ángel-pinto-hernández" showAs="H.R. Miguel Ángel Pinto Hernández"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-quintero-trujillo" id="hr-jairo-quintero-trujillo" showAs="H.R. Jairo Quintero Trujillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-neber-arias-castillo" id="hr-wilson-neber-arias-castillo" showAs="H.R. Wilson Neber Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vásquez-villanueva" id="hr-silvio-vásquez-villanueva" showAs="H.R. Silvio Vásquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="2279-acta-49-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2011</heading>
+				<debateSection>
+					<heading>Mayo</heading>
+					<debateSection>
+						<heading>ACTA NO. 49 / 2011-05-08</heading>
+						<speech by="" startTime="2011-05-08T10:39:00">
+							<from>OTROS</from>
+							<p>
+RAMA LEGISLATIVA DEL PODER PÚBLICO
+CAMARA DE REPRESENTANTES
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+PERIODO LEGISLATIVO 2011 - 2012
+ACTA 049
+SESION ORDINARIA DEL DIA 08 DE MAYO DE 2011
+Siendo las diez y treinta y nueve minutos de la mañana (10:39 a.m.), el, Presidente de la Comisión
+Sexta Constitucional Permanente de la Cámara de Representantes, Honorable Representante José
+Edilberto Caicedo Sastoque, ordenó al Secretario llamar a lista y contestaron los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Barrera Gutiérrez Luis Guillermo
+Caicedo Sastoque José Edilberto
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Patiño Amariles Diego
+Pinto Hernández Miguel Ángel
+Quintero Trujillo Jairo
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+En el transcurso de la sesión se hicieron presentes los Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Ortega Samboni Jairo
+Rodríguez Pinzón Ciro Antonio
+Roldan Avendaño Jhon Jairo
+Yepes Martínez Jaime Armando</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:39:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, la Secretaría ser permite informar que tenemos quórum decisorio.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:39:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, habiendo quórum decisorio se le presenta un afectuoso saludo a los
+Honorables Representantes y damos lectura al orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:39:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>“RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2011 al 20 de junio de 2012
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2011-05-08T10:39:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 8 de mayo de 2012
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Anuncio de Proyectos de Ley, de conformidad con el artículo 8º. del Acto Legislativo No. 01, del 3
+de julio de 2003, los cuales se discutirán y votarán sus respectivas Ponencias para Primer Debate,
+en la próxima Sesión.
+III.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:39:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JOSE EDILBERTO CAICEDO SASTOQUE DIEGO ALBERTO NARANJO ESCOBAR
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario”
+Leído el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:40:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración el orden del día que acaba ser leído, sigue en consideración, aviso
+que se va a cerrar, queda cerrado. ¿Aprueba la Comisión Sexta el orden del día leído?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:40:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:40:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien. Le damos la bienvenida al Representante Didier Tavera de Santander.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:40:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Segundo punto, anuncio de proyectos de ley.
+Señor Presidente, la Secretaría se permite anunciar los siguientes proyectos de ley para ser
+discutidos y votados en la próxima sesión: Proyecto de ley 065 de 2011 Cámara - 226 de 2011
+Senado “por medio de la cual se fortalece la institucionalidad de la política nacional de educación
+ambiental y su incorporación efectiva en el desarrollo territorial”. Autores: Honorable Senador
+Carlos Enrique Soto Jaramillo y Honorable Representante Didier Burgos Ramírez. Ponente:
+Honorable Representante Atilano Alonso Giraldo Arboleda.
+Proyecto de ley 186 de 2012 Cámara “por la cual se dictan normas sobre el fomento a la música de
+Colombia”. Autor, Honorable Representante Rafael Romero Piñeros. Ponente Honorable
+Representante Silvio Vásquez Villanueva.
+Proyecto de ley 163 de 2011 Cámara - 007 de 2010 Senado, acumulado con el proyecto de ley 114
+de 2010 Senado “por la cual se modifica la Ley 769 de 2002 y la Ley 1383 de 2010 en temas de
+embriaguez y reincidencia, y se dictan otras disposiciones”. Autores: Honorables Senadores Carlos
+Alberto Baena y Juan Lozano Ramírez, Honorable Representante Gloria Estela Díaz. Ponente,
+Honorable Representante José Edilberto Caicedo Sastoque.
+Proyecto de ley 201 de 2012 Cámara “por la cual se crea el sistema nacional de convivencia escolar
+y formación para el ejercicio de los derechos humanos, sexuales y reproductivos, y la prevención y
+mitigación de la violencia escolar”.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:40:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Un segundo Secretario, este es un proyecto demasiado importante por favor, el
+tema de la convivencia escolar se vuelve perentorio como una política pública y este proyecto de
+ley que el Ministerio de Educación presenta y que he designado de ponente a la Representante de
+Caldas Juana Carolina Londoño Jaramillo debe dársele toda la importancia y el alcance que
+merece. La Representante tiene una agenda propuesta que me parece muy importante, quisiera
+que verificáramos ese tema antes de que lo anunciemos para saber qué orientación le damos.
+Tiene el uso de la palabra Representante Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2011-05-08T10:40:50">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias señor Presidente.
+Como autora de este proyecto, lo hemos venido trabajando con el Ministerio de educación, de
+verdad que ese es un tema supremamente importante y que ha cobrado mucha fuerza en los
+últimos días, es para la creación de un sistema nacional de convivencia escolar. Consta de tres
+puntos; uno, el que tiene que ver con el “bullyn”, ciber”bullyn” o el famoso “matoneo”, el 13% de
+los estudiantes se están yendo de sus colegios porque sus compañeritos los aíslan, los humillan,
+los maltratan y está generando ya causas de obesidad, está generando ansiedad e inclusive
+suicidio.
+Si ustedes miran las noticias en Méjico, por el ““bullyn”” o el ““matoneo”” de un compañero se
+suicidó un joven en México el día de ayer; de igual forma hace dos semanas en Itagüí unos
+compañeros de unos jóvenes le pagaron una paliza impresionante a este niño de once años que
+falleció, hoy no se sabe si es a causa de los golpes pero eso sucede cada vez más en nuestro país y
+tenemos que ponerle muchísima atención. Ese es el primer precedente sobre “bullyn”.
+El segundo aspecto del proyecto de ley, tiene que ver sobre educación sexual reproductiva, el 22%
+de las jóvenes menores de 18 años en nuestro país están en embarazo o han tenido un niño, es la
+quinta causa de salud pública más grave en nuestro país y tenemos que ponerle mucha atención.
+Y el tercer punto del proyecto, tiene que ver con civismo y con derechos humanos, esto no son
+cátedras, no son materias que se van a dar sino que son políticas transversales a través de todas
+las materias. Nosotros tuvimos la posibilidad de ir a San Juan de Nepomuceno a conocer este
+modelo y es un modelo muy exitoso que permite trabajar el tema de convivencia escolar.
+Entonces, señor Presidente con todo el respeto y en compañía de nuestros compañeros ponentes
+que ya estamos acabando de recoger las firmas, de forma respetuosa ponemos todo el equipo de
+trabajo a consideración para que dentro de ocho días se pueda realizar un foro aquí en las
+instalaciones del Congreso, puede ser el día miércoles a las ocho de la mañana. Sobre este tema ya
+hemos hablado con la, Ministra de Educación, ella nos acompañaría a ese foro tan importante y
+que está cobrando ya vidas en nuestro país. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2011-05-08T10:41:00">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>A usted
+Honorable Representante, siguiente punto del orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:41:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente, lo que propongan los Honorables Representantes.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:41:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el doctor Wilson Arias, después el doctor Silvio Vásquez.</p>
+						</speech>
+						<speech by="#hr-wilson-neber-arias-castillo" startTime="2011-05-08T10:41:30">
+							<from>H.R. Wilson Neber Arias Castillo</from>
+							<p>Gracias Presidente.
+Además de saludar la iniciativa de la doctora Juana Carolina Londoño y reconocerle su empeño, la
+verdad es que ha estado abordándonos permanentemente para demandarnos opiniones, avances
+sobre ese proyecto que tiene enorme trascendencia. El Congreso va a deberle mucho a la doctora
+Juana Carolina Londoño, y el país en esa materia, soy testigo presencial de su acuciosa actividad.
+Llamar la atención de la Comisión sobre una preocupación en materia educativa, anuncian
+reforma tributaria, dentro de la reforma tributaria queda en vilo la suerte de algunas entidades
+que prestan importantísimos servicios, entre ellos uno que ha sido motivo de preocupación
+permanente mía, pero no solamente mía, reconozco que aún en la diferencia porque hemos
+tenido diferencias amables en este tema, toda la Comisión ha sido muy atenta del tema del SENA.
+Lo digo por lo siguiente, dentro de lo que se ha anunciado se habla de reintegrar la totalidad de los
+aportes parafiscales del SENA, el ICBF y las cajas de compensación familiar a los empresarios,
+dentro de un paquete que pareciera ser no van a “chillar” tanto los grandes capitalistas. El doctor
+Juan Manuel Santos había anunciado algo así como “sudor y lágrimas para la oligarquía” dijo Juan
+Manuel Santos, hay una nueva versión de Juan Manuel Santos remasterizado.
+Pues bien, lo que nos está diciendo en buen romance el señor, Presidente de la República o los
+autores del borrador, ojalá y no se materialice, es que si se da el reintegro de la totalidad de los
+parafiscales a los empresarios que la aportan, en lo sucesivo la suerte de estas entidades correrá
+por cuenta del Presupuesto General de la Nación, lo digo de otra manera; lo mismo que había
+pedido la Asociación Nacional de Instituciones Financieras (ANIF), lo mismo que habían pedido los
+adMinistradores de los fondos privados de pensiones, lo mismo que había pedido básicamente el
+sector financiero, esto es, que eliminaran los parafiscales y estas entidades dependieran del
+Presupuesto General de la Nación, se logra por dos vías; una por la vía de la eliminación de los
+parafiscales o por la vía del reintegro de la totalidad de los aportes parafiscales, vía declaraciones
+de renta, impuesto de renta.
+Yo quiero manifestar mi preocupación, reconocer la preocupación del doctor José Obed Zuluaga,
+quien me acaba de abordar para manifestarme este hecho y dejar dicho que esperamos desde
+luego que el concurso del Congreso de la República no sea para llevar a término una tal reforma
+que pondría en vilo el ICBF, las cajas de compensación familiar y el SENA, sino que se conserve el
+espíritu de la parafiscalidad para bien de estas entidades.
+Principalmente eso Presidente, e invitar a la Comisión para que estemos atentos del desenlace de
+esta noticia, muchas gracias.</p>
+						</speech>
+						<speech by="#hr-josé-edilberto-caicedo-sastoque" startTime="2011-05-08T10:41:40">
+							<from>H.R. José Edilberto Caicedo Sastoque</from>
+							<p>Un tema que
+me parece importante Honorables Representantes, es hacer un gran esfuerzo para coordinar las
+actividades de sesión de la Comisión por fuera de este recinto y de las audiencias públicas, debo
+registrar con beneplácito y agradecerle a los Honorables Congresistas que asistieron a la ciudad de
+Neiva, demasiado importante, creo que fue muy productiva la reunión. A los congresistas que
+asistieron les agradezco inmensamente, me parece muy importante lo que se logró, no estuvo el
+Ministro de Transporte manifestando que estaba hospitalizado en esa mañana, pero estuvo el
+director de INVIAS y me parece bastante importante reconocerle al Representante Silvio Vásquez
+su liderazgo, su trabajo, su claridad en los temas que se abordaron allá, adquirimos un
+compromiso con fecha y todo por parte de la Comisión y es que el 12 de junio nuevamente
+tendremos aquí al Ministro, sea el actual o sea quien llegue, para que hagamos un seguimiento a
+los compromisos que se adquirieron por parte del, director de INVIAS en la ciudad de Neiva.
+A quienes participaron, por supuesto aquí la Comisión Sexta les agradece y al Representante Silvio
+Vásquez por su trabajo, muchas gracias y le cedo el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2011-05-08T10:41:50">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Muy amable señor Presidente.
+Efectivamente había pedido la palabra para referirme al tema que usted ha tocado señor
+Presidente. En primer lugar agradecerle de manera muy especial a todos y cada uno de los
+compañeros colegas de la Comisión Sexta que me acompañaron de manera personal con su
+asistencia en Neiva y que dio la posibilidad de que hubiese el quórum reglamentario para sesionar.
+En segundo lugar agradecerle a todos los demás que no pudieron asistir pero que me ofrecieron su
+voluntad, su amistad, su solidaridad y apoyo para llevar a cabo esta sesión que si se hubiera dado
+el jueves 26 habría habido asistencia total de la Comisión, entiendo los problemas que hubo para
+el viernes 27, los desplazamientos de los señores congresistas para sus regiones y también por
+compromisos, muchos de ellos familiares y personales, yo entiendo esa situación y desde luego
+que acepto las excusas que me han manifestado, en nombre obviamente del Huila y de la ciudad
+de Neiva.
+Quiero agradecer también ante esta Comisión y en esta sesión la presencia del señor, director de
+INVIAS, el doctor Carlos Rosado y el señor superintendente de Puertos y Transporte, y manifestar
+como lo dije allá públicamente, la manera responsable como el señor, director de INVIAS ha
+asumido su responsabilidad, admitiendo los errores que hasta ahora ha cometido la entidad a su
+cargo y que ha lastimado hondamente los intereses del departamento del Huila, especialmente la
+región del occidente, con cinco municipios de manera directa y cuatro municipios de manera,
+digamos, tangencial y también a una población superior a los 250.000 habitantes huilenses y a una
+gran población del oriente caucano.
+Pero, más que asumir la responsabilidad celebro los acuerdos que allí se dieron y en esto quiero
+recalcar muy especialmente la responsabilidad que ha tenido la Comisión Sexta para ayudarme a
+intervenir en la solución de esta problemática del Huila. Las acciones de la Comisión Sexta con su
+directiva a la cabeza, Presidente, Vicepresidente y los demás Honorables Representantes nos han
+dado la garantía que el Gobierno Nacional sé que va a cumplir estos compromisos.
+Primero, debo decirle a los asistentes que el problema de El Paso El Colegio es un puente
+construido sobre el río Magdalena en una longitud en luz de un poco mas de 120 metros, no es
+cualquier puente, es un puente colgante en estructura de hierro el cual colapsó, algunos dicen por
+culpa de los que están construyendo la represa del Quimbo, por la extracción de materiales que
+desestabilizó el muro de soporte del lado sur de la ciudad de Neiva, el primer muro yendo de
+Neiva hacia la ciudad de La Plata. Este puente fue bloqueado en su paso inclusive para peatones
+desde el mes de agosto del año pasado, son 10 meses de angustia, de situaciones que atentan
+contra la economía, contra el bienestar de la comunidad que ha afectado económicamente,
+socialmente, turísticamente a esta región, que ha encarecido el transporte, que los cultivadores
+también se han visto afectados y desde luego la construcción de obras tan importantes como el
+distrito de riego de Tesalia - Paicol, dos municipios de esa zona y que desde luego buscamos
+solución, se había llegado inclusive a vías de hecho, a paros, a bloqueos de vías pero dado que esta
+Comisión aprobó la realización del debate para el jueves 12 de abril, que fue postergado a solicitud
+del señor Ministro Germán Cardona para el jueves 26 y luego realizado el viernes 27, dieron un
+compás de espera.
+Debo decirle a la opinión pública a través de esta sesión de la Comisión Sexta de Cámara y de
+manera especial a los coterráneos huilenses que los compromisos que se adquirieron y que
+quedan en el acta de la Comisión Sexta en esta primera reunión descentralizada que hizo la
+Comisión en la ciudad de Neiva son: La construcción de un puente peatonal paralelo a la
+estructura actual, en un plazo que ya lleva más de 10 días de 75 días y que se está trabajando. En
+segundo lugar, la adquisición por parte de INVIAS, bajo su responsabilidad, la adMinistración
+únicamente para solucionar el paso de vehículos de mayor capacidad porque actualmente se
+estaba prestando el servicio a través de un ferri que presta EMGESA en la construcción de la
+represa El Quimpo, pero lo adMinistran ellos y prestan cuando se les da la real gana prestar el
+servicio, sin importar horarios o urgencias que hay en ese campo, sino dándole prioridad a las
+necesidades de cualquier ingeniero que se lleva el ferri del sitio. INVIAS quedó de contratar un
+ferri, allá en la ciudad de Neiva ofreció un ferri al cual ya le hicieron visita y están ya para tomar las
+determinaciones esta semana, según información de INVIAS, ojalá al concluir esta semana se
+pueda tener esa gran noticia.
+También está la reparación de la estructura actual del puente colgante para habilitarla para el
+paso de vehículos de 50 toneladas, cuyo plazo de entrega es en diciembre de este año.
+Paralelamente a este trabajo, el INVIAS ha destinado la suma de 400 millones de pesos para
+solución de arreglos y reparación de vías alternas de Iquira a la inspección de Pacarni en el
+municipio de Tesalia, es un tramo nacional. Y se acordó buscar un acuerdo tripartito entre INVIAS,
+la gobernación del departamento del Huila y la Oficina para la Gestión del Riesgo de Desastres
+para la reparación y mantenimiento de las vías alternas Pital - La Plata y el sitio Cruce de la Boa -
+Yaguara que son tramos departamentales, y la solución definitiva que se ha comprometido el
+señor, director de INVIAS y ha comprometido el Gobierno Nacional ante la comunidad, ante las
+autoridades del Huila, ante esta Comisión y cuyo seguimiento se hará en la sesión del 12 de junio
+en este recinto, es la continuación que ya está contratado del estudio y diseño del nuevo puente
+carreteable sobre el río Magdalena en un plazo de seis meses, ya ha transcurrido un mes por 800
+millones de pesos y la contratación de la construcción del nuevo puente cuyo costo está calculado
+en 13.000 millones de pesos los cuales el señor, director de INVIAS dice que los tiene en dinero
+disponible, el cual será entregado a la comunidad para el servicio de la comunidad a más tardar en
+enero de 2014.
+Ojalá que estos plazos se cumplan, ojalá que este debate que se hizo muy bueno, con muy buen
+comentario en el departamento del Huila, con gratitud de las gentes, de los alcaldes que asistieron
+de Tesalia, Paicol, Nátaga, La Plata y La Argentina, lo mismo que el alcalde de Iquira y otros
+alcaldes que no tuvieron la oportunidad de hablar de su problemática vial, con la asistencia en
+toda la sesión de la señora gobernadora del departamento del Huila, su secretario de INVIAS, con
+el señor secretario de Vías de la ciudad de Neiva, con los gremios liderados por la Cámara de
+Comercio de Neiva, la Cámara de Comercio de Pitalito y de La Plata, con la presencia del Comité de
+Prodesarrollo Surcolombiano que también estuvo presente y que iba a tocar la problemática de la
+vía Neiva - Pitalito, Pitalito - Bruselas, Pitalito - San Agustín, Isnos - Paletará - Popayán, pero que
+por proposición que aprobara esta Comisión fue únicamente concentrada la sesión para la
+discusión sobre el puente El Colegio.
+A todos ellos pues de verdad que están muy gratos con la Comisión y de manera personal me
+siento complacido, agradecido y expectante. Yo decía que durante mis 18 meses de secuestro
+había aprendido a tener paciencia y a esperar con fe y con mucha fortaleza, así me declaré el día
+del debate, el viernes 27 de abril y así me declaro, hoy con mucha fortaleza, con mucha fe,
+esperando que el INVIAS y el Gobierno Nacional, con el acompañamiento y la veeduría de esta
+Comisión y desde luego con lo que podamos hacer, podamos obtener las respuestas para la
+solución de la problemática del departamento del Huila, de manera especial este caso que nos
+ocupa.
+Por eso colegas, señores Representantes de la Comisión Sexta, señor Presidente le agradezco
+inmensamente doctor José Edilberto Caicedo, al señor Vicepresidente doctor Diego Naranjo, a los
+señores Secretario y Subsecretario, al señor, director de la oficina de grabación, a la Cámara de
+Representantes en su oficina de prensa, la cual hizo un cubrimiento y en próximos comenzará a
+emitir en diferido el debate, como también hará énfasis en los diferentes noticieros de la Cámara,
+a todas las emisoras, periódicos, diarios y medios de televisión del departamento del Huila que nos
+acompañaron, pero de manera especial el cubrimiento de la emisora HJKK que con su, director de
+noticias pudieron transmitir en directo, el cual en ese momento no sabíamos allá, yo por lo menos
+no sabía que con su, director Norberto Cataño estaban transmitiendo en directo y HJKK es la
+emisora más escuchada y de mayor cubrimiento en el departamento del Huila, lo cual desde luego
+a través de la presidencia de la Comisión, de la Secretaría y el suscrito, estamos enviando unos
+reconocimientos de gratitud por escrito a los medios de comunicación por el cubrimiento que nos
+hizo, a todos ustedes Dios le pague y ojalá que en las sesiones que programen los Honorables
+Representantes, en las siguientes sesiones descentralizadas podamos convocarnos todos los 18
+integrantes. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:42:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con mucho gusto doctor Silvio Vásquez, la Comisión Sexta se siente congratulada de
+haberlo acompañado, me parece que usted preparó un debate muy serio, muy coherente, tuvo el
+respaldo también de su bancada del departamento, hay que agradecerle a los Senadores que
+participaron también y e los Representantes que lo acompañaron en este ejercicio. Me parece que
+el departamento del Huila dio un ejemplo de unidad alrededor de la solución de sus problemas y
+sin ningún tipo de celos reconocieron su trabajo, su convocatoria, su liderazgo y el liderazgo de
+esta Comisión, creo que ese es un ejemplo de lo que debemos seguir haciendo en los
+departamentos, descentralizando las labores de esta Comisión pero también llevando allá de
+frente a los funcionarios para que le respondan a la gente y se comprometan como lo hizo el
+director de INVIAS.
+Debo decirle Honorable Representante que para el 12 de junio me parecería importante que usted
+organice su agenda con los compromisos que se adquirieron con el, director de INVIAS y que
+puedan venir algunos concejales y funcionarios o diputados que me manifestaron al final de
+evento que querían participar. Entonces me parece importante que usted lidere ese tema y que si
+el 12 de junio usted considera que tiene que venir la dirigencia del departamento para hacerle
+seguimiento a ese gran problema, que además es una situación absolutamente crítica, yo quedé
+aterrado de ver la situación de crítica y además otros temas que pusieron sobre la mesa que me
+parece que hay que abordar, el tema de EMGESA, eso me parece muy delicado, yo lo invitaría a
+usted que se ponga al frente de esa sesión de control político el 12 de junio, que me parece que es
+pertinente por parte de esta Comisión y es hacerle seguimiento a los compromisos del Gobierno
+Nacional, allá se comprometió la presidencia y la Comisión Sexta se comprometió a hacerle
+seguimiento a los compromisos que adquiere el, director de INVIAS con el Huila en esa materia y
+creo que usted que lideró eso, pues debe seguirlo haciendo y el 12 de junio tener aquí a los
+funcionarios que usted considere pertinentes para que puedan también enterarse del control
+político en esta materia. ¿Listo?.</p>
+						</speech>
+						<speech by="#hr-silvio-vásquez-villanueva" startTime="2011-05-08T10:42:10">
+							<from>H.R. Silvio Vásquez Villanueva</from>
+							<p>Si señor Presidente, le agradezco, acepto su insinuación, su
+invitación, desde luego quiero disculparme públicamente, olvidé mis colegas congresistas del
+Huila, agradecer la presencia durante todo el debate del Senador Rodrigo Villalba, el Senador
+Hernán Francisco Andrade Serrano y el Senador Carlos Ramiro Chavarro, igualmente los
+Representantes Consuelo González de Perdomo y Carlos Augusto Rojas Ortiz. Desde luego que me
+llamó la Representante Consuelo González para excusarse por la no presencia de ella ante una
+situación de salud y también la manifestación del doctor Eduardo Gechem de no haber asistido,
+pero esperamos y tengo la seguridad que la solidaridad es total. Vamos a preparar esa reunión de
+seguimiento para el 12 de junio y con mucho gusto me pongo a liderar ese proceso señor
+Presidente. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:42:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Tiene el uso de la palabra el Representante Didier Tavera.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2011-05-08T10:42:30">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Gracias señor Presidente.
+Yo me excusé con la asistencia al Huila, teníamos programado para el día jueves, pero si quiero
+llamar la atención de la Mesa Directiva, de la actual de y de las futuras y es que nosotros no
+podemos dejar en vano las actuaciones y los debates que aquí se dan. Nosotros hablamos de la
+concesión Los Comuneros, Zipaquirá - Palenque, cuanto tiempo le dijimos al, director del INCO, a
+la, directora, cuanto tiempo se le dijo al de la ANI. Concesión que se terminó y fue una concesión
+que se terminó, aquí en aras de la planificación pasó mas de año y medio y hoy vemos que esa
+concesión ni siquiera está estructurada, vamos a ver cuanto nos vamos a demorar en estructurar
+esa concesión que vincula a los departamentos de Cundinamarca, de Boyacá, de Santander y que
+es la troncal central de Bogotá a La Costa Atlántica.
+Es decir, que nosotros realmente tenemos que hacerle un seguimiento frente a las diferentes
+excusas y a los informes que se nos presentan aquí, porque los señor Ministros se dedicaron fue
+simplemente a traernos una respuesta de un cuestionario, mas simplemente con evasivas de que
+es que vamos a estudiar, vamos a estructurar, vamos a analizar y en esa estructuración, en ese
+análisis se pasó el tiempo, se quedaron esas concesiones nuevas sin adjudicar, estas vías sin
+mantenimiento, como también se advirtió de la vía Barrancabermeja - Bucaramanga y es lo que
+estamos viendo, una colcha de retazos aquí.
+Hoy tenemos unas vías allí sin atender como es la vía Bucaramanga - San Alberto, como es la vía
+Bucaramanga - Barrancabermeja por La Fortuna y encontramos que hay 300.000 millones de
+pesos que están a través del Fondo de Adaptación, que antes los tenía Colombia Humanitaria y
+que ahora los van a tener el INVIAS, que se había acordado en los decretos que se lanzaron como
+consecuencia de la ola invernal, donde a las mismas personas o a los mismos contratistas que
+tenían las obras allí se les iba a facilitar para que siguieran teniendo este mantenimiento periódico
+en estas vías y vemos que no ha ocurrido.
+Entonces, señor Presidente la solicitud si es que cada vez que se haga un debate se levante un
+acta, se haga una constancia de las respuestas, de los compromisos y que nosotros
+periódicamente, trimestralmente, vayamos realmente, antes de solicitar un nuevo debate que
+primero se le haga un debate frente a las respuestas y frente a las acciones que tomaron los
+Ministros del debate que se dio trimestralmente, porque ese es la única forma y si no vamos a
+terminar que dos años de denuncias, dos años de debates y vemos que las respuestas fueron
+evasivas y finalmente no llegamos a nada. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:42:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En esa línea varias cosas; primera, es importante que terminemos, me incluyo yo,
+de elaborar el cuestionario para la gerente de desarrollo de gestión contractual de la ANI y para el
+presidente de la ANI, con los temas de la concesión Zipaquirá - Palenque y concesión BTS, muy
+importante, y por otro lado adicionalmente el tema de autopistas de la montaña que el
+Representante Jhon Jairo Roldán lo ha planteado y recogemos eso en una sesión que estaba
+prevista para el 15 pero que el presidente de la ANI está fuera del país y llega hasta el 17, vamos a
+fijar de una vez una fecha para la siguiente semana. Ese es un debate muy importante que hay que
+darle, yo les pedí inclusive a los Honorables Representantes que quisieran adicionar la proposición
+con los temas de concesiones lo hicieran. Creo que el único que presentó adición a eso, al menos
+verbalmente aquí fue el Representante Jairo Ortega Samboni para la audiencia del 2ª en Palmira,
+eso es muy importante organizarlo, ahora lo hacemos extra sesión, pero muy importante
+determinar los funcionarios que están citados allá y el contenido en esa materia para que
+tengamos también claridad.
+Recordarles que esa semana está el Congreso Nacional de ASOTRANS en Cali, que está invitada la
+Comisión Sexta, se van a tocar temas muy importantes del proyecto de ley del Código de Tránsito,
+me parece importante la participación de la Comisión Sexta en ese congreso también en la ciudad
+de Cali.
+Entonces, Representante para que recojamos ese tema, hay que pedirle a la gerente de gestión
+contractual y al presidente de la ANI que presenten un informe de cómo se terminó la concesión
+Zipaquirá - Palenque y cuál es el proyecto que se tiene previsto de aquí hacia adelante, si lo va a
+seguir manejando el INVIAS o si hay una concesión nueva o qué agenda se tiene para la
+adjudicación de esa nueva concesión de Zipaquirá que según lo tienen previsto van a extenderla
+hasta el departamento de Norte de Santander.
+Representante Didier Tavera tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2011-05-08T10:42:50">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Presidente, sobre el mismo tema, y solicitarle la información al
+señor Ministro de Transporte, al actual o al que llegue. Porque es que mire, casos como que nos
+enteramos que hay un segundo paquete de adjudicaciones por parte del Ministerio de Transporte,
+en el cual hay una vía como lo es Barbosa - Tunja, donde se le hace una intervención de más de
+cien mil millones de pesos y queremos saber en qué sentido se le va a hacer esa intervención,
+porque allí lo que se ha hablado es que hay un compromiso del Presidente, de Bogotá -
+Bucaramanga en doble calzada y si bien es cierto que esta vía no le corresponde a la vía Zipaquirá
+- Palenque, si es importante que ya que se van a invertir cien millones de pesos estructuremos y
+de una vez puede quedar estructurada la doble calzada como va hoy de Bogotá - Tunja - Duitama,
+y no que invirtamos masa de cien mil millones de pesos simplemente en unos reparcheos que son
+muy necesarios, cuando podríamos tener una solución definitiva, estructurar la doble calzada
+Barbosa - Tunja que es necesaria. Y yo sé que ya está dentro del segundo paquete de
+adjudicaciones o de licitaciones que va a sacar el INVIAS estos más de cien mil millones de pesos
+para la vía Tunja - Barbosa.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:43:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>¿El INVIAS o la ANI?.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2011-05-08T10:43:10">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>El INVIAS porque Tunja - Barbosa no está concesionado.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:43:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, creo que con esto terminaríamos el orden del día, creo que hay unas
+proposiciones, quiero hacer énfasis en el proyecto de convivencia escolar que me parece que es
+determinante y que invitaría a los Honorables Representantes a que le pongamos todo el acento,
+toda la atención y todo el interés, porque el país está necesitando por supuesto que
+establezcamos un marco de comportamiento ciudadano en las instituciones educativas de todo el
+país.
+Continuemos con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:43:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Gracias señor Presidente. Para informar que hay dos proposiciones, una para hacer
+un foro con relación al proyecto de ley 201.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:43:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Lea la proposición como viene por favor.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:43:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Cítese a sesión ordinaria de esta Comisión, audiencia pública, a las entidades
+relacionadas con el proyecto de ley 201 de 2012 Cámara “por el cual se crea el sistema nacional
+de convivencia escolar y formación para el ejercicio de los derechos humanos, sexuales y
+reproductivo y mitigación de la violencia escolar”, para que establezcan su punto de vista frente al
+contenido del proyecto.
+Firmado Honorable Representante Juana Carolina Londoño Jaramillo, departamento de Caldas.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:44:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración la proposición que acaba de ser leída, sigue en consideración,
+anuncio que se va a cerrar, queda cerrada. ¿La aprueba la Comisión Sexta?.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:44:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobada señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:44:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Léase la otra proposición por favor señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:44:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Cítese a debate de control político al doctor Mauricio Cárdenas Santamaría, Ministro
+de Minas y Energía y al señor, director de la CREG, Comisión de Regulación de Energía y Gas, doctor
+Javier Augusto Díaz Velasco, para que absuelvan el cuestionario adjunto y expliquen a la Comisión
+Sexta el desequilibrio que se presenta en las tarifas de energía eléctrica.
+Colombia cuenta con un mercado energético liberalizado desde 1995, el sector se caracteriza por
+un marco que desagrupa generación, transmisión, distribución y comercialización, actualmente se
+presenta un gran debate a cerca de los precios, subsidios y tarifas de energía eléctrica, no
+únicamente desde el punto de vista económico sino también social y político.
+La honorable Representante anexa el cuestionario, firmado Honorable Representante Juana
+Carolina Londoño Jaramillo, departamento de Caldas.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:44:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración la proposición que acaba de ser leída y presentada por la
+Representante Juana Carolina Londoño, sigue en consideración. Tiene la palabra el Representante
+Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-05-08T10:44:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias señor Presidente.
+Me sumo a esa proposición, porque hace algunas sesiones anteriores propuse reabrir nuevamente
+el debate a la CREG, por unas resoluciones que había expedido para que hicieran sugerencias y
+que se iban a aplicar posteriormente, no se tuvieron en cuenta, una de esas era que las pérdida de
+energía iban a ser cobradas a todos los usuarios, las pérdidas por ejemplo cuando hay voladuras,
+las pérdidas de energía cuando ellos no pueden cobrar o cuando se cuelgan como se dice
+popularmente y eso nos iba a ser cobrado a todos los usuarios. Yo creo que en esto parece ser que
+la CREG está fallando y me sumo en un cuestionario aditivo para esa fecha.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:45:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien Honorable Representante, les recuerdo que una de las actividades propias
+de esta Comisión es el tema de los servicios públicos y viene creería yo, de manera pertinente esta
+citación, no solamente por ellos, sino que hay otros temas como el del gas domiciliario que
+también está en la mira del Gobierno Nacional de generar un incremento tarifario. Me parece que
+en ese sentido los Representantes que se adhieran a esta proposición y que consideren que haya
+nuevos cuestionarios aditivos, pues me parece que hay que hacerlo a la mayor brevedad posible.
+Tiene el uso de la palabra el representante Jairo Quintero del departamento de Caldas.</p>
+						</speech>
+						<speech by="#hr-jairo-quintero-trujillo" startTime="2011-05-08T10:45:10">
+							<from>H.R. Jairo Quintero Trujillo</from>
+							<p>Gracias Presidente. Yo creo que es un foro o es un debate de control
+político muy importante, en el departamento de Caldas se acaba de presentar un incremento en
+las tarifas del gas domiciliario de un 100% y esa es la queja que ustedes tal vez han visto en los
+periódicos y han visto en noticias de prensa, donde las tarifas no han podido darle una explicación
+lógica a la comunidad y yo creo que es muy importante que nos den claridad en todo este tema de
+servicios públicos, cómo se cobran las tarifas. Me adhiero a esta proposición, yo creo que es
+fundamental y esta Comisión es la pertinente para el caso del debate de control político.
+Muchas gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:45:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muchas gracias Representante Jairo Quintero. Le quiero proponer a la Comisión y a
+la Representante Juana Carolina Londoño a quien designé como ponente del proyecto escolar para
+que hagamos la audiencia como lo establece la Ley 5ª para el próximo miércoles, que estaba
+citado el presidente de la ANI pero apenas ese día está llegando al país, me parece que tenemos
+ocho días, el Ministerio está muy interesado en el tema, entonces creería yo que podemos de una
+vez dejarlo notificado por estrado a los Honorables Representantes, me parece vital la
+participación de ojalá la totalidad de los miembros de esta Comisión, ese es un tema trascendental
+y ese un tema absolutamente crítico, uno sabe que la norma no resuelve un problema de conflicto
+pero si crea las condiciones para que se pueda dar una política pública en esa materia y se
+establezcan unos lineamientos por parte del Gobierno Nacional, para ello los quiero invitar a los
+Honorables Representantes a que inviten a sus secretarios de educación de los departamentos,
+me parece que es un tema de alta incidencia en la academia, invitaría a que cada uno de los
+congresistas convoquen a los secretarios de educación de cada uno de los departamentos, a los
+secretarios de desarrollo social para que también participen y algunos rectores, lo que sea, en mi
+caso voy a invitar a los rectores de Cundinamarca y a los secretarios de educación que me parece
+muy importante que se apropien de este tema y que ellos también aporten, para que ese proyecto
+interprete realmente la necesidad en ese tema.
+El miércoles 16 a partir de las nueve de la mañana, bien sea aquí, si hay una convocatoria mayor
+podemos pedir el Salón Boyacá, no hay ningún problema y hacemos un evento serio, traemos a la
+Ministra, al Viceministro o lo que sea de educación media, para impulsar este tema.
+Bueno, para terminar debo notificarles dos o tres cosas, ya fue aprobada en plenaria la
+autorización para la sesión de la Comisión Sexta por fuera del recinto, muy importante porque no
+lo habíamos hecho, la primera salida lo hicimos a Neiva y nos parece que es muy importante, está
+autorizada la sesión en Pereira, vamos a estar en La Virginia.
+Por qué no le cuenta a los Honorables Representantes, doctor Diego Alberto Naranjo, es el jueves
+17 de mayo. Representante Diego Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2011-05-08T10:45:30">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Gracias señor Presidente.
+Rápidamente, se había acordado por parte de la Comisión Sexta el próximo 17 de mayo tener una
+sesión en La Virginia, reamente no es en Pereira, sino en La Virginia que queda a 10 o 15 minutos
+de Pereira.
+Básicamente hay un tema trascendental que tiene que ver con la ola invernal, ustedes saben que
+el municipio de La Virginia queda sobre la margen del río Cauca y es un municipio que se inunda
+permanentemente y ha habido algunas dificultades en temas de reubicación, de asignación de
+lotes para nuevas viviendas y entonces el tema central va a ser la ola invernal, va a estar invitado
+el doctor Iván Márquez como, director nacional de Atención y Prevención de Desastres, además
+queremos que esté el Ministro de Vivienda, esperamos que sea el doctor Germán Vargas, además
+vamos a citar al, director de INVIAS para que ahí también se toque la problemática departamental,
+Risaralda es un departamento muy pequeño y esa es una sesión que nos puede ayudar a resolver
+problemas de todo el departamento.
+Entonces, esperamos primero contar con su asistencia, que nos confirmen su asistencia, todavía
+estamos entregando los cuestionarios, hasta hoy hay plazo, si alguno de ustedes quiere hacer
+algún aporte con el cuestionario, si no pues necesitamos básicamente su presencia y su
+acompañamiento en La Virginia el próximo jueves y la idea es que podamos hacer una sesión de la
+Comisión de manera productiva como lo fue en Neiva. Yo si quiero aprovechar señor Presidente
+para agradecerle al doctor Silvio Vásquez, además de felicitarlo por su excelente exposición allá y
+por su excelente agenda en la problemática del Huila, agradecerle su atención, su generosidad y
+sobre todo su acogida en su ciudad, doctor Silvio Vásquez muchas gracias, realmente nos sentimos
+muy bien atendidos, esperamos no ser inferiores en el municipio de La Virginia, esperamos contar
+con la compañía de todos ustedes para que puedan ir al Eje Cafetero, básicamente al municipio de
+La Virginia que vuelvo y les cuento, es un municipio atípico dentro de lo que es el Eje Cafetero,
+porque es un municipio ribereño al margen del río Cauca, es un municipio de tierra caliente, para
+que se vayan fresquitos y esperamos señor Presidente que la Mesa Directiva y todos los colegas
+podamos estar allá, estamos también en compañía del doctor Diego Patiño haciendo esta
+invitación, el presidente de la Asamblea también nos ayudó, estamos construyendo la agenda y yo
+pienso que de aquí a mañana se les entregará una agenda mas o menos con itinerario.
+Me parece Presidente que hay que hacer un esfuerzo esta tarde, que lo podemos hacer, en
+plenaria ya se aprobó que la sesión se dirija hacia allá pero hay todavía alguna dificultad en el
+tema económico con los tiquetes, me parece que es pertinente que esta tarde podamos hacer esa
+gestión para que se garanticen los tiquetes y todos los colegas puedan viajar. Es en ese sentido,
+muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:45:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante.
+Una vez sea autorizado por la plenaria el desplazamiento, se debe garantizar los tiquetes, ese es el
+objeto de que llegue a la plenaria la solicitud, igual vamos a hacerlo con la Secretaría General de la
+Cámara y sobre todo con la Dirección AdMinistrativa. Digamos en ese sentido Honorables
+Representantes, creo que es válido que hagamos una agenda lo suficientemente productiva, me
+parece muy importante que si vamos a la provincia toquemos la mayoría de temas, muy
+importante que se toque el tema de la ola invernal, muy importante que se toque el tema, si es
+necesario invitar al doctor Carlos Iván Márquez, me parece que deberíamos hacerlo y hacerlo
+ahora por la presidencia y la vicepresidencia, aquí con la secretaría, para también invitarlo a que
+nos acompañe, hacer un balance general, ojalá que esté el gobernador, darle a esta audiencia
+todo el peso y la importancia que merece, porque es nuestra responsabilidad además, otro de los
+temas que maneja la Comisión Sexta es todo el tema de emergencias y desastres. Eso para el día
+jueves.
+Tiene el uso de la palabra el Representante Jairo Ortega.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-05-08T10:45:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias Presidente.
+Bueno, indispensable la asistencia y el acompañamiento de los compañeros, nos faltó uno allá en
+Neiva, aprovechar para agradecerle al doctor Silvio Vásquez, porque en realidad la presencia
+nuestra eso da un realce, ese acompañamiento de nosotros, eso impacta, de respaldo a esa
+gestión, a ese debate que se iba a hacer allá. Desafortunadamente el Ministro no fue, que aspiro
+que nos vaya bien allá en Pereira, haré posible si Dios lo permite, allá estaré, mínimo deberíamos
+de tratar que fueran nueve compañeros, ojalá fueran los 18, 17, 15, pero mínimo 9 o 10 para que
+haya la mayoría, a Pereira, a Palmira y a donde saliéramos.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:46:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Esa es una sesión de la Comisión, por lo tanto deben estar todos.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2011-05-08T10:46:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Porque si vamos a estar cuatro o cinco pues no hay sesión. Entonces
+deberíamos ir compañeros y así en lo sucesivo, por lo menos en Palmira tampoco voy a quedarme
+atrás, el tema debe asistir el Ministro de Transporte, si está el actual bien y si no el nuevo, INVIAS y
+el, director de la ANI. Esos tres son los indispensables para el cuestionario que le he enviado al
+Ministerio de Transporte de más de 20 preguntas que tienen que ver con la concesión de la malla
+vial del Valle y con esa carretera Buga - Loboguerrero - Buenaventura que es del orden nacional,
+que nos la están incluyendo en ese contrato de concesión para que nosotros la paguemos, los
+vallecaucanos, donde consideramos que ya hemos pagado estas obras que se han hecho allá y nos
+la siguen cobrando. Ese es un debate fuerte, hay un buen ambiente, una buena asistencia pero
+requerimos de la presencia de ustedes compañeros. Gracias Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:46:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Me parece muy importante la preparación de esa audiencia, creo que es importante
+notificarle aquí a los televidentes y al país que entonces en Pereira estará la Comisión Sexta el
+jueves 17, en el municipio de La Virginia que queda dentro del área metropolitana, estaremos
+atendido por los Diegos, el Vicepresidente de la Comisión Sexta Diego Naranjo y el expresidente de
+esta Comisión Diego Patiño.
+El viernes 18 estaremos en Medellín, vamos a tener una audiencia en la Universidad de Medellín
+con el tema del turismo, notifico aquí al coordinador ponente del proyecto de la reforma a la Ley
+de Turismo, doctor Didier Tavera para que también preparemos, nosotros que somos ponentes
+ese debate. Secretario, hay que mirar a ver como ratificamos una gran convocatoria, hay que
+coordinar ese tema logístico a través de la secretaría.
+El jueves 24 está en el municipio de Palmira, para que los habitantes del departamento del Valle
+del Cauca y del municipio de Palmira tengan claro que vamos a estar en el departamento del Valle
+y en Palmira invitados por iniciativa del Representante Jairo Ortega Samboni tratando todos los
+temas que tienen que ver con las concesiones viales y otros que se consideren pertinentes en la
+audiencia que ha sido aprobada por la plenaria de la Cámara de Representantes.
+El viernes primero de junio está confirmado el tema de Sogamoso, ahí tenemos una intersección
+con el tema de Zipaquirá, que el Viceministro me propuso Zipaquirá para el primero de junio pero
+ya estaba Sogamoso y creo que ya el Represente de Boyacá Luis Guillermo Barrera tiene
+coordinado ese tema, con Transporte, TIC y Educación. De manera pues que hay que dejarlo allá.
+Representante Jairo Quintero tiene el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jairo-quintero-trujillo" startTime="2011-05-08T10:46:30">
+							<from>H.R. Jairo Quintero Trujillo</from>
+							<p>A ver, yo creo que es importante Presidente, programar estas salidas
+los jueves en lo posible, porque uno ya tiene compromisos, uno ya cuenta con los viernes y los
+lunes en nuestras regiones y eso hace que de pronto la asistencia no sea lo mejor, yo le propongo;
+lo de Medellín es importante porque se hace conexión de Pereira a Medellín, bueno vaya y venga,
+pero si se sigue programando los viernes podemos caer en que haya una inasistencia y lo que
+queremos es que haya una asistencia lo más numerosa de toda la Comisión.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:46:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Me parece entrada en razón su apreciación porque es más fácil un jueves que
+hagamos conexión aquí de las sesiones que un viernes. Vamos a revisar el tema del viernes,
+primero con el Representante Luis Guillermo Barrera, lo demás está también programado el siete
+de junio en el departamento de Santander también para el proyecto de ley de turismo, el cual está
+presentado por el Senador Aguilera y está la coordinación de la ponencia de ese proyecto que
+también es muy importante, por el Representante de Santander Didier Tavera. Tiene el uso de la
+palabra Representante.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2011-05-08T10:46:50">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Presidente, en Bucaramanga el 7 de junio que es jueves, sería
+el tema de turismo y sería también el tema de transporte masivo, esos dos temas incluidos, que
+tenemos allá una crisis en Santander y tocaríamos, ya que tenemos al Ministro de Transporte, el
+tema de infraestructura, pero para hablarle, hay un viernes especial que el Representante Luis
+Guillermo Barrera me estaba comentando que no se puede cambiar, es el del primero de junio,
+porque ya hay una infraestructura que él tiene allí establecida para esa sesión y ya está
+confirmada la, Ministra de Educación, está confirmado el Ministro de las TICS, está confirmado el
+director del INVIAS y el nuevo Ministro de Transporte que llegue, para ese viernes.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:47:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Y no solamente eso, sino la atención del Honorable Representante para la Comisión
+Sexta.</p>
+						</speech>
+						<speech by="#hr-didier-alberto-tavera-amado" startTime="2011-05-08T10:47:10">
+							<from>H.R. Didier Alberto Tavera Amado</from>
+							<p>Toda la parafernalia para esta sesión, entonces ese viernes ya
+no se puede cambiar, igual lo del tema de Medellín, nosotros saldríamos el jueves, iríamos el
+jueves a Pereira y de Pereira volaríamos el viernes a Medellín, si hay vuelo constantemente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:47:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, yo invitaría a los Representantes a que el primero de junio que aunque
+sea viernes podamos desplazarnos hasta Sogamoso, además yo le complementaría Honorable
+Representante Didier Tavera, al tema de Sogamoso, me parece a mí y Secretario, por favor
+citemos al presidente de la ANI a esa reunión en Sogamoso, porque es que tenemos la concesión
+Bogotá - Tunja - Sogamoso y nos parece pertinente que también el presidente de la ANI haga
+presencia en esta reunión. Tiene la palabra el Honorable Representante Miguel Ángel Pinto.</p>
+						</speech>
+						<speech by="#hr-miguel-ángel-pinto-hernández" startTime="2011-05-08T10:47:30">
+							<from>H.R. Miguel Ángel Pinto Hernández</from>
+							<p>Presidente, para adicionar una cosita con el tema de
+Bucaramanga, que me parece bien importante que pudiéramos citar también a los alcaldes del
+área metropolitana de Bucaramanga, los cuatro alcaldes que hacen parte, porque vamos a tocar el
+tema de Metrolínea ya que va a estar el Ministro de Transporte o quien haga sus veces en su
+momento, y que también de igual manera se cite al gerente de Metrolínea para que podamos
+hacer un debate serio y estén todas las partes que tienen que ver con esta problemática, toda vez
+que aquí el Ministro cuando vino a la Comisión nos dijo que era un tema de los alcaldes, que el
+Gobierno Nacional simplemente se limitaba a enviar los recursos a los municipios, cuando el
+Gobierno Nacional es en su parte el aportante mayoritario.
+Entonces, es bueno que estén todas las partes allá y citemos a los alcaldes y al gerente de
+Metrolínea y por supuesto que se pueda hacer un debate mucho más serio.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:47:40">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con todo gusto Honorable Representante, me hace usted recordar un tema que es
+muy importante, en el país prácticamente los sistemas integrados de transporte masivo están
+entrando en crisis; haría una sugerencia muy especial al Representante Jairo Ortega Samboni, a los
+Representantes Diego Patiño y Diego Naranjo, para que incluyamos una evaluación a los sistemas
+masivos de transporte, me parece que el tema de Bucaramanga es delicado, el tema de Pereira es
+grave y complementando la proposición que presentara aquí el Representante Wilson Gómez,
+para hacer una evaluación del sistema Transmilenio en Bogotá y adicionado por mí con el tema de
+Bosa - Soacha, me parece que es determinante que esta Comisión Sexta haga una evaluación con
+Ministro y con Viceministro en primera línea acá, sobre el funcionamiento de los sistemas de
+transporte masivo en el país. Cartagena ni siquiera ha arrancado, está en absoluta crisis, lo único
+que diría uno que funciona es Medellín, y Cali tiene dificultades, me parece a mi que hay que
+invitar al gerente del MIO a que también vaya al municipio de Palmira y hagamos una evaluación,
+no importa que no estemos en Cali, pero que también participe dentro de esa audiencia, por favor
+Secretario tome nota de eso, porque creo que hay que aprovechar al máximo la presencia de la
+Comisión Sexta en estos temas que le competen a la misma y por supuesto le solicito Secretario,
+que por secretaria le hagamos una invitación a los alcaldes de la zona metropolitana de
+Bucaramanga para que nos acompañen el 7 de junio a la audiencia pública sobre el proyecto de
+turismo, pero que además de eso adicionemos esa agenda en el tema de transporte, me parece
+importante también invitar o citar al gerente o presidente de la ANI para que nos hable sobre el
+tema de la concesión Zipaquirá - Bucaramanga y que apretemos en esos temas los cumplimientos
+del Gobierno Nacional.
+Continuemos señor Secretario con el orden del día, ya fueron aprobadas las dos proposiciones,
+hay que hacer agenda la citación al Ministro de Minas y también por supuesto con invitación al
+alcalde de Bogotá, para el debate que está pendiente por parte de los Representantes del tema de
+Transmilenio en Bogotá.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-05-08T10:47:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente, con una recomendación señor
+Presidente, hacerle ver a los Honorables Representantes que estamos pendientes las ponencias
+para agendar y discutir los proyectos que fueron repartidos y asignados.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-05-08T10:48:00">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Muy bien, entonces mañana citación para el debate de los proyectos que fueron
+anunciados en el día de hoy y el próximo miércoles citación para la audiencia del proyecto de ley
+201 para el tema de convivencia escolar.
+Se levanta la sesión siendo las once y treinta y cuatro minutos de la mañana (11:34 a.m.), y se cita
+para mañana a partir de las diez de la mañana.
+JOSE EDILBERTO CAICEDO SASTOQUE                      DIEGO ALBERTO NARANJO ESCOBAR
+Presidente                                          Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO                          JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                                            Subsecretario
+Asdrúbal Oviedo Cáceres</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

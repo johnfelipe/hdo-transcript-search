@@ -1,0 +1,549 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-arias-castillo" id="hr-wilson-arias-castillo" showAs="H.R. Wilson Arias Castillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-ciro-antonio-rodríguez-pinzón" id="hr-ciro-antonio-rodríguez-pinzón" showAs="H.R. Ciro Antonio Rodríguez Pinzón"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-quintero-trujillo" id="hr-jairo-quintero-trujillo" showAs="H.R. Jairo Quintero Trujillo"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jairo-ortega-samboni" id="hr-jairo-ortega-samboni" showAs="H.R. Jairo Ortega Samboni"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/dr-ariel-armel-arenas" id="dr-ariel-armel-arenas" showAs="Dr. Ariel Armel Arenas"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-didier-alberto-tavera-amado" id="hr-didier-alberto-tavera-amado" showAs="H.R. Didier Alberto Tavera Amado"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-juana-carolina-londoño-jaramillo" id="hr-juana-carolina-londoño-jaramillo" showAs="H.R. Juana Carolina Londoño Jaramillo"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="7875-acta-112-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2014</heading>
+				<debateSection>
+					<heading>Mayo</heading>
+					<debateSection>
+						<heading>ACTA NO. 112 / 2014-05-20</heading>
+						<speech by="" startTime="2014-05-20T10:45:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2013 - 2014
+ACTA No 112
+(Bogotá, D.C., 20 de Mayo de 2014)
+A las diez y cuarenta y cinco minutos de la mañana (10:45 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante JAIRO
+ORTEGA SAMBONI ordena llamar a lista y contestan los siguientes
+Honorables Representantes:
+Agudelo Zapata Iván Darío
+Arias Castillo Wilson Neber
+Giraldo Arboleda Atilano Alonso
+Londoño Jaramillo Juana Carolina
+Ortega Samboni Jairo
+Pinto Hernández Miguel Angel
+Rodríguez Pinzón Ciro Antonio
+Tavera Amado Didier Alberto
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Barrera Gutiérrez Luís Guillermo
+Caicedo Sastoque José Edilberto
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Quintero Trujillo Jairo
+Roldán Avendaño Jhon Jairo
+Con excusa se encuentran los Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Patiño Amariles Diego</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:45:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum decisorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:45:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Con quórum decisorio señor Secretario proceda a leer el orden del día
+para el día 20 de mayo de 2014.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:45:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2013 al 20 de junio de 2014
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2014-05-20T10:45:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 20 de mayo de 2014
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Discusión y Votación de Ponencias para Primer Debate al siguiente proyecto de ley:
+1. Proyecto de Ley No.076 de 2013 Cámara, “POR MEDIO DEL CUAL SE
+REGLAMENTA LA DESTINACIÓN DE LA MAQUINARIA PESADA
+INCAUTADA EN ACTIVIDADES DE EXPLORACIÓN O EXPLOTACIÓN
+DE MINERALES SIN LAS AUTORIZACIONES Y EXIGENCIAS
+PREVISTAS EN LA LEY”.
+Autor: H.R. EDUARDO AGATON DIAZGRANADOS ABADÍA
+Ponente: H.R. ATILANO ALONSO GIRALDO ARBOLEDA
+Publicación: Gaceta P.L. No. 655-13 - P.P.D. Cámara No. 139-14
+III.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:45:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JAIRO ORTEGA SAMBONI DIDIER ALBERTO TAVERA AMADO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:46:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente antes de someter a consideración el orden del día
+para esta sesión me permito informarle que hay una proposición de
+aplazamiento del proyecto antes mencionado, someta a consideración
+el orden del día señor Presidente y le damos lectura a la proposición
+que dice:
+Proposición:
+Bogotá, 20 de mayo de 2014
+Como ponente coordinar me permito solicitar el aplazamiento de la
+discusión para primer debate del proyecto de ley No.076 de 2013 “por
+medio del cual se reglamenta la destinación de la maquinaria pesada
+incautada en actividades de exploración, explotación de minerales sin
+las autorizaciones y exigencias previstas en la ley”.
+Atentamente,
+Fdo. Atilano Alonso Arboleda
+Ponente
+Señor Presidente someta a consideración el orden del día con la
+proposición presentada por el ponente del proyecto en mención.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:46:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se somete en consideración el orden del día con la proposición del
+ponente coordinador de solicitar el aplazamiento de la discusión del
+proyecto que está en el orden del día, se abre la discusión, continua la
+discusión, aviso que va a cerrarse ¿la aprueban?</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:46:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobada señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:46:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Continúe con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:46:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Vamos a anunciar los proyectos para la próxima sesión señor
+Presidente, así mismo unos derechos de petición donde solicitan unas
+audiencias de control político para que quede insertado en el acta.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:46:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el Honorable Representante Ciro Antonio Rodríguez
+Pinzón.</p>
+						</speech>
+						<speech by="#hr-ciro-antonio-rodríguez-pinzón" startTime="2014-05-20T10:47:00">
+							<from>H.R. Ciro Antonio Rodríguez Pinzón</from>
+							<p>Muchas gracias señor Presidente, era para tocar varios temas de
+importancia para nuestra Comisión.
+Primero, creo que solidarizarnos con las víctimas del bus que se
+quemo en el municipio de Fundación donde murieron más de 30 niños
+y por lo tanto pedir que se reglamente lo más inmediatamente posible
+la ley de seguridad vial cuyo objetivo se trazo la Comisión, tiene que
+ver precisamente con evitar este tipo de accidentes.
+Y el otro punto que quisiera tratar señor Presidente, decirle que en la
+Comisión hay unos debates muy importantes que no hemos podido
+llevar a cabo y valdría la pena los pudiéramos programar para las
+próximas semanas que nos quedan de esta legislatura y primero por la
+gran trascendencia que tienen estos debates, uno que tiene que ver
+con la prórroga de los contratos de telefonía móvil celular, estos
+servicios que son de gran importancia para el desarrollo de una
+sociedad se vienen judicializando y yo creo que esto no le conviene al
+país.
+Por lo tanto, vale la pena que esta Comisión haga ese debate abonado
+a dos temas importantes en materia de servicios de la tecnología de la
+información y las comunicaciones como es el gran debate que hoy hay
+sobre la televisión abierta, una televisión abierta que el espíritu del
+legislador ha sido que sea una televisión libre, que sea una televisión
+gratuita, por lo tanto la Comisión Sexta debería tener un
+pronunciamiento al respecto.
+Y el otro debate que hay pendiente, tiene que ver en materia del
+servicio público de energía eléctrica, hoy hay una certeza casi qué
+superior al 70% que tengamos que un fenómeno del niño durante los
+meses de julio, agosto y septiembre del 2014, con las debidas
+incidencias en los meses de enero, febrero y marzo de 2015 y han
+venido subiendo las tarifas de una manera desproporcionada por lo
+tanto necesitamos que tanto la Superintendencia de Industria y
+Comercio como la Superintendencia de Servicios Públicos tengan un
+pronunciamiento en la Comisión a ver qué medidas han venido
+tomando, creo que las medidas que ha tomado el ministerio de Minas
+como el ente encargado de la política en materia de energía no son las
+más acertadas, han sido medidas que solo alivian estos grandes
+impactos, la resolución que hoy saca el ministerio de Minas lo que
+hace es suavizar estos incrementos que han tenido el servicio de
+energía eléctrica, por lo tanto hay que hacer un análisis estructural del
+sistema de energía eléctrica en nuestro país, para evitar precisamente
+que cada año estemos sufriendo las amenazas de racionamiento, o
+por el contrario teniendo una de las energías más altas de
+Latinoamérica, por eso señor Presidente yo creo que estos debates
+son de vital importancia para la Comisión y valdría la pena en los
+próximos días que nos quedan poderlos programar y llevar a cabo.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:47:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>A usted Honorable Representante Ciro Antonio Rodríguez quién ayer
+desde el claustro le enviamos un saludo muy especial a esa bancada
+conservadora que se hiciera presente, tiene el uso de la palabra el
+doctor Jairo Ortega Samboni.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:47:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Gracias señor Presidente, solidarizarnos con los familiares de la
+terrible tragedia que sucedió en el municipio de Fundación,
+departamento de Magdalena, muy triste lo que ha sucedido, pero
+hacer un llamado de atención señor Presidente y Honorables
+Representantes de pronto no ir a dar imprecisiones, si se han
+escuchado que van a investigar hasta lo último, pero lo digo como un
+transportador, muchas veces a las empresas de transporte se le sale
+de las manos cuando un vehículo ya ha sido desvinculado, pero no
+hay esa vigilancia y control por parte de la autoridades de policía de
+tránsito, esto es un llamado para la policía de tránsito porque no es
+posible como un vehículo después de dos años de estar por fuera de
+una empresa es la información que se tiene, de no tener revisión
+técnico mecánica, de estar transitando por ese lugar muchas veces,
+no haya habido ese control por parte de las autoridades de tránsito y
+transporte, ahí es donde hay que revisar, porque no solamente en
+Fundación me lo atrevería a decir, sino en todos los departamentos
+están sucediendo estas irregularidades, en el Valle por supuesto no es
+la excepción uno ve transitar muchos vehículos del servicio especial
+sin las debidas medidas de seguridad, no van a las empresas, no sé
+cómo hacen para poder transitar tranquilamente como en diciembre
+del año 2012 sucedió con el vehículo que fue rechazado por el centro
+de diagnostico de Palmira y quisieron buscar la responsabilidad en el
+centro de diagnostico de Palmira que no tenía nada que ver, lo único
+que hizo fue rechazarlo por no estar en óptimas condiciones, pero que
+si ser vino a Bogotá y nadie lo paro, nadie hizo el control, donde
+estuvo la Policía de Tránsito y ya en su regreso el señor muy orondo
+sin el permiso de la empresa, porque no tenía la empresa permiso, por
+cuanto no tenía la revisión técnico mecánica, pues pudo
+tranquilamente llegar hasta Bogotá y devolverse que fue cuando
+ocurrió terriblemente ese fatal accidente y no quiero decir porque fue
+un fatal accidente que puede suceder saliendo de cualquier ciudad
+después de viajar más de 10 horas, cualquier falla puede tener algún
+vehículo que no sea nuevo, que no debe ser si esta en óptimas
+condiciones.
+Pero ese es el llamado señor Presidente que el control y la vigilancia
+debe estar en la Policía de Carreteras que no lo hizo, ahí es donde
+deben de ir a investigar de porque un vehículo de esos que si en
+óptimas condiciones pues no tenía ese debido control por parte de la
+Policía de Carreteras.
+Y por último el próximo domingo debemos hacer un ejercicio
+democrático todos los colombianos, todos tenemos ese sagrado deber
+de ir a votar por quien tenga la mejor opción dentro de sus
+preferencias, pero por supuesto nosotros los del Partido de la U
+invitamos a todos los colombianos a que le apostemos a la paz, la paz
+no es como lo dice por aquí un pensador no hay caminos para la paz,
+la paz es el camino, el camino de todos, yo creo que ahí es donde
+debemos apostarle todos los colombianos, que el verdadero camino
+es la paz, no podemos seguir en un país en guerra y que tenemos una
+responsabilidad con todos nuestros compatriotas, con los niños que
+son el futuro de Colombia de entregarles un País, una Colombia sin
+guerra y que esa plata que se destina para la guerra por parte del
+ministerio de Defensa para más Policías, para más bombas, para más
+fusiles, para más balas, para más helicópteros, pues se destine para
+el campo, se destine para la salud, para la educación, la recreación, el
+deporte, la cultura, yo creo que esa es nuestra obligación y por eso
+saludo y le doy la bienvenida al doctor Ariel Armel Arenas, quién tiene
+un proyecto de ley que ya paso por el Senado y aspira que hoy llegue
+a esta Comisión Sexta de Cámara donde se pretende establecer la
+cátedra de la paz, porque estábamos en mora desde chicos, desde la
+primaria, secundaria y la universitaria se esté siempre dando esa
+cátedra de la paz, porque es una cultura que habíamos perdido, pero
+llegue el momento y nunca es tarde para que empecemos a engendrar
+cultura, ese cambio de la violencia, de la intolerancia por el cambio de
+la cultura y la paz.
+Entonces señor Presidente un saludo muy especial a todos los
+colombianos que hagamos ese ejercicio el próximo domingo 25 de
+mayo.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:47:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Un comentario muy importante al doctor Iván Darío Agudelo, al doctor
+Atilano Giraldo, al doctor J.J. Roldán, al doctor Ciro Rodríguez, de los
+que continúan y han manifestado su intención de seguir en la
+Comisión Sexta, mire que tema tan importante el trabajo que venía
+haciendo Diego Naranjo que no nos va a acompañar en el próximo
+periodo frente al tema del Código Nacional de Tránsito, la verdad que
+lo que acaba de ocurrir con estos angelitos de Fundación- Magdalena
+es inconcebible, también hace más de 10 años tuvimos allí los del
+colegio Agustiniano si la memoria no me falla y mire la dificultad que
+teníamos un carro sin revisión tecno mecánica, están hablando de un
+conductor sin pase y están hablando sin un seguro obligatorio, con un
+sobrecupo, se habla de más de 40 integrantes en el bus, la verdad
+tiene que haber un control necesario y hay que endurecer aún más
+estas sanciones para quienes incumplan, lo que dice el doctor Ortega
+es totalmente cierto, un carro desvinculado después de dos años, que
+hace aún prestando servicios públicos o especiales sin ninguna
+vinculación, de verdad que aquí llamamos a los organismos de control,
+la Policía y a la Fiscalía todo el rigor y todo el peso de la ley frente a
+estos infractores, porque lo que acaba de ocurrir en el país no puede
+pasar en vano y estos integrantes de la Comisión Sexta quienes han
+manifestado su intención y lo han dicho abiertamente de continuar en
+esta Comisión Sexta que tiene que trabajarse en el tema del Código
+Nacional de Tránsito y que tiene que ser una bandera importante de
+esta Comisión.
+Tiene el uso de la palabra la doctora Juana Carolina Londoño.</p>
+						</speech>
+						<speech by="#hr-juana-carolina-londoño-jaramillo" startTime="2014-05-20T10:47:40">
+							<from>H.R. Juana Carolina Londoño Jaramillo</from>
+							<p>Gracias Señor Presidente, pues yo también quiero darle la bienvenida
+a un caldense de parte de otra caldense, el doctor Ariel Armel Arenas,
+quien ha venido liderando esta ley tan hermosa de crear una nueva
+cátedra de la paz y que va de la mano con esta ley que nosotros
+apoyamos y aprobamos en la Comisión Sexta desde el año pasado la
+ley de convivencia escolar, porque es que la paz también se empieza
+desde las instituciones educativas con nuestros niños y va ir
+concordante.
+Por eso señor, Presidente de forma muy respetuosa yo quisiera pedirle
+a usted y a mis queridos compañeros que por favor aprobaran una
+sesión informal para que el señor Ariel presentara un video muy corto
+de los puntos más fundamentales de lo que consiste esta ley de la paz
+que tanto necesitamos todos los colombianos en este momento.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:47:50">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Tiene la palabra el doctor Wilson Arias Castillo.</p>
+						</speech>
+						<speech by="#hr-wilson-arias-castillo" startTime="2014-05-20T10:48:00">
+							<from>H.R. Wilson Arias Castillo</from>
+							<p>Gracias Presidente, yo me quiero referir a otra tragedia, acompañando
+la voz creo que clamorosa y unánime del Congreso de la República
+por los sucesos de los niños de Fundación, una verdadera tragedia
+que ha conmovido al país y a la cual lamentablemente con frecuencia
+no se le ha prestado toda la atención, porque el país está inmerso en
+la discusión de otra tragedia y a esa es a la que me quiero referir.
+Creo señor Presidente que resulta casi que repugnante que el país
+asista en medio de una campaña electoral o sin ella expectante y
+atónito al modo como se están enfrentando las campañas
+presidenciales que se pretenden más visibles en el país y que creo yo
+en buena hora están siendo rechazadas por la población, por los
+manifiestos hechos dolosos unos y vergonzosos otros en el modo
+como se han venido dirimiendo frente al país, esto de que la campaña
+de Juan Manuel Santos y la de Oscar Iván Zuluaga estén dirimiendo
+las controversias que deberían ser conceptuales a partir de videos
+malhadados o en otros casos de comprobada factura delincuencial
+creo que no debe pasar desapercibido frente al país.
+Quiero recordar lo siguiente, hace cerca ya casi de 20 años el país
+enfrento un hecho similar otra chuzada general, los narco casetes, un
+candidato presidencial despechado de sus resultados anteriores con
+razones o no, entrega al país narco casetes a propósito de una
+campaña electoral en la que fue perdedor y desata frente a la faz del
+país algo que yo creo que ha marcado, es decir la generación de
+jóvenes de hace más de 20 años que asiste antes a ver los narco
+casetes creo que quedo marcada como lo está marcando hoy la
+sociedad.
+Que le pedimos a la juventud en materia de decoro, de valores, de
+rectitud, cuando se discute es que los candidatos presidenciales que
+dirimen una elección como hace 20 años lo hacen con base en los
+dineros del narcotráfico y asisten expectantes durante 4 largos años
+como en esa oportunidad al proceso 8.000 donde se procesaba a las
+más altas dignidades del país.
+Presidente sucesivamente cada cuatrienio trae su escándalo, cuánto
+más resiste esta sociedad y hoy nos dicen muy orondos que la
+campaña de Oscar Iván Zuluaga aporta o por lo menos se vale de
+mecanismos siniestros para combatir de nuevo en la esfera de una
+campaña electoral y trasciende en medio de la campaña y ahí venimos
+a enterarnos por boca del mismo Oscar Iván Zuluaga que no
+solamente una sino varias veces estuvo atento de este tema.
+Quiero decir algo o si no se me atraviesa en la garganta, los que no
+somos del santo uribismo, jamás podremos descubrir cuántas
+Andrómeda tenemos encima, Santos puede enterarse porque tiene
+inteligencia y contrainteligencia y se entera del modo de que Oscar
+Iván Zuluaga y Uribe le han estado haciendo todo tipo como ha
+trascendido de inteligencia que inclusive irresponsable compromete
+negociaciones de paz en la Habana y se entera sencillamente porque
+tiene a su servicio las labores de contrainteligencia del Estado
+colombiano que desde luego surten los procesos de la Fiscalía, de la
+Presidencia de la República, pero que podremos esperar los
+trabajadores de Colombia por ejemplo, que podemos esperar cuando
+se comprueba una vez más que resulto cierto lo que ocurría en
+empresas municipales de Cali, donde altos dignatarios comprometidos
+con altísimos responsabilidades del ejército y de la Policía le hacían
+inteligencia a un sindicato las empresas municipales de Cali cosa que
+vino a constatarse tardíamente, después de que habíamos tenido
+muertos, exiliados, desaparecidos, el Polo Democrático Alternativo en
+la época de Alvaro Uribe Vélez sufrió lo que se conoció como la
+presión amazonas, montajes contra Wilson Borja, creaban hechos
+para decir que tenía amantes, pero era pretexto para hacerle
+seguimientos que dieron después en lo que todos sabemos atentados
+contra la vida de Wilson Borja que lo dejaron como lo dejaron, como
+antes a Navarro, una pierna perdida virtualmente, pudo ser mucho
+peor, digo que podemos esperar los dirigentes sociales, populares que
+no tendremos andromedas y contra andromedas para saber qué es lo
+que hacen detrás de nosotras, toda la izquierda señor Presidente hoy
+esta erizada de ver lo que está ocurriendo, todos saben que somos
+objetos de seguimiento y lo más grave, eso que antes hacían Gaviria y
+Samper ahora se lo hacen hasta los mandos medios por allá más
+elementales, porque tienen acceso a la tecnología y a los recursos
+mermelados para comprar y dirimir de esa manera las controversias.
+Yo lamento que esté ocurriendo esto quiero decir y lamento también
+lo digo con toda responsabilidad Presidente, las dos orillas ha dicho,
+que Sepúlveda es un menor frente a Carlos Escobar y que por la
+oficina de Carlos Escobar se paseaban entre otros los asesores de
+Yina Parody y para los que creen que esto es una simple obsesión
+desafío al país para que se compruebe lo contrario y a Yina Parody
+para que explique que lo que dice las Dos Orillas es falso y que nos
+digan de una vez por todas, porque he dicho y lo reitero con toda
+responsabilidad, he sido objeto de montajes burdos por parte de Yina
+Parody como las movilizaciones de la ciudad de Cali en las cuales
+hubo documentos apócrifos, falsos, entregados a CMI para que
+levantaran una verdadera campaña de calumnias contra Wilson Arias
+que en buena hora y espero los debates están siendo desmentidos por
+los tribunales y por los propios medios de comunicación.
+Pues bien todo eso es gravísimo pero yo si quiero elevar una voz muy
+concreta, Presidente yo no ando tomando partidos entre Santos y
+Zuluaga usted lo sabe, yo tengo una candidata decente que asiste al
+debate público, pero no vengo tampoco a hacer campaña sobre este
+tema, no me resta ningún merito decir que estoy convencido de lo que
+estoy con la campaña, pero a eso no le quiero aplicar, no intento
+dirimir los asuntos entre Zuluaga y Santos como lo resuelve Gustavo
+Petro pretendiendo que Santos es el antídoto y en nombre de la paz
+los llama a todos a una como fuente ovejuna, al menos yo no ando en
+eso, yo ando con Clara, de modo que lo que voy a decir lo digo sobre
+ese expediente y sobre esa actitud mía, pero yo si quiero pedirle
+públicamente al señor Oscar Iván Zuluaga no solo ya que reconozca
+como lo ha hecho sus pútridas andanzas, porque eso es lo que ha
+trascendido, sino que le dé la cara al país en todo, esto es en una
+campaña que esta enlodando de fango, los últimos días del suceso
+electoral para pretender esa marea polarizar entre Santos y Uribe y
+que no hay modo de mirar otras candidaturas, pero desde luego
+repugna los desenlaces y especialmente jamás lo he hecho en este
+Congreso de la República, porque para mí esa controversia entre
+Santos y Uribe que existe no resuelve los problemas del País, pero no
+puedo más que decir hoy públicamente que demando de Oscar Iván
+Zuluaga y su campaña la suficiente claridad y si no es posible
+entregársela al país en los restantes días de campaña creo que Oscar
+Iván Zuluaga debe renunciar al propósito electoral porque la sociedad
+no puede seguir soportando que sus más altas dignidades enloden la
+República como lo están haciendo y el pueblo tenga que asistir a
+depositar el voto.
+Presidente quería dejar esta consigna, esta constancia, dejando la
+reiteración yo no estoy buscando votos para Santos, jamás lo he
+hecho y me distancio de Gustavo Petro al respecto, pero me uno a las
+voces que reclaman claridad de la campaña de Oscar Iván Zuluaga.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:48:10">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Señor Secretario sírvase anunciar proyectos para la próxima sesión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:48:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Proyecto de ley No. 076 de 2013 Cámara “Por el cual se reglamenta la
+destinación de la maquinaria pesada incautada en actividades de
+exploración o explotación de minerales sin las autorizaciones y
+exigencias previstas en la ley”.
+Proyecto de ley No. 132 de 2013 Cámara “Por medio de la cual se
+modifica el artículo 15 de la Ley 105 de 2006”.
+Así mismo señor Presidente me permito dar lectura a tres derechos de
+peticiones que llegaron con el fin de hacerle control político, uno
+firmado por la Honorable Representante a la Cámara por el
+departamento de Arauca doctora Mercedes Rincón Espinel donde
+solicita que se cite a control político al coordinador de servicio de
+programación del organismo nacional de acreditación ONAC, aquí
+también anexa cuestionario.
+Un derecho de petición firmado por Rosmery Torres Saenz donde
+solicita a la Comisión Sexta se haga un debate de control político a la
+señora, ministra de Educación Nacional.
+Y una solicitud de la Veeduría Ciudadana para Fresno -Tolima.
+Firmado por: Absalom Arias
+Presidente
+Jose Eder Quimbaya
+Vocal
+Donde solicita se cite a Alcano EESP prestador del servicio de gas
+natural de comestible de Fresco, además a la CREG, a la
+Superservicios, al Ministro de Minas y Energía, a la Procuraduría
+General de la Nación, la Defensoría del Pueblo.
+Señor Presidente la Secretaría le ha dado lectura a la tres
+proposiciones y en coordinación con la Mesa Directiva fijaremos la
+fecha cuando se va a hacer estas audiencias de control político.
+Así mismo la Honorable Representante Juana Carolina ha solicitado
+sesión informal para escuchar al doctor Ariel Armel,</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:48:30">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Se va a escuchar al doctor Ariel Armel Arenas solicitado por la doctora
+Juana Carolina Londoño, por favor señor Secretario suminístrele lo
+necesario para que presente su video.</p>
+						</speech>
+						<speech by="#hr-jairo-quintero-trujillo" startTime="2014-05-20T10:48:40">
+							<from>H.R. Jairo Quintero Trujillo</from>
+							<p>Gracias doctor Ariel Armel Arenas por este aporte, al proyecto de ley
+sobre la cátedra de la paz y si quiere hacer un aporte también, tiene la
+palabra doctor Ariel.</p>
+						</speech>
+						<speech by="#dr-ariel-armel-arenas" startTime="2014-05-20T10:48:50">
+							<from>Dr. Ariel Armel Arenas</from>
+							<p>Gracias señor Presidente, después de lo que ustedes escucharon no
+queda por decir absolutamente nada, sin embargo su invitación me
+compromete, les agradezco a todos los señores Representantes, a la
+doctora Juana Carolina Londoño que propuso precisamente escuchar
+este video, la verdad es que lo que se está haciendo en la Habana,
+Dios quiera que sea exitoso busca terminar el conflicto, creara unas
+condiciones para negociar precisamente la terminación de la guerra y
+la cátedra de la paz busca crear la cultura de la paz para que no
+vuelva la guerra, Dipachopra que es el científico que más ha estudiado
+en este momento los temas de la paz, dice que los procesos de paz
+han fracasado porque se olvidaron de lo principal crear la cultura de la
+paz para que no vuelva la guerra, nosotros pues queremos ofrecerle a
+las nuevas generaciones una oportunidad para que creen en sus
+corazones el habito de la paz desde el comienzo de sus vidas, la
+cátedra de la paz se va a enseñar en todas las instituciones
+educativas, no olvidemos que la Constitución Nacional dice en el
+artículo 22 que la paz es un derecho y una obligación y en el 41 dice
+que todos los establecimientos educativos del país tienen la obligación
+de enseñar la instrucción cívica y la Constitución Nacional que son
+pilares de la cátedra de la paz.
+Muchas gracias por su oportunidad, espero que este propósito se
+cumpla para bien de Colombia, les agradezco inmensamente y que
+Dios los bendiga.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:49:00">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Muchas gracias doctor Ariel Armel, siguiente punto del orden del día
+señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2014-05-20T10:49:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jairo-ortega-samboni" startTime="2014-05-20T10:49:20">
+							<from>H.R. Jairo Ortega Samboni</from>
+							<p>Siendo así se levanta la sesión siendo las once y veintiocho minutos
+de la mañana (11:28 a.m.) y se cita para el próximo martes a las 10 de
+la mañana.
+JAIRO ORTEGA SAMBONI              DIDIER ALBERTO TAVERA AMADO
+Presidente                           Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO      JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                           Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

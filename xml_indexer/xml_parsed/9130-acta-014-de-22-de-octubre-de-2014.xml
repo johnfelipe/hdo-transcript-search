@@ -1,0 +1,713 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-carlos-alberto-valencia-cuero" id="hr-carlos-alberto-valencia-cuero" showAs="H.R. Carlos Alberto Valencia Cuero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-alfredo-ape-cuello-baute" id="hr-alfredo-ape-cuello-baute" showAs="H.R. Alfredo Ape Cuello Baute"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-víctor-javier-correa-vélez" id="hr-víctor-javier-correa-vélez" showAs="H.R. Víctor Javier Correa Vélez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-hugo-hernán-gonzález-medina" id="hr-hugo-hernán-gonzález-medina" showAs="H.R. Hugo Hernán González Medina"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/jair-jose-ebratt-diaz" id="jair-jose-ebratt-diaz" showAs="Jair Jose Ebratt Diaz"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jorge-eliecer-tamayo-marulanda" id="hr-jorge-eliecer-tamayo-marulanda" showAs="H.R. Jorge Eliecer Tamayo Marulanda"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-felipe-lozada-polanco" id="hr-jaime-felipe-lozada-polanco" showAs="H.R. Jaime Felipe Lozada Polanco"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-martha-patricia-villalba-hodwalker" id="hr-martha-patricia-villalba-hodwalker" showAs="H.R. Martha Patricia Villalba Hodwalker"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-hernán-cortés-rojas" id="hr-hernán-cortés-rojas" showAs="H.R. Hernán Cortés Rojas"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-inés-cecilia-lópez-flórez" id="hr-inés-cecilia-lópez-flórez" showAs="H.R. Inés Cecilia López Flórez"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="9130-acta-014-de-22-de-octubre-de-2014"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2014</heading>
+				<debateSection>
+					<heading>Octubre</heading>
+					<debateSection>
+						<heading>ACTA NO. 014 / 2014-10-22</heading>
+						<speech by="" startTime="2014-10-22T09:57:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2014 - 2018
+ACTA No 014
+(Bogotá D.C., 22 de octubre de 2014)
+A las nueve y cincuenta y siete minutos de la mañana (09:57 a.m.), la
+honorable representante INÉS CECILIA LÓPEZ FLÓREZ de la
+Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, actuando como presidente ordena llamar a lista e
+informar si hay quórum en la Comisión y contestan los siguientes
+honorables representantes:
+Agudelo Zapata Iván Darío
+Correa Vélez Víctor Javier
+Cuero Valencia Carlos Alberto
+López Flórez Inés Cecilia
+Tamayo Marulanda Jorge Eliecer.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T09:57:10">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Presidenta me permito informarle que al llamar a lista han contestado
+cinco (05) honorables representantes, en consecuencia se ha
+conformado quórum deliberatorio.</p>
+						</speech>
+						<speech by="#hr-inés-cecilia-lópez-flórez" startTime="2014-10-22T09:57:20">
+							<from>H.R. Inés Cecilia López Flórez</from>
+							<p>Vamos a decretar un receso de quince minutos (15) para esperar la
+conformación del quórum.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T09:57:30">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Así será presidenta.
+…</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:57:40">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sírvase secretario hacer el segundo llamado a lista.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T09:57:50">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Con mucho gusto presidenta, siendo las diez y veinticinco de la
+mañana (10:25 a.m.) se realiza el segundo llamado a lista y contestan
+los siguientes honorables representantes.
+Castiblanco Parra Jairo Enrique
+Correa Vélez Víctor Javier
+Cuero Valencia Carlos Alberto
+González Medina Hugo Hernán
+López Flórez Inés Cecilia
+Lozada Polanco Jaime Felipe
+Tamayo Marulanda Jorge Eliecer
+Villalba Hodwalker Martha Patricia.
+Responden ocho (08) honorables representantes al llamado a lista.
+En el transcurso de la sesión se hicieron presentes los siguientes
+nueve (9) honorables representantes:
+Agudelo Zapata Iván Darío
+Carrillo Mendoza Wilmer Ramiro
+Cipriano Moreno Edgar Alexander
+Cuello Baute Alfredo Ape
+Flórez Rueda Ricardo
+Giraldo Arboleda Atilano Alonso
+Guevara Villabon Carlos Eduardo
+Rincón Herrera Ana María
+Rodríguez Pinzón Ciro Antonio.
+Con excusa se encuentra el honorable representante del Partido
+Liberal:
+Patiño Amariles Diego.
+Le informo presidenta que al llamado a lista han contestado ocho (8)
+honorables representantes, en consecuencia se registra quórum
+deliberatorio.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:58:00">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Bueno vamos a dar lectura al orden del día secretario por favor.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T09:58:10">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2014 - 2018
+Salón: JOSE FERNANDO CASTRO CAICEDO
+Periodo Legislativo del 20 de julio de 2014 al 20 de junio de 2015
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2014-10-22T09:58:20">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 22 de octubre de 2014
+Hora: 9:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Estudio, Discusión y Aprobación en Primer Debate de los siguientes
+Proyectos de Ley:
+1. Proyecto de Ley No. 042 de 2014, Cámara. Víctimas de los
+grupos armados. “POR MEDIO DE LA CUAL SE ESTABLECEN
+MEDIDAS EN MATERIA DE EDUCACION PARA LA ASISTENCIA Y
+ATENCIÓN DE LAS MADRES CABEZA DE FAMILIA VÍCTIMAS DE
+LOS GRUPOS ARMADOS AL MARGEN DE LA LEY Y SUS HIJOS Y
+SE DICTAN OTRAS DISPOSICIONES”.
+Autores: H.R. Ana Paola Agudelo García, Carlos Eduardo
+Guevara Villabon y Guillermina Bravo Montaño.
+Ponentes: H.R. Carlos Alberto Cuero Valencia y Jairo Enrique
+Castiblanco Parra.
+Publicación: Gaceta P.L. No. 387-14 - P.P.D. Cámara No.490-14
+2. Proyecto de Ley No. 043 de 2014- Cámara. Control de
+enfermedades de alta prevalencia. “POR LA CUAL SE PROMUEVE
+LA EDUCACIÓN PARA LA SALUD, LA PROMOCIÓN DE HÁBITOS
+Y COMPORTAMIENTOS PARA LA PREVENCIÓN Y CONTROL DE
+ENFERMEDADES DE ALTA PREVALENCIA Y SE DICTAN OTRAS
+DISPOSICIONES”.
+Autores: H.R. Ana Paola Agudelo García, Carlos Eduardo
+Guevara Villabon y Guillermina Bravo Montaño.
+Ponentes: H.R. Víctor Javier Correa Vélez (Ponente Coordinador),
+Edgar Alexander Cipriano Moreno y Ricardo Flórez Rueda.
+Publicación: Gaceta P.L. No. 387-14 - P.P.D. Cámara No. 521-14
+3. Proyecto de Ley No. 015 de 2014- Cámara. Cargo fijo en
+Servicios Públicos. “POR LA CUAL SE ELIMINA EL CARGO FIJO
+COMO COMPONENTE DE LAS ESTRUCTURAS TARIFARIAS DE
+LOS SERVICIOS PUBLICOS DOMICILIARIOS Y SE DICTAN OTRAS
+DISPOSICIONES”.
+Autores: H.R. Ana Paola Agudelo García, Carlos Eduardo
+Guevara Villabon y Guillermina Bravo Montaño.
+Ponentes: H.R. Carlos Eduardo Guevara Villabon (Ponente
+Coordinador), Víctor Javier Correa Vélez, Atilano Giraldo Arboleda,
+Ciro Antonio Rodríguez Pinzón y Diego Patiño Amariles.
+Ponencia 1er. Debate.
+Presentada por: H.R. Carlos Eduardo Guevara y Víctor Javier
+Correa Vélez.
+Publicación: Gaceta P.L. No.366-14 - P.P.D. (1) Cámara No. 549-14 -
+P.P.D. (2) No.
+4. Proyecto de Ley No. 081 de 2014-Cámara. Traducción
+Constitución Nacional. “POR LA CUAL SE ORDENA TRADUCIR LA
+CONSTITUCIÓN NACIONAL A TODAS LAS LENGUAS Y
+DIALECTOS INDÍGENAS, RAIZAL CREOL DE SAN ANDRÉS Y
+PROVIDENCIA Y LENGUA CRIOLLA PALENQUERA DE SAN
+BASILIO Y LENGUA ROM (GITANO) DE LA REPUBLICA DE
+COLOMBIA Y SE DICTAN OTRAS DISPOSICIONES, COMO UN
+PASO FUNDAMENTAL PARA LOGRAR LA INCLUSIÓN Y LA PAZ”.
+Autor: H.R. Rafael Elizalde Gómez
+Ponente: H.R. Ricardo Flórez Rueda
+Publicación: Gaceta P.L. No. 450-14 - P.P.D. Cámara 548-14
+III.
+</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T09:58:30">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+ALFREDO APE CUELLO BAUTE MARTHA PATRICIA VILLALBA HODWALKER
+Presidente Vicepresidente
+JAIR JOSE EBRATT DIAZ
+Secretario
+Esta leído el orden del día presidenta, y continuamos con quórum
+deliberatorio.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:58:40">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Tiene la palabra el honorable representante Jaime Felipe Lozada
+Polanco.</p>
+						</speech>
+						<speech by="#hr-jaime-felipe-lozada-polanco" startTime="2014-10-22T09:58:50">
+							<from>H.R. Jaime Felipe Lozada Polanco</from>
+							<p>Presidenta muy buenos días, un saludo para usted y para todos mis
+compañeros. Presidenta yo en el primer proyecto del orden del día, el
+proyecto N° 042 me he declarado impedido, por lo tanto quería
+comunicarlo y dejar constancia presidenta, que mientras ese proyecto
+se discuta yo me ausento del recinto y posteriormente regresare en el
+momento que discutamos el proyecto N° 043, presidenta quería dejar
+constancia, muchas gracias.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:59:00">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Teniendo en cuenta que aun no gozamos con el quórum decisorio,
+Tiene la palabra el honorable representante Hugo Hernán González
+Medina.</p>
+						</speech>
+						<speech by="#hr-hugo-hernán-gonzález-medina" startTime="2014-10-22T09:59:10">
+							<from>H.R. Hugo Hernán González Medina</from>
+							<p>Buenos días para todos, gracias representante, no había caído en
+cuenta, yo también me declaro impedido señora presidenta, se lo voy
+a pasar por escrito, no puedo estar en la discusión del proyecto que
+tiene que ver con víctimas, pero quería en este espacio deliberatorio
+leer una proposición que había anunciado el día de ayer, ¿Si se
+puede?</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:59:20">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Bien pueda, proceda representante González.</p>
+						</speech>
+						<speech by="#hr-hugo-hernán-gonzález-medina" startTime="2014-10-22T09:59:30">
+							<from>H.R. Hugo Hernán González Medina</from>
+							<p>Muchas gracias. El tema de la jornada única o jornada escolar
+completa es de tanto interés y coincidencias que pareciera congregar
+lo que es muy poco usual, a todas la bancadas, al gobierno y a la
+oposición, a la izquierda y a la derecha, a los técnicos y a los políticos,
+a la, ministra y a los ciudadanos.
+Por lo anterior propongo a los honorables miembros de la Comisión
+Secta, citar a la, Ministra de Educación, al Ministro de Hacienda y
+Crédito Público y al, Director del Departamento Nacional de
+Planeación, con el fin de construir con ellos una mesa de trabajo
+conjunta que se dedique a estructurar un plan plurianual a 10 años,
+que contenga metas y flujos de recursos e indicadores para alcanzar
+el 100% de cobertura en el 2025 de la jornada escolar completa, es
+aditiva a la propuesta que ya nos había hecho el presidente Ape
+Cuello, de llamar, y ayer efectivamente él dice de agregar al Ministro
+de Hacienda al proyecto.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T09:59:40">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sería una proposición aditiva a la de ayer, la radicamos con el
+representante Víctor Correa, el representante Ape Cuello; perfecto
+representante.</p>
+						</speech>
+						<speech by="#hr-hugo-hernán-gonzález-medina" startTime="2014-10-22T09:59:50">
+							<from>H.R. Hugo Hernán González Medina</from>
+							<p>Quedé de presentarla escrita allá, entonces es aditiva en el sentido de
+que el objetivo de esa mesa de trabajo es estructurar el plan
+plurianual.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:00:00">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Dejamos la proposición para que una vez estemos en el punto de
+proposiciones se haga efectivo el trámite de la misma.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:00:10">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Así es presidenta y a la vez me permito informarle que con la llegada
+del representante Cipriano se ha conformado quórum decisorio en la
+Comisión, puede usted someter a consideración el orden del día leído.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:00:20">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Bueno vamos a poner en consideración el orden del día leído, anuncio
+que va a cerrarse su discusión, queda cerrada, ¿Aprueba la
+Comisión?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:00:30">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado presidente.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:00:40">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Siguiente punto del orden del día secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:00:50">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Estudio, discusión y aprobación en primer debate del siguiente
+“proyecto de ley N° 042 de 2014, Cámara, “por medio de la cual se
+establecen medidas en materia de educación para la asistencia y
+atención de las madres cabeza de familia víctimas de los grupos
+armados al margen de la ley y sus hijos y se dictan otras
+disposiciones”
+Autores: H.R. Ana Paola Agudelo García, Carlos Eduardo Guevara
+Villabon y Guillermina Bravo Montaño.
+Ponentes: H.R. Carlos Alberto Cuero Valencia y Jairo Enrique
+Parra Castiblanco.
+Publicado en la Gaceta P.L. N° 387-14 - P.P.D. Cámara N° 490-14.”
+Me permito también infórmale presidenta y señores representantes,
+que los ponentes me han radicado una proposición en el sentido de
+solicitar el aplazamiento de la discusión del presente proyecto,
+argumentando que están analizando unos conceptos enviados por el
+Ministerio de Hacienda y el Ministerio de Educación.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:01:00">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Bueno sometemos a consideración la proposición de los ponentes,
+¿Aprueba la Comisión?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:01:10">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado el aplazamiento del proyecto presidente.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:01:20">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Tiene la palabra el honorable representante Víctor Javier Correa
+Vélez.</p>
+						</speech>
+						<speech by="#hr-víctor-javier-correa-vélez" startTime="2014-10-22T10:01:30">
+							<from>H.R. Víctor Javier Correa Vélez</from>
+							<p>Muchas gracias señora presidenta. Frente al proyecto de ley N° 043
+que es el que ocupa el segundo punto del orden del día, como
+coordinador ponente nosotros presentamos ponencia negativa, y nos
+solicitan los autores, y a mí me parece que en el marco del respeto y
+del compañerismo parlamentario, incluso del debate democrático, me
+solicitan que le dediquemos un tiempo más para estudiar la ponencia
+negativa y de esta manera poder presentar argumentos que permitan
+revaluar esa ponencia al interior de esta Comisión, entonces me
+solicitan que le ponga en consideración de la plenaria el aplazamiento
+de la discusión del proyecto.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:01:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>¿Usted hace referencia al proyecto N° 043, honorable representante?
+Presidenta ese es el proyecto que continua en el orden del día y como
+ya lo ha manifestado el representante para que usted someta a
+consideración el aplazamiento de dicho proyecto de ley.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:01:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sometemos a consideración de la Comisión el aplazamiento del
+proyecto N° 043, ¿Aprueba la Comisión la solicitud?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:02:00">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado señora presidente.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:02:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Siguiente punto secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:02:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Me acaban de radicar un impedimento señora presidenta, al proyecto
+de ley N° 042, de todas maneras el proyecto fue aplazada su
+discusión, pero voy a dar lectura para que quede constancia en el
+acta, impedimento presentado por el representante Hugo Hernán
+González y dice de la siguiente manera: “Impedimento, en mi
+condición de víctima me declaro impedido para deliberar, aprobar
+el proyecto de ley N° 042 de 2014”; queda leído el impedimento,
+pero como no se ha sometido a consideración lo dejamos para la
+sesión en la cual discutamos el proyecto de ley que acabo de
+mencionar presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:02:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Siguiente punto secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:02:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>El siguiente presidenta es el “proyecto de ley N° 015 de 2014, “Por
+la cual se elimina el cargo fijo como componente de las
+estructuras tarifarias de los servicios públicos domiciliarios y se
+dictan otras disposiciones”
+Autores: H.R. Ana Paola Agudelo García, Carlos Eduardo Guevara
+Villabon y Guillermina Bravo Montaño.
+Ponentes: H.R. Carlos Eduardo Guevara Villabon, Víctor Javier
+Correa Vélez, Atilano Alonso Giraldo Arboleda, Ciro Antonio Rodríguez
+Pinzón y Diego Patiño Amariles.”
+Me permito dejar la siguiente constancia presidenta: este proyecto de
+ley ha sido radicado una ponencia positiva, la cual está firmada por los
+representantes Carlos Eduardo Guevara Villabon y Víctor Javier
+Correa Vélez; en el día de ayer, en horas de la tarde, los ponentes
+Ciro Antonio Rodríguez Pinzón, Atilano Alonso Giraldo Arboleda y
+Diego Patiño Amariles, han presentado una ponencia negativa, hemos
+hecho el tramite respectivo, ellos me han solicitado el aplazamiento de
+la discusión y de conformidad con el reglamento, el cual establece la
+publicidad de las ponencias y los proyectos de ley, es obvio que no
+podríamos darle debate a este proyecto de ley hasta que no surta el
+tramite respectivo, para su publicación y conocimiento de todos los
+honorables representantes.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:02:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sometemos a consideración de la Comisión la solicitud del
+aplazamiento, tiene la palabra el honorable representante Jorge
+Eliecer Tamayo Marulanda.</p>
+						</speech>
+						<speech by="#hr-jorge-eliecer-tamayo-marulanda" startTime="2014-10-22T10:03:00">
+							<from>H.R. Jorge Eliecer Tamayo Marulanda</from>
+							<p>Gracias presidenta, un saludo muy especial a los honorables
+representantes. Sobre este en particular me parece y llamaré la
+atención de los honorables representantes que ha bien han tenido
+presentar ponencia positiva, pues da la oportunidad que podamos
+conjugar las dos ponencias. Por mi lado he hecho un análisis y un
+estudio, si ustedes recuerdan yo le había solicitado a las Comisiones
+Reguladoras, a las Superintendencias, al sector que nos tradujera todo
+ese paraíso normativo que yo le dije ese día, recuerdan esa palabra
+que yo utilice, que muy bonito pero que nos trajeron eso en términos
+reales en cuanto a nivel nacional cuanto representa para los usuarios
+la estratificación y el aporte que ellos tienen, pero también que
+representa para las entidades del sector prestador de los servicios
+públicos en esta materia, la verdad es que hasta ahora no conozco
+sobre esas posiciones como una información clara que nos permita a
+nosotros valorar y sopesar realmente en la práctica, en términos
+prácticos ¿eso qué es?, ¿cómo lo siente la sociedad?
+Coincidencialmente en el municipio Santiago de Cali, la empresa ha
+hecho un estudio, y tuve la oportunidad de revisar, y de verdad yo les
+decía en mí posición en estos momentos no está permeada ni a favor
+ni en contra de la medida, no de la propuesta como tal, pero si eso que
+me presenta EMCALI es en esa dimensión, ya eso define una posición
+para mí que era lo importante, yo creo que tiene que ser como los
+elementos valorativos para uno tomar decisiones y para no cometer
+errores que después vamos a lamentar, y que por el contrario en vez
+de favorecer a los sectores populares termina es afectándolos por un
+efecto negativo en torno, y lo que me muestra EMCALI me deja
+preocupado, le abrimos severo agujero a la parte financiera y de
+inversión a la empresa, ¡terrible!, yo digo si esto es así en el sector,
+entonces eso me llama la atención; quien tiene la capacidad técnica
+de mostrarnos esas cosas, pues el Estado que tiene todos esos
+ingenieros, economistas, es decir toda la gente que son capaces de
+mirar todo eso en contexto y nos puedan decir a nosotros, mire
+efectivamente en el sector esto esta impactando y mostrándonos el
+panorama nacional, si nos muestran el panorama nacional nos habían
+ayudado inmensamente a tomar una decisión segura, responsable
+frente a la sociedad y no cometer un error, todos de entrada uno tiene
+una intención sana de decir esto favorece a la comunidad, uno tiene
+una intención sana pero a la postre puede llegar a pensar, ¡no! No
+hemos valorado esto, no hemos visto esto, entonces asumir una
+posición mucho más razonable frente a una realidad.
+Entonces ahí hay una serie de elementos que pienso que esos días
+que nos pueda dar pues la parte legal de conocer la ponencia que se
+presenta en el otro sentido, y estos elementos EMCALI esta
+entregándome ese estudio yo lo comparto con los honorables
+representantes, lo miramos y eso nos ayuda a tener como claridades
+en torno al tema y de manera seria asumir una posición para bien de
+la sociedad de las entidades prestadoras de los servicios que es fin
+como último, gracias señora presidente.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:03:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Tiene la palabra el honorable representante Carlos Alberto Valencia
+Cuero.</p>
+						</speech>
+						<speech by="#hr-carlos-alberto-valencia-cuero" startTime="2014-10-22T10:03:20">
+							<from>H.R. Carlos Alberto Valencia Cuero</from>
+							<p>Muchas gracias presidenta, primero que todo agradecerles a ustedes,
+a la mesa directiva de la Comisión Sexta y a mis colegas por el gesto
+que tuvieron ayer en el sensible fallecimiento de mi señora madre, les
+gradezco muchísimo, que Dios se los pague.
+Con respecto del cargo fijo que habla el compañero Tamayo, le cuento
+que eso es una problemática bien sensible en la comunidad, la
+comunidad se queja permanentemente de que muchas veces el cargo
+fijo supera el valor del consumo mensual, por ende la explicación clara
+del cargo fijo y que eso redunde en la clases populares que son las
+más afectadas por un cargo fijo que no se explica cómo se designa,
+que no se explica de donde sale, creo que sería un debate muy
+interesante, bien sensible para la clase popular que se ve afectada,
+porque el cargo fijo supera el consumo real en sus viviendas, sería un
+tema bien especial y bien llegado a la comunidad, para que se debata
+aquí como lo dice el compañero Tamayo, que en el Valle del Cauca y
+en Cali la gente se nos queja muchísimo de la explicación por lo
+menos del cargo fijo y de donde provienen tales valores, muchas
+gracias.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:03:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Tiene la palabra el honorable representante Víctor Javier Correa
+Vélez.</p>
+						</speech>
+						<speech by="#hr-víctor-javier-correa-vélez" startTime="2014-10-22T10:03:40">
+							<from>H.R. Víctor Javier Correa Vélez</from>
+							<p>Escuchando la solicitud del compañero, bueno para eso estamos acá,
+para poder debatir las posiciones, los argumentos, los elementos
+técnicos que se aportan desde las distintas fuentes, por su puesto la
+intención es poder poner en contra posición las ponencias y las
+información que tengamos de cara a poder dar un debate mucho más
+democrático con toda la buena fe, claro, tenemos que programar
+jornadas de trabajo alrededor de este proyecto de ley y estoy en total
+disposición.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:03:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Continuamos con el orden del día, creo que estaba en consideración
+la solicitud de aplazamiento, ¿aprueba la Comisión la solicitud de
+aplazamiento de este proyecto?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:04:00">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:04:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Continúe secretario con el orden del día.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:04:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>En ese orden de idea seguimos con el “proyecto de ley N° 081 de
+2014 cámara, “Por la cual se ordena traducir la Constitución
+Nacional a todas las lenguas y dialectos indígenas, Raizal Creol
+de San Andrés y Providencia y lengua criolla Pelenquera de San
+Basilio y lengua Rom (gitano) de la República de Colombia y se
+dictan otras disposiciones, como un paso fundamental para
+lograr la inclusión y la paz”.
+Autor: H.R. Rafael Elizalde Gómez.
+Ponente: Ricardo Flórez Rueda.
+Publicado en la gaceta P.L. N° 450-14 - P.P.S. N° 548-14 Cámara”.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:04:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sírvase leer la proposición con que termina el informe de ponencia
+secretario, quiero anunciarles mi voto positivo a este proyecto, me
+parece supremamente importante, le daríamos desde ya cumplimiento
+a preceptos constitucionales y de verdad el reconocimiento de todas
+las más de 82 lenguas que existen de los grupos étnicos en nuestro
+país.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:04:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Si presidenta la proposición dice lo siguiente: Con fundamento en las
+razones expuestas me permito rendir ponencia positiva y en
+consecuencia solicitar a la Comisión Sexta de la Cámara de
+Representantes dar primer debate al proyecto de ley N° 081 de 2014
+Cámara, “Por la cual se ordena traducir la Constitución Nacional a
+todas las lenguas y dialectos indígenas, Raizal Creol de San
+Andrés y Providencia y lengua criolla Pelenquera de San Basilio y
+lengua Rom (gitano) de la República de Colombia y se dictan
+otras disposiciones, como un paso fundamental para lograr la
+inclusión y la paz”.
+Firma el honorable representante Ricardo Flórez Rueda.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:04:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>En consideración la proposición y el informe, tiene la palabra el
+representante Víctor Javier Correa Vélez.</p>
+						</speech>
+						<speech by="#hr-víctor-javier-correa-vélez" startTime="2014-10-22T10:05:00">
+							<from>H.R. Víctor Javier Correa Vélez</from>
+							<p>Para anunciar señora presidenta también mi voto positivo, porque este
+tipo de proyecto además de lograr la inclusión política de nuestras
+comunidades, el reconocimiento de sus derechos, nos permite
+también como pueblo alrededor de estas lenguas, de estas culturas,
+elaborar nuestra propia identidad, hay un recuerdo muy bonito de
+Jaime Garzón que en una de sus conferencias utiliza la traducción que
+los pueblos wayuu hacen del artículo 12 de la Constitución Política de
+Colombia, y en su lenguaje más o menos ese artículo queda así:
+“Nadie podrá llevar por encima de su corazón a nadie ni hacerle mal
+en su persona aunque piense y diga diferente”, esto habla un poco de
+cómo nuestras construcciones propias, nuestras interpretaciones
+culturales de los distintos pueblos que conforman la diversidad de
+Colombia, un debate que incluso trasciende las dinámicas mismas de
+la concepción de nuestro estrado, porque por ejemplo en Bolivia ahora
+andan hablando del país pluricultural o un país que como el nuestro se
+reconoce en una diversidad enorme de sectores y de regiones y de
+formas de ver la vida y de cosmogonías.
+Yo votare favorable con mucho agrado este proyecto de ley, porque
+son de estos que hacen de que uno diga vale la pena estar acá en la
+medida en que nos permite avanzar en consolidar una Colombia
+unida, respetuosa de su diversidad, y más que respetuosa, orgullosa
+de su diversidad cultural.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:05:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Así es honorable representante, entonces en consideración la
+proposición, ¿aprueba la Comisión el informe de los ponentes?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:05:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:05:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Articulado secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:05:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Presidenta el proyecto de ley consta de cuatro (4) artículos incluida la
+vigencia, y no hay proposición en la mesa, puede usted someter a
+consideración el articulado del proyecto de ley.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:05:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sometemos a consideración el articulado del proyecto, ¿aprueba la
+Comisión?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:06:00">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:06:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Titulo del proyecto secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:06:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Proyecto de ley N° 081 de 2014 Cámara, “Por la cual se ordena
+traducir la Constitución Nacional a todas las lenguas y dialectos
+indígenas, Raizal Creol de San Andrés y Providencia y lengua
+criolla Pelenquera de San Basilio y lengua Rom (gitano) de la
+República de Colombia y se dictan otras disposiciones, como un
+paso fundamental para lograr la inclusión y la paz”, leído el titulo
+presidenta, lo puede someter a consideración de la Comisión.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:06:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Se somete a consideración el titulo del proyecto, ¿lo aprueban?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:06:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobado presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:06:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>¿Quieren que este proyecto pase a segundo debate?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:07:00">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha si lo quieren presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:07:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Continuemos con el orden del día secretario.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:07:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Siguiente punto del orden del día, lo que propongan los honorables
+representantes. Hay proposiciones en la mesa presidenta, si usted me
+permite le podemos dar lectura.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:07:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Leamos las proposiciones secretario.</p>
+						</speech>
+						<speech by="#hr-hernán-cortés-rojas" startTime="2014-10-22T10:07:40">
+							<from>H.R. Hernán Cortés Rojas</from>
+							<p>Proposición:
+El tema de la jornada única o jornada escolar completa es de tanto
+interés y coincidencias que parecería congregar lo que es muy poco
+usual a todas la bancadas, al Gobierno y a la oposición, a la Izquierda
+y a la derecha, a los técnicos y a los políticos, a los ciudadanos y a la
+ministra.
+Por lo anterior propongo a los honorables miembros de la Comisión
+Sexta, citar a la, Ministra de Educación, al Ministro de Hacienda y
+Crédito Público y al, director del Departamento Nacional de Planeación,
+con el fin de construir con ellos una mesa de trabajo conjunta que se
+dedique a estructurar un plan plurianual a 10 años, que contenga
+metas y flujos de recursos e indicadores para alcanzar el 100% de
+cobertura en el 2025 de la jornada escolar completa.
+Firmada por el honorable representante Hugo Hernán González
+Medina.
+Esta leída la proposición presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:07:50">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Se somete a consideración de la Comisión la proposición leída,
+¿aprueban?</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:08:00">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido aprobada presidenta.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:08:10">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Sírvase anunciar secretario proyectos de ley.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:08:20">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Si presidenta, de conformidad con el acto legislativo N° 01 de 2013,
+por autorización de la presidencia me permito anunciar los siguientes
+proyectos de ley para la próxima sesión de la Comisión Sexta de la
+Cámara.
+Proyecto de ley N° 042 de 2014 Cámara, “Por medio de la cual se
+establecen medidas en materia de educación para la asistencia y
+atención de las madres cabeza de familia víctimas de los grupos
+armados al margen de la ley y sus hijos y se dictan otras
+disposiciones”.
+Proyecto de ley N° 043 de 2014 Cámara, “Por la cual se promueve
+la educación para la salud, la promoción de hábitos y
+comportamientos para la prevención y control de enfermedades
+de alta prevalencia y se dictan otras disposiciones”.
+Proyecto de ley N° 015 de 2014, “Por la cual se elimina el cargo fijo
+como componente de las estructuras tarifarias de los servicios
+públicos domiciliarios y se dictan otras disposiciones”.
+Han sido anunciados los proyectos de ley presidenta, los cuales se
+discutirán y se aprobaran en el primer debate en la próxima sesión de
+la Comisión Sexta de Cámara.</p>
+						</speech>
+						<speech by="#hr-martha-patricia-villalba-hodwalker" startTime="2014-10-22T10:08:30">
+							<from>H.R. Martha Patricia Villalba Hodwalker</from>
+							<p>Fijemos fecha para la próxima sesión.
+Por Secretaría estaríamos informando la fecha de la convocatoria para
+la próxima sesión.</p>
+						</speech>
+						<speech by="#jair-jose-ebratt-diaz" startTime="2014-10-22T10:08:40">
+							<from>Jair Jose Ebratt Diaz</from>
+							<p>Ha sido agotado el orden del día presidenta, dejando constancia que
+siendo las once de la mañana (11:00 a.m.) se levanta la sesión y se
+convocará a través de la Secretaría, muchísimas gracias.
+ALFREDO APE CUELLO BAUTE                            MARTHA PATRICIA VILLALBA HODWALKER
+Presidente                                               Vicepresidente
+JAIR JOSE EBRATT DIAZ                  HERNÁN CORTÉS ROJAS
+Secretario                      Subsecretario
+Elaboro Transcripción /  Edwin A. Sánchez E.
+Hernán Cortés Rojas.</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

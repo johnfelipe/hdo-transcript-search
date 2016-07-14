@@ -1,0 +1,630 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-wilson-gómez-velásquez" id="hr-wilson-gómez-velásquez" showAs="H.R. Wilson Gómez Velásquez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jhon-jairo-roldan-avendaño" id="hr-jhon-jairo-roldan-avendaño" showAs="H.R. Jhon Jairo Roldan Avendaño"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-luís-guillermo-barrera-gutiérrez" id="hr-luís-guillermo-barrera-gutiérrez" showAs="H.R. Luís Guillermo Barrera Gutiérrez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-yepes-martinez" id="hr-jaime-yepes-martinez" showAs="H.R. Jaime Yepes Martinez"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-miguel-angel-pinto" id="hr-miguel-angel-pinto" showAs="H.R. Miguel Angel Pinto"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-silvio-vasquez-villanueva" id="hr-silvio-vasquez-villanueva" showAs="H.R. Silvio Vasquez Villanueva"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-iván-darío-agudelo-zapata" id="hr-iván-darío-agudelo-zapata" showAs="H.R. Iván Darío Agudelo Zapata"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="3246-acta-62-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>Agosto</heading>
+					<debateSection>
+						<heading>ACTA NO. 62 / 2012-08-21</heading>
+						<speech by="" startTime="2012-08-21T10:58:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 062
+(Bogotá, D.C., 21 de agosto de 2012)
+A las diez y cincuenta y ocho minutos de la mañana (10:58 a.m.) el
+Presidente de la Comisión Sexta Constitucional Permanente de la
+Cámara de Representantes, Honorable Representante SILVIO
+VASQUEZ VILLANUEVA, ordena llamar a lista y contestan los
+siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Barrera Gutiérrez Luís Guillermo
+Giraldo Arboleda Atilano Alonso
+Gómez Velásquez Wilson Hernando
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Rodríguez Pinzón Ciro Antonio
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+En el transcurso de la sesión se hicieron presentes los siguientes
+Honorables Representantes:
+Amaya Rodríguez Carlos Andrés
+Arias Castillo Wilson Neber
+Caicedo Sastoque José Edilberto
+Londoño Jaramillo Juana Carolina
+Patiño Amariles Diego
+Pinto Hernández Miguel Angel
+Quintero Trujillo Jairo
+Roldán Avendaño Jhon Jairo
+Tavera Amado Didier Alberto</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T10:58:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum deliberatorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T10:58:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con quórum deliberatorio proceda a leer el orden del día señor
+Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T10:58:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Orden del día.
+RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2012 al 20 de junio de 2013
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2012-08-21T10:58:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día martes 21 de agosto de 2012
+Hora: 10:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Ponencia para Primer Debate del siguiente proyecto de ley:
+ Proyecto de Ley 215 de 2012 Cámara - 74 de 2011 Senado,
+”POR MEDIO DE LA CUAL SE MODIFICA LA LEY 769 Y SE DICTAN
+OTRAS DISPOSICIONES.” (CODIGO NACIONAL DE TRANSITO).
+Autor: H.S. OLGA SUAREZ MIRA
+Ponente: H.R. JOHN JAIRO ROLDAN AVENDAÑO
+Gaceta: P.L. 595-11 - P.P.D. Senado 702-11 - P.S.D. Senado 93-12
+P.P.D. Cámara No. 318-12
+III.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T10:58:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+SILVIO VASQUEZ VILLANUEVA JOHN JAIRO ROLDAN AVENDAÑO
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario
+Cuando haya quórum decisorio le hare saber señor Presidente para la
+aprobación del orden del día.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T10:59:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Wilson Gómez.</p>
+						</speech>
+						<speech by="#hr-wilson-gómez-velásquez" startTime="2012-08-21T10:59:10">
+							<from>H.R. Wilson Gómez Velásquez</from>
+							<p>Muchas gracias Presidente, cordial saludo como usted lo acaba de
+señalar a quienes nos acompañan y a los colombianos, quería
+Presidente aprovechar este momento para anunciarle a los
+colombianos el debate de control político que la Comisión Sexta
+adelantara en ocho días y que tiene que ver con la protección y el
+interés a la inmensa mayoría de la población más pobre de nuestro
+país que se vería afectada con un anuncio de manera irresponsable
+que ha hecho la Presidencia de la Comisión de Regulación de Gas y
+Energía en Colombia, con la que pretende autorizar un cargo básico
+en la energía para todos los estratos socioeconómicos, por supuesto
+que todos sabemos que existen en nuestro país estratos
+socioeconómicos con la capacidad de efectuar dicho pago, pero que
+afectaría significativamente a quienes perteneciendo a los estratos
+uno, dos y tres con dificultad pueden pagar los servicios públicos.
+El Gobierno Nacional a través de esta Comisión pretende o pretendía
+autorizar el cobro de un cargo básico que significaría lo siguiente, es
+decir que los colombianos tendrían la posibilidad, o tendrían la
+obligación mejor de pagar un cargo básico aun cuando los predios
+donde habitan o estén desalojados no se utilice el servicio de
+energías, ellos tendrían que pagar un cargo básico, un mejor ejemplo,
+un colombiano a quien le desocupan una vivienda que tenia arrendada
+y dicha vivienda permanece desocupada dos, tres, cuatro meses, un
+año que se yo, tendrían que durante ese lapso de tiempo pagarle un
+cargo básico de energía a la empresa privada y esto señor Presidente
+en este Congreso tenemos que sentar nuestra voz de protesta e
+impedir que ello suceda, en buena hora he escuchado que el
+Presidente de la República también ha levantado su voz en contra de
+esta posibilidad y no permitiría a ello.
+Sin embargo, creo yo que le corresponde a la Comisión Sexta de la
+Cámara encargada de proteger los intereses de los colombianos en
+materia de servicios públicos impedir el cobro del cargo básico en
+materia de energía, sobre todo para estos estratos, estratos que
+adicional hacen un esfuerzo significativo para no utilizar el servicio de
+energía, son los que viven apagando el bombillo cada vez que
+corresponde, que viven apagando el televisor para que no les genere
+un mayor cobro, pero que por esta vía estaríamos casi que
+castigándole el esfuerzo que están haciendo para ahorrar cobrándoles
+un cargo básico; y por eso desde hoy anuncio señor Presidente que
+en 8 días y con la ayuda de Dios y la compañía de todos los colegas
+adelantaremos el debate de control político correspondiente para
+proteger los intereses de los estratos uno, dos y tres que no tendrán
+como pagar un cargo básico de la energía en nuestro país y a quienes
+nosotros nos debemos por estar sentados en esta curul y vamos por
+esa vía a proteger sus intereses. Muchas gracias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T10:59:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto Honorable Representante Wilson Gómez, este
+debate desde luego que se va hacer dentro de 8 días se ha solicitado
+el servicio de la televisión para ser trasmitido en directo esta sesión y
+esperamos que asista el señor ministro de Minas y Energía, el señor
+director de la GREG y pues los Honorables Representantes Wilson
+Gómez, Didier Tavera y Ciro Antonio Rodríguez son los citantes y la
+proposición está suscrita casi por la totalidad de los Representantes
+de la Comisión.
+Tiene la palabra el doctor Luís Guillermo Barrera.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T10:59:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Señor Presidente la, Secretaria se permite informar que con la
+presencia del Honorable Representante Diego Patiño Amariles,
+tenemos quórum decisorio, podemos poner en consideración el orden
+del día.
+Presidencia:
+Entonces, pongo en consideración de la Comisión el orden del día
+leído, anuncio que va a cerrarse, queda cerrado, lo aprueba la
+Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T10:59:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T10:59:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene el uso de la palabra el doctor Luís Guillermo Barrera Gutiérrez.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2012-08-21T11:00:00">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>No Presidente, es que me iba a referir justamente a la discusión del
+proyecto que está en el orden del día, pero si gusta, Presidente del
+curso al orden del día y en su momento me he de referir al mismo.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:00:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Naranjo.</p>
+						</speech>
+						<speech by="#hr-diego-alberto-naranjo-escobar" startTime="2012-08-21T11:00:20">
+							<from>H.R. Diego Alberto Naranjo Escobar</from>
+							<p>Gracias señor Presidente, no quería acotar con respecto a lo que
+hablaba el doctor Wilson Gómez, que en el periodo pasado del
+Congreso pasado del 2006-2010 hubo una iniciativa de la cual tuve la
+oportunidad de hacer parte como ponente, que buscaba eliminar el
+cargo fijo de las tarifas de acueducto y alcantarillado, a mi me parece
+que ese es un tema que la Comisión Sexta debe liderar,
+lamentablemente ese proyecto se hundió y no tuvo las mayorías en
+ese entonces, porque hay una gran oposición de las empresas
+prestadoras de servicios, pero a mí me parece que hoy en el tema del
+acueducto y en el tema del alcantarillado se hace necesario que
+volvamos a retomar ese tema de la eliminación del cargo fijo.
+Hoy el cargo fijo en una tarifa de acueducto es mucho más costoso
+muchas veces que el mismo consumo, se hablo de la necesidad de
+que las empresas reestructuraran sus estructuras de costos, se
+hablaba de la posibilidad de que adelantaran ese proceso en 5 o 6
+años para que se acomodaran inicialmente y no era inmediatamente
+que se iba a tumbar el cargo fijo.
+Pero me parece que la Comisión tiene que tocar los temas de
+servicios públicos doctor Wilson Gómez, podamos emprender
+nosotros primero la defensa de que no se vuelva a incluir el cargo fijo
+en el tema de energía que ese ya se había desmontado y segundo
+que insistamos nuevamente en ese proyecto, me parece que es un
+proyecto que hoy amerita la comunidad, hoy hay que decir que la
+mayor parte de los ingresos de las familias se van a la destinación de
+pagos de servicios públicos y que me parece que es necesario que
+emprendamos nuevamente esa tarea.
+Entonces, era en ese sentido señor Presidente y ya pronto estaremos
+mirando el tema para que se pueda volver a retomar la iniciativa y la
+podamos discutir aquí en la Comisión y que pueda ser una propuesta
+que la Comisión lidere a ver si es posible que logremos por lo menos
+salir a defender los intereses y los ingresos de las familias menos
+favorecidas en ese sentido. Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:00:30">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto doctor Naranjo, tiene la palabra el doctor Iván Darío
+Agudelo.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2012-08-21T11:00:40">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Muy buenos días a todos los compañeros, a todas las personas que
+se hacen presentes, a todos los colombianos.
+Yo creo que es un tema fundamental el que han planteado todos
+nuestros compañeros y que Colombia sepa muy bien que en esta
+Comisión siempre estaremos vigilantes, si sacamos pecho porque
+Colombia produce energía, tiene grandes cantidades de agua, uno no
+entiende cómo vamos a imponerle más cargos a los colombianos,
+esto es un estado social, el señor Presidente por todas nuestras
+montañas viene planteando que este es un gobierno liberal, es un
+gobierno que piensa en la gente, que acerca el Estado a los
+colombianos y esa no es la manera.
+Por eso este Congreso nunca va a renunciar y particularmente esta
+Comisión Sexta en los temas que nos corresponden, por norma
+constitucional nunca renunciaremos a ese control que tenemos y que
+además nos han entregado nuestros electores, ese tema que usted
+así no consuma tiene que pagar, me parece que es lo más injusto y
+genera inequidad.
+Pero de igual manera nosotros en esta Comisión frente a un
+pronunciamiento del, director general el doctor Juan Ricardo Ortega de
+la Dirección de Impuestos y Aduanas Nacionales, en esta Comisión
+Sexta también aprobamos una citación con un cuestionario de 10
+preguntas que yo me voy a permitir y usted Honorable Presidente
+acepta a que yo lea la respuesta del doctor Juan Ricardo Ortega
+López,, Director General de la DIAN, frente a este cuestionario de la
+citación que se hizo acá y que fue aprobado en esta Comisión. Y dice:
+Doctor
+Fernel Enrique Díaz Quintero
+Secretario de la Comisión Sexta
+Cámara de Representantes
+Respetado doctor Díaz:
+Mediante el oficio de la referencia informo a usted que por instrucción
+de la Mesa Directiva de la Comisión Sexta Constitucional Permanente
+de la Honorable Cámara de Representantes, atendiendo la
+proposición No. 021 presentada y aprobada el día 5 de junio del año
+en curso por los Honorables Representantes que en el escrito
+menciona, he sido citado para el 20 de junio a las 9 a.m. a la sesión de
+control político con la finalidad de que responda el cuestionario para
+que el efecto anexa.
+Miren la respuesta del doctor: “como quieran que todos los
+interrogantes planteados tienen relación con aspectos relativos al
+contenido del proyecto de ley de reforma tributario que el Gobierno
+Nacional someterá a consideración del Honorable Congreso y
+específicamente se concretan al régimen impositivo aplicable a las
+entidades de educación superior sin ánimo de lucro y su incidencia en
+las asociaciones, fundaciones y corporaciones de esa naturaleza.
+Comedidamente me permito poner en su conocimiento y en el de los
+Honorables Representantes que como sucede igualmente con otros
+asuntos a la fecha no existe una propuesta definitiva en torno al tema
+que motiva el cuestionario.
+Lo anterior imposibilita a esta dirección para responder los
+interrogantes planteados por lo tanto amablemente solicito considerar
+la posibilidad de aplazar la citación de control político hasta que se
+tenga la propuesta definitiva de reforma tributaria”.
+A mí me parece supremamente delicado que esta sea la respuesta
+que nos de él señor, director de la DIAN el doctor Juan Ricardo Ortega,
+porque me parece de suma irresponsabilidad que si todavía no hay un
+proyecto para que sea presentado ante el Congreso de la República,
+salgan a los medios de comunicación a decir que le van a imponer
+cargas tributarias a las universidades, a la educación.
+Pero tengo que llamar la atención y reconocer que en su momento la
+ministra de Educación salió a los medios de comunicación a estar de
+acuerdo con lo que se propuso en la Comisión Sexta y en contra del
+director de la DIAN, también el señor, Presidente del Partido Liberal el
+doctor Simón Gaviria inmediatamente salió a rechazar que sea posible
+que en el Congreso de la República aprobemos una carga impositiva a
+las universidades sin ánimo de lucro, fundaciones o corporaciones y
+llamar la atención al doctor Juan Ricardo Ortega que él no puede salir
+a los medios a los cuatro vientos a decir que quiere imponerle como
+quien dice tirémosla a ver qué ocurre, como lo recibe la opinión
+pública, como lo recibe el Congreso y después si tiene buen recibo lo
+presentamos y si no, no.
+Este Congreso de la República, esta Comisión Sexta no va a permitir
+que a las universidades, que bien distante está el Estado de ellas, que
+hemos tenido hartas dificultades, que se ha movilizado la educación
+superior, los jóvenes de este país y aquí hemos estado atentos a
+ayudarle al Gobierno pero no de esa manera, si buscando la calidad.
+Acaba de salir la última selección de cómo están las universidades
+colombianas y estamos lejísimos de poder estar entre las mejores
+universidades del mundo, ni siquiera de Latinoamérica, por eso lo que
+tenemos que buscar es que el Estado se acerque a las universidades,
+pero me preocupa que temas como las tarifas, las cargas impositivas
+al tema de la energía, al tema de la educación superior provengan de
+funcionarios del Estado.
+Yo creo que en buena hora con el tema de la energía el señor
+Presidente se ha pronunciado estando en contra de ello y esperamos
+que también el señor, Presidente de la República se pronuncie en
+contra del doctor Juan Ricardo Ortega frente al tema de la DIAN de
+poder imponer esa carga y que me gustaría que él con esa respuesta
+que da, que él debe venir a esta Comisión Sexta y que usted señor
+Secretario se pronuncie frente a esta respuesta de acuerdo a la Ley
+5ª, si esto es excusa para que el señor, director de la DIAN no venga a
+decirle al país porque salió a los medios de comunicación, que era lo
+que quería cuando decía que quería imponerle carga a las
+universidades sin ánimo de lucro, fundaciones o corporaciones de esa
+naturaleza.
+Entonces por favor Señor Secretario yo le voy a dar traslado a usted y
+su señoría señor Presidente, a la Mesa Directiva para que de acuerdo
+a la Ley 5ª nos digan si realmente esta es una excusa válida para el
+señor, director de la DIAN , Muchas gracias señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:00:50">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho doctor Iván Darío Agudelo tendremos en cuenta su
+exposición y tomaremos las medidas correspondientes y la
+comunicación pertinente.
+Quiero manifestar lo siguiente, mañana 22 de agosto tenemos una
+sesión informal de trabajo en el ministerio de Educación Nacional a las
+7 de la mañana, les pido a todos los Honorables Representantes que
+estemos allí con la señora, Ministra a las 7 de la mañana.
+Dentro de ocho días, o sea el 29 de agosto a las 7 de la mañana
+tenemos una jornada de trabajo con el, director de la Aeronáutica Civil,
+el doctor Santiago Castro, allá en el despacho de él en la Aeronáutica.
+Y tenemos el jueves próximo o sea el 23 de agosto tenemos la
+invitación que vamos a tener del Congreso de Transporte Turístico
+Escolar y Empresarial en el Centro de Convenciones de Compensar,
+avenida 48 con calle 49 aquí en Bogotá, concretamente hay un
+almuerzo de trabajo allí y se empalma con una audiencia pública en la
+cual van a intervenir los Congresistas de la Comisión Sexta tanto de
+Cámara como de Senado, por nuestra Célula van intervenir los
+doctores Luís Guillermo Barrera, Diego Alberto Naranjo y Jairo Ortega
+Samboni en esa Audiencia Pública, si alguien más quiere intervenir es
+bueno que nos lo haga saber para nosotros informarle a los
+organizadores de este importantísimo evento, de manera que les pido
+también que estemos allá acompañando a los doctores Barrera,
+Naranjo y Ortega.
+Para el próximo miércoles 29 tendremos el gran debate de la Comisión
+con el, director de la Comisión de Regulación de Energía y Gas, con el
+señor ministro de Minas y Energía, el Superintendente de Servicios
+Públicos también está citado y el, director de ACIEN.
+El día jueves 30 estamos en la sesión descentralizada en Ocaña-
+Norte de Santander, pero antes estamos en un foro del Transporte en
+la Ciudad de Cúcuta y de ahí salimos para Ocaña trabajando
+arduamente.
+Y la próxima semana la primera de septiembre tenemos el martes 4
+tenemos citación a la señora, ministra de Educación que hace la
+doctora Juana Carolina Londoño y el doctor Jairo Ortega también, la
+primera la de la doctora Juana Carolina Londoño para rendición de
+cuentas de la, ministra de Educación y la segunda del doctor Jairo
+Ortega con la universidad Santiago de Cali.
+El 5,6 y 7 de septiembre esta la Comisión en pleno en la ciudad de
+Cartagena en el Congreso de ANDICON, de manera que esperamos
+allá con el Secretario y Subsecretario.
+El 12 de septiembre está el debate a las concesiones, citado por los
+doctores Luís Guillermo Barrera y Jairo Ortega.
+Tiene la palabra el doctor Luís Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2012-08-21T11:01:00">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Gracias Presidente, es bueno comentarle a los compañeros que ese
+debate es con la, Contralora General de la República y con el señor
+Presidente de la ANI, básicamente el debate está encaminado a que el
+Presidente de la ANI le cuente a los colombianos y la propia
+Contralora cuáles han sido los alcances de esas auditorías que ha
+adelantado el órgano de control, los hallazgos que ha encontrado y en
+estas auditorías a las diferentes concesiones viales del país y de
+hecho la respuesta que nos dé el, Presidente de la ANI a una serie de
+interrogantes que nos asisten producto de esas auditorias.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:01:10">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Así es señor Representante, así se ha hecho, se ha citado a la señora
+Contralora General de la República y también al doctor Luís Fernando
+Andrade, director de la ANI.
+Continué con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T11:01:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Ponencia para primer debate al siguiente proyecto de ley.
+Proyecto de Ley 215 de 2012 Cámara, 74 de 2011 Senado “Por medio
+de la cual se modifica la Ley 769 y se dictan otras disposiciones”.
+Señor Presidente antes de someter a consideración hay dos
+impedimentos del Representante Jairo Ortega Samboni y del doctor
+Didier Alberto Tavera.</p>
+						</speech>
+						<speech by="#hr-jaime-alberto-sepulveda-muñeton" startTime="2012-08-21T11:01:30">
+							<from>H.R. Jaime Alberto Sepulveda Muñeton</from>
+							<p>Bogotá, 13 de junio de 2012
+Honorable Representante
+José Edilberto Caicedo Sastoque
+Asunto: Comunicación de impedimento del proyecto de ley 215 de
+2012 Cámara, 74 de 2011 Senado “Por medio de la cual se modifica la
+Ley 769 y se dictan otras disposiciones” Código Nacional de Tránsito.
+Respetado doctor:
+Acudo a usted de conformidad con el artículo 282 de la Constitución
+Política, los artículos 291, 292 de la Ley 5ª del 92 a fin de solicitar ser
+declarado impedido para participar en el trámite del proyecto de ley
+referido en el asunto por considerar existe un conflicto de interés.
+Agradeciendo la atención prestada.
+Jairo Ortega Samboni
+Representante
+Valle del Cauca
+Bogotá, 21 de agosto de 2012
+Doctor
+Silvio Vásquez Villanueva
+Presidente
+Comisión Sexta
+Cámara de Representantes
+Asunto: Comunicación de impedimento proyecto de Ley 215 de 2012
+Cámara- 74 de 2011 Senado.
+Respetado doctor:
+Acudo a usted de conformidad con el artículo 182 de la Constitución
+Política, los artículos 291, 292 de la Ley 5ª de 92, a fin de solicitar ser
+declarado impedido por la Honorable Corporación para participar en
+trámite del proyecto de ley 215 de 2012 Cámara, por medio de la cual
+se modifica la Ley 769 de 2002 y se dictan otras disposiciones por
+considerara existe un conflicto de interés en razón a que el proyecto a
+debatir en la Comisión establece temas referentes al transporte
+público y actualmente tengo dos tíos en el tercer grado de
+consanguinidad, quienes son socios y dueños de empresas
+transportadoras de pasajeros y de carga.
+Didier Alberto Tavera Amado
+Representante a la Cámara
+Departamento de Santander
+Leídos los dos impedimentos señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:01:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Antes de poner a consideración los dos impedimentos presentados por
+los colegas, tiene la palabra el doctor Miguel Angel Pinto.</p>
+						</speech>
+						<speech by="#hr-miguel-angel-pinto" startTime="2012-08-21T11:01:50">
+							<from>H.R. Miguel Angel Pinto</from>
+							<p>Presidente para adicionar un tercer impedimento el mío, ya lo voy a
+solicitar igualmente por escrito, bajo la misma circunstancias, tengo
+parientes en segundo grado de afinidad que tienen vehículos de
+transporte público y la del proyecto de ley tiene que ver con eso,
+entonces adiciono también para que sean tres impedimentos con el
+mío para que se sometan a consideración.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:02:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Pero les pido el favor al doctor Ortega y al doctor Pinto que por favor
+no se retiren.
+Dr. Yepes en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-jaime-yepes-martinez" startTime="2012-08-21T11:02:10">
+							<from>H.R. Jaime Yepes Martinez</from>
+							<p>No, es que si van a ver tres impedimentos pues prácticamente el
+quórum se disuelve, entonces porque no dejamos mejor para la
+próxima que haya quórum suficiente para seguir trabajando sobre el
+tema y podamos votar los impedimentos.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:02:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Tiene la palabra el doctor Luís Guillermo Barrera.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2012-08-21T11:02:30">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Es que el proyecto de ley que va a ser objeto de discusión es decir el
+proyecto de ley No. 215 de 2012 tiene que ver con una reforma en
+efecto al Código Nacional de Tránsito o específicamente a la Ley 769
+y ese proyecto que consta de tres artículos, básicamente reforma el
+artículo 82 de la Ley 769 de 2002; pero quiero significarles a ustedes
+compañeros que cuando nosotros estudiamos el proyecto de ley 153
+de 2011, es decir el proyecto que ya fue aprobado aquí en Comisión y
+que está listo para rendirle ponencia para segundo debate, en el
+artículo 32 de ese proyecto de ley está prácticamente recogida la
+propuesta de este proyecto de ley que repito tiene que ver con el
+artículo 82, pero más aún el propio ministerio del Transporte, mediante
+resolución 1920 de diciembre 20 del 2002 tiene reglamentado todo el
+uso de instalación del cinturón de seguridad de acuerdo con el propio
+artículo 82 que es el que están proponiendo reformar.
+Luego Presidente, si aún no tenemos claro cuál va a ser el camino
+final de este proyecto de ley 153 yo le solicitaría a usted que
+pudiésemos aplazar la discusión de este proyecto de ley que está hoy
+en el orden del día como quiera que repito está contemplado, recogido
+en el artículo 32 del citado proyecto, que ya fue discutido en esta
+Comisión, para que seamos también coherentes con el trabajo que
+estamos haciendo, no tendría sentido darle curso a este proyecto para
+cuando segundo debate ya hay un artículo que recoge el proyecto.
+Es eso Presidente le solicitaría entonces en consecuencia antes de
+discutir incluso los impedimentos le solicitaría que aplazáramos la
+discusión del proyecto que se encuentra hoy en el orden del día, el
+proyecto de ley No. 215 de 2012, para que una vez tenga clara la
+Comisión la suerte del proyecto de ley No. 153 podamos entonces
+darle curso a esta iniciativa que viene del Senado de la República.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:02:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Coincide con una conversación que tuvo el Vicepresidente, el doctor
+Jhon Jairo Roldán que tuvo dificultades en el despegue en la Ciudad
+de Medellín para asistir a la sesión que es el ponente del proyecto, por
+la presencia acoge la solicitud y le pregunta a la Comisión si está de
+acuerdo en que aplacemos el primer debate del proyecto.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T11:02:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Si quieren el aplazamiento de la discusión del proyecto de ley No. 215
+de 2012 Cámara.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:03:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Continué con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2012-08-21T11:03:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:03:20">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Dr. Iván Darío Agudelo en el uso de la palabra.</p>
+						</speech>
+						<speech by="#hr-iván-darío-agudelo-zapata" startTime="2012-08-21T11:03:30">
+							<from>H.R. Iván Darío Agudelo Zapata</from>
+							<p>Gracias señor Presidente, de acuerdo parcialmente con nuestro amigo
+y coordinador Luís Guillermo Barrera del Código de Tránsito, pero yo
+quiero llamar la atención y que vaya quedando en el ambiente, doctor
+Barrera de pronto si nos va a tocar ir discutiendo artículo por artículo
+separadamente, porque yo también tengo un artículo que lo voy a
+defender y aspiro a que mis compañeros me acompañen frente al
+tema de los patios para aliviar la situación que enfrentan hoy todas las
+Secretarías de Tránsito de los municipios de este País.
+En Medellín tenemos vehículos de más de 20, 25 años en unas
+montañas de vehículos que atentan contra lo más mínimo, pero que
+lastimosamente estoy viendo que hoy no hay ambiente desde el
+Gobierno Nacional para que se pueda discutir el Código de Tránsito y
+que todo lo que hemos hecho, todo lo que hemos avanzado y por
+diferencia en algunos artículos no vemos el apoyo en el Gobierno
+Nacional.
+Por eso doctor Barrera como usted dice, será acatado, pero que tenga
+en cuenta el país que nos va tocar de pronto, no quisiera esto porque
+el artículo que yo propuse doctor Barrera también fue aprobado y hice
+un artículo que le ayuda a todos los municipios, a todas las
+Secretarías de Tránsito, pero que lastimosamente hoy como está la
+situación nos va tocar debatir artículo por artículo separadamente,
+porque vemos que se han generado unos fantasmas, están
+construyendo unas leyendas, unas situaciones negativas que no son
+ciertas, por lo tanto que el país sepa que a lo mejor lo discutiremos
+artículo por artículo doctor Barrera.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:03:40">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Bueno ambas observaciones se tendrán en cuenta, vamos a hablar
+con el doctor Jhon Jairo Roldán para exponerle las razones que
+ustedes han expuesto también y desde luego doctor Barrera en el uso
+de la palabra.</p>
+						</speech>
+						<speech by="#hr-luís-guillermo-barrera-gutiérrez" startTime="2012-08-21T11:03:50">
+							<from>H.R. Luís Guillermo Barrera Gutiérrez</from>
+							<p>Presidente para su conocimiento, es que no hay el mejor ambiente
+entre la subcomisión que su señoría creo y el propio Gobierno
+Nacional para poder estudiar algunos temas álgidos en cuanto
+respecta al proyecto de ley que reforma el Código de Tránsito.
+Yo le he solicitado a usted Presidente que ojala podamos de cara al
+país hacer el debate, que venga el señor Ministro, el Viceministro y
+nos le digan a los colombianos cuáles son los orangutanes, los micos
+del proyecto de ley, pero que vengan y también que el Gobierno nos
+diga que es lo que quiere en el Código de Tránsito que nosotros
+estamos de hecho preparados para el debate, pero no hay ambiente
+repito para esa discusión del Código, de ser así como lo advierte el
+doctor Iván Darío Agudelo pues va a ser necesario Presidente
+entonces que demos curso a unas iniciativas de origen Parlamentario
+que tienen que ver justamente con reforma al Código de Tránsito, son
+reformas parciales de alguno de los artículos, vale la pena destacar
+que de ese Código se habla del orden de 56 artículos en más o menos
+51, 52 artículos estuvimos de acuerdo con el Gobierno en cuatro
+artículos de ellos no hay aún consenso con el Gobierno, uno
+especialmente que tiene que ver con revisión tecno- mecánica y
+justamente creo que hace 15 días salió un fallo que le da la razón a lo
+que expuso esta Comisión en el momento de votar en primer debate
+ese proyecto de ley.
+Muy amable Presidente, yo quedo a la espera de poder entregar un
+informe final de esta subcomisión de la que hace parte el doctor Iván
+Darío Agudelo.</p>
+						</speech>
+						<speech by="#hr-silvio-vasquez-villanueva" startTime="2012-08-21T11:04:00">
+							<from>H.R. Silvio Vasquez Villanueva</from>
+							<p>Con mucho gusto Honorable Representante, agotado el orden del día
+se levanta la sesión siendo las once y treinta de la mañana (11:30
+a.m.) y se cita para el miércoles 29 de agosto a las 10 de la mañana.
+SILVIO VASQUEZ VILLANUEVA      JHON JAIRO ROLDAN AVENDAÑO
+Presidente                    Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO   JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                     Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>

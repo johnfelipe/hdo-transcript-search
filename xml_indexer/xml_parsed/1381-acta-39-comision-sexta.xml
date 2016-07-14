@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jaime-alberto-sepulveda-muñeton" id="hr-jaime-alberto-sepulveda-muñeton" showAs="H.R. Jaime Alberto Sepulveda Muñeton"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/fernel-enrique-diaz-quintero" id="fernel-enrique-diaz-quintero" showAs="Fernel Enrique Diaz Quintero"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-jose-edilberto-caicedo-sastoque" id="hr-jose-edilberto-caicedo-sastoque" showAs="H.R. Jose Edilberto Caicedo Sastoque"/>
+				<TLCPerson href="/ontology/person/comisionsextacamara.felipeurrego.com/hr-diego-alberto-naranjo-escobar" id="hr-diego-alberto-naranjo-escobar" showAs="H.R. Diego Alberto Naranjo Escobar"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>Comisión Sexta Senado</docTitle>
+			<link href="1381-acta-39-comision-sexta"/>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2011</heading>
+				<debateSection>
+					<heading>Noviembre</heading>
+					<debateSection>
+						<heading>ACTA NO. 39 / 2011-11-16</heading>
+						<speech by="" startTime="2011-11-16T08:07:00">
+							<from>OTROS</from>
+							<p>
+REPUBLICA DE COLOMBIA
+CONGRESO DE LA REPUBLICA
+CAMARA DE REPRESENTANTES
+LEGISLATURA 2011 - 2012
+ACTA No 039
+(Bogotá, D.C., 16 de noviembre de 2011)
+A las ocho y siete minutos de la mañana (8:07.am.) el, Presidente de
+la Comisión Sexta Constitucional Permanente de la Cámara de
+Representantes, Honorable Representante JOSE EDILBERTO
+CAICEDO SASTOQUE, ordena llamar a lista y contestan los
+siguientes Honorables Representantes:
+Agudelo Zapata Iván Darío
+Amaya Rodríguez Carlos Andrés
+Barrera Gutiérrez Luís Guillermo
+Bonilla Soto Carlos Julio
+Caicedo Sastoque José Edilberto
+Londoño Jaramillo Juana Carolina
+Naranjo Escobar Diego Alberto
+Ortega Samboni Jairo
+Quintero Trujillo Jairo
+Vásquez Villanueva Silvio
+Yepes Martínez Jaime Armando
+Con excusa se encuentra el Honorable Representante:
+Patiño Amariles Diego</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:07:10">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Tenemos quórum decisorio señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:07:20">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Señor Secretario leer el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:07:30">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>RAMA LEGISLATIVA DEL PODER PÚBLICO
+COMISION SEXTA CONSTITUCIONAL PERMANENTE
+CUATRIENIO CONSTITUCIONAL 2010 - 2014
+Salón: JOSE FERNANDO CASTRO CAYCEDO
+Periodo Legislativo del 20 de julio de 2011 al 20 de junio de 2012
+Artículo 78 Ley 5ª de 1992.
+
+ORDEN DEL DIA</p>
+						</speech>
+						<speech by="" startTime="2011-11-16T08:07:40">
+							<from>OTROS</from>
+							<p>
+Para la Sesión Ordinaria del día miércoles 16 de noviembre de 2011
+Hora: 8:00 a.m.
+I.
+Llamado a lista y verificación del quórum
+II.
+Negocios sustanciados por la Presidencia.
+III.
+</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:07:50">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Lo que propongan
+ los Honorables Representantes
+JOSE EDILBERTO CAICEDO SASTOQUE DIEGO ALBERTO NARANJO ESCOBAR
+Presidente Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario Subsecretario</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:08:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Leído el orden del día señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:08:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>En consideración el orden del día leído, sigue en consideración, aviso
+que se va a cerrar, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:08:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:08:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continuamos con el orden del día.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:08:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Segundo punto, negocios sustanciados por la Presidencia.
+Se permite informar que para el día de hoy estaba citado el señor
+Ministro de Hacienda y Crédito Público con el fin de hacer una claridad
+sobre la discusión del proyecto de Ley No. 112 de 2011 Cámara “Por
+el cual se organiza el sistema de educación superior y se regula la
+prestación del servicio público de educación superior” El envío una
+carta que dice textualmente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:08:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Como sabemos que se excuso procedamos más bien a dar lectura por
+favor al oficio remitido por la, Secretaria General de la Cámara de
+Representantes en relación con el tema de la solicitud del Ministerio
+de Educación para solicitar autorización del retiro del proyecto de ley
+112 del año 2011.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:09:00">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Bogotá D.C. 11 de noviembre del 2011
+Doctor
+FERNEL ENRIQUE DIAZ QUINTERO
+Secretario
+Comisión Sexta Constitucional Permanente
+Edificio Nuevo del Congreso
+Honorable Cámara de Representantes
+Ref: Traslado retiro al proyecto de ley No. 112 del 2011 Cámara.
+Respetado doctor Díaz:
+Por instrucciones del secretario General de la Corporación, doctor
+Jesús Alfonso Rodríguez Camargo para su conocimiento y fines
+pertinentes comedidamente me permito enviarle el retiro suscrito por la
+Ministra de Educación Nacional doctora María Fernanda Campo
+Saavedra referente al proyecto de ley No. 112 del 2011 Cámara “por la
+cual se organiza el sistema de educación superior y se regula la
+prestación del servicio público de la educación superior”.
+Lo anterior debido a que el expediente legislativo en mención se
+encuentra en su despacho.
+Cordial saludo,
+HERMES TAFUR VASQUEZ
+Asesor
+Recibido el 11 de noviembre a las 5 y 25 p.m.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:09:10">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Con este oficio se remite la solicitud del Ministerio de autorizar el retiro
+del proyecto de ley No. 112 de 2011 Cámara, voy a poner en
+consideración de los miembros de la Comisión Sexta la solicitud del
+Gobierno Nacional.
+Se pone en consideración la solicitud de retiro del proyecto de ley No.
+112 de 2011, sigue en consideración, aviso que se va a cerrar, queda
+cerrado, lo aprueba la Comisión.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:09:20">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Aprobado señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:09:30">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Continuamos con el orden del día señor Secretario.</p>
+						</speech>
+						<speech by="#fernel-enrique-diaz-quintero" startTime="2011-11-16T08:09:40">
+							<from>Fernel Enrique Diaz Quintero</from>
+							<p>Agotado el orden del día Señor Presidente.</p>
+						</speech>
+						<speech by="#hr-jose-edilberto-caicedo-sastoque" startTime="2011-11-16T08:09:50">
+							<from>H.R. Jose Edilberto Caicedo Sastoque</from>
+							<p>Agotado el orden del día se levanta la sesión siendo las ocho y diez
+minutos de la mañana (8:10 a.m.) y se cita por secretaria.
+JOSE EDILBERTO CAICEDO SASTOQUE     DIEGO ALBERTO NARANJO ESCOBAR
+Presidente                      Vicepresidente
+FERNEL ENRIQUE DIAZ QUINTERO       JAIME ALBERTO SEPULVEDA MUÑETON
+Secretario                       Subsecretario
+SEVG</p>
+						</speech>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>
