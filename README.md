@@ -15,9 +15,9 @@ This project consists of two parts:
 
 Index XML transcripts (requires a local elasticsearch):
 
-    * Install elasticsearch
-      ..* <https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html>
-      ..* <https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-service.html>
+* Install elasticsearch
+..* <https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html>
+..* <https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-service.html>
     $ cd /xml_indexer
     $ cp -R /path/to/xml_transcripts/* xml/
     $ python convert.py
