@@ -30,4 +30,4 @@ Start the webapp in dev mode:
 * cd webapp
 * npm install
 * npm run dev
-* open your browser at http://localhost:7575/
+* open your browser at <http://localhost:7575>
