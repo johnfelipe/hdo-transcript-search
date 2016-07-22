@@ -72,16 +72,17 @@ def parse_xml(file_name):
             'external_id': speaker_id,
             'name': speaker_name,
             'party': None,
-            #'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
-            'time': mktime(dt.timetuple()),
+            'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
+            #'time': mktime(dt.timetuple()),
             'text': text,
             'title': "Representante"
         }
 
-        file_name_json = 'json/' + os.path.splitext(os.path.basename(file_name))[0] + '-' + str(idx) + '.json'
-        print 'Guardar JSON ' + file_name_json
-        output = open(file_name_json, 'w')
-        output.write(json.dumps(speech))
+        if speaker_name.lower() != 'otros':
+            file_name_json = 'json/' + os.path.splitext(os.path.basename(file_name))[0] + '-' + str(idx) + '.json'
+            print 'Guardar JSON ' + file_name_json
+            output = open(file_name_json, 'w')
+            output.write(json.dumps(speech))
 
     for idx in range(len(questions)):
         question = questions[idx]
