@@ -101,7 +101,7 @@ export default class Speech extends Component {
             return (
                 <div className="context-link">
                     <Link to={`/speeches/${transcript}/${order}`}>
-                        Se innlegget i kontekst
+                        Ver mensaje en contexto
 
                         <span style={{paddingLeft: '.5rem'}}>
                             <i className="fa fa-comments fa-lg" />
