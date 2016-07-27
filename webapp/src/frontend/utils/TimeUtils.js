@@ -1,7 +1,7 @@
 import Intervals from '../constants/Intervals';
 import moment    from 'moment';
 
-moment.locale('es');
+//moment.locale('es');
 
 const DATE_FORMATS = {
     [Intervals.MONTH]: 'MMM YYYY',

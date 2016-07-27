@@ -198,7 +198,7 @@ export default class ResultStats extends Component {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="text-muted text-center pull-right" style={{padding: '1rem 2rem'}}>
-                            <small>* Las personas excluidas con menos de mi discurso {COUNT} mensajes en total.</small>
+                            <small>* Las personas excluidas con menos de mi discurso {MIN_SPEECH_COUNT} mensajes en total.</small>
                         </div>
                     </div>
                 </div>

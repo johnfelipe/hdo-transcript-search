@@ -72,7 +72,7 @@ def parse_xml(file_name):
             'external_id': speaker_id,
             'name': speaker_name,
             'party': None,
-            'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
+            'time': dt.strftime('%Y-%m-%dT%H:%M:%S%z'),
             'text': text,
             'title': "Representante"
         }
@@ -103,7 +103,7 @@ def parse_xml(file_name):
             'external_id': speaker_id,
             'name': speaker_name,
             'party': None,
-            'time': dt.strftime('%Y-%m-%d %H:%M:%S%z'),
+            'time': dt.strftime('%Y-%m-%dT%H:%M:%S%z'),
             'text': text,
             'title': "Representante"
         }
