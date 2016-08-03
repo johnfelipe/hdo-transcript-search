@@ -1,7 +1,7 @@
 import Intervals from '../constants/Intervals';
 import moment    from 'moment';
 
-//moment.locale('es');
+moment.locale('es');
 
 const DATE_FORMATS = {
     [Intervals.MONTH]: 'MMM YYYY',
@@ -12,15 +12,15 @@ const DATE_FORMATS = {
 
 export default class TimeUtils {
     static timestampForHit(hit) {
-        return moment(hit.time).locale('es').format('LL');
+        return moment(hit.time).format('LL');
     }
 
     static formatHitDate(hit) {
-        return moment(hit.time).locale('es').format('LL');
+        return moment(hit.time).format('LL');
     }
 
     static formatHitTime(hit) {
-        let ts = moment(hit.time).locale('es');
+        let ts = moment(hit.time);
         let str = ts.format('HH.mm');
 
         if (hit.name === 'Presidente' && str === '00.00') {
@@ -31,6 +31,6 @@ export default class TimeUtils {
     }
 
     static formatIntervalLabel(str, interval) {
-        return moment(str).locale('es').format(DATE_FORMATS[interval]);
+        return moment(str).format(DATE_FORMATS[interval]);
     }
 }

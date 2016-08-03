@@ -26,6 +26,7 @@ API structure:
 
 Before running, ensure that the following packages are installed (using pip or easy_install):
  - elasticsearch
+ - lxml
 """
 import json
 from lxml import etree
