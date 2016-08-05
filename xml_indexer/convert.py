@@ -34,6 +34,7 @@ from elasticsearch import Elasticsearch
 from datetime import datetime
 from time import mktime
 import os
+import sys
 
 xml_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'xml')
 xml_parsed_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'xml_parsed')
@@ -64,25 +65,13 @@ def parse_xml(file_name):
         time = speech.xpath('//@startTime')[0]
         text = speech.xpath('//p')[0].text
 
-        dt = datetime.strptime(time, '%Y-%m-%dT%H:%M:%S')
-        speech = {
-            'presidents': [],
-            'session': doc_title,
-            'transcript': file_name,
-            'order': idx,
-            'external_id': speaker_id,
-            'name': speaker_name,
-            'party': None,
-            'time': dt.strftime('%Y-%m-%dT%H:%M:%S%z'),
-            'text': text,
-            'title': "Representante"
-        }
-
-        if speaker_name.lower() != 'otros':
-            file_name_json = 'json/' + os.path.splitext(os.path.basename(file_name))[0] + '-' + str(idx) + '.json'
-            print 'Guardar JSON ' + file_name_json
-            output = open(file_name_json, 'w')
-            output.write(json.dumps(speech))
+        save_json(session=doc_title,
+                  transcript=file_name,
+                  order=idx,
+                  speaker_id=speaker_id,
+                  speaker_name=speaker_name,
+                  time=time,
+                  text=text)
 
     for idx in range(len(questions)):
         question = questions[idx]
@@ -95,26 +84,33 @@ def parse_xml(file_name):
         text = '\n'.join(map(lambda n: n.text.strip(), narratives)) + '\n' + \
                '\n'.join(map(lambda q: q.text.strip(), question_list))
 
-        dt = datetime.strptime(time, '%Y-%m-%dT%H:%M:%S')
-        speech = {
-            'presidents': [],
-            'session': doc_title,
-            'transcript': file_name,
-            'order': idx,
-            'external_id': speaker_id,
-            'name': speaker_name,
-            'party': None,
-            'time': dt.strftime('%Y-%m-%dT%H:%M:%S%z'),
-            'text': text,
-            'title': "Representante"
-        }
+        save_json(session=doc_title,
+                  transcript=file_name,
+                  order=idx,
+                  speaker_id=speaker_id,
+                  speaker_name=speaker_name,
+                  time=time,
+                  text=text)
 
-        if speaker_name.lower() != 'otros':
-            file_name_json = 'json/' + os.path.splitext(os.path.basename(file_name))[0] + '-q' + str(idx) + '.json'
-            print 'Guardar JSON ' + file_name_json
-            output = open(file_name_json, 'w')
-            output.write(json.dumps(speech))
+def save_json(session, transcript, order, speaker_id, speaker_name, time, text):
+    speech = {
+        'presidents': [],
+        'session': session,
+        'transcript': os.path.splitext(os.path.basename(transcript))[0],
+        'order': order,
+        'external_id': speaker_id,
+        'name': speaker_name,
+        'party': None,
+        'time': time,
+        'text': text,
+        'title': "Representante"
+    }
 
+    if speaker_name.lower() != 'otros':
+        file_name_json = 'json/' + os.path.splitext(os.path.basename(transcript))[0] + '-q' + str(order) + '.json'
+        print 'Guardar JSON ' + file_name_json
+        output = open(file_name_json, 'w')
+        output.write(json.dumps(speech))
 
 def index_json_on_elasticsearch():
     json_files = os.listdir(json_path)
@@ -136,6 +132,13 @@ def create_all_paths():
 
 
 if __name__ == '__main__':
-    create_all_paths()
-    convert_xml_to_json()
-    index_json_on_elasticsearch()
+
+    DELETE_INDEXES = 'delete_indexes' in sys.argv
+
+    if DELETE_INDEXES:
+        print "Deleting elasticsearch indexes"
+        elastic.indices.delete(index="hdo-transcripts", ignore=[400, 404])
+    else:
+        create_all_paths()
+        convert_xml_to_json()
+        index_json_on_elasticsearch()
