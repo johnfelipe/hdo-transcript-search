@@ -25,7 +25,7 @@ module.exports = {
     },
 
     plugins: [
-        new webpack.ContextReplacementPlugin(/moment[\/\\]locale$/, /nb$/),
+        new webpack.ContextReplacementPlugin(/moment[\/\\]locale$/, /es$/),
         new ExtractTextPlugin('bundle.[hash].css'),
         function() {
             this.plugin('done', function(stats) {
