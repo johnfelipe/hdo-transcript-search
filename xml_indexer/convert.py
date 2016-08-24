@@ -128,7 +128,7 @@ def parse_xml(file_name):
 
         save_json(session=doc_title,
                   transcript=file_name,
-                  order=idx,
+                  order=idx + 1,
                   speaker_id=speaker_id,
                   speaker_name=speaker_name,
                   time=time,
@@ -148,7 +148,7 @@ def parse_xml(file_name):
 
         save_json(session=doc_title,
                   transcript=file_name,
-                  order=idx,
+                  order=idx + 1,
                   speaker_id=speaker_id,
                   speaker_name=speaker_name,
                   time=time,
