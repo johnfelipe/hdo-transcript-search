@@ -24,7 +24,7 @@ app.set('views', path.resolve(__dirname, '../../views'));
 app.set('analytics', app.get('env') === 'production');
 app.set('etag', false);
 
-app.locals.appTitle       = "Dijo en el tribunal";
+app.locals.appTitle       = "Dijo en el concejo";
 app.locals.appDescription = "Una visualización de la lengua en el Parlamento";
 app.locals.facebookAppId  = 504447209668308;
 app.locals.imageUrl       = 'http://files.holderdeord.no/images/tale.png';
