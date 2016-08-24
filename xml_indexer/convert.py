@@ -121,10 +121,10 @@ def parse_xml(file_name):
 
     for idx in range(len(speeches)):
         speech = speeches[idx]
-        speaker_name = speech.xpath('//from')[0].text
-        speaker_id = speech.xpath('//@by')[0]
-        time = speech.xpath('//@startTime')[0]
-        text = speech.xpath('//p')[0].text
+        speaker_name = speech.xpath('.//from')[0].text
+        speaker_id = speech.xpath('.//@by')[0]
+        time = speech.xpath('.//@startTime')[0]
+        text = speech.xpath('.//p')[0].text
 
         save_json(session=doc_title,
                   transcript=file_name,
@@ -132,15 +132,16 @@ def parse_xml(file_name):
                   speaker_id=speaker_id,
                   speaker_name=speaker_name,
                   time=time,
-                  text=text)
+                  text=text,
+                  speech_type='s')
 
     for idx in range(len(questions)):
         question = questions[idx]
-        speaker_name = question.xpath('//from')[0].text
-        speaker_id = question.xpath('//@by')[0]
-        time = question.xpath('//@startTime')[0]
-        narratives = question.xpath('//narrative')
-        question_list = question.xpath('//question')
+        speaker_name = question.xpath('.//from')[0].text
+        speaker_id = question.xpath('.//@by')[0]
+        time = question.xpath('.//@startTime')[0]
+        narratives = question.xpath('.//narrative')
+        question_list = question.xpath('.//question')
 
         text = '\n'.join(map(lambda n: n.text.strip(), narratives)) + '\n' + \
                '\n'.join(map(lambda q: q.text.strip(), question_list))
@@ -151,9 +152,10 @@ def parse_xml(file_name):
                   speaker_id=speaker_id,
                   speaker_name=speaker_name,
                   time=time,
-                  text=text)
+                  text=text,
+                  speech_type='q')
 
-def save_json(session, transcript, order, speaker_id, speaker_name, time, text):
+def save_json(session, transcript, order, speaker_id, speaker_name, time, text, speech_type):
     speech = {
         'presidents': [],
         'session': session,
@@ -168,7 +170,7 @@ def save_json(session, transcript, order, speaker_id, speaker_name, time, text):
     }
 
     if speaker_name.lower() != 'otros':
-        file_name_json = 'json/' + os.path.splitext(os.path.basename(transcript))[0] + '-q' + str(order) + '.json'
+        file_name_json = 'json/' + os.path.splitext(os.path.basename(transcript))[0] + '-' + speech_type + str(order) + '.json'
         print 'Guardar JSON ' + file_name_json
         output = open(file_name_json, 'w')
         output.write(json.dumps(speech))
