@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b14a90fb-9d52-4534-a599-9d519317d1fe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q101.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q102.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q103.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q104.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q105.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q106.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q107.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q108.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q109.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q110.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q111.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q112.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q113.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q114.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q115.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q116.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q117.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q118.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q119.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q120.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q121.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q122.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q123.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q124.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q125.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q126.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q127.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q128.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q129.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q130.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q131.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q132.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q133.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q134.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q135.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q136.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q137.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q138.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q139.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q140.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q141.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q142.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q143.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q144.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q145.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q146.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q147.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q148.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q149.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q151.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q152.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q153.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q154.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q155.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q156.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q157.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q158.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q159.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q160.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q161.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q162.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q163.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q164.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q165.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q166.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q167.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q168.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q169.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q170.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q171.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q172.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q174.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q175.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q176.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q177.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q178.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q179.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q180.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q181.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q182.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q71.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q72.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q73.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q77.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q78.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q81.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q82.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q83.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q85.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q87.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q88.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q89.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q90.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q91.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q92.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q93.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q94.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q95.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q96.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q97.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q98.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10815-acta-024-de-2015-q99.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10816-acta-025-de-2015-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q101.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q102.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q103.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q104.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q105.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q71.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q72.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q73.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q77.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q78.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q81.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q82.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q83.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q85.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q87.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q88.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q89.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q90.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q91.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q92.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q93.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q94.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q95.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q96.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q97.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q98.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/10818-acta-027-de-2015-q99.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q71.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q72.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q73.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q77.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q78.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/1119-acta-17-comision-sexta-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q71.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q72.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q73.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q77.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q78.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q81.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/193-acta-01-comision-sexta-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/196-acta-04-comision-sexta-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q101.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q64.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q66.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q68.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q70.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q71.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q72.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q73.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q77.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q78.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q81.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q82.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q83.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q84.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q85.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q87.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q88.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q89.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q90.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q91.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q92.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q93.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q94.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q95.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q96.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q97.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q98.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/2281-acta-51-comision-sexta-q99.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q51.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q53.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q54.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q56.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q59.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q61.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/json_indexed/9132-acta-016-de-5-de-noviembre-de-2014-q9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10811-acta-023-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10812-acta-020-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10813-acta-021-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10814-acta-022-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10815-acta-024-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10816-acta-025-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10817-acta-026-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/10818-acta-027-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1095-acta-16-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/11020-004-acta-no-004-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/11021-005-acta-no-005-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/11022-003-acta-no-003-de-2015.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1119-acta-17-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1121-acta-18-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1122-acta-19-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1123-acta-20-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1124-acta-21-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1125-acta-22-comision-sexta-.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1131-acta-26-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1132-acta-27-comision-sexta-.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1170-acta-24-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1171-acta-25-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1368-acta-28-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1369-acta-29-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1370-acta-30-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1372-acta-31-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1374-acta-33-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1376-acta-34-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1377-acta-35-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1378-acta-36-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1379-acta-37-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1380-acta-38-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1381-acta-39-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1382-acta-40-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1383-acta-41-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1384-acta-42-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1385-acta-44-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1392-acta-43-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1528-acta-32-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/1698-acta-45-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/193-acta-01-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/194-acta-02-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/195-acta-03-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/196-acta-04-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/199-acta-06-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/200-acta-07-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/203-acta-08-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/204-acta-09-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/205-acta-10-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/206-acta-11-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/207-acta-12-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/208-acta-13-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/209-acta-14-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/213-acta-15-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/2276-acta-47-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/2278-acta-48-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/2279-acta-49-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/2281-acta-51-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/2282-acta-52-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3236-acta-53-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3237-acta-54-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3238-acta-55-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3239-acta-56-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3240-acta-57-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3242-acta-58-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3243-acta-59-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3244-acta-60-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3245-acta-61-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/3246-acta-62-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4136-acta-63-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4137-acta-64-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4138-acta-65-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4139-acta-66-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4140-acta-67-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4141-acta-68-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4142-acta-69-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4143-acta-70-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4144-acta-71-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4613-acta-72-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4614-acta-73-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4615-acta-74-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4616-acta-75-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4617-acta-76-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/4618-acta-77-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5568-acta-78-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5569-acta-79-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5570-acta-80-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5571-acta-81-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5772-acta-82-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/5773-acta-83-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6887-acta-85-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6889-acta-86-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6890-acta-88-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6893-acta-92-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6895-acta-89-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6899-acta-90-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6901-acta-93-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6902-acta-91-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6903-acta-94-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6904-acta-95-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6905-acta-84-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6907-acta-98-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6908-acta-99-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6909-acta-96-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6910-acta-97-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/6911-acta-100-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7146-acta-101-comison-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7149-acta-102-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7150-acta-87-comison-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7277-acta-104-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7278-acta-105-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7279-acta-106-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7280-acta-107-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7281-acta-108-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7282-acta-109-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7549-acta-113-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7550-acta-114-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7853-acta-1-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7855-acta-2-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7873-acta-110-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7874-acta-111-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/7876-acta-115-comision-sexta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8011-acta-3-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8012-acta-4-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8605-acta-5-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8690-acta-6-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8794-acta-7-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8795-acta-8-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/8796-acta-9-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9099-acta-010-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9100-acta-011-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9101-acta-012-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9129-acta-013-de-21-de-octubre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9130-acta-014-de-22-de-octubre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9131-acta-015-de-29-de-octubre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9132-acta-016-de-5-de-noviembre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9133-acta-017-de-11-de-noviembre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9134-acta-018-de-12-de-noviembre-de-2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml_indexer/xml_parsed/9135-acta-019-de-25-de-noviembre-de-2014.xml" afterPath="" />
+    </list>
+    <ignored path="hdo-transcript-search.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hdo-transcript-search" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="convert.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xml_indexer/convert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1890">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1472094821373" expanded="true" signature="6067:6582" ph="..." />
+                <marker date="1472094821373" expanded="true" signature="7371:7402" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xml_indexer/convert.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="24" />
+    <option name="width" value="1311" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdo-transcript-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdo-transcript-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdo-transcript-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdo-transcript-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdo-transcript-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml_indexer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b14a90fb-9d52-4534-a599-9d519317d1fe" name="Default" comment="" />
+      <created>1472094393930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472094393930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="24" width="1311" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xml_indexer/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472094821373" expanded="true" signature="6067:6582" ph="..." />
+            <marker date="1472094821373" expanded="true" signature="7371:7402" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_indexer/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1472094821373" expanded="true" signature="6067:6582" ph="..." />
+            <marker date="1472094821373" expanded="true" signature="7371:7402" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

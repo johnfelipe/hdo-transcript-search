@@ -139,7 +139,7 @@ def parse_xml(file_name):
         question = questions[idx]
         speaker_name = question.xpath('.//from')[0].text
         speaker_id = question.xpath('.//@by')[0]
-        time = question.xpath('.//@startTime')[0]
+        time = question.xpath('//@startTime')[idx]
         narratives = question.xpath('.//narrative')
         question_list = question.xpath('.//question')
 
